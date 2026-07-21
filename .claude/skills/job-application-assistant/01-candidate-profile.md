@@ -22,11 +22,11 @@
 
 ### Co-founder, Marketing Director & AI Automation - Lumin Marketing Group (May 2023 - Present)
 Edmonton, Alberta
-- Own SEO and digital strategy for a portfolio of SMB client accounts: keyword research, competitor analysis, SERP tracking, technical SEO, UX, and lead generation
+- Own SEO and digital strategy for 2 active SMB client accounts: keyword research, competitor analysis, SERP tracking, technical SEO, UX, and lead generation
 - Plan and run Google Ads and Meta campaigns; manage budgets, creative tests, and performance reporting with clear next actions for clients
 - Build and optimize client websites on WordPress, Wix, and Shopify for mobile performance, on-page SEO, and conversions
 - Implement Go High Level / CRM workflows (data organization, email/SMS follow-ups, automations) and document SOPs for repeatable delivery
-- Deliver practical AI integration with Claude and Claude Code: marketing/ops workflows, content and admin automation, and team enablement with human review before publish
+- Deliver practical AI integration with Claude and Claude Code: marketing/ops workflows, content and admin automation that save about 20 hours per week, with human review before publish
 - Lead client planning and performance conversations; translate business goals into channel plans, briefs, and prioritized work
 - Run an AI-focused LinkedIn content practice with post automation (separate profile; career LinkedIn used on applications)
 
@@ -37,8 +37,8 @@ Edmonton, Alberta
 - Built local SEO systems (citations, Google Business Profile) to improve local discoverability
 - Owned social channels with trend-driven content; produced video and photography that strengthened brand identity
 
-### Service Manager - Audi Dealership (2019 - 2020)
-Edmonton area, Alberta
+### Service Manager - Audi Southgate (2019 - 2020)
+Edmonton, Alberta
 - Managed high-volume Fixed Ops customer interactions in a fast-paced dealership environment
 - Built customer trust through clear communication; upsold recommended services to support service revenue
 - Coordinated scheduling, documentation, and workflows across the service team

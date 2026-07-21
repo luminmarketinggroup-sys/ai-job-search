@@ -28,17 +28,17 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Professional Experience
 - **Co-founder, Marketing Director & AI Automation** (May 2023 - Present) - **Lumin Marketing Group** (Edmonton, Alberta)
-  - Lead SEO strategy across multiple client accounts: keyword research, competitor analysis, SERP tracking (SEMrush, Search Atlas), technical SEO, UX, and conversion-focused website optimization
-  - Build and run paid and organic campaigns; manage budgets, reporting, and performance
-  - Implement Go High Level / CRM workflows, client data organization, automation, and SOP documentation
-  - Deliver practical AI integration for clients using Claude (Anthropic): workflow setup, content/admin automation, team enablement, and AI-assisted marketing operations
+  - Own SEO and digital strategy for 2 active SMB client accounts: keyword research, competitor analysis, SERP tracking (SEMrush, Search Atlas), technical SEO, UX, and lead generation
+  - Plan and run Google Ads and Meta campaigns; manage budgets, creative tests, and performance reporting
+  - Implement Go High Level / CRM workflows, client data organization, email/SMS automation, and SOP documentation
+  - Deliver practical AI integration using Claude and Claude Code: marketing/ops workflows that save about 20 hours per week, with human review before publish
   - Maintain an active AI content practice with LinkedIn post automation on a dedicated profile
 - **Manager / Marketing Manager** (2021 - 2023) - **Phantom Avenue Tattoo Shop** (Edmonton, Alberta)
   - Increased organic traffic by 30% through SEO and content optimization
   - Designed company website with attention to mobile performance
   - Built local SEO (citations, Google Business Profile) and managed social platforms with trend-driven content, video, and photography
-- **Service Manager** (2019 - 2020) - **Audi Dealership** (Edmonton area)
-  - Managed high-volume customer interactions; built client relationships through clear communication and problem solving
+- **Service Manager** (2019 - 2020) - **Audi Southgate** (Edmonton, Alberta)
+  - Managed high-volume Fixed Ops customer interactions; built client relationships through clear communication and problem solving
   - Upsold recommended services; coordinated scheduling, documentation, and workflows
 
 ### Technical Skills

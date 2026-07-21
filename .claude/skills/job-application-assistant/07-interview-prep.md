@@ -16,7 +16,7 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **Use for:** "Tell me about a marketing win", "How do you approach SEO?", "Describe a time you owned a channel end-to-end"
 
 ### 2. Multi-account SEO at Lumin (agency SEO / leadership)
-**S:** As Co-founder and Marketing Director at Lumin Marketing Group, multiple client accounts needed rankings, traffic, and lead generation improvements.
+**S:** As Co-founder and Marketing Director at Lumin Marketing Group, 2 active client accounts needed rankings, traffic, and lead generation improvements.
 **T:** Own SEO strategy and delivery across accounts while managing campaigns and budgets.
 **A:** Ran keyword research, competitor analysis, and SERP tracking in SEMrush and Search Atlas; improved technical SEO, UX, and conversions on client sites; monitored performance and reported results.
 **R:** Sustained multi-account SEO ownership with improved rankings, traffic, and lead-gen focus (cite specific client metrics in interview only if you have permission and numbers ready).
@@ -26,11 +26,11 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **S:** Client and internal marketing work included repetitive content, admin, CRM, and reporting tasks that slowed delivery.
 **T:** Introduce practical AI automation using Claude without replacing human judgment on client-facing work.
 **A:** Built Claude-powered workflows for marketing/ops tasks; connected automation to CRM/Go High Level where useful; documented SOPs; trained teams on safe use; used Claude Code for agentic tooling where relevant.
-**R:** Reduced manual grunt work so the team could focus more on selling and client delivery. *Do not invent a specific hours-saved number until you quantify one.*
+**R:** Reduced manual marketing and admin work by about 20 hours per week so the team could focus more on selling and client delivery.
 **Use for:** "How have you used AI at work?", "Tell me about automation you've built", "What's your AI philosophy?"
 
-### 4. High-volume service operations at Audi (pace / customer ownership)
-**S:** Audi dealership service environment with high customer volume and fast turnaround expectations.
+### 4. High-volume service operations at Audi Southgate (pace / customer ownership)
+**S:** Audi Southgate service environment with high customer volume and fast turnaround expectations.
 **T:** As Service Manager, keep customers moving, protect relationships, and grow service revenue.
 **A:** Managed high-volume interactions; communicated clearly; upsold recommended services; coordinated scheduling, documentation, and workflows.
 **R:** Stronger client relationships and contribution to service revenue through structured upselling and ops coordination.
@@ -88,7 +88,7 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 - Ask for clarification if a question is vague
 - It's OK to take 5 seconds to think before answering
 - End with: "Is there anything else you'd like to know about my background?"
-- Quantify AI time savings only when you have a real number
+- Cite the ~20 hours/week Claude workflow savings when discussing AI impact
 
 ## After the Application (Best Practice)
 
