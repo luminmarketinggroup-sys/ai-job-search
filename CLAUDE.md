@@ -1,10 +1,9 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Dylan Michael
 
 <!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Dylan Michael, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +12,71 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Dylan Michael
+- **Location:** Edmonton, Alberta, Canada (open to Edmonton on-site/hybrid and remote roles)
+- **Phone:** 825-967-9337
+- **Email:** dylanschule@live.ca
+- **LinkedIn (for applications):** https://www.linkedin.com/in/dylan-michael-993a78392
+- **LinkedIn (AI content / post automation):** https://www.linkedin.com/in/dylan-michael-ai — do not list on applications unless requested
+- **Languages:** English (native)
+- **Status:** Actively open to opportunities (full-time, contract, or strong remote fits); currently Co-founder & Marketing Director at Lumin Marketing Group
+- **LinkedIn headline:** "Marketing Director | Social Media Manager | Digital Marketing | AI Specialist | SEO Specialist"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **High School Diploma** (2013-2016) - Harry Ainlay High School, Edmonton, Alberta
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Co-founder, Marketing Director & AI Automation** (May 2023 - Present) - **Lumin Marketing Group** (Edmonton, Alberta)
+  - Lead SEO strategy across multiple client accounts: keyword research, competitor analysis, SERP tracking (SEMrush, Search Atlas), technical SEO, UX, and conversion-focused website optimization
+  - Build and run paid and organic campaigns; manage budgets, reporting, and performance
+  - Implement Go High Level / CRM workflows, client data organization, automation, and SOP documentation
+  - Deliver practical AI integration for clients using Claude (Anthropic): workflow setup, content/admin automation, team enablement, and AI-assisted marketing operations
+  - Maintain an active AI content practice with LinkedIn post automation on a dedicated profile
+- **Manager / Marketing Manager** (2021 - 2023) - **Phantom Avenue Tattoo Shop** (Edmonton, Alberta)
+  - Increased organic traffic by 30% through SEO and content optimization
+  - Designed company website with attention to mobile performance
+  - Built local SEO (citations, Google Business Profile) and managed social platforms with trend-driven content, video, and photography
+- **Service Manager** (2019 - 2020) - **Audi Dealership** (Edmonton area)
+  - Managed high-volume customer interactions; built client relationships through clear communication and problem solving
+  - Upsold recommended services; coordinated scheduling, documentation, and workflows
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** SEO & organic growth, digital marketing strategy, paid ads (Google Ads, Meta Ads / PPC), local SEO, website optimization (WordPress, Wix, Shopify), marketing automation / CRM (Go High Level)
+- **Secondary:** Social media management, content creation (video, photography), reporting (GA4, Google Search Console, Google Sheets), SOP development, client-facing leadership
+- **Domain:** SMB / local business marketing (Edmonton and Alberta), agency account management, practical AI integration for marketing and ops workflows
+- **Software:** SEMrush, Search Atlas, GA4, Google Search Console, Yoast, Google Ads, Meta Ads, WordPress, Wix, Shopify, Go High Level, Claude (Anthropic) / Claude Code for AI workflows and agentic tooling
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Google Ads Certified**
+- **Claude Certified**
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None listed
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None listed
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **High drive / pace** - Thrives in fast-paced environments and long hours; comfortable owning outcomes under pressure
+- **Hands-on operator** - Prefers building and shipping (campaigns, sites, automations) over pure strategy theatre
+- **Strengths:** Ownership, client-facing delivery, SEO/growth execution, practical AI automation, stamina for demanding workloads
+- **Growth areas:** Formal academic credentials (high school diploma as highest listed education); deep software-engineering / ML research roles are a stretch unless reframed around applied AI for marketing/ops
+- **Thrives in:** Fast-paced teams, clear ownership, high-output marketing/AI delivery environments
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Practical AI automation that removes grunt work so teams can sell and serve customers
+- SEO, paid growth, and brand systems that make local businesses easier to find and choose
+- Building end-to-end marketing + AI workflows (content, CRM, reporting, follow-ups)
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Digital marketing / SEO / growth (agencies and in-house): Edmonton and remote Canada/US where pay clears CAD $60k
+- AI marketing / AI automation / marketing operations roles using Claude and workflow tools
+- SMB-focused marketing, brand, and performance roles open to non-degree candidates with strong portfolios
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Base compensation under CAD $60,000
+- Roles requiring relocation away from Edmonton without remote/hybrid flexibility (relocation is a hard fail unless user explicitly overrides)
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
