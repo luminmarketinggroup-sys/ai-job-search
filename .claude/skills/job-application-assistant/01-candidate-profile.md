@@ -22,25 +22,26 @@
 
 ### Co-founder, Marketing Director & AI Automation - Lumin Marketing Group (May 2023 - Present)
 Edmonton, Alberta
-- Own SEO strategy for multiple client accounts: keyword research, competitor analysis, SERP tracking (SEMrush, Search Atlas), technical SEO, UX, and conversion optimization
-- Build and optimize client websites; monitor campaigns, budgets, and performance reporting
-- Use Go High Level and CRM systems to organize client data, automate workflows, and document SOPs
-- Deliver practical AI integration using Claude (Anthropic): Claude-powered marketing/ops workflows, content and admin automation, and client enablement; use Claude Code for agentic AI tooling where relevant
+- Own SEO and digital strategy for a portfolio of SMB client accounts: keyword research, competitor analysis, SERP tracking, technical SEO, UX, and lead generation
+- Plan and run Google Ads and Meta campaigns; manage budgets, creative tests, and performance reporting with clear next actions for clients
+- Build and optimize client websites on WordPress, Wix, and Shopify for mobile performance, on-page SEO, and conversions
+- Implement Go High Level / CRM workflows (data organization, email/SMS follow-ups, automations) and document SOPs for repeatable delivery
+- Deliver practical AI integration with Claude and Claude Code: marketing/ops workflows, content and admin automation, and team enablement with human review before publish
+- Lead client planning and performance conversations; translate business goals into channel plans, briefs, and prioritized work
 - Run an AI-focused LinkedIn content practice with post automation (separate profile; career LinkedIn used on applications)
 
 ### Manager / Marketing Manager - Phantom Avenue Tattoo Shop (2021 - 2023)
 Edmonton, Alberta
 - Increased organic traffic by 30% through SEO and content optimization
-- Designed the company website with a focus on mobile performance
-- Built and executed local SEO (citations, Google Business Profile)
-- Managed social platforms with trend-driven content; produced video and photography for brand identity
+- Designed and launched the company website with a focus on mobile performance and conversion-ready structure
+- Built local SEO systems (citations, Google Business Profile) to improve local discoverability
+- Owned social channels with trend-driven content; produced video and photography that strengthened brand identity
 
 ### Service Manager - Audi Dealership (2019 - 2020)
 Edmonton area, Alberta
-- Managed high-volume customer interactions in a fast-paced environment
-- Built client relationships through clear communication and problem solving
-- Upsold recommended services, contributing to service revenue
-- Coordinated scheduling, documentation, and workflows
+- Managed high-volume Fixed Ops customer interactions in a fast-paced dealership environment
+- Built customer trust through clear communication; upsold recommended services to support service revenue
+- Coordinated scheduling, documentation, and workflows across the service team
 
 ## Independent Projects
 - **AI LinkedIn content automation** (`dylan-michael-ai` profile): Ongoing practice publishing AI news/content with post automation — demonstrates applied AI workflow skills; not the LinkedIn URL used on job applications

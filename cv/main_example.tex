@@ -1,36 +1,16 @@
-%% Master CV - Dylan Michael
-%% Comprehensive overview of all competencies, experience, and achievements.
-%% Use as a master reference when tailoring role-specific CVs.
-%%
+%% Master CV - Dylan Michael (optimized 2026-07-21)
+%% Comprehensive source CV for tailoring role-specific applications.
 %% Compile with: lualatex main_example.tex
-%% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
 
 \documentclass[11pt,a4paper,sans]{moderncv}
 \moderncvstyle{banking}
 \moderncvcolor{blue}
 
-% Force both first and last name AND section headings to render in moderncv
-% blue (color1). Default banking on lualatex+MiKTeX leaves these black, which
-% looks inconsistent with the rest of the blue accent scheme.
-\renewcommand*{\firstnamestyle}[1]{{\fontsize{34}{36}\bfseries\upshape\color{color1}#1}}
-\renewcommand*{\lastnamestyle}[1]{{\fontsize{34}{36}\bfseries\upshape\color{color1}#1}}
-\renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
-
 \usepackage[utf8]{inputenc}
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,
-    urlcolor=blue,
-    pdftitle={Dylan Michael - CV},
-    pdfpagemode=FullScreen,
-}
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
 \usepackage{needspace}
 
-% personal data
 \name{Dylan}{Michael}
 \address{Edmonton, Alberta, Canada}{}{}
 \phone[mobile]{825-967-9337}
@@ -38,51 +18,34 @@
 \extrainfo{\href{https://www.linkedin.com/in/dylan-michael-993a78392}{LinkedIn}}
 
 \begin{document}
-
 \makecvtitle
 
-% ============================================================
-%     PROFILE STATEMENT
-% ============================================================
-
 \vspace{6pt}
-\small{Digital Marketing \& SEO Specialist and Marketing Director with 3+ years driving organic growth, paid campaigns, and practical AI automation for Edmonton businesses. Combines multi-account SEO (SEMrush, Search Atlas), Google/Meta Ads, and conversion-focused websites with Claude-powered marketing workflows. Proven 30\% organic traffic lift and hands-on agency leadership at Lumin Marketing Group.}
-
-% ============================================================
-%     CORE COMPETENCIES
-% ============================================================
+\small{Digital Marketing \& SEO Specialist with 3+ years owning organic growth, paid media, websites, and practical AI automation for Edmonton businesses. Combines multi-account SEO (SEMrush, Search Atlas), Google Ads and Meta Ads, and conversion-focused WordPress/Wix/Shopify builds with Claude-powered marketing workflows. Proven 30\% organic traffic lift; Google Ads Certified and Claude Certified.}
 
 \section{Core Competencies}
 \vspace{1pt}
 \begin{itemize}
-
-\item \textbf{SEO \& Analytics}: SEMrush, Search Atlas, GA4, Google Search Console, Yoast, local SEO, technical SEO, SERP tracking
-
-\item \textbf{Paid Media}: Google Ads, Meta Ads, PPC optimization, campaign budgeting and performance monitoring
-
-\item \textbf{Web \& CMS}: WordPress, Wix, Shopify, conversion-focused UX and mobile performance
-
-\item \textbf{AI \& Automation}: Claude (Anthropic) workflows, Claude Code, Go High Level / CRM automation, SOP development, LinkedIn content automation
-
-\item \textbf{Content \& Social}: Instagram, TikTok, Facebook, X, Snapchat; video and photography for brand presence
-
+\item \textbf{SEO \& Local Search}: Keyword research, competitor analysis, technical SEO, on-page optimization, Google Business Profile, citations, SERP tracking (SEMrush, Search Atlas, Yoast)
+\item \textbf{Paid Media \& Growth}: Google Ads, Meta Ads, PPC optimization, budget pacing, creative testing, lead-generation campaigns
+\item \textbf{Web \& Conversion}: WordPress, Wix, Shopify; mobile performance, UX, meta titles/descriptions, landing-page iteration
+\item \textbf{Analytics \& Reporting}: GA4, Google Search Console, Google Sheets dashboards, campaign KPI tracking and stakeholder reporting
+\item \textbf{AI, CRM \& Ops}: Claude (Anthropic), Claude Code, Go High Level / CRM email-SMS automation, SOP development, multi-account client delivery
 \end{itemize}
-
-% ============================================================
-%     PROFESSIONAL EXPERIENCE
-% ============================================================
 
 \section{Professional Experience}
 \vspace{3pt}
 \begin{itemize}
 
 \needspace{5\baselineskip}
-\item{\cventry{2023--Present}{Co-founder, Marketing Director \& AI Automation}{Lumin Marketing Group}{Edmonton, AB}{}{\vspace{1pt}
+\item{\cventry{May 2023--Present}{Co-founder, Marketing Director \& AI Automation}{Lumin Marketing Group}{Edmonton, AB}{}{\vspace{1pt}
 \begin{itemize}
-    \item Lead SEO strategy across multiple client accounts: keyword research, competitor analysis, SERP tracking, technical SEO, UX, and lead generation
-    \item Build and optimize websites; manage paid/organic campaigns, budgets, and performance reporting
-    \item Implement Go High Level / CRM workflows to organize client data, automate processes, and document SOPs
-    \item Deliver practical AI integration with Claude (Anthropic) and Claude Code: marketing/ops workflows, content and admin automation, and team enablement
+    \item Own SEO and digital strategy for a portfolio of SMB client accounts: keyword research, competitor analysis, SERP tracking, technical SEO, UX, and lead generation
+    \item Plan and run Google Ads and Meta campaigns; manage budgets, creative tests, and performance reporting with clear next actions for clients
+    \item Build and optimize client websites on WordPress, Wix, and Shopify for mobile performance, on-page SEO, and conversions
+    \item Implement Go High Level / CRM workflows (data organization, email/SMS follow-ups, automations) and document SOPs for repeatable delivery
+    \item Deliver practical AI integration with Claude and Claude Code: marketing/ops workflows, content and admin automation, and team enablement with human review before publish
+    \item Lead client planning and performance conversations; translate business goals into channel plans, briefs, and prioritized work
 \end{itemize}}}
 
 \vspace{3pt}
@@ -91,8 +54,9 @@
 \item{\cventry{2021--2023}{Manager / Marketing Manager}{Phantom Avenue Tattoo Shop}{Edmonton, AB}{}{\vspace{1pt}
 \begin{itemize}
     \item Increased organic traffic by 30\% through SEO and content optimization
-    \item Designed the company website with a focus on mobile performance; executed local SEO (citations, Google Business Profile)
-    \item Managed social platforms with trend-driven content; produced video and photography for brand identity
+    \item Designed and launched the company website with a focus on mobile performance and conversion-ready structure
+    \item Built local SEO systems (citations, Google Business Profile) to improve local discoverability
+    \item Owned social channels with trend-driven content; produced video and photography that strengthened brand identity
 \end{itemize}}}
 
 \vspace{3pt}
@@ -100,47 +64,38 @@
 \needspace{5\baselineskip}
 \item{\cventry{2019--2020}{Service Manager}{Audi Dealership}{Edmonton area, AB}{}{\vspace{1pt}
 \begin{itemize}
-    \item Managed high-volume customer interactions in a fast-paced environment; built relationships through clear communication
-    \item Upsold recommended services and coordinated scheduling, documentation, and workflows
+    \item Managed high-volume Fixed Ops customer interactions in a fast-paced dealership environment
+    \item Built customer trust through clear communication; upsold recommended services to support service revenue
+    \item Coordinated scheduling, documentation, and workflows across the service team
 \end{itemize}}}
 
 \end{itemize}
 
-% ============================================================
-%     EDUCATION
-% ============================================================
-
-\section{Education}
+\section{Independent Projects}
 \vspace{1pt}
 \begin{itemize}
-
-\item{\cventry{2013--2016}{High School Diploma}{Harry Ainlay High School}{Edmonton, AB}{}{}}
-
+\item \textbf{Lumin Marketing Group (co-founded)}: Edmonton agency delivering SEO content strategy, paid media, cinematic websites, brand presence, and Claude-based AI integration for local SMBs
+\item \textbf{AI content automation}: Built Claude-assisted LinkedIn posting systems for a high-frequency AI content practice (separate from career LinkedIn used on applications)
 \end{itemize}
-
-% ============================================================
-%     CERTIFICATIONS
-% ============================================================
 
 \section{Certifications}
 \vspace{1pt}
 \begin{itemize}
-\item Google Ads Certified; Claude Certified
+\item \textbf{Google Ads Certified}
+\item \textbf{Claude Certified}
 \end{itemize}
 
-% ============================================================
-%     LANGUAGES
-% ============================================================
+\section{Education}
+\vspace{1pt}
+\begin{itemize}
+\item{\cventry{2013--2016}{High School Diploma}{Harry Ainlay High School}{Edmonton, AB}{}{}}
+\end{itemize}
 
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item English (native).
+\item English (native)
 \end{itemize}
-
-% ============================================================
-%     REFERENCES
-% ============================================================
 
 \section{References}
 \vspace{1pt}
