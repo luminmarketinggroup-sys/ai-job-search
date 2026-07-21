@@ -16,3 +16,5 @@ Career LinkedIn to use: https://www.linkedin.com/in/dylan-michael-993a78392
 
 ## After you submit
 Reply with which numbers you submitted (or run `/outcome <company>`) so the tracker can be updated.
+
+| 8 | AutoCanada | Marketing Account Manager | https://autocan.ca/ (Careers → Current Opportunities) also https://ca.linkedin.com/jobs/view/marketing-account-manager-at-autocanada-4432105251 | `cv/main_autocanada.pdf` | `cover_letters/cover_autocanada_marketing_account_manager.pdf` | Edmonton onsite. Strong auto + marketing fit. Submit on autocan.ca/careers. |
