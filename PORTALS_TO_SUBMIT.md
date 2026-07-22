@@ -58,6 +58,23 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L36. Roofmart — Shipper/Receiver (9355 62 Ave) ★ CLOSEST NEW
+     https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers
+     LinkedIn: https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258
+
+L37. Hercules — Shipper/Receiver (5303 75 St, $19–21/hr)
+     https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759
+
+L38. U-Haul — U-Box Warehouse Worker
+     https://jobs.uhaul.com/
+     LinkedIn: https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470
+
+L39. NAPA / UAP — Parts Handler
+     https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601
+
+L40. Federal Signal / JJE — Material Handler Nisku ($23–27/hr)
+     https://ca.linkedin.com/jobs/view/material-handler-at-federal-signal-corporation-4439337153
+
 L32. Go Auto / Go Kia South — Parts Shipper/Receiver (3030 Gateway Blvd)
      https://www.goauto.ca/about/careers/parts
 
@@ -107,6 +124,54 @@ L31. HelloFresh — Production Associate (Nisku, $17/hr)
      https://ca.linkedin.com/jobs/view/4441209997
 
 ============================================================
+C2) LOCAL WAREHOUSE — NEW near 68 Ave (apply these next)
+============================================================
+L36. Roofmart — Shipper/Receiver (9355 62 Ave) ★ CLOSEST
+     https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258
+     Portal: https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers
+
+L37. Hercules — Shipper/Receiver (5303 75 St) $19–21/hr
+     https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759
+     Email attempted: info@herculesslr.com
+
+L38. U-Haul — U-Box Warehouse Worker
+     https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470
+     Portal: https://jobs.uhaul.com/
+
+L39. NAPA / UAP — Parts Handler
+     https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601
+     Twin: https://ca.linkedin.com/jobs/view/parts-handler-at-uap-inc-4441665647
+
+L40. Federal Signal / JJE — Material Handler Nisku $23–27/hr
+     https://ca.linkedin.com/jobs/view/material-handler-at-federal-signal-corporation-4439337153
+
+L41. Brandt — Shipper Receiver Shack (10630 176 St)
+     https://ca.linkedin.com/jobs/view/shipper-receiver-shack-at-brandt-group-of-companies-4438865361
+     Portal: https://www.brandt.ca/Careers/Job-Opportunities
+
+L42. Brandt — Parts Person
+     https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4443719000
+
+L43. Richards Packaging — Shipper & Receiver (11420 163 St)
+     https://ca.linkedin.com/jobs/view/shipper-receiver-at-richards-packaging-inc-4439450717
+
+L44. Johnson Controls Silent-Aire — Shipper/Receiver Nisku (stretch)
+     https://ca.linkedin.com/jobs/view/shipper-receiver-at-johnson-controls-4437637526
+
+L45. Allredi — Shipper/Receiver Leduc
+     https://ca.linkedin.com/jobs/view/shipper-receiver-at-allredi-4443001426
+
+L46. JOEY South Common — Dishwasher (BOH)
+     https://ca.linkedin.com/jobs/view/dishwasher-joey-south-common-at-joey-restaurant-group-4422206612
+
+L47. Aramark — Dishwasher / General Help
+     https://ca.linkedin.com/jobs/view/dishwasher-at-aramark-canada-4443348047
+     Portal: https://www.aramarkcareers.com/
+
+L48. Atria — Kitchen Utility Worker
+     https://ca.linkedin.com/jobs/view/kitchen-utility-worker-at-atria-retirement-canada-4440897460
+
+============================================================
 D) LOCAL WAREHOUSE — Priority B
 ============================================================
 L11. Wolseley — Warehouse Associate day
@@ -147,6 +212,8 @@ L28. Staples — Sorter-Loader
      https://ca.linkedin.com/jobs/view/4434718968
 L29. Chartwell — Dishwasher (kitchen BOH)
      https://ca.linkedin.com/jobs/view/4438520099
+L49. ChamClad / Wausau — Forklift Operator (cert mandatory)
+     https://ca.linkedin.com/jobs/view/forklift-operator-material-handler-chamclad-at-wausau-supply-company-4421897169
 
 ============================================================
 E) OPTIONAL cafe (not Southgate)

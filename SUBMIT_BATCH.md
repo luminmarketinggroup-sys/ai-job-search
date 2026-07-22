@@ -10,17 +10,22 @@
 
 **Rule (2026-07-22):** Skip public-facing Southgate Centre jobs. Focus warehouse / BOH.
 
-**Already emailed:** KFC Southgate (historical), Connected Creative, Guardium, Adster.
+**Already emailed:** KFC Southgate (historical), Connected Creative, Guardium, Adster, MG Precast, **Hercules** (`70460fc1…` → info@herculesslr.com).
 
 ---
 
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
-| AE | **Go Kia South Parts Shipper/Receiver — Gateway/Calgary Trail** | NEW · corridor · Audi-adjacent |
-| AF | **Gentek Branch Warehouseperson — 6635 50 St** | NEW · SE Edmonton warehouse |
-| AG | **Intelcom/Dragonfly Package Handler** | NEW · early AM PT |
-| AH | **Touchette Order Picker Edmonton South** | NEW · ~$21/hr temp |
+| AI | **Roofmart Shipper/Receiver — 9355 62 Ave** | **CLOSEST new** · south industrial |
+| AJ | **Hercules Shipper/Receiver — 5303 75 St · $19–21** | SE corridor · Mon–Fri 8–5 |
+| AK | **U-Haul U-Box Warehouse Worker** | Forklift training provided |
+| AL | **NAPA/UAP Parts Handler** | Audi-adjacent parts experience |
+| AE | Go Kia South Parts Shipper/Receiver — Gateway | Corridor · Audi-adjacent |
+| AF | Gentek Branch Warehouseperson — 6635 50 St | SE warehouse |
+| AG | Intelcom/Dragonfly Package Handler | Early AM PT |
+| AH | Touchette Order Picker Edmonton South | ~$21/hr temp |
+| AO | **Federal Signal / JJE Material Handler — $23–27** | Best Nisku pay · forklift asked |
 | 1 | SPUD Cross Dock — 7039 68 Ave | Closest · days |
 | 2 | UPS Evening Warehouse — 6968 68 Ave | Closest · evenings |
 | 3 | FedEx Package Handler PT — ~$21/hr | Strong pay · early AM |
@@ -30,8 +35,8 @@
 | 7 | 7-Eleven Warehouse Associate II — $20/hr | Pick/pack |
 | 8 | PepsiCo PT Unloader | Physical unloader |
 
-## Priority 2 — more Edmonton warehouse (new scrape)
-Wolseley day shift · EECOL · UAP/TW · UniFirst · Husqvarna · Motion · Stream-Flo · Sobeys selector · Grainger shipper · Walmart unloaders · Staples sorter · Chartwell dishwasher (BOH)
+## Priority 2 — more Edmonton warehouse (near-address + prior)
+Brandt Shipper/Parts · Richards Packaging · JC Silent-Aire Shipper Nisku · Allredi Leduc · JOEY South Common dishwasher · Aramark BOH · Atria kitchen utility · ChamClad forklift (stretch) · Wolseley · EECOL · UAP/TW · UniFirst · Husqvarna · Motion · Stream-Flo · Sobeys · Grainger · Walmart unloaders · Staples · Chartwell · HelloFresh
 
 Blurbs: `APPLICATIONS_LOCAL.md`
 
@@ -41,10 +46,7 @@ Starbucks Calgary Trail / 75&68 / South Park — only if you want cafe work.
 ## Career portals still open
 See `APPLICATION_STATUS.md` / `APPLICATIONS_READY.md`.
 
-**New packs this run:** Goose Digital Account Lead + Demand Generation (mailto Renata; Resend not set)  
-**Prior packs drafted:** Riva · StackAdapt · Pacesetter · Morguard · AMA  
-**Email submitted:** LAG · LawDepot · Durabuilt · CREATIVE · Randstad (+ prior Riva/StackAdapt/Pacesetter/Morguard/Adster/Connected/Guardium + afternoon batch)
-**Still portal:** Keysight · Elevation · AutoCanada · AMA · Adster Jotform · CREATIVE form · warehouse Priority A · Go Auto / Gentek / Intelcom / Touchette
+**Still portal:** Keysight · Elevation · AutoCanada · AMA · Adster Jotform · CREATIVE form · warehouse Priority A (esp. Roofmart, Hercules, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline)
 
 ## Skipped — Southgate public-facing
 Do not apply (mall retail/cafe/food/educator).

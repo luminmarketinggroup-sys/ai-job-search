@@ -11,28 +11,56 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
-### AE. Go Auto / Go Kia South — Parts Shipper/Receiver (3030 Gateway Blvd) ★ NEW
+### AI. Roofmart — Shipper and Receiver (9355 62 Ave NW) ★ NEW · CLOSEST
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258  
+- **Portal:** https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers  
+- **Why:** Edmonton South industrial · ~5–10 min from 68 Ave · load/unload/pick · forklift training can be provided  
+- **Blurb:**
+> I’m applying for the Shipper and Receiver role at Roofmart Edmonton South (9355 62 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with physical warehouse work: loading/unloading, accurate picking/tagging, and keeping a safe, organized yard. Willing to obtain or refresh forklift certification as needed. Reliable, detail-oriented, and ready for full-time hours.
+
+### AJ. Hercules Crane & Lifting — Shipper/Receiver (5303 75 St NW) ★ $19–21/hr (EMAIL SUBMITTED)
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759  
+- **Email:** info@herculesslr.com · **Submitted 2026-07-22** Resend `70460fc1…`  
+- **Shift:** Mon–Fri 8–5 · SE Edmonton near Calgary Trail corridor  
+- **Blurb used:**
+> I’m applying for the full-time Shipper/Receiver role at Hercules Edmonton (5303 75 St NW). I’m based in south Edmonton, available Monday–Friday 8–5, and comfortable coordinating warehouse shipping/receiving, packing outgoing orders, unloading transfers, and keeping inventory organized. Used to fast-paced operations and accurate paperwork from Audi Southgate service management. Ready for background/reference checks as required.
+
+### AK. U-Haul — U-Box Warehouse Worker ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470  
+- **Portal:** https://jobs.uhaul.com/ (search U-Box Warehouse Worker · Edmonton)  
+- **Notes:** Forklift training provided · valid driver’s licence required · load/unload containers  
+- **Blurb:**
+> I’m applying for the U-Box Warehouse Worker role in Edmonton. I have a valid driver’s licence, am comfortable with physical warehouse work (50+ lbs), loading/unloading, documentation, and customer-facing support when needed. Happy to train on forklift equipment. Local to south Edmonton and ready to start quickly.
+
+### AL. NAPA Canada / UAP — Parts Handler ★ NEW · Audi-adjacent
+- **NAPA:** https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601  
+- **UAP twin:** https://ca.linkedin.com/jobs/view/parts-handler-at-uap-inc-4441665647  
+- **Why:** Parts receive/pick/load · dealership Fixed Ops experience transfers well  
+- **Blurb:**
+> I’m applying for the Parts Handler role. I previously worked as Service Manager at Audi Southgate, so I’m used to parts accuracy, order urgency, loading/unloading, and keeping a clean, organized parts environment. Comfortable lifting up to 50 lbs and working at a fast pace. Based in south Edmonton and ready for full-time hours.
+
+### AE. Go Auto / Go Kia South — Parts Shipper/Receiver (3030 Gateway Blvd) ★
 - **Link:** https://www.goauto.ca/about/careers/parts (search Shipper/Receiver · Go Kia South)  
 - **Also listed:** Eluta / talentify Req# 20076  
 - **Why:** Calgary Trail / Gateway corridor · Audi Fixed Ops adjacent experience  
 - **Blurb:**
 > I’m applying for the Parts Shipper/Receiver role at Go Kia South (3030 Gateway Blvd NW). I live nearby at 11110 68 Ave NW and previously worked as Service Manager at Audi Southgate, so I’m used to fast-paced dealership operations, parts handoffs, documentation, and keeping work accurate under time pressure. I’m reliable, detail-oriented, and ready to learn Go Auto shipping/receiving processes quickly.
 
-### AF. Gentek Building Products — Branch Warehouseperson (6635 50 St NW) ★ NEW
+### AF. Gentek Building Products — Branch Warehouseperson (6635 50 St NW) ★
 - **Link:** https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563  
 - **Careers:** https://www.gentek.ca/about-us/careers/  
 - **Pay:** ~$20–$24/hr (LinkedIn range)  
 - **Blurb:**
 > I’m applying for the Branch Warehouseperson role at Gentek’s Edmonton branch. I’m based in south Edmonton, comfortable with picking, staging, loading/unloading, and inventory accuracy in a physical warehouse, and ready to learn Gentek product flow and material-handling equipment. Reliable, coachable, and available for the posted schedule.
 
-### AG. Intelcom | Dragonfly — Package Handler (Edmonton) ★ NEW
+### AG. Intelcom | Dragonfly — Package Handler (Edmonton) ★
 - **Portal:** https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom (search Edmonton Package Handler)  
 - **Info:** https://dragonflyshipping.ca/en/careers/part-time-package-handlers/  
 - **Shift:** PT early AM / overnight (~20 hrs/week); lift 40–50 lbs  
 - **Blurb:**
 > I’m applying for the Package Handler role at Intelcom | Dragonfly in Edmonton. I’m available for early-morning / overnight part-time shifts, comfortable unloading, sorting, scanning, and labeling packages up to 40–50 lbs, and used to paced physical work. Based in south Edmonton and ready to start quickly.
 
-### AH. Groupe Touchette — Order Picker Edmonton South (Temporary) ★ NEW
+### AH. Groupe Touchette — Order Picker Edmonton South (Temporary) ★
 - **Link:** https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005  
 - **Pay:** ~$20.86–$21.38/hr · temporary · forklift asset  
 - **Blurb:**
@@ -170,6 +198,61 @@ Only if you want cafe work outside Southgate:
 
 ---
 
+
+### AM. Brandt — Shipper Receiver – Shack (10630 176 St) ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-receiver-shack-at-brandt-group-of-companies-4438865361  
+- **Portal:** https://www.brandt.ca/Careers/Job-Opportunities  
+- **Also:** Parts Person https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4443719000  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver – Shack role at Brandt Edmonton Construction & Forestry. I’m comfortable loading trucks/containers, inspecting crates, inventory counts, and physical material handling. Willing to train on forklift/heavy equipment as required. Reliable, safety-focused, and based in Edmonton.
+
+### AN. Richards Packaging — Shipper & Receiver (11420 163 St NW) ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-receiver-at-richards-packaging-inc-4439450717  
+- **Careers:** https://richardspackaging.com/pages/careers  
+- **Blurb:**
+> I’m applying for the Shipper & Receiver role at Richards Packaging Edmonton (11420 163 St NW). I’m detail-oriented with receiving accuracy, pick/pack, inventory counts, and keeping a clean organized warehouse. Comfortable with food-safety procedures and paced physical work. Local to Edmonton and ready for full-time hours.
+
+### AO. Federal Signal / Joe Johnson Equipment — Material Handler (Nisku) ★ NEW · $23–27/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/material-handler-at-federal-signal-corporation-4439337153  
+- **Notes:** Mon–Fri · forklift/counterbalance certification asked · strong pay  
+- **Blurb:**
+> I’m applying for the Material Handler role at Joe Johnson Equipment / Federal Signal in Nisku ($23–$27/hr). I’m comfortable receiving, stocking, cycle counts, and delivering materials to production. Willing to obtain or refresh forklift/counterbalance certification as required. Reliable for Monday–Friday shifts and based in south Edmonton.
+
+### AP. Johnson Controls / Silent-Aire — Shipper/Receiver (Nisku) ★ NEW
+- **Day/rotating:** https://ca.linkedin.com/jobs/view/shipper-receiver-at-johnson-controls-4437637526  
+- **Night:** https://ca.linkedin.com/jobs/view/shipper-receiver-night-shit-at-johnson-controls-4426880365  
+- **Notes:** Asks ~2 years shipper/receiver experience + forklift — stretch apply  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Silent-Aire / Johnson Controls in Nisku. I’m reliable for rotating or night shifts, comfortable with physical load/unload work, paperwork accuracy, and learning Sage/carrier systems. Willing to demonstrate or refresh forklift competency. Based in south Edmonton with reliable transportation.
+
+### AQ. Allredi — Shipper/Receiver (Leduc) ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-receiver-at-allredi-4443001426  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Allredi in Leduc. I’m comfortable with shipping/receiving, inventory organization, and physical warehouse work. Reliable for full-time hours and ready to learn site processes quickly.
+
+### AR. JOEY South Common — Dishwasher (kitchen BOH) ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/dishwasher-joey-south-common-at-joey-restaurant-group-4422206612  
+- **Why:** South Common · BOH only (not Southgate mall)  
+- **Blurb:**
+> I’m applying for the Dishwasher role at JOEY South Common. I’m reliable, comfortable with fast-paced kitchen support, sanitation, and keeping the dish pit organized so the team can run smoothly. Local to south Edmonton and available for flexible scheduling.
+
+### AS. Aramark — Dishwasher / General Help (Edmonton BOH) ★ NEW
+- **Dishwasher:** https://ca.linkedin.com/jobs/view/dishwasher-at-aramark-canada-4443348047  
+- **General Help:** https://ca.linkedin.com/jobs/view/general-help-at-aramark-canada-4443926989  
+- **Portal:** https://www.aramarkcareers.com/  
+- **Blurb:**
+> I’m applying for the Dishwasher / General Help role with Aramark in Edmonton. I’m reliable for flexible hours including evenings/weekends, focused on sanitation and teamwork, and ready to support a clean, safe kitchen operation.
+
+### AT. Atria Retirement — Kitchen Utility Worker ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/kitchen-utility-worker-at-atria-retirement-canada-4440897460  
+- **Blurb:**
+> I’m applying for the Kitchen Utility Worker role at Atria. I’m comfortable with dishwashing, kitchen cleanliness, dining-room support, and food-safety habits. Reliable, respectful with residents and teammates, and available for the posted schedule.
+
+### AU. ChamClad / Wausau Supply — Forklift Operator/Material Handler ★ stretch
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/forklift-operator-material-handler-chamclad-at-wausau-supply-company-4421897169  
+- **Notes:** Valid forklift certification mandatory · long material handling  
+- **Blurb:**
+> I’m applying for the Forklift Operator/Material Handler role at ChamClad / Wausau Supply. I’m comfortable with physical warehouse work and shipping/receiving support. If forklift certification is required up front, I’m willing to discuss current credentials or a short path to certify before start.
 
 ### HF. HelloFresh — Production Associate (Nisku) $17/hr
 - **Link:** https://ca.linkedin.com/jobs/view/4441209997  

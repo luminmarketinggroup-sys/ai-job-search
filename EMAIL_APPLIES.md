@@ -47,10 +47,12 @@
 | 32 | Search Engine People (SEP) | HR@searchenginepeople.com | `49b3b344-7a2a-4722-9cc9-3682b626babf` | **submitted** (Sr SEO Strategist twin inbox) |
 | 33 | Goose Digital | renata@goosedigital.com | `9a1c7e56-210c-47ed-89d5-7d65795b37b6` | **submitted** (Account Lead, Digital Solutions) |
 | 34 | Goose Digital | renata@goosedigital.com | `2ccda523-d3de-4ba8-9050-0102b5b3c184` | **submitted** (Demand Generation Specialist) |
+| 35 | Hercules Crane & Lifting | info@herculesslr.com | `70460fc1-cbfb-4626-8d9b-099e4c868e06` | **submitted** (Shipper/Receiver · local · $19–21/hr) |
+| 36 | Dylan (notify) | dylanschule@live.ca | `e9aaac8f-1355-4afe-be4f-60ccf714412a` | Nearby jobs update (Roofmart/Hercules/U-Haul/NAPA+) |
 
 From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
-**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Go Auto Parts Shipper, Gentek, Intelcom, Groupe Touchette added this scrape).
+**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, etc.).
 
 ## Send more later
 

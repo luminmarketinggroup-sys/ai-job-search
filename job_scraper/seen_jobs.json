@@ -764,6 +764,150 @@
       "fit": "low",
       "status": "skipped",
       "tracker_status": "skipped_404"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258": {
+      "title": "Shipper and Receiver",
+      "company": "Roofmart",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759": {
+      "title": "Shipper/Receiver",
+      "company": "Hercules Crane & Lifting",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470": {
+      "title": "U-Box Warehouse Worker",
+      "company": "U-Haul",
+      "url": "https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601": {
+      "title": "Parts Handler",
+      "company": "NAPA Canada",
+      "url": "https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/parts-handler-at-uap-inc-4441665647": {
+      "title": "Parts Handler",
+      "company": "UAP Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/parts-handler-at-uap-inc-4441665647",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-at-federal-signal-corporation-4439337153": {
+      "title": "Material Handler",
+      "company": "Federal Signal / JJE",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-at-federal-signal-corporation-4439337153",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-shack-at-brandt-group-of-companies-4438865361": {
+      "title": "Shipper Receiver - Shack",
+      "company": "Brandt",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-shack-at-brandt-group-of-companies-4438865361",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4443719000": {
+      "title": "Parts Person",
+      "company": "Brandt",
+      "url": "https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4443719000",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-richards-packaging-inc-4439450717": {
+      "title": "Shipper & Receiver",
+      "company": "Richards Packaging",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-richards-packaging-inc-4439450717",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-johnson-controls-4437637526": {
+      "title": "Shipper/Receiver",
+      "company": "Johnson Controls Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-johnson-controls-4437637526",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-allredi-4443001426": {
+      "title": "Shipper/Receiver",
+      "company": "Allredi",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-allredi-4443001426",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-joey-south-common-at-joey-restaurant-group-4422206612": {
+      "title": "Dishwasher South Common",
+      "company": "JOEY",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-joey-south-common-at-joey-restaurant-group-4422206612",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-at-aramark-canada-4443348047": {
+      "title": "Dishwasher",
+      "company": "Aramark",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-at-aramark-canada-4443348047",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/general-help-at-aramark-canada-4443926989": {
+      "title": "General Help",
+      "company": "Aramark",
+      "url": "https://ca.linkedin.com/jobs/view/general-help-at-aramark-canada-4443926989",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/kitchen-utility-worker-at-atria-retirement-canada-4440897460": {
+      "title": "Kitchen Utility Worker",
+      "company": "Atria",
+      "url": "https://ca.linkedin.com/jobs/view/kitchen-utility-worker-at-atria-retirement-canada-4440897460",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/forklift-operator-material-handler-chamclad-at-wausau-supply-company-4421897169": {
+      "title": "Forklift Operator/Material Handler",
+      "company": "ChamClad/Wausau",
+      "url": "https://ca.linkedin.com/jobs/view/forklift-operator-material-handler-chamclad-at-wausau-supply-company-4421897169",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "new",
+      "tracker_status": "ready_to_submit"
     }
   },
   "last_run": "2026-07-22"

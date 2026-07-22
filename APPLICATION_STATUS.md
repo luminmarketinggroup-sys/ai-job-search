@@ -44,6 +44,7 @@ Southgate Centre public-facing roles are skipped (do not apply).
 | 29 | Career | Search Engine People | Sr SEO Strategist | Email Resend → HR@sep.ca + HR@searchenginepeople.com | 2026-07-22 |
 | 30 | Career | Goose Digital | Account Lead, Digital Solutions | Email Resend → renata@goosedigital.com (`9a1c7e56…`) | 2026-07-22 |
 | 31 | Career | Goose Digital | Demand Generation Specialist | Email Resend → renata@goosedigital.com (`2ccda523…`) | 2026-07-22 |
+| 32 | Local | Hercules Crane & Lifting | Shipper/Receiver | Email Resend → info@herculesslr.com (`70460fc1…`) $19–21/hr · 5303 75 St | 2026-07-22 |
 
 \*KFC is historical only. New Southgate public-facing applies are blocked.
 
@@ -56,10 +57,14 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
-| L32 | **Go Auto / Go Kia South** | Parts Shipper/Receiver | **NEW** · 3030 Gateway Blvd · Calgary Trail | https://www.goauto.ca/about/careers/parts |
-| L33 | **Gentek** | Branch Warehouseperson | **NEW** · 6635 50 St · ~$20–24/hr | https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563 |
-| L34 | **Intelcom / Dragonfly** | Package Handler | **NEW** · early AM PT · Workday | https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom |
-| L35 | **Groupe Touchette** | Order Picker Edmonton South | **NEW** · ~$21/hr temp | https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005 |
+| L36 | **Roofmart** | Shipper and Receiver | **NEW** · **9355 62 Ave** · closest new · Workday | https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258 |
+| L37 | Hercules Crane & Lifting | Shipper/Receiver | **Email submitted** · 5303 75 St · $19–21/hr | https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759 |
+| L38 | **U-Haul** | U-Box Warehouse Worker | **NEW** · forklift training provided · driver’s licence | https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470 |
+| L39 | **NAPA / UAP** | Parts Handler | **NEW** · Audi-adjacent parts flow | https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601 |
+| L32 | Go Auto / Go Kia South | Parts Shipper/Receiver | 3030 Gateway Blvd · Calgary Trail | https://www.goauto.ca/about/careers/parts |
+| L33 | Gentek | Branch Warehouseperson | 6635 50 St · ~$20–24/hr | https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563 |
+| L34 | Intelcom / Dragonfly | Package Handler | Early AM PT · Workday | https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom |
+| L35 | Groupe Touchette | Order Picker Edmonton South | ~$21/hr temp | https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005 |
 | L1 | SPUD | Cross Dock Team Member | 7039 68 Ave · ~$17.50/hr · days | https://ca.edajobs.com/job/41460 |
 | L2 | UPS | Evening Warehouse Worker | 6968 68 Ave · evenings | https://swooped.co/job-postings/evening-warehouse-worker-south-edmonton-ca-edmonton-south-centre-abedo-fast-forward-67047 |
 | L3 | FedEx Canada | Package Handler PT | ~$21/hr early AM · also careers.fedex.com P25-93286-2 | https://ca.linkedin.com/jobs/view/4442405050 |
@@ -70,10 +75,20 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 | L8 | Wesco | Warehouse Associate | $20.04–$24.05/hr · entry OK | https://ca.linkedin.com/jobs/view/4442173995 |
 | L9 | 7-Eleven | Warehouse Associate II | $20/hr · pick/pack | https://ca.linkedin.com/jobs/view/4440558005 |
 | L10 | PepsiCo | Part-Time Unloader | Edmonton | https://ca.linkedin.com/jobs/view/part-time-unloader-edmonton-at-pepsico-4428294807 |
+| L40 | **Federal Signal / JJE** | Material Handler | **NEW** · Nisku · **$23–27/hr** · forklift cert asked | https://ca.linkedin.com/jobs/view/material-handler-at-federal-signal-corporation-4439337153 |
 
-### Priority B — solid Edmonton warehouse (new this scrape)
+### Priority B — solid Edmonton warehouse (+ near-address scrape)
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L41 | Brandt | Shipper Receiver – Shack | **NEW** · 10630 176 St · Construction & Forestry | https://ca.linkedin.com/jobs/view/shipper-receiver-shack-at-brandt-group-of-companies-4438865361 |
+| L42 | Brandt | Parts Person | **NEW** · same site · parts + warehouse | https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4443719000 |
+| L43 | Richards Packaging | Shipper & Receiver | **NEW** · 11420 163 St NW | https://ca.linkedin.com/jobs/view/shipper-receiver-at-richards-packaging-inc-4439450717 |
+| L44 | Johnson Controls / Silent-Aire | Shipper/Receiver | **NEW** · Nisku · ~2 yrs exp asked · stretch | https://ca.linkedin.com/jobs/view/shipper-receiver-at-johnson-controls-4437637526 |
+| L45 | Allredi | Shipper/Receiver | **NEW** · Leduc | https://ca.linkedin.com/jobs/view/shipper-receiver-at-allredi-4443001426 |
+| L46 | JOEY South Common | Dishwasher | **NEW** · south BOH (not Southgate) | https://ca.linkedin.com/jobs/view/dishwasher-joey-south-common-at-joey-restaurant-group-4422206612 |
+| L47 | Aramark | Dishwasher / General Help | **NEW** · Edmonton BOH | https://ca.linkedin.com/jobs/view/dishwasher-at-aramark-canada-4443348047 |
+| L48 | Atria Retirement | Kitchen Utility Worker | **NEW** · kitchen BOH | https://ca.linkedin.com/jobs/view/kitchen-utility-worker-at-atria-retirement-canada-4440897460 |
+| L49 | ChamClad / Wausau | Forklift Operator/Material Handler | Stretch · forklift cert mandatory | https://ca.linkedin.com/jobs/view/forklift-operator-material-handler-chamclad-at-wausau-supply-company-4421897169 |
 | L11 | Wolseley Canada | Warehouse Associate (day) | FT days · benefits day 1 | https://ca.linkedin.com/jobs/view/4441623281 |
 | L12 | Wolseley Canada | Warehouse Associate | Twin listing | https://ca.linkedin.com/jobs/view/4441628100 |
 | L13 | EECOL Electric | Warehouse Associate | Mon–Fri · training provided | https://ca.linkedin.com/jobs/view/4440199441 |
@@ -165,6 +180,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Already submitted: **29+ career/local email applies** (+ Webhorse, Headhunters, RP DMM, ATRIUM, MG Precast, SEP)
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
-- New local drafts this run: Go Kia South shipper/receiver, Gentek warehouseperson, Intelcom package handler, Touchette order picker
+- Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- Prior local drafts: Go Kia South, Gentek, Intelcom, Touchette
 
 Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.
