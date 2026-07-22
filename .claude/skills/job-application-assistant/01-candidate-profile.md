@@ -68,6 +68,11 @@ Edmonton, Alberta
 - Practical AI integration for non-technical business teams
 
 ## Certifications
+- **Google AI Professional Certificate** — Google (Coursera) — completed March 28, 2026
+  - 7 courses: AI Fundamentals; AI for Brainstorming and Planning; AI for Research and Insights; AI for Writing and Communicating; AI for Content Creation; AI for Data Analysis; AI for App Building
+  - Focus: prompt effectively, evaluate AI outputs, apply AI to research, writing, content, data analysis, and app building; portfolio of 20+ AI artifacts
+  - Verify: https://www.coursera.org/account/accomplishments/verify/professional-cert/54E1P3RBHVL8
+  - PDF: `documents/diplomas/coursera_google_ai_professional_certificate_54E1P3RBHVL8.pdf`
 - Google Ads Certified
 - Claude Certified
 - **Social Media Management** — Meta (Coursera) — completed January 23, 2026 (~18 hours)

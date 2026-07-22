@@ -48,6 +48,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Software:** SEMrush, Search Atlas, GA4, Google Search Console, Yoast, Google Ads, Meta Ads, WordPress, Wix, Shopify, Go High Level, Claude (Anthropic) / Claude Code for AI workflows and agentic tooling
 
 ### Certifications
+- **Google AI Professional Certificate** (Google / Coursera) — completed March 28, 2026 — 7 courses (AI Fundamentals; AI for Brainstorming and Planning; AI for Research and Insights; AI for Writing and Communicating; AI for Content Creation; AI for Data Analysis; AI for App Building). Earners build a portfolio of 20+ AI artifacts and apply AI across workplace skills. [Verify](https://www.coursera.org/account/accomplishments/verify/professional-cert/54E1P3RBHVL8)
 - **Google Ads Certified**
 - **Claude Certified**
 - **Social Media Management** (Meta, via Coursera) — completed January 23, 2026 (~18h) — [Verify](https://www.coursera.org/account/accomplishments/verify/7NOVGMU2L69G)
