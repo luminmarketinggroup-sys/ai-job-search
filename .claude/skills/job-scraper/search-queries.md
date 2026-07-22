@@ -61,8 +61,19 @@ When evaluating results, verify the job location matches:
 
 ## Compensation Filter
 
-- Skip roles with stated base pay under CAD $60,000
-- If salary unknown, include but flag for later check
+- **Career track:** Skip roles with stated base pay under CAD $60,000; if unknown, include and flag
+- **Survival / local basic track:** Do NOT skip for pay under $60k. Prioritize proximity to 11110 68 Ave NW (Southgate, 68 Ave, Calgary Trail)
+
+## Priority 0: Local survival jobs (near 11110 68 Ave NW)
+
+Run these every scrape while dual-track is active:
+
+```
+warehouse OR barista OR cafe OR cashier OR retail "Southgate" Edmonton
+"68 Avenue" OR "68 Ave" Edmonton warehouse OR labour OR unloader
+Starbucks OR Nespresso OR Chipotle OR "sales associate" Southgate Edmonton
+"Calgary Trail" barista OR retail OR warehouse Edmonton
+```
 
 ## Date Filter
 

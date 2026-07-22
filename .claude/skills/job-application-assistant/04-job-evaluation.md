@@ -51,7 +51,7 @@ Does the role and company culture match the behavioral profile?
 - Remote (Canada or compatible remote): PASS
 - Alberta nearby (St. Albert, Sherwood Park, Leduc, Spruce Grove, etc.): PASS
 - Requires relocation outside Edmonton region without remote option: FAIL (deal-breaker unless user overrides)
-- Compensation under CAD $60,000 base: FAIL (deal-breaker)
+- Compensation under CAD $60,000 base: FAIL for **career track**; PASS for **survival/local basic** roles near 11110 68 Ave NW when user is in dual-track mode (see CLAUDE.md)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
