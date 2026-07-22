@@ -9,11 +9,11 @@ Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
 |---|---------|------|-----|-------|----|-------|---------------|
-| C10 | Riva International | Digital Marketing Manager (13-mo) | High | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 | `cv/main_riva.pdf` | `cover_letters/cover_riva_digital_marketing_manager.pdf` | No degree; SMB agency not regulated B2B SaaS (stated in letter) |
-| C11 | StackAdapt | Marketing Operations Manager | Med-High | https://ca.linkedin.com/jobs/view/4429941362 | `cv/main_stackadapt.pdf` | `cover_letters/cover_stackadapt_marketing_operations_manager.pdf` | GHL not HubSpot/Salesforce (stated); remote Canada |
-| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 | `cv/main_pacesetter.pdf` | `cover_letters/cover_pacesetter_digital_ai_marketing_specialist.pdf` | No diploma; HubSpot ramp (stated) |
-| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | https://ca.linkedin.com/jobs/view/4438527510 | `cv/main_morguard.pdf` | `cover_letters/cover_morguard_regional_marketing_digital_specialist.pdf` | No Rentsync/ILS experience (stated) |
-| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | https://ca.linkedin.com/jobs/view/4443720741 | `cv/main_ama.pdf` | `cover_letters/cover_ama_marketing_specialist_member_rewards.pdf` | No large loyalty-program ownership (stated) |
+| C10 | Riva International | Digital Marketing Manager (13-mo) | High | **EMAIL SUBMITTED** (careers@ + info@) · also https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 | `cv/main_riva.pdf` | `cover_letters/cover_riva_digital_marketing_manager.pdf` | Greenhouse CAPTCHA blocked in cloud |
+| C11 | StackAdapt | Marketing Operations Manager | Med-High | **EMAIL SUBMITTED** careers@stackadapt.com · also https://job-boards.greenhouse.io/stackadapt/jobs/4282643009 | `cv/main_stackadapt.pdf` | `cover_letters/cover_stackadapt_marketing_operations_manager.pdf` | Optional Greenhouse follow-up |
+| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | **EMAIL SUBMITTED** info@yourpacesetter.com | `cv/main_pacesetter.pdf` | `cover_letters/cover_pacesetter_digital_ai_marketing_specialist.pdf` | Optional ADP/Career Centre follow-up |
+| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | **EMAIL SUBMITTED** hrassist@morguard.com · also https://careers.morguard.com/jobs/659530-regional-marketing-and-digital-specialist-multi-residential | `cv/main_morguard.pdf` | `cover_letters/cover_morguard_regional_marketing_digital_specialist.pdf` | Optional Teamtailor follow-up |
+| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | **PORTAL ONLY** https://careers.ama.ab.ca/ · LinkedIn https://ca.linkedin.com/jobs/view/4443720741 | `cv/main_ama.pdf` | `cover_letters/cover_ama_marketing_specialist_member_rewards.pdf` | No public apply email |
 
 ## Previously new (2026-07-22 evening)
 

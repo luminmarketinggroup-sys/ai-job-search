@@ -17,6 +17,10 @@ Southgate Centre public-facing roles are skipped (do not apply).
 | 2 | Career | Connected Creative | Marketing Manager | Email Resend → hannah@connectedcreative.ca | 2026-07-22 |
 | 3 | Career | Guardium Group | Digital Marketing Specialist | Email Resend → info@guardiumgroup.com | 2026-07-22 |
 | 4 | Local* | KFC/Pizza Hut Southgate | Food Counter Attendant | Email Resend (historical; Southgate PF — no more of these) | 2026-07-22 |
+| 5 | Career | StackAdapt | Marketing Operations Manager | Email Resend → careers@stackadapt.com (`96d42b43…`) | 2026-07-22 |
+| 6 | Career | Pacesetter Homes | Digital and AI Marketing Specialist | Email Resend → info@yourpacesetter.com (`003dc722…`) | 2026-07-22 |
+| 7 | Career | Morguard | Regional Marketing & Digital Specialist | Email Resend → hrassist@morguard.com (`7b60362f…`) | 2026-07-22 |
+| 8 | Career | Riva International | Digital Marketing Manager (13-mo) | Email Resend → careers@ + info@ rivaengine.com (Greenhouse CAPTCHA blocked) | 2026-07-22 |
 
 \*KFC is historical only. New Southgate public-facing applies are blocked.
 
@@ -92,14 +96,14 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C8 | AutoCanada | Marketing Account Manager | `main_autocanada` + cover | https://ca.linkedin.com/jobs/view/4432105251 |
 | C9 | Adster | Digital Marketing Strategist | Email done — finish Jotform | https://form.jotform.com/Adster_Creative/adster-careers |
 
-### New this scrape — drafted (portal submit)
-| # | Company | Role | Fit | Materials | Link |
-|---|---------|------|-----|-----------|------|
-| C10 | **Riva International** | Digital Marketing Manager (13-mo) | High | `main_riva` + cover | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 |
-| C11 | **StackAdapt** | Marketing Operations Manager | Med-High | `main_stackadapt` + cover | https://ca.linkedin.com/jobs/view/4429941362 |
-| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | `main_pacesetter` + cover | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 |
-| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | `main_morguard` + cover | https://ca.linkedin.com/jobs/view/4438527510 |
-| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | `main_ama` + cover | https://ca.linkedin.com/jobs/view/4443720741 |
+### New this scrape — status
+| # | Company | Role | Status | Materials | Official portal (optional follow-up) |
+|---|---------|------|--------|-----------|--------------------------------------|
+| C10 | Riva International | Digital Marketing Manager (13-mo) | **Email submitted** | `main_riva` + cover | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 |
+| C11 | StackAdapt | Marketing Operations Manager | **Email submitted** | `main_stackadapt` + cover | https://job-boards.greenhouse.io/stackadapt/jobs/4282643009 |
+| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | **Email submitted** | `main_pacesetter` + cover | Qualico/Pacesetter Career Centre / ADP |
+| C13 | Morguard | Regional Marketing & Digital Specialist | **Email submitted** | `main_morguard` + cover | https://careers.morguard.com/jobs/659530-regional-marketing-and-digital-specialist-multi-residential |
+| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
 
 ### Watch / later (not fully drafted)
 | # | Company | Role | Notes | Link |
