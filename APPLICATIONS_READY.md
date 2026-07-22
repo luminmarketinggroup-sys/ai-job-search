@@ -21,7 +21,7 @@ Skipped this run (fit/gaps): Sparkrock Marketing Manager K-12 (needs deep K-12);
 
 | # | Company | Role | Apply link | CV | Cover letter | Notes before you submit |
 |---|---------|------|------------|----|--------------|-------------------------|
-| 1 | Adster Creative | Digital Marketing Strategist | https://form.jotform.com/Adster_Creative/adster-careers | `cv/main_adster.pdf` | `cover_letters/cover_adster_digital_marketing_strategist.pdf` | Strongest fit. $60–70k, remote Canada. |
+| 1 | Adster Creative | Digital Marketing Strategist | https://form.jotform.com/Adster_Creative/adster-careers | `cv/main_adster.pdf` | `cover_letters/cover_adster_digital_marketing_strategist.pdf` | **Email submitted** to info@adster.ca. Still complete Jotform if you can. |
 | 2 | Keysight Technologies | SEO & GEO Specialist | https://ca.linkedin.com/jobs/view/seo-geo-specialist-at-keysight-technologies-4437698032 | `cv/main_keysight.pdf` | `cover_letters/cover_keysight_seo_geo_specialist.pdf` | SEO + AI search angle. |
 | 3 | LawDepot | Digital Marketing Automation Specialist | https://www.lawdepot.ca/career or LinkedIn job 4439315323 | `cv/main_lawdepot.pdf` | `cover_letters/cover_lawdepot_digital_marketing_automation_specialist.pdf` | Cover letter honestly notes no post-secondary degree. |
 | 4 | CREATIVE Agency | SEO Specialist | https://acreativeagency.ca/current-job-posting-seo-specialist/ | `cv/main_creative.pdf` | `cover_letters/cover_creative_seo_specialist.pdf` | Edmonton onsite. $30–35/hr. Form has role dropdown (pick SEO). |
