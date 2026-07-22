@@ -50,6 +50,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Certifications
 - **Google Ads Certified**
 - **Claude Certified**
+- **Social Media Management** (Meta, via Coursera) — completed January 23, 2026 (~18h) — [Verify](https://www.coursera.org/account/accomplishments/verify/7NOVGMU2L69G)
 
 ### Publications
 - None listed

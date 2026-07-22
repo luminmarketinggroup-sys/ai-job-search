@@ -70,6 +70,9 @@ Edmonton, Alberta
 ## Certifications
 - Google Ads Certified
 - Claude Certified
+- **Social Media Management** — Meta (Coursera) — completed January 23, 2026 (~18 hours)
+  - Skills: social media strategy, Instagram, content calendar, content performance analysis, social media analytics, generative AI agents for social
+  - Verify: https://www.coursera.org/account/accomplishments/verify/7NOVGMU2L69G
 
 ## Publications
 None listed.
