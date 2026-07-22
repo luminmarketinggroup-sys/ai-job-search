@@ -5,6 +5,21 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-07-22 daily scrape) — email when Resend available
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C15 | Goose Digital | Account Lead, Digital Solutions | High (~78) | **mailto:** renata@goosedigital.com · also https://goosedigital.com/job/account-lead-digital-solutions/ · LinkedIn https://ca.linkedin.com/jobs/view/digital-marketing-account-lead-at-goose-digital-4430568937 | `cv/main_goose_digital.pdf` | `cover_letters/cover_goose_digital_account_lead.pdf` | Edmonton hybrid 4–5 days on-site; degree listed as benefit not hard req; Resend not configured this run |
+| C16 | Goose Digital | Demand Generation Specialist | High (~80) | **mailto:** renata@goosedigital.com · also https://goosedigital.com/job/demand-generation-specialist/ | `cv/main_goose_digital.pdf` | `cover_letters/cover_goose_digital_demand_generation.pdf` | Same Edmonton hybrid; Google/Meta paid focus; Resend not configured this run |
+
+**Goose mailto (Account Lead):**  
+`mailto:renata@goosedigital.com?subject=Account%20Lead%20Digital%20Solutions%20-%20Dylan%20Michael%20(Edmonton)&body=Hi%20Renata%2C%0A%0APlease%20find%20attached%20my%20resume%20and%20cover%20letter%20for%20the%20Account%20Lead%2C%20Digital%20Solutions%20role%20(Edmonton).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
+**Goose mailto (Demand Gen):**  
+`mailto:renata@goosedigital.com?subject=Demand%20Generation%20Specialist%20-%20Dylan%20Michael%20(Edmonton)&body=Hi%20Renata%2C%0A%0APlease%20find%20attached%20my%20resume%20and%20cover%20letter%20for%20the%20Demand%20Generation%20Specialist%20role%20(Edmonton).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
+Skipped this run (fit/closed): Apryse Growth Marketing Manager (~52; needs 4+ yrs B2B SaaS HubSpot PLG); AlgaeCal SEO Specialist AI Search (posting removed Feb 2026); Talencore SEO & AI Search (20 hrs/month only); Inspira SEO Content ($55k under floor); City Spring / Schneider / E.B. Horsman LinkedIn 404s.
+
 ## Email submitted this round (2026-07-22 afternoon) — direct apply
 
 | # | Company | Role | Apply | Notes |

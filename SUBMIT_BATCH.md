@@ -15,6 +15,10 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| AE | **Go Kia South Parts Shipper/Receiver — Gateway/Calgary Trail** | NEW · corridor · Audi-adjacent |
+| AF | **Gentek Branch Warehouseperson — 6635 50 St** | NEW · SE Edmonton warehouse |
+| AG | **Intelcom/Dragonfly Package Handler** | NEW · early AM PT |
+| AH | **Touchette Order Picker Edmonton South** | NEW · ~$21/hr temp |
 | 1 | SPUD Cross Dock — 7039 68 Ave | Closest · days |
 | 2 | UPS Evening Warehouse — 6968 68 Ave | Closest · evenings |
 | 3 | FedEx Package Handler PT — ~$21/hr | Strong pay · early AM |
@@ -35,9 +39,10 @@ Starbucks Calgary Trail / 75&68 / South Park — only if you want cafe work.
 ## Career portals still open
 See `APPLICATION_STATUS.md` / `APPLICATIONS_READY.md`.
 
-**New packs drafted:** Riva · StackAdapt · Pacesetter · Morguard · AMA  
-**Email submitted:** LAG · LawDepot · Durabuilt · CREATIVE · Randstad (+ prior Riva/StackAdapt/Pacesetter/Morguard/Adster/Connected/Guardium)
-**Still portal:** Keysight · Elevation · AutoCanada · AMA · Adster Jotform · CREATIVE form · warehouse Priority A
+**New packs this run:** Goose Digital Account Lead + Demand Generation (mailto Renata; Resend not set)  
+**Prior packs drafted:** Riva · StackAdapt · Pacesetter · Morguard · AMA  
+**Email submitted:** LAG · LawDepot · Durabuilt · CREATIVE · Randstad (+ prior Riva/StackAdapt/Pacesetter/Morguard/Adster/Connected/Guardium + afternoon batch)
+**Still portal:** Keysight · Elevation · AutoCanada · AMA · Adster Jotform · CREATIVE form · warehouse Priority A · Go Auto / Gentek / Intelcom / Touchette
 
 ## Skipped — Southgate public-facing
 Do not apply (mall retail/cafe/food/educator).

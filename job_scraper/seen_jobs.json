@@ -1,0 +1,770 @@
+{
+  "seen": {
+    "https://www.adster.ca/careers/career-opportunity-digital-marketing-strategist-open-call": {
+      "title": "Digital Marketing Strategist",
+      "company": "Adster Creative",
+      "url": "https://www.adster.ca/careers/career-opportunity-digital-marketing-strategist-open-call",
+      "first_seen": "2026-07-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-geo-specialist-at-keysight-technologies-4437698032": {
+      "title": "SEO & GEO Specialist",
+      "company": "Keysight Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/seo-geo-specialist-at-keysight-technologies-4437698032",
+      "first_seen": "2026-07-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-automation-specialist-at-lawdepot-4439315323": {
+      "title": "Digital Marketing Automation Specialist",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-automation-specialist-at-lawdepot-4439315323",
+      "first_seen": "2026-07-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://acreativeagency.ca/current-job-posting-seo-specialist/": {
+      "title": "SEO Specialist",
+      "company": "CREATIVE Agency",
+      "url": "https://acreativeagency.ca/current-job-posting-seo-specialist/",
+      "first_seen": "2026-07-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://www.randstad.ca/jobs/digital-marketing-manager_edmonton_47036423/": {
+      "title": "Digital Marketing Manager",
+      "company": "Randstad Canada (client)",
+      "url": "https://www.randstad.ca/jobs/digital-marketing-manager_edmonton_47036423/",
+      "first_seen": "2026-07-21",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-manager-at-durabuilt-windows-doors-4209334487": {
+      "title": "Digital Marketing Manager",
+      "company": "Durabuilt Windows & Doors",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-manager-at-durabuilt-windows-doors-4209334487",
+      "first_seen": "2026-07-21",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/applied-ai-marketing-engineer-at-elevation-capital-4440462335": {
+      "title": "Applied AI Marketing Engineer",
+      "company": "Elevation Capital",
+      "url": "https://ca.linkedin.com/jobs/view/applied-ai-marketing-engineer-at-elevation-capital-4440462335",
+      "first_seen": "2026-07-21",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-account-manager-at-autocanada-4432105251": {
+      "title": "Marketing Account Manager",
+      "company": "AutoCanada",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-account-manager-at-autocanada-4432105251",
+      "first_seen": "2026-07-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.edajobs.com/job/41460": {
+      "title": "Cross Dock Team Member",
+      "company": "SPUD",
+      "url": "https://ca.edajobs.com/job/41460",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://swooped.co/job-postings/evening-warehouse-worker-south-edmonton-ca-edmonton-south-centre-abedo-fast-forward-67047": {
+      "title": "Evening Warehouse Worker",
+      "company": "UPS",
+      "url": "https://swooped.co/job-postings/evening-warehouse-worker-south-edmonton-ca-edmonton-south-centre-abedo-fast-forward-67047",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.indeed.com/q-Coffee-Specialist-Southgate-l-Edmonton": {
+      "title": "Coffee Specialist",
+      "company": "Nespresso",
+      "url": "https://ca.indeed.com/q-Coffee-Specialist-Southgate-l-Edmonton",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://nativejobs.ca/job/562653/food-counter-attendant/": {
+      "title": "Food Counter Attendant",
+      "company": "KFC Pizza Hut Southgate",
+      "url": "https://nativejobs.ca/job/562653/food-counter-attendant/",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/sales-associate-southgate-part-time-%2417-per-hour-at-michael-hill-4439901624": {
+      "title": "Sales Associate",
+      "company": "Michael Hill",
+      "url": "https://ca.linkedin.com/jobs/view/sales-associate-southgate-part-time-%2417-per-hour-at-michael-hill-4439901624",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/vans-seasonal-sales-associate-southgate-centre-at-vans-4411178285": {
+      "title": "Seasonal Sales Associate",
+      "company": "Vans",
+      "url": "https://ca.linkedin.com/jobs/view/vans-seasonal-sales-associate-southgate-centre-at-vans-4411178285",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-15557-southgate-mall-fc-at-starbucks-4440609913": {
+      "title": "Shift Supervisor",
+      "company": "Starbucks Southgate",
+      "url": "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-15557-southgate-mall-fc-at-starbucks-4440609913",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4440268814": {
+      "title": "Shift Supervisor",
+      "company": "Starbucks South Park",
+      "url": "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4440268814",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/%E2%80%9Cretail-store-team-leader-part-time-southgate-centre-edmonton-alberta-at-the-lego-group-4433751791": {
+      "title": "Retail Store Team Leader PT",
+      "company": "LEGO",
+      "url": "https://ca.linkedin.com/jobs/view/%E2%80%9Cretail-store-team-leader-part-time-southgate-centre-edmonton-alberta-at-the-lego-group-4433751791",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/assistant-store-leader-southgate-at-hillberg-berk-4438822202": {
+      "title": "Assistant Store Leader",
+      "company": "Hillberg & Berk",
+      "url": "https://ca.linkedin.com/jobs/view/assistant-store-leader-southgate-at-hillberg-berk-4438822202",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/part-time-unloader-edmonton-at-pepsico-4428294807": {
+      "title": "Part-Time Unloader",
+      "company": "PepsiCo",
+      "url": "https://ca.linkedin.com/jobs/view/part-time-unloader-edmonton-at-pepsico-4428294807",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-pt-afternoon-at-walmart-canada-4419657731": {
+      "title": "Stock Unloader Associate PT",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-pt-afternoon-at-walmart-canada-4419657731",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/sorter-loader-sp-at-staples-canada-4434718968": {
+      "title": "Sorter-Loader",
+      "company": "Staples Canada",
+      "url": "https://ca.linkedin.com/jobs/view/sorter-loader-sp-at-staples-canada-4434718968",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4433042007": {
+      "title": "Crew Member",
+      "company": "Chipotle",
+      "url": "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4433042007",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-at-chartwell-retirement-residences-4438520099": {
+      "title": "Dishwasher",
+      "company": "Chartwell",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-at-chartwell-retirement-residences-4438520099",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440606993": {
+      "title": "Barista",
+      "company": "Starbucks 75 St & 68 Ave",
+      "url": "https://ca.linkedin.com/jobs/view/4440606993",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4434860714": {
+      "title": "Educator",
+      "company": "lululemon",
+      "url": "https://ca.linkedin.com/jobs/view/4434860714",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://careers.brownsshoes.com/jobs/6168553-part-time-cashier-browns-southgate-centre": {
+      "title": "Part-Time Cashier",
+      "company": "Browns Shoes",
+      "url": "https://careers.brownsshoes.com/jobs/6168553-part-time-cashier-browns-southgate-centre",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://can251.dayforcehcm.com/CandidatePortal/en-US/jdsf/Site/JD/Posting/View/17374": {
+      "title": "Sales Associate",
+      "company": "JD Sports",
+      "url": "https://can251.dayforcehcm.com/CandidatePortal/en-US/jdsf/Site/JD/Posting/View/17374",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://careers.bathandbodyworks.com/en/job-search-results/": {
+      "title": "Retail Sales Associate",
+      "company": "Bath & Body Works",
+      "url": "https://careers.bathandbodyworks.com/en/job-search-results/",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://careers.garageclothing.com/garage/jobs": {
+      "title": "Seasonal Sales Associate",
+      "company": "Garage / Dynamite",
+      "url": "https://careers.garageclothing.com/garage/jobs",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/4441391538": {
+      "title": "Barista",
+      "company": "Starbucks Gateway",
+      "url": "https://ca.linkedin.com/jobs/view/4441391538",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.fashionjobs.com/job/alo-yoga/Sales-associate-southgate-centre": {
+      "title": "Sales Associate",
+      "company": "Alo Yoga",
+      "url": "https://ca.fashionjobs.com/job/alo-yoga/Sales-associate-southgate-centre",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/4438330440": {
+      "title": "Marketing Manager",
+      "company": "LAG Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4438330440",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4439891045": {
+      "title": "Digital Marketing Specialist",
+      "company": "Guardium Group",
+      "url": "https://ca.linkedin.com/jobs/view/4439891045",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4440275436": {
+      "title": "Barista",
+      "company": "Starbucks Calgary Trail S",
+      "url": "https://ca.linkedin.com/jobs/view/4440275436",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440620559": {
+      "title": "Shift Supervisor",
+      "company": "Starbucks South Edmonton Common",
+      "url": "https://ca.linkedin.com/jobs/view/4440620559",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://www.saje.ca/pages/careers": {
+      "title": "Team Member",
+      "company": "Saje Natural Wellness",
+      "url": "https://www.saje.ca/pages/careers",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/4441627914": {
+      "title": "Marketing Manager",
+      "company": "Connected Creative",
+      "url": "https://ca.linkedin.com/jobs/view/4441627914",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4442405050": {
+      "title": "Package Handler PT",
+      "company": "FedEx Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4442405050",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4411162688": {
+      "title": "Seasonal Sales Associate",
+      "company": "Vans South Edmonton Common",
+      "url": "https://ca.linkedin.com/jobs/view/4411162688",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/4438341494": {
+      "title": "Retail Associate",
+      "company": "Aritzia",
+      "url": "https://ca.linkedin.com/jobs/view/4438341494",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_southgate_pf"
+    },
+    "https://ca.linkedin.com/jobs/view/4443397965": {
+      "title": "Warehouse Person Fri/Sun",
+      "company": "McKesson",
+      "url": "https://ca.linkedin.com/jobs/view/4443397965",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4413364609": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart 98 Ave",
+      "url": "https://ca.linkedin.com/jobs/view/4413364609",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4443510654": {
+      "title": "Warehouse Worker Evening",
+      "company": "McKesson",
+      "url": "https://ca.linkedin.com/jobs/view/4443510654",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440735686": {
+      "title": "Warehouse Associate Days St Albert",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4440735686",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440730783": {
+      "title": "Warehouse Associate Days Spruce Grove",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4440730783",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4442173995": {
+      "title": "Warehouse Associate",
+      "company": "Wesco",
+      "url": "https://ca.linkedin.com/jobs/view/4442173995",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440558005": {
+      "title": "Warehouse Associate II",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/4440558005",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4441623281": {
+      "title": "Warehouse Associate Permanent Day",
+      "company": "Wolseley Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4441623281",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440199441": {
+      "title": "Warehouse Associate",
+      "company": "EECOL Electric",
+      "url": "https://ca.linkedin.com/jobs/view/4440199441",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4443570449": {
+      "title": "Warehouse Worker",
+      "company": "UAP Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4443570449",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4442956717": {
+      "title": "Warehouse Worker",
+      "company": "TW Centre de distribution",
+      "url": "https://ca.linkedin.com/jobs/view/4442956717",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4434071392": {
+      "title": "Warehouse Worker Edmonton",
+      "company": "UniFirst Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4434071392",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4431526346": {
+      "title": "Warehouse Associate II",
+      "company": "Husqvarna Group",
+      "url": "https://ca.linkedin.com/jobs/view/4431526346",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4438540104": {
+      "title": "Material Handler I",
+      "company": "Motion",
+      "url": "https://ca.linkedin.com/jobs/view/4438540104",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4438659900": {
+      "title": "Warehouse Material Handler",
+      "company": "Stream-Flo Industries",
+      "url": "https://ca.linkedin.com/jobs/view/4438659900",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4436625686": {
+      "title": "Warehouse Order Selector Day",
+      "company": "Sobeys",
+      "url": "https://ca.linkedin.com/jobs/view/4436625686",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4430488895": {
+      "title": "Shipper Afternoon Shift",
+      "company": "Grainger Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4430488895",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009": {
+      "title": "Digital Marketing Manager 13-mo",
+      "company": "Riva International",
+      "url": "https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4429941362": {
+      "title": "Marketing Operations Manager",
+      "company": "StackAdapt",
+      "url": "https://ca.linkedin.com/jobs/view/4429941362",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616": {
+      "title": "Digital and AI Marketing Specialist",
+      "company": "Pacesetter Homes",
+      "url": "https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4438527510": {
+      "title": "Regional Marketing and Digital Specialist",
+      "company": "Morguard",
+      "url": "https://ca.linkedin.com/jobs/view/4438527510",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4443720741": {
+      "title": "Marketing Specialist Member Rewards 12-mo",
+      "company": "AMA",
+      "url": "https://ca.linkedin.com/jobs/view/4443720741",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4439451164": {
+      "title": "Marketing Generalist",
+      "company": "Executrade",
+      "url": "https://ca.linkedin.com/jobs/view/4439451164",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ayr.agency/careers/seo-specialist/": {
+      "title": "SEO Specialist Contract",
+      "company": "Ayr Digital",
+      "url": "https://ayr.agency/careers/seo-specialist/",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ayr.agency/careers/marketing-manager/": {
+      "title": "Digital Marketing Manager Contract",
+      "company": "Ayr Digital",
+      "url": "https://ayr.agency/careers/marketing-manager/",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ayr.agency/careers/paid-media-specialist/": {
+      "title": "Paid Media Specialist Contract",
+      "company": "Ayr Digital",
+      "url": "https://ayr.agency/careers/paid-media-specialist/",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://www.searchlightmarketing.ca/careers": {
+      "title": "SEO and Google Ads Specialist",
+      "company": "Searchlight Digital",
+      "url": "https://www.searchlightmarketing.ca/careers",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.trabajo.org/job-2813-d9f95a36efd1010c32f4db66e66181d7": {
+      "title": "SEO GEO Specialist",
+      "company": "Dentist Finder",
+      "url": "https://ca.trabajo.org/job-2813-d9f95a36efd1010c32f4db66e66181d7",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://careers.hireology.com/homepainterstoronto/2501432/description": {
+      "title": "Digital Marketing Specialist",
+      "company": "Home Painters Toronto",
+      "url": "https://careers.hireology.com/homepainterstoronto/2501432/description",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://trainanddevelop.ca/careers/": {
+      "title": "Marketing Manager Digital Strategy",
+      "company": "BIS Safety Software",
+      "url": "https://trainanddevelop.ca/careers/",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4438839747": {
+      "title": "Marketing Manager Client",
+      "company": "Recruitment Partners",
+      "url": "https://ca.linkedin.com/jobs/view/4438839747",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4431113020": {
+      "title": "Growth Marketing Manager Integrated Campaigns",
+      "company": "StackAdapt",
+      "url": "https://ca.linkedin.com/jobs/view/4431113020",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4441209997": {
+      "title": "Production Associate Nisku",
+      "company": "HelloFresh",
+      "url": "https://ca.linkedin.com/jobs/view/4441209997",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://www.goauto.ca/about/careers/parts": {
+      "title": "Parts Shipper/Receiver",
+      "company": "Go Auto (Go Kia South)",
+      "url": "https://www.goauto.ca/about/careers/parts",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563": {
+      "title": "Branch Warehouseperson",
+      "company": "Gentek Building Products",
+      "url": "https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom": {
+      "title": "Package Handler Edmonton",
+      "company": "Intelcom Dragonfly",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005": {
+      "title": "Order Picker Edmonton South Temporary",
+      "company": "Groupe Touchette",
+      "url": "https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://goosedigital.com/job/account-lead-digital-solutions/": {
+      "title": "Account Lead Digital Solutions",
+      "company": "Goose Digital",
+      "url": "https://goosedigital.com/job/account-lead-digital-solutions/",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://goosedigital.com/job/demand-generation-specialist/": {
+      "title": "Demand Generation Specialist",
+      "company": "Goose Digital",
+      "url": "https://goosedigital.com/job/demand-generation-specialist/",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-marketing-manager-remote-at-apryse-4425893879": {
+      "title": "Growth Marketing Manager Remote",
+      "company": "Apryse",
+      "url": "https://ca.linkedin.com/jobs/view/growth-marketing-manager-remote-at-apryse-4425893879",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://builtintoronto.com/job/seo-specialist-ai-search/8379400": {
+      "title": "SEO Specialist AI Search",
+      "company": "AlgaeCal",
+      "url": "https://builtintoronto.com/job/seo-specialist-ai-search/8379400",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_closed"
+    },
+    "https://builtintoronto.com/job/seo-ai-search-specialist/10211601": {
+      "title": "SEO and AI Search Specialist PT",
+      "company": "Talencore",
+      "url": "https://builtintoronto.com/job/seo-ai-search-specialist/10211601",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouseperson-at-city-spring-ltd-4226724748": {
+      "title": "warehouseperson",
+      "company": "City Spring Ltd",
+      "url": "https://ca.linkedin.com/jobs/view/warehouseperson-at-city-spring-ltd-4226724748",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_404"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-edmonton-warehouse-at-e-b-horsman-son-4194584460": {
+      "title": "Material Handler",
+      "company": "E.B. Horsman",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-edmonton-warehouse-at-e-b-horsman-son-4194584460",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_404"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-warehouse-and-kitting-at-schneider-electric-4209325887": {
+      "title": "Material Handler Warehouse Kitting",
+      "company": "Schneider Electric",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-warehouse-and-kitting-at-schneider-electric-4209325887",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_404"
+    }
+  },
+  "last_run": "2026-07-22"
+}

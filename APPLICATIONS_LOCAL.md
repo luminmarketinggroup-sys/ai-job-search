@@ -11,6 +11,33 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### AE. Go Auto / Go Kia South — Parts Shipper/Receiver (3030 Gateway Blvd) ★ NEW
+- **Link:** https://www.goauto.ca/about/careers/parts (search Shipper/Receiver · Go Kia South)  
+- **Also listed:** Eluta / talentify Req# 20076  
+- **Why:** Calgary Trail / Gateway corridor · Audi Fixed Ops adjacent experience  
+- **Blurb:**
+> I’m applying for the Parts Shipper/Receiver role at Go Kia South (3030 Gateway Blvd NW). I live nearby at 11110 68 Ave NW and previously worked as Service Manager at Audi Southgate, so I’m used to fast-paced dealership operations, parts handoffs, documentation, and keeping work accurate under time pressure. I’m reliable, detail-oriented, and ready to learn Go Auto shipping/receiving processes quickly.
+
+### AF. Gentek Building Products — Branch Warehouseperson (6635 50 St NW) ★ NEW
+- **Link:** https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563  
+- **Careers:** https://www.gentek.ca/about-us/careers/  
+- **Pay:** ~$20–$24/hr (LinkedIn range)  
+- **Blurb:**
+> I’m applying for the Branch Warehouseperson role at Gentek’s Edmonton branch. I’m based in south Edmonton, comfortable with picking, staging, loading/unloading, and inventory accuracy in a physical warehouse, and ready to learn Gentek product flow and material-handling equipment. Reliable, coachable, and available for the posted schedule.
+
+### AG. Intelcom | Dragonfly — Package Handler (Edmonton) ★ NEW
+- **Portal:** https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom (search Edmonton Package Handler)  
+- **Info:** https://dragonflyshipping.ca/en/careers/part-time-package-handlers/  
+- **Shift:** PT early AM / overnight (~20 hrs/week); lift 40–50 lbs  
+- **Blurb:**
+> I’m applying for the Package Handler role at Intelcom | Dragonfly in Edmonton. I’m available for early-morning / overnight part-time shifts, comfortable unloading, sorting, scanning, and labeling packages up to 40–50 lbs, and used to paced physical work. Based in south Edmonton and ready to start quickly.
+
+### AH. Groupe Touchette — Order Picker Edmonton South (Temporary) ★ NEW
+- **Link:** https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005  
+- **Pay:** ~$20.86–$21.38/hr · temporary · forklift asset  
+- **Blurb:**
+> I’m applying for the Order Picker (Temporary) role at Groupe Touchette Edmonton South. I’m comfortable with receiving, loading/unloading, physical picking (50–70 lbs), and learning WMS entry. Willing to obtain or refresh warehouse forklift competency as required. Reliable, safety-focused, and local to south Edmonton.
+
 ### 1. SPUD — Cross Dock Team Member (7039 68 Ave NW) ★
 - **Link:** https://ca.edajobs.com/job/41460  
 - **Pay:** ~$17.50/hr FT, Mon–Fri 7:00–3:30  

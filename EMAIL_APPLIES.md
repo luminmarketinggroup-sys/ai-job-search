@@ -43,6 +43,13 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser.
 
+## Pending email (Resend not configured this run — 2026-07-22 daily)
+
+| # | Company | To | Role | Attachments | Status |
+|---|---------|-----|------|-------------|--------|
+| P1 | Goose Digital | renata@goosedigital.com | Account Lead, Digital Solutions | `cv/main_goose_digital.pdf` + `cover_letters/cover_goose_digital_account_lead.pdf` | **mailto ready** — send when `RESEND_API_KEY` set |
+| P2 | Goose Digital | renata@goosedigital.com | Demand Generation Specialist | `cv/main_goose_digital.pdf` + `cover_letters/cover_goose_digital_demand_generation.pdf` | **mailto ready** — send when `RESEND_API_KEY` set |
+
 ## Send more later
 
 ```bash

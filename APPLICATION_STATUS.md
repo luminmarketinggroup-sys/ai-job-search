@@ -48,6 +48,10 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L32 | **Go Auto / Go Kia South** | Parts Shipper/Receiver | **NEW** · 3030 Gateway Blvd · Calgary Trail | https://www.goauto.ca/about/careers/parts |
+| L33 | **Gentek** | Branch Warehouseperson | **NEW** · 6635 50 St · ~$20–24/hr | https://ca.linkedin.com/jobs/view/branch-warehouseperson-at-gentek-building-products-canada-4210995563 |
+| L34 | **Intelcom / Dragonfly** | Package Handler | **NEW** · early AM PT · Workday | https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom |
+| L35 | **Groupe Touchette** | Order Picker Edmonton South | **NEW** · ~$21/hr temp | https://ca.linkedin.com/jobs/view/order-picker-edmonton-temporary-at-groupe-touchette-4185046005 |
 | L1 | SPUD | Cross Dock Team Member | 7039 68 Ave · ~$17.50/hr · days | https://ca.edajobs.com/job/41460 |
 | L2 | UPS | Evening Warehouse Worker | 6968 68 Ave · evenings | https://swooped.co/job-postings/evening-warehouse-worker-south-edmonton-ca-edmonton-south-centre-abedo-fast-forward-67047 |
 | L3 | FedEx Canada | Package Handler PT | ~$21/hr early AM · also careers.fedex.com P25-93286-2 | https://ca.linkedin.com/jobs/view/4442405050 |
@@ -121,14 +125,16 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C12 | Pacesetter Homes | Digital and AI Marketing Specialist | **Email submitted** | `main_pacesetter` + cover | Qualico/Pacesetter Career Centre / ADP |
 | C13 | Morguard | Regional Marketing & Digital Specialist | **Email submitted** | `main_morguard` + cover | https://careers.morguard.com/jobs/659530-regional-marketing-and-digital-specialist-multi-residential |
 | C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
+| C15 | Goose Digital | Account Lead, Digital Solutions | **Ready — mailto Renata** (Resend unset) | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
+| C16 | Goose Digital | Demand Generation Specialist | **Ready — mailto Renata** (Resend unset) | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
 
 ### Watch / later (not fully drafted)
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
-| C15 | Directive | SEO Strategist (Remote Canada) | Future opening | https://ca.linkedin.com/jobs/view/4440590698 |
-| C16 | Go Auto | Automations & Database Marketing Specialist | 3–5 yrs MAP/CRM | https://ca.trabajo.org/job-4038-3c5669375543d4a32badf41d12b2ebbd |
-| C17 | Executrade client | Marketing Generalist | **Email submitted** | https://ca.linkedin.com/jobs/view/4439451164 |
-| C18 | Headhunters client | Marketing Manager | Leadership stretch · Gibbons | https://ca.linkedin.com/jobs/view/4441635217 |
+| C17 | Directive | SEO Strategist (Remote Canada) | Future opening | https://ca.linkedin.com/jobs/view/4440590698 |
+| C18 | Go Auto | Automations & Database Marketing Specialist | 3–5 yrs MAP/CRM | https://ca.trabajo.org/job-4038-3c5669375543d4a32badf41d12b2ebbd |
+| C19 | Executrade client | Marketing Generalist | **Email submitted** | https://ca.linkedin.com/jobs/view/4439451164 |
+| C20 | Headhunters client | Marketing Manager | Leadership stretch · Gibbons | https://ca.linkedin.com/jobs/view/4441635217 |
 
 ---
 
@@ -137,7 +143,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | Reason | Examples |
 |--------|----------|
 | Southgate public-facing | lululemon, Browns, JD, Bath & Body, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO, Hillberg & Berk, Nespresso, Starbucks Southgate, Aritzia, Chipotle, etc. |
-| Fit / gaps (prior) | Sparkrock K-12 Marketing Manager; Go Auto Senior Digital Advertising (5–8 yrs paid); TELUS Southgate closed |
+| Fit / gaps (prior) | Sparkrock K-12 Marketing Manager; Go Auto Senior Digital Advertising (5–8 yrs paid); TELUS Southgate closed; Apryse Growth Marketing Manager (~52 HubSpot/SaaS gap); AlgaeCal SEO AI Search (closed); Talencore SEO PT 20h/mo |
 | Too senior / consulting | EY Marketing Transformation Manager/Senior Manager; City of Edmonton Lead Strategist; KPMG Sales Enablement Manager |
 | Likely under $60k career | Jai Homes social media coordinator; Capital Trailers Marketing Assistant; Akash Marketing Coordinator |
 | Relocation / not remote | Calgary-only SEO/marketing roles without remote flag |
@@ -150,6 +156,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - LinkedIn CLI scrape: **194** results → **114** unique
 - Already submitted: **23 career/local email applies** (+ Executrade, Ayr x3, Searchlight, Dentist Finder, Home Painters, BIS, RP, StackAdapt Growth)
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
-- New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA
+- New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
+- New local drafts this run: Go Kia South shipper/receiver, Gentek warehouseperson, Intelcom package handler, Touchette order picker
 
 Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.
