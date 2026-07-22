@@ -77,8 +77,13 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - SMB-focused marketing, brand, and performance roles open to non-degree candidates with strong portfolios
 
 ### Deal-breakers
-- Base compensation under CAD $60,000
-- Roles requiring relocation away from Edmonton without remote/hybrid flexibility (relocation is a hard fail unless user explicitly overrides)
+- **Career track:** Base compensation under CAD $60,000; relocation away from Edmonton without remote/hybrid (hard fail unless overridden)
+- **Survival track (current priority until employed):** Soft pay floor — cafe/retail/warehouse/food near 11110 68 Ave NW are in scope under $60k. Prefer Southgate / 68 Ave / Calgary Trail
+
+### Autonomy (approved 2026-07-22)
+- Auto-draft without asking for local near-home roles and career Good/High fits (≥60)
+- Notify via PR updates
+- Auto-submit desired but limited by portal logins/CAPTCHAs — see `AUTOMATION.md`
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
@@ -87,11 +92,11 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - `.agents/skills/` - Job search CLI tools
 
 ## Workflow for New Job Applications
-1. User provides a job posting (URL or text)
-2. **Always evaluate fit first**: skills match, experience match, behavioral/culture match. Present this assessment to the user before proceeding.
-3. If good fit: create targeted CV (`cv/main_<company>.tex`) and cover letter (`cover_letters/cover_<company>_<role>.tex`)
+1. Job posting from scrape, URL, or text
+2. Evaluate fit (skills, experience, culture, location). **Dual-track:** local survival near 11110 68 Ave NW may auto-draft without ask; career roles auto-draft when Good/High (≥60) without ask (user-approved). Still show a brief score in the PR/run log.
+3. Draft targeted CV (`cv/main_<company>.tex` or `cv/main_local_edmonton.tex` for basic local) and cover letter / blurb
 4. **Verify both documents** (see Verification Checklist below)
-5. Prepare interview talking points based on the role requirements and your strengths
+5. Update tracker + PR; prepare interview talking points when moving to interview stage
 
 **Important:** When mentioning agentic coding or AI tooling in CVs/cover letters, explicitly reference **Claude Code** by name.
 
