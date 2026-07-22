@@ -25,11 +25,11 @@
 Most employers (Starbucks, Indeed Easy Apply, LinkedIn Easy Apply, mall retailers) require a logged-in browser session and CAPTCHA. **Cloud agents cannot reliably auto-submit those forms.**
 
 Workable submit paths:
-1. **Email apply** — agent can send where a public apply email exists (human inbox may still need confirmation).
+1. **Email apply via Resend** — see `automation/RESEND_SETUP.md`. From `dylan@luminmarketinggroup.com`, Reply-To `dylanschule@live.ca`. Run `python3 scripts/send_ready_emails.py` when `RESEND_API_KEY` is set.
 2. **Cursor Desktop + browser MCP** — you stay logged into Indeed/LinkedIn/Starbucks; agent fills forms on your machine (still fails on CAPTCHA/2FA).
-3. **Human 5-minute batch** — agent prepares everything; you click Submit from `APPLICATIONS_LOCAL.md` / `APPLICATIONS_READY.md`.
+3. **Human 5-minute batch** — portal forms from `SUBMIT_BATCH.md` / `APPLICATIONS_LOCAL.md`.
 
-Until Desktop browser automation is wired, treat “auto-submit” as: **auto-draft + PR notify + checklist ready for one-tap submit.**
+Until portals are browser-automated: **email roles auto-send via Resend; portals stay checklist.**
 
 ---
 

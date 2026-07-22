@@ -18,8 +18,9 @@ EVERY RUN:
 7. Do NOT invent metrics. Do NOT fabricate experience. Use Audi Southgate, 2 Lumin clients, 20h/week Claude savings, Google AI Professional Certificate as factual.
 
 SUBMIT ATTEMPTS:
-- If a public apply email exists, draft and send application email with PDF attached only if outbound email is configured; otherwise add mailto: line to checklist.
+- If RESEND_API_KEY is set: send email-apply roles with `python3 scripts/send_ready_emails.py` (or `scripts/send_application_email.py`). From = RESEND_FROM (default dylan@luminmarketinggroup.com); Reply-To = dylanschule@live.ca. Never claim From is @live.ca.
+- If Resend is not configured: add mailto / .eml to EMAIL_APPLIES.md; do not pretend mail was sent.
 - Do not claim LinkedIn/Indeed/Starbucks form submit succeeded unless a browser MCP with an authenticated session actually completed submit.
-- Never store or ask for passwords in the PR.
+- Never store or ask for passwords / API keys in the PR.
 
 End with a short PR summary: N new local drafts, M new career drafts, links to checklists.
