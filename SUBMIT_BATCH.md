@@ -1,3 +1,5 @@
+**Afternoon email batch submitted:** Executrade · Ayr x3 · Searchlight · Dentist Finder · Home Painters · BIS · RP · StackAdapt Growth
+
 # Apply local jobs — active batch (no Southgate public-facing)
 
 **Resume:** `cv/main_local_edmonton.pdf`  

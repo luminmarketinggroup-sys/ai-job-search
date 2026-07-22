@@ -26,6 +26,16 @@ Southgate Centre public-facing roles are skipped (do not apply).
 | 11 | Career | Durabuilt | Digital Marketing Manager | Email Resend → hr@durabuiltwindows.com (`a7c31d3a…`) | 2026-07-22 |
 | 12 | Career | CREATIVE Agency | SEO Specialist | Email Resend → hello@acreativeagency.ca (`5b2c5cdd…`) | 2026-07-22 |
 | 13 | Career | Randstad / client | Digital Marketing Manager (13-mo) | Email Resend → chloe.naccache@randstad.ca (`e3f026a5…`) | 2026-07-22 |
+| 14 | Career | Executrade client | Marketing Generalist | Email Resend → iryna.chubynska@executrade.com (`8b7141d3…`) | 2026-07-22 |
+| 15 | Career | Ayr Digital | SEO Specialist (contract) | Email Resend → careers@ayr.agency (`a4fdb2a8…`) | 2026-07-22 |
+| 16 | Career | Ayr Digital | Digital Marketing Manager (contract) | Email Resend → careers@ayr.agency (`ce14179d…`) | 2026-07-22 |
+| 17 | Career | Ayr Digital | Paid Media Specialist (contract) | Email Resend → careers@ayr.agency (`d77a9c2f…`) | 2026-07-22 |
+| 18 | Career | Searchlight Digital | SEO & Google Ads Specialist | Email Resend → tedi@searchlightmarketing.ca (`287259bf…`) | 2026-07-22 |
+| 19 | Career | Dentist Finder | SEO/GEO Specialist | Email Resend → kathan@dentistfinder.ai (`5fd86092…`) | 2026-07-22 |
+| 20 | Career | Home Painters Toronto | Digital Marketing Specialist | Email Resend → Brian@HomePaintersToronto.com (`08a97bfa…`) | 2026-07-22 |
+| 21 | Career | BIS Safety Software | Marketing Manager Digital | Email Resend → careers@bistraining.ca (`b274b335…`) | 2026-07-22 |
+| 22 | Career | Recruitment Partners client | Marketing Manager | Email Resend → careers@rpinc.ca (`57ab0830…`) | 2026-07-22 |
+| 23 | Career | StackAdapt | Growth Marketing Manager | Email Resend → careers@stackadapt.com (`369f0f23…`) | 2026-07-22 |
 
 \*KFC is historical only. New Southgate public-facing applies are blocked.
 
@@ -72,6 +82,7 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 | L28 | Staples | Sorter-Loader | Prior pack | https://ca.linkedin.com/jobs/view/4434718968 |
 | L29 | Chartwell | Dishwasher | Kitchen BOH optional | https://ca.linkedin.com/jobs/view/4438520099 |
 | L30 | FedEx careers | Package Handler (50 St) | Official portal twin of L3 | https://careers.fedex.com/package-handler-non-driver-part-time-warehouse-like/job/P25-93286-2 |
+| L31 | HelloFresh | Production Associate | Nisku · $17/hr · meal-kit packing · portal | https://ca.linkedin.com/jobs/view/4441209997 |
 
 ### Optional — cafe (not Southgate mall)
 Only if you want public-facing cafe work on the corridor:
@@ -116,7 +127,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 |---|---------|------|-------|------|
 | C15 | Directive | SEO Strategist (Remote Canada) | Future opening | https://ca.linkedin.com/jobs/view/4440590698 |
 | C16 | Go Auto | Automations & Database Marketing Specialist | 3–5 yrs MAP/CRM | https://ca.trabajo.org/job-4038-3c5669375543d4a32badf41d12b2ebbd |
-| C17 | Executrade client | Marketing Generalist | 3+ yrs | https://ca.linkedin.com/jobs/view/4439451164 |
+| C17 | Executrade client | Marketing Generalist | **Email submitted** | https://ca.linkedin.com/jobs/view/4439451164 |
 | C18 | Headhunters client | Marketing Manager | Leadership stretch · Gibbons | https://ca.linkedin.com/jobs/view/4441635217 |
 
 ---
@@ -137,8 +148,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ## Counts
 
 - LinkedIn CLI scrape: **194** results → **114** unique
-- Already submitted: **13 career/local email applies** (LAG, LawDepot, Durabuilt, CREATIVE, Randstad + prior)
-- Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups
+- Already submitted: **23 career/local email applies** (+ Executrade, Ayr x3, Searchlight, Dentist Finder, Home Painters, BIS, RP, StackAdapt Growth)
+- Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA
 
 Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.

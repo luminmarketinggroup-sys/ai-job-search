@@ -5,6 +5,22 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## Email submitted this round (2026-07-22 afternoon) — direct apply
+
+| # | Company | Role | Apply | Notes |
+|---|---------|------|-------|-------|
+| E1 | Executrade client | Marketing Generalist | iryna.chubynska@executrade.com | Ref #86537; CV only |
+| E2 | Ayr Digital | SEO Specialist | careers@ayr.agency | Remote contract |
+| E3 | Ayr Digital | Digital Marketing Manager | careers@ayr.agency | Remote contract |
+| E4 | Ayr Digital | Paid Media Specialist | careers@ayr.agency | Remote contract |
+| E5 | Searchlight Digital | SEO & Google Ads Specialist | tedi@searchlightmarketing.ca | $40–50/hr remote; 5+ yrs gap noted |
+| E6 | Dentist Finder | SEO/GEO Specialist | kathan@dentistfinder.ai | Remote Canada; equity |
+| E7 | Home Painters Toronto | Digital Marketing Specialist | Brian@HomePaintersToronto.com | Remote; fit Q answered |
+| E8 | BIS Safety Software | Marketing Manager Digital | careers@bistraining.ca | Also finish portal; ~$85–110k |
+| E9 | Recruitment Partners client | Marketing Manager | careers@rpinc.ca | Real estate/homebuilding AI marketing |
+| E10 | StackAdapt | Growth Marketing Manager | careers@stackadapt.com | Second StackAdapt role; $76–90k ON band |
+
+
 ## NEW scrape drafts ready (2026-07-22) — portal submit next
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

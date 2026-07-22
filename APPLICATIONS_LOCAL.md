@@ -143,6 +143,13 @@ Only if you want cafe work outside Southgate:
 
 ---
 
+
+### HF. HelloFresh — Production Associate (Nisku) $17/hr
+- **Link:** https://ca.linkedin.com/jobs/view/4441209997  
+- **Shift:** Fri–Tue rotational AM/PM · refrigerated environment  
+- **Blurb:**
+> I’m applying for the Production Associate role at HelloFresh in Nisku. I’m reliable for rotational shifts, comfortable standing for long periods and lifting up to 50 lbs, and used to fast-paced, accuracy-focused work. Ready to learn meal-kit packing, labelling, and food-safety processes quickly.
+
 ## SKIPPED — Southgate public-facing (do not apply)
 lululemon Educator, Browns, JD Sports, Bath & Body Works, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO Team Leader, Hillberg & Berk ASL, Nespresso Southgate, Starbucks Southgate Mall, Aritzia, Vans SEC, Chipotle, Gateway barista.
 
