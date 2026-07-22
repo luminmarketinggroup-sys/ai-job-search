@@ -36,6 +36,14 @@ Southgate Centre public-facing roles are skipped (do not apply).
 | 21 | Career | BIS Safety Software | Marketing Manager Digital | Email Resend → careers@bistraining.ca (`b274b335…`) | 2026-07-22 |
 | 22 | Career | Recruitment Partners client | Marketing Manager | Email Resend → careers@rpinc.ca (`57ab0830…`) | 2026-07-22 |
 | 23 | Career | StackAdapt | Growth Marketing Manager | Email Resend → careers@stackadapt.com (`369f0f23…`) | 2026-07-22 |
+| 24 | Career | Webhorse Technologies | SEO & Online Marketing Specialist | Email Resend → contact@webhorse.ca (`b3cd844c…`) | 2026-07-22 |
+| 25 | Career | Headhunters client | Marketing Manager | Email Resend → info@theheadhunters.ca (`291efa04…`) | 2026-07-22 |
+| 26 | Career | Recruitment Partners | Digital Marketing Manager 13-mo | Email Resend → careers@rpinc.ca for Bobi-Jo (`2671a248…`) | 2026-07-22 |
+| 27 | Career | ATRIUM Digital | Advertising Specialist | Email Resend → contact@atriumdigital.com (`833d1443…`) | 2026-07-22 |
+| 28 | Local | MG Precast | Material Handler | Email Resend → mgprecaststeps@gmail.com (`71776cfd…`) $23/hr | 2026-07-22 |
+| 29 | Career | Search Engine People | Sr SEO Strategist | Email Resend → HR@sep.ca + HR@searchenginepeople.com | 2026-07-22 |
+| 30 | Career | Goose Digital | Account Lead, Digital Solutions | Email Resend → renata@goosedigital.com (`9a1c7e56…`) | 2026-07-22 |
+| 31 | Career | Goose Digital | Demand Generation Specialist | Email Resend → renata@goosedigital.com (`2ccda523…`) | 2026-07-22 |
 
 \*KFC is historical only. New Southgate public-facing applies are blocked.
 
@@ -125,8 +133,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C12 | Pacesetter Homes | Digital and AI Marketing Specialist | **Email submitted** | `main_pacesetter` + cover | Qualico/Pacesetter Career Centre / ADP |
 | C13 | Morguard | Regional Marketing & Digital Specialist | **Email submitted** | `main_morguard` + cover | https://careers.morguard.com/jobs/659530-regional-marketing-and-digital-specialist-multi-residential |
 | C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
-| C15 | Goose Digital | Account Lead, Digital Solutions | **Ready — mailto Renata** (Resend unset) | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
-| C16 | Goose Digital | Demand Generation Specialist | **Ready — mailto Renata** (Resend unset) | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
+| C15 | Goose Digital | Account Lead, Digital Solutions | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
+| C16 | Goose Digital | Demand Generation Specialist | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
 
 ### Watch / later (not fully drafted)
 | # | Company | Role | Notes | Link |
@@ -134,7 +142,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C17 | Directive | SEO Strategist (Remote Canada) | Future opening | https://ca.linkedin.com/jobs/view/4440590698 |
 | C18 | Go Auto | Automations & Database Marketing Specialist | 3–5 yrs MAP/CRM | https://ca.trabajo.org/job-4038-3c5669375543d4a32badf41d12b2ebbd |
 | C19 | Executrade client | Marketing Generalist | **Email submitted** | https://ca.linkedin.com/jobs/view/4439451164 |
-| C20 | Headhunters client | Marketing Manager | Leadership stretch · Gibbons | https://ca.linkedin.com/jobs/view/4441635217 |
+| C20 | Headhunters client | Marketing Manager | **Email submitted** (leadership stretch noted) | https://ca.linkedin.com/jobs/view/4441635217 |
 
 ---
 
@@ -154,7 +162,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ## Counts
 
 - LinkedIn CLI scrape: **194** results → **114** unique
-- Already submitted: **23 career/local email applies** (+ Executrade, Ayr x3, Searchlight, Dentist Finder, Home Painters, BIS, RP, StackAdapt Growth)
+- Already submitted: **29+ career/local email applies** (+ Webhorse, Headhunters, RP DMM, ATRIUM, MG Precast, SEP)
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - New local drafts this run: Go Kia South shipper/receiver, Gentek warehouseperson, Intelcom package handler, Touchette order picker

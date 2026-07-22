@@ -1,3 +1,5 @@
+**Evening email batch submitted:** Webhorse · Headhunters · RP DMM · ATRIUM · MG Precast · SEP (HR@sep.ca)
+
 **Afternoon email batch submitted:** Executrade · Ayr x3 · Searchlight · Dentist Finder · Home Painters · BIS · RP · StackAdapt Growth
 
 # Apply local jobs — active batch (no Southgate public-facing)

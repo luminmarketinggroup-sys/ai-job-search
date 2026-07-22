@@ -177,6 +177,14 @@ Only if you want cafe work outside Southgate:
 - **Blurb:**
 > I’m applying for the Production Associate role at HelloFresh in Nisku. I’m reliable for rotational shifts, comfortable standing for long periods and lifting up to 50 lbs, and used to fast-paced, accuracy-focused work. Ready to learn meal-kit packing, labelling, and food-safety processes quickly.
 
+
+### MG. MG Precast — Material Handler ★ $23/hr (EMAIL SUBMITTED)
+- **Email:** mgprecaststeps@gmail.com · Job Bank #3547373  
+- **Pay:** $23/hr FT · Edmonton on-site  
+- **Status:** **Submitted 2026-07-22** via Resend (`71776cfd…`)  
+- **Blurb used:**
+> I’m applying for the Material Handler role in Edmonton ($23/hr). I live in south Edmonton (11110 68 Ave NW), am reliable for full-time on-site work, and comfortable with physical warehouse tasks: loading/unloading, sorting, stacking, wrapping, and keeping inventory organized.
+
 ## SKIPPED — Southgate public-facing (do not apply)
 lululemon Educator, Browns, JD Sports, Bath & Body Works, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO Team Leader, Hillberg & Berk ASL, Nespresso Southgate, Starbucks Southgate Mall, Aritzia, Vans SEC, Chipotle, Gateway barista.
 

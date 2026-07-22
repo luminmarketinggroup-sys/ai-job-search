@@ -38,6 +38,13 @@
 | 23 | BIS Safety Software | careers@bistraining.ca | `b274b335-52da-4a0b-ac2e-f22fa804b430` | **submitted** (Marketing Manager; also finish careers portal) |
 | 24 | Recruitment Partners | careers@rpinc.ca | `57ab0830-dc4b-42a1-b027-51498d972e44` | **submitted** (Marketing Manager client role) |
 | 25 | StackAdapt | careers@stackadapt.com | `369f0f23-f5d6-49ae-94c1-2f13be039df2` | **submitted** (Growth Marketing Manager, Integrated Campaigns) |
+| 26 | Webhorse Technologies | contact@webhorse.ca | `b3cd844c-e958-4c89-92ab-d3686d6078d8` | **submitted** (SEO & Online Marketing Specialist) |
+| 27 | The Headhunters | info@theheadhunters.ca | `291efa04-ce8b-48d9-8d67-b574257821aa` | **submitted** (Marketing Manager client; yrs gap noted) |
+| 28 | Recruitment Partners | careers@rpinc.ca | `2671a248-e46a-424a-8462-8314e07200ec` | **submitted** (Digital Marketing Manager 13-mo for Bobi-Jo) |
+| 29 | ATRIUM Digital | contact@atriumdigital.com | `833d1443-883b-40f0-97c6-657fd4014e57` | **submitted** (Advertising Specialist Edmonton) |
+| 30 | MG Precast Ltd. | mgprecaststeps@gmail.com | `71776cfd-600b-4c84-ab0d-4890edc8d232` | **submitted** (Material Handler $23/hr local) |
+| 31 | Search Engine People (SEP) | HR@sep.ca | `9bff58f4-dce8-4123-9a70-373195ac9b70` | **submitted** (Sr SEO Strategist evergreen) |
+| 32 | Search Engine People (SEP) | HR@searchenginepeople.com | `49b3b344-7a2a-4722-9cc9-3682b626babf` | **submitted** (Sr SEO Strategist twin inbox) |
 
 From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
