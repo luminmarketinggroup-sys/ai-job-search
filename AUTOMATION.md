@@ -5,14 +5,15 @@
 2. **Career track:** Keep drafting marketing / SEO / AI roles ≥ CAD $60k (Edmonton or remote).
 3. Once employed locally, shift focus to better career roles.
 
-## Autonomy settings (user-approved 2026-07-22)
+## Autonomy settings (user-approved 2026-07-22 — LOCKED)
 | Setting | Value |
 |---------|--------|
-| Schedule | Open / frequent (recommend daily 08:00 America/Edmonton) |
-| Scope | Both local basic + career |
-| Auto-draft | **Yes — no ask** for: (a) local roles within ~15 min of 11110 68 Ave NW, or (b) career High/Good fit ≥60 |
-| Notify | PR updates on branch `cursor/dylan-michael-profile-setup-7ff7` (or current working branch) |
-| Auto-submit | **Desired** — see limits below |
+| Schedule | **Open** (recommend daily 08:00 America/Edmonton until Cursor Automation is created) |
+| Scope | **Both** — nearby decent survival jobs first, then career ≥$60k |
+| Goal now | Any decent job very close to 11110 68 Ave NW; upgrade career once employed |
+| Auto-draft | **Yes — no ask** for: (a) local roles within ~15 min of home / Southgate / 68 Ave / Calgary Trail, or (b) career High/Good fit ≥60 |
+| Notify | **PR updates** on branch `cursor/dylan-michael-profile-setup-7ff7` |
+| Auto-submit | **Requested without human** — cloud cannot complete most portal forms; see limits. Email-apply roles may be sent when outbound mail exists. |
 
 ## What Cursor Cloud can do unattended
 - Scrape LinkedIn/web for new jobs

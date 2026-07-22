@@ -1,8 +1,22 @@
-# Applications Ready — Dylan Michael (2026-07-21)
+# Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs for all 7 roles. **You still need to submit** each application (this system does not auto-submit to portals).
+Drafted CV + cover letter PDFs. **Portal submit still needs you** (or Desktop browser MCP). Exception: Guardium is email apply.
 
-Career LinkedIn to use: https://www.linkedin.com/in/dylan-michael-993a78392
+Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392
+
+## NEW this run (2026-07-22)
+
+| # | Company | Role | Apply | CV | Cover | Notes |
+|---|---------|------|-------|----|-------|-------|
+| 9 | LAG Auto | Marketing Manager | https://ca.linkedin.com/jobs/view/4438330440 | `cv/main_lag_auto.pdf` | `cover_letters/cover_lag_auto_marketing_manager.pdf` | **High fit.** $80k+. Audi Fixed Ops + multi-account marketing. Edmonton/Alberta in-house. |
+| 10 | Guardium Group | Digital Marketing Specialist | **Email:** info@guardiumgroup.com | `cv/main_lag_auto.pdf` (reuse career CV) or `cv/main_example.pdf` | `cover_letters/cover_guardium_digital_marketing_specialist.pdf` | **Email apply.** Pay $18–27/hr (may sit under $60k floor; aim top of range). Attach resume + cover. |
+
+**Guardium mailto (copy/paste):**  
+`mailto:info@guardiumgroup.com?subject=Digital%20Marketing%20Specialist%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20and%20cover%20letter%20for%20the%20Digital%20Marketing%20Specialist%20role.%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
+Skipped this run (fit/gaps): Sparkrock Marketing Manager K-12 (needs deep K-12); Go Auto Senior Digital Advertising Specialist (asks 5–8 years paid ads); TELUS Southgate (posting closed).
+
+## Previously ready
 
 | # | Company | Role | Apply link | CV | Cover letter | Notes before you submit |
 |---|---------|------|------------|----|--------------|-------------------------|
@@ -13,8 +27,7 @@ Career LinkedIn to use: https://www.linkedin.com/in/dylan-michael-993a78392
 | 5 | Randstad client | Digital Marketing Manager (13-mo) | https://www.randstad.ca/jobs/digital-marketing-manager_edmonton_47036423/ | `cv/main_randstad.pdf` | `cover_letters/cover_randstad_digital_marketing_manager.pdf` | Remote Canada. $75–90k. |
 | 6 | Durabuilt Windows & Doors | Digital Marketing Manager | https://ca.linkedin.com/jobs/view/digital-marketing-manager-at-durabuilt-windows-doors-4209334487 | `cv/main_durabuilt.pdf` | `cover_letters/cover_durabuilt_digital_marketing_manager.pdf` | Cover letter acknowledges <7 years experience. |
 | 7 | Elevation Capital | Applied AI Marketing Engineer | https://ca.linkedin.com/jobs/view/applied-ai-marketing-engineer-at-elevation-capital-4440462335 | `cv/main_elevation_capital.pdf` | `cover_letters/cover_elevation_capital_applied_ai_marketing_engineer.pdf` | Stretch on coding; letter is honest about builder vs engineer gap. |
+| 8 | AutoCanada | Marketing Account Manager | https://autocan.ca/ (Careers → Current Opportunities) also https://ca.linkedin.com/jobs/view/marketing-account-manager-at-autocanada-4432105251 | `cv/main_autocanada.pdf` | `cover_letters/cover_autocanada_marketing_account_manager.pdf` | Edmonton onsite. Strong auto + marketing fit. |
 
 ## After you submit
 Reply with which numbers you submitted (or run `/outcome <company>`) so the tracker can be updated.
-
-| 8 | AutoCanada | Marketing Account Manager | https://autocan.ca/ (Careers → Current Opportunities) also https://ca.linkedin.com/jobs/view/marketing-account-manager-at-autocanada-4432105251 | `cv/main_autocanada.pdf` | `cover_letters/cover_autocanada_marketing_account_manager.pdf` | Edmonton onsite. Strong auto + marketing fit. Submit on autocan.ca/careers. |

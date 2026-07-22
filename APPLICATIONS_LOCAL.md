@@ -5,11 +5,59 @@
 **Email:** dylanschule@live.ca  
 **LinkedIn:** https://www.linkedin.com/in/dylan-michael-993a78392
 
-I cannot submit forms for you. For each role: open the link → upload the PDF → paste the short blurb where it asks for cover letter / “why you’re a fit” / additional info.
+**Autonomy (locked 2026-07-22):** auto-draft nearby decent jobs without asking; notify via PR. Cloud cannot reliably auto-submit portal forms (login/CAPTCHA). Submit path until Desktop browser MCP is wired: open link → upload PDF → paste blurb.
 
 ---
 
-## Closest — apply these first
+## NEW this run (2026-07-22) — apply these first
+
+### A. Starbucks — Barista (Store# 65529, 75 Street & 68th Avenue) ★ closest
+- **Link:** https://ca.linkedin.com/jobs/view/4440606993  
+- **Why first:** Same avenue corridor as home (11110 68 Ave NW)  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks store 65529 (75 Street and 68th Avenue). I live nearby at 11110 68 Ave NW and can work flexible shifts including early mornings, evenings, weekends, and holidays. I’m used to fast-paced, high-volume customer service from my time as Service Manager at Audi Southgate. I’m reliable, coachable, comfortable with cash handling and cleanliness standards, and ready to learn recipes and deliver a great guest experience.
+
+### B. lululemon — Educator (Southgate Centre) ★ best local pay
+- **Link:** https://ca.linkedin.com/jobs/view/4434860714  
+- **Pay:** $20.25–$23.30/hr base + $2/hr target bonus  
+- **Blurb:**
+> I’m applying for the Educator role at lululemon Southgate Centre. I live near the mall and bring high-volume guest service from Audi Southgate plus retail-facing brand experience. I’m available for flexible shifts including evenings, weekends, and holidays. I’m strong at connecting with people, learning product quickly, keeping the floor organized, and supporting the team in a fast-paced store.
+
+### C. Browns Shoes — Part-Time Cashier (Southgate)
+- **Link:** https://careers.brownsshoes.com/jobs/6168553-part-time-cashier-browns-southgate-centre  
+- **Also:** Sales Associate posting https://careers.brownsshoes.com/jobs/7939989-part-time-sales-associate-browns-southgate-centre  
+- **Blurb:**
+> I’m applying for the Part-Time Cashier role at Browns Southgate Centre. I live near the mall, I’m comfortable with accurate POS/cash handling, and I bring strong customer service from Audi Southgate. I’m reliable, available for part-time store shifts, and happy to support stock and a clean, welcoming checkout area.
+
+### D. JD Sports — Sales Associate (Southgate Centre)
+- **Link:** https://can251.dayforcehcm.com/CandidatePortal/en-US/jdsf/Site/JD/Posting/View/17374  
+- **Blurb:**
+> I’m applying for the Sales Associate role at JD Sports Southgate Centre. I’m local to the mall, comfortable on a busy sales floor, and bring customer service from Audi Southgate. I’m available for part-time shifts including evenings and weekends and ready to help with sales, product knowledge, and store standards.
+
+### E. Bath & Body Works — Retail Sales Associate (Southgate) ~$18/hr
+- **Link:** https://careers.bathandbodyworks.com/en/job-search-results/ (search Edmonton / Southgate)  
+- **Alt listing:** https://ca.trabajo.org/job-5018-5149fcbe34697e1a68db893188fd6d8a  
+- **Blurb:**
+> I’m applying for the Retail Sales Associate role at Bath & Body Works Southgate Centre. I live nearby, enjoy high-energy customer environments, and bring reliable guest service from Audi Southgate. I’m available for evenings, weekends, and holidays, and ready to help with selling, cash wrap, and replenishment.
+
+### F. Garage / Dynamite — Seasonal Sales Associate (Southgate)
+- **Link:** https://careers.garageclothing.com/garage/jobs (filter Edmonton / Southgate)  
+- **Blurb:**
+> I’m applying for the Seasonal Sales Associate role at Garage Southgate Centre. I’m local, comfortable in fast-paced retail, and bring customer-facing experience from Audi Southgate. Available for seasonal hours including evenings, weekends, and holidays.
+
+### G. Starbucks — Barista (Store# 59119, 5138 Gateway Blvd)
+- **Link:** https://ca.linkedin.com/jobs/view/4441391538  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks store 59119 on Gateway Blvd. I’m based in south Edmonton near 68 Ave, available for flexible shifts, and used to busy customer environments from Audi Southgate. Reliable, coachable, and ready to learn the craft and keep the store running smoothly.
+
+### H. Alo Yoga — Sales Associate PT (Southgate)
+- **Link:** https://ca.fashionjobs.com/job/alo-yoga/Sales-associate-southgate-centre,11727542.html  
+- **Blurb:**
+> I’m applying for the Part-Time Sales Associate role at Alo Yoga Southgate Centre. I live near the centre, bring strong guest service from Audi Southgate, and I’m available for flexible part-time shifts including peak retail periods. Ready to learn product deeply and deliver an excellent in-store experience.
+
+---
+
+## Closest — previous pack (still apply)
 
 ### 1. SPUD — Cross Dock Team Member (7039 68 Ave NW)
 - **Link:** https://ca.edajobs.com/job/41460  
