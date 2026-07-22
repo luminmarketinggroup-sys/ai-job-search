@@ -8,9 +8,9 @@ Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392
 
 | # | Company | Role | Apply | CV | Cover | Notes |
 |---|---------|------|-------|----|-------|-------|
-| 11 | Connected Creative | Marketing Manager | **Email:** hannah@connectedcreative.ca | `cv/main_connected_creative.pdf` | `cover_letters/cover_connected_creative_marketing_manager.pdf` | **Email apply ★.** $65–85k. Edmonton agency. Honest on <5 yrs + no degree. See `EMAIL_APPLIES.md`. |
-| 9 | LAG Auto | Marketing Manager | https://ca.linkedin.com/jobs/view/4438330440 | `cv/main_lag_auto.pdf` | `cover_letters/cover_lag_auto_marketing_manager.pdf` | **High fit.** $80k+. Audi Fixed Ops + multi-account marketing. Edmonton/Alberta in-house. |
-| 10 | Guardium Group | Digital Marketing Specialist | **Email:** info@guardiumgroup.com | `cv/main_example.pdf` | `cover_letters/cover_guardium_digital_marketing_specialist.pdf` | **Email apply.** Pay $18–27/hr (may sit under $60k floor; aim top of range). |
+| 11 | Connected Creative | Marketing Manager | **Email:** hannah@connectedcreative.ca | `cv/main_connected_creative.pdf` | `cover_letters/cover_connected_creative_marketing_manager.pdf` | **SUBMITTED 2026-07-22** via Resend. $65–85k. |
+| 10 | Guardium Group | Digital Marketing Specialist | **Email:** info@guardiumgroup.com | `cv/main_example.pdf` | `cover_letters/cover_guardium_digital_marketing_specialist.pdf` | **SUBMITTED 2026-07-22** via Resend. |
+| 9 | LAG Auto | Marketing Manager | https://ca.linkedin.com/jobs/view/4438330440 | `cv/main_lag_auto.pdf` | `cover_letters/cover_lag_auto_marketing_manager.pdf` | **High fit.** $80k+. Audi Fixed Ops + multi-account marketing. Edmonton/Alberta in-house. Still need portal submit. |
 
 **Guardium mailto (copy/paste):**  
 `mailto:info@guardiumgroup.com?subject=Digital%20Marketing%20Specialist%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20and%20cover%20letter%20for%20the%20Digital%20Marketing%20Specialist%20role.%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`

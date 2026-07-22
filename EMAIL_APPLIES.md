@@ -9,22 +9,20 @@
 
 ---
 
-## Send now (after `RESEND_API_KEY` is in `.env`)
+## Sent (2026-07-22)
+
+| # | Company | To | Resend id | Status |
+|---|---------|-----|-----------|--------|
+| 1 | Connected Creative | hannah@connectedcreative.ca | `03fb2c51-f2f9-4716-8579-09b3a6a2f167` | **submitted** |
+| 2 | Guardium Group | info@guardiumgroup.com | `912d371a-3252-43ab-be87-45a6149e6091` | **submitted** |
+
+From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
+
+## Send more later
 
 ```bash
-pip install resend python-dotenv
 python3 scripts/send_ready_emails.py --dry-run
-python3 scripts/send_ready_emails.py
+python3 scripts/send_application_email.py --to … --subject … --body … --attach …
 ```
 
-| # | Company | To | Attachments |
-|---|---------|-----|-------------|
-| 1 | Connected Creative | hannah@connectedcreative.ca | `cv/main_connected_creative.pdf`, cover |
-| 2 | Guardium Group | info@guardiumgroup.com | `cv/main_example.pdf`, cover |
-
-Fallback (no API key): open `documents/applications/SEND_*.eml` and Send from Outlook.
-
----
-
-## After you send / agent sends
-Reply `submitted email Connected Creative` / `Guardium` so the tracker flips to submitted.
+Key lives in gitignored `.env` only — never commit it.
