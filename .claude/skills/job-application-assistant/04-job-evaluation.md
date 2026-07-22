@@ -52,6 +52,7 @@ Does the role and company culture match the behavioral profile?
 - Alberta nearby (St. Albert, Sherwood Park, Leduc, Spruce Grove, etc.): PASS
 - Requires relocation outside Edmonton region without remote option: FAIL (deal-breaker unless user overrides)
 - Compensation under CAD $60,000 base: FAIL for **career track**; PASS for **survival/local basic** roles near 11110 68 Ave NW when user is in dual-track mode (see CLAUDE.md)
+- Public-facing job at Southgate Centre (mall retail, cafe/barista inside Southgate, food counter at Southgate, store educator/team leader at Southgate): SKIP / do not draft (user rule 2026-07-22)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)

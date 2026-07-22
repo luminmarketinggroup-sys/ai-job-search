@@ -1,53 +1,34 @@
-# Apply ALL local jobs — portal batch
+# Apply local jobs — active batch (no Southgate public-facing)
 
 **Resume:** `cv/main_local_edmonton.pdf`  
 **Phone:** 825-967-9337 · **Email:** dylanschule@live.ca  
-**From Resend (when emailing):** dylan@luminmarketinggroup.com · Reply-To: dylanschule@live.ca
 
-Cloud **cannot** submit Starbucks / LinkedIn / mall portals (login + CAPTCHA).  
-**Already emailed:** KFC Southgate, Connected Creative, Guardium, Adster (info@).
+**Rule (2026-07-22):** Skip public-facing Southgate Centre jobs (mall retail, cafe, food counter, store educator/leader). Focus warehouse / back-of-house near 68 Ave + Calgary Trail.
 
-Open each link → upload PDF → paste blurb from `APPLICATIONS_LOCAL.md`.
+**Already emailed:** KFC Southgate (historical), Connected Creative, Guardium, Adster.
 
-## Priority 1 — closest (do these first)
-| # | Role | Section |
-|---|------|---------|
-| 1 | Starbucks barista — Calgary Trail S | I |
-| 2 | Starbucks barista — 75 St & 68 Ave | A |
-| 3 | SPUD Cross Dock — 7039 68 Ave | 1 |
-| 4 | UPS Evening Warehouse — 6968 68 Ave | 2 |
-| 5 | Starbucks Shift Sup — South Park Calgary Trail | 8 |
-| 6 | lululemon Educator — Southgate ($20–25/hr) | B |
-| 7 | Aritzia Retail Associate ($20–30/hr) | N |
-| 8 | FedEx Package Handler PT ($21/hr early AM) | L |
+---
 
-## Priority 2 — Southgate retail
-| # | Role | Section |
-|---|------|---------|
-| 9 | Browns Cashier (+ Sales Assoc) | C |
-| 10 | JD Sports Sales Associate | D |
-| 11 | Bath & Body Works | E |
-| 12 | Garage / Dynamite seasonal | F |
-| 13 | Saje Team Member | K |
-| 14 | Alo Yoga | H |
-| 15 | Michael Hill | 5 |
-| 16 | Vans Southgate | 6 |
-| 17 | LEGO Team Leader PT | 9 |
-| 18 | Hillberg & Berk ASL | 10 |
-| 19 | Starbucks Shift Sup — Southgate | 7 |
-| 20 | Nespresso Coffee Specialist | 3 |
+## Priority 1 — closest warehouse / BOH
+| # | Role | Section / link |
+|---|------|----------------|
+| 1 | SPUD Cross Dock — 7039 68 Ave | APPLICATIONS_LOCAL #1 |
+| 2 | UPS Evening Warehouse — 6968 68 Ave | APPLICATIONS_LOCAL #2 |
+| 3 | FedEx Package Handler PT — $21/hr early AM | APPLICATIONS_LOCAL #L |
+| 4 | McKesson Warehouse Fri/Sun — $20.07/hr | APPLICATIONS_LOCAL #O |
+| 5 | PepsiCo Part-Time Unloader | APPLICATIONS_LOCAL #11 |
+| 6 | Walmart Stock Unloader | APPLICATIONS_LOCAL #P / #12 |
+| 7 | Staples Sorter-Loader | APPLICATIONS_LOCAL #13 |
 
-## Priority 3 — nearby south / Edmonton
-| # | Role | Section |
-|---|------|---------|
-| 21 | Starbucks barista — Gateway Blvd | G |
-| 22 | Starbucks Shift Sup — South Edmonton Common | J |
-| 23 | Vans South Edmonton Common | M |
-| 24 | McKesson warehouse Fri/Sun | O |
-| 25 | Walmart Stock Unloader | P / 12 |
-| 26 | PepsiCo Unloader | 11 |
-| 27 | Staples Sorter-Loader | 13 |
-| 28 | Chipotle Crew | 14 |
-| 29 | Chartwell Dishwasher | 15 |
+## Priority 2 — other nearby non-mall (optional)
+| # | Role | Notes |
+|---|------|-------|
+| 8 | Starbucks barista — Calgary Trail S | Public-facing but **not** Southgate mall — only if you want cafe work |
+| 9 | Starbucks barista — 75 St & 68 Ave | Same — corridor cafe, not Southgate |
+| 10 | Starbucks Shift Sup — South Park Calgary Trail | Same |
+| 11 | Chartwell Dishwasher | Kitchen BOH, not Southgate |
 
-Reply e.g. `submitted local 1–10` when done.
+## Skipped — Southgate public-facing (do not apply)
+lululemon, Browns, JD Sports, Bath & Body Works, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO, Hillberg & Berk, Nespresso Southgate, Starbucks Southgate Mall, Aritzia (mall retail), Vans SEC (mall/retail public-facing — skip if you want zero public retail; kept off active list).
+
+Reply e.g. `submitted warehouse 1–7` when done.

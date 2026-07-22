@@ -5,67 +5,87 @@
 **Email:** dylanschule@live.ca  
 **LinkedIn:** https://www.linkedin.com/in/dylan-michael-993a78392
 
-**Autonomy (locked 2026-07-22):** auto-draft nearby decent jobs without asking; notify via PR. Cloud cannot reliably auto-submit portal forms (login/CAPTCHA). Submit path until Desktop browser MCP is wired: open link → upload PDF → paste blurb.
+**Autonomy:** auto-draft nearby warehouse/BOH without asking; notify via PR.  
+**Skip (2026-07-22):** public-facing jobs at Southgate Centre (mall retail, cafe, food counter, store educator/leader).
 
 ---
 
-## APPLY ORDER (updated 2026-07-22 evening)
+## ACTIVE — warehouse / BOH near home (apply these)
 
-### I. Starbucks — Barista (Store# 23089, Calgary Trail S) ★ closest corridor
-- **Link:** https://ca.linkedin.com/jobs/view/4440275436  
-- **Why:** Calgary Trail corridor near home / Southgate  
+### 1. SPUD — Cross Dock Team Member (7039 68 Ave NW) ★
+- **Link:** https://ca.edajobs.com/job/41460  
+- **Pay:** ~$17.50/hr FT, Mon–Fri 7:00–3:30  
 - **Blurb:**
-> I’m applying for the barista role at Starbucks store 23089 on Calgary Trail S. I live nearby at 11110 68 Ave NW and can work flexible shifts including early mornings, evenings, weekends, and holidays. I’m used to fast-paced, high-volume customer service from my time as Service Manager at Audi Southgate. I’m reliable, coachable, comfortable with cash handling and cleanliness standards, and ready to learn recipes and deliver a great guest experience.
+> I’m applying for the Cross Dock Team Member role at SPUD’s Edmonton DC on 68 Ave NW. I live nearby at 11110 68 Ave NW and can reliably work the Monday–Friday day shift. I’m used to fast-paced, physical, on-your-feet work and high attention to detail from my time as Service Manager at Audi Southgate. I’m comfortable lifting, loading, quality checks, and keeping a clean, organized dock. I’d welcome the chance to join the team.
 
-### J. Starbucks — Shift Supervisor (Store# 04820, South Edmonton Common)
-- **Link:** https://ca.linkedin.com/jobs/view/4440620559  
+### 2. UPS — Evening Warehouse Worker (6968 68 Ave NW) ★
+- **Link:** https://swooped.co/job-postings/evening-warehouse-worker-south-edmonton-ca-edmonton-south-centre-abedo-fast-forward-67047  
+- **Pay:** ~$17.80/hr PT evenings  
 - **Blurb:**
-> I’m applying for the Shift Supervisor role at Starbucks South Edmonton Common. I’m based in south Edmonton near 68 Ave and bring high-volume customer operations leadership from Audi Southgate Service Manager. I’m calm under pressure, strong with teamwork and standards, and ready to lead shifts while delivering great customer experiences.
+> I’m applying for the evening warehouse role at 6968 68 Ave NW. I live on 68 Ave nearby and can work weekday evening shifts. I’m reliable, comfortable with physical package handling, and used to busy, fast-paced environments from Audi Southgate service operations. I’m ready to learn UPS methods and be a dependable part of the team.
 
-### K. Saje Natural Wellness — Team Member (Southgate Centre)
-- **Link:** https://www.saje.ca/pages/careers (Retail → filter Edmonton / Southgate)  
-- **Alt:** https://ca.trabajo.org/job-2813-a66fcd4f1746a2aa689726d3575ff6dc  
-- **Blurb:**
-> I’m applying for the Team Member role at Saje Southgate Centre. I live near the mall and bring strong guest service from Audi Southgate plus retail-facing brand experience. I’m available for flexible shifts including evenings, weekends, and holidays, and I’m ready to learn product deeply, support sales goals, and keep the store experience high quality.
-
-### L. FedEx — Package Handler PT (Edmonton) ★ $21/hr
+### L. FedEx — Package Handler PT ★ $21/hr
 - **Link:** https://ca.linkedin.com/jobs/view/4442405050  
 - **Pay / shift:** $21/hr · Mon–Sat ~4:00–8:00 AM  
 - **Blurb:**
 > I’m applying for the Part-Time Package Handler role at FedEx. I’m based in south Edmonton near 68 Ave, available for early morning shifts, and comfortable with physical package handling and fast-paced warehouse work. Reliable, coachable, and ready to learn FedEx methods.
 
-### M. Vans — Seasonal Sales Associate (South Edmonton Common)
-- **Link:** https://ca.linkedin.com/jobs/view/4411162688  
-- **Pay:** $16–$19.20/hr  
-- **Blurb:**
-> I’m applying for the Seasonal Sales Associate role at Vans South Edmonton Common. I’m local to south Edmonton, comfortable on a busy sales floor, and bring customer service from Audi Southgate. Available for seasonal hours including evenings and weekends.
-
-### N. Aritzia — Retail Associate (Edmonton) ★ $20–$30/hr
-- **Link:** https://ca.linkedin.com/jobs/view/4438341494  
-- **Blurb:**
-> I’m applying for the Retail Associate role at Aritzia Edmonton. I bring high-volume guest service from Audi Southgate and enjoy elevated retail environments. Available for flexible boutique shifts and focused on great client experiences and team support.
-
-### O. McKesson — Warehouse Person (Fri/Sun afternoons) $20.07/hr
+### O. McKesson — Warehouse Person (Fri/Sun) $20.07/hr
 - **Link:** https://ca.linkedin.com/jobs/view/4443397965  
 - **Blurb:**
 > I’m applying for the Warehouse Person role (Friday and Sunday afternoon/evening shifts). I’m reliable, comfortable lifting up to 50 lbs and standing for long shifts, and based in south Edmonton. Ready to learn RF scanning and warehouse processes quickly.
+
+### 11. PepsiCo — Part-Time Unloader
+- **Link:** https://ca.linkedin.com/jobs/view/part-time-unloader-edmonton-at-pepsico-4428294807  
+- **Blurb:**
+> I’m applying for the Part-Time Unloader role. I’m physically ready for unloading work, reliable on shift, and used to fast-paced environments. Based in south Edmonton and available for the posted schedule.
 
 ### P. Walmart — Stock Unloader Associate (5004 98 Ave)
 - **Link:** https://ca.linkedin.com/jobs/view/4413364609  
 - **Blurb:**
 > I’m applying for the Stock Unloader Associate role. I’m comfortable unloading trailers, moving pallets, and physical stocking work. Reliable, local to Edmonton, and ready for the posted schedule.
 
+### 12. Walmart — Stock Unloader Associate (PT Afternoon) (alt listing)
+- **Link:** https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-pt-afternoon-at-walmart-canada-4419657731  
+- **Blurb:**
+> I’m applying for the PT Afternoon Stock Unloader Associate role. I’m comfortable with physical stocking work, on-your-feet shifts, and busy store backrooms. Reliable, local to Edmonton, and available afternoons.
+
+### 13. Staples Canada — Sorter-Loader
+- **Link:** https://ca.linkedin.com/jobs/view/sorter-loader-sp-at-staples-canada-4434718968  
+- **Blurb:**
+> I’m applying for the Sorter-Loader role at Staples. I’m detail-oriented, physically able to sort and load, and used to paced warehouse-style work. Happy to learn site processes quickly.
+
+### 15. Chartwell — Dishwasher (kitchen BOH, not Southgate)
+- **Link:** https://ca.linkedin.com/jobs/view/dishwasher-at-chartwell-retirement-residences-4438520099  
+- **Blurb:**
+> I’m applying for the Dishwasher role. I’m reliable, comfortable with physical kitchen support work, and focused on cleanliness and helping the team keep service running smoothly.
+
 ---
 
-## SUBMITTED via email (2026-07-22)
+## Optional — cafe on corridor (not Southgate mall)
+Only if you want public-facing cafe work outside Southgate:
 
-### 4. KFC & Pizza Hut — Food Counter Attendant (Southgate) ✅
-- Sent to `hr.foodsservice@gmail.com` and `jobs.southgatefoods@yahoo.com` with local resume  
-- Resend ids: `ffcdb1a9-41a9-4906-92d2-e0a461b7f793`, `b372e6bb-95fd-4057-8e48-c119ddb779c1`
+### I. Starbucks — Barista (Calgary Trail S)
+- **Link:** https://ca.linkedin.com/jobs/view/4440275436  
+- **Blurb:** (see prior draft in git history / ask to restore)
+
+### A. Starbucks — Barista (75 St & 68 Ave)
+- **Link:** https://ca.linkedin.com/jobs/view/4440606993  
+
+### 8. Starbucks — Shift Supervisor (South Park, Calgary Trail)
+- **Link:** https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4440268814  
 
 ---
 
-## Earlier today (2026-07-22) — still apply (portals)
+## SKIPPED — Southgate public-facing (do not apply)
+Archived: lululemon, Browns, JD Sports, Bath & Body Works, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO, Hillberg & Berk, Nespresso Southgate, Starbucks Southgate Mall, Aritzia, Vans SEC, Chipotle (public food), Gateway barista (optional skip).
+
+### KFC Southgate — already emailed (historical; public-facing Southgate — no further action)
+- Sent 2026-07-22 to hr.foodsservice@gmail.com + jobs.southgatefoods@yahoo.com
+
+---
+
+## Archive blurbs (inactive)
 
 ### A. Starbucks — Barista (Store# 65529, 75 Street & 68th Avenue) ★ closest
 - **Link:** https://ca.linkedin.com/jobs/view/4440606993  

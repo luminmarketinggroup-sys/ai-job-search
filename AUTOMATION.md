@@ -1,19 +1,22 @@
 # Job Search Automation — Dylan Michael
 
 ## Goal (current phase)
-1. **Survival track:** Find any decent job very close to 11110 68 Ave NW, Edmonton (Southgate / 68 Ave / Calgary Trail). Cafe, retail, warehouse, food service OK. Pay floor soft for this track.
-2. **Career track:** Keep drafting marketing / SEO / AI roles ≥ CAD $60k (Edmonton or remote).
+1. **Survival track:** Nearby warehouse / back-of-house / non-mall jobs near 11110 68 Ave NW (68 Ave industrial, Calgary Trail corridor). Pay floor soft.
+2. **Career track:** Marketing / SEO / AI roles ≥ CAD $60k (Edmonton or remote).
 3. Once employed locally, shift focus to better career roles.
 
-## Autonomy settings (user-approved 2026-07-22 — LOCKED)
+## Hard skip (user 2026-07-22)
+**Do not draft or prioritize public-facing jobs at Southgate Centre** — mall retail, sales associate, barista/cafe inside Southgate, food counter at Southgate, store educator / team leader at Southgate. Already-drafted Southgate public-facing rows stay in the archive but are out of the active submit batch.
+
+## Autonomy settings (user-approved 2026-07-22 — LOCKED; Southgate PF excluded)
 | Setting | Value |
 |---------|--------|
-| Schedule | **Open** (recommend daily 08:00 America/Edmonton until Cursor Automation is created) |
-| Scope | **Both** — nearby decent survival jobs first, then career ≥$60k |
-| Goal now | Any decent job very close to 11110 68 Ave NW; upgrade career once employed |
-| Auto-draft | **Yes — no ask** for: (a) local roles within ~15 min of home / Southgate / 68 Ave / Calgary Trail, or (b) career High/Good fit ≥60 |
+| Schedule | **Open** / daily automation live |
+| Scope | **Both** — nearby warehouse/back-of-house first, then career ≥$60k |
+| Goal now | Decent nearby non-Southgate-public-facing job; upgrade career once employed |
+| Auto-draft | **Yes — no ask** for: (a) local warehouse/BOH within ~15 min of home / 68 Ave / Calgary Trail (not Southgate public-facing), or (b) career High/Good fit ≥60 |
 | Notify | **PR updates** on branch `cursor/dylan-michael-profile-setup-7ff7` |
-| Auto-submit | **Requested without human** — cloud cannot complete most portal forms; see limits. Email-apply roles may be sent when outbound mail exists. |
+| Auto-submit | Email via Resend when possible; portals still need human/Desktop browser |
 
 ## What Cursor Cloud can do unattended
 - Scrape LinkedIn/web for new jobs
@@ -63,7 +66,8 @@ This is the only practical way to approach “auto submit without human” for f
 ---
 
 ## Priority order when drafting
-1. Same street / Southgate / Calgary Trail basic jobs  
-2. Other nearby Edmonton basic jobs  
+1. 68 Ave / Calgary Trail warehouse, dock, package handler, unloader, stock (non-mall)  
+2. Other nearby Edmonton warehouse / BOH  
 3. Career High fits ≥ $60k  
 4. Career Good fits  
+5. **Never:** Southgate Centre public-facing retail/food/cafe

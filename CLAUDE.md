@@ -78,10 +78,11 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Deal-breakers
 - **Career track:** Base compensation under CAD $60,000; relocation away from Edmonton without remote/hybrid (hard fail unless overridden)
-- **Survival track (current priority until employed):** Soft pay floor — cafe/retail/warehouse/food near 11110 68 Ave NW are in scope under $60k. Prefer Southgate / 68 Ave / Calgary Trail
+- **Survival track (current priority until employed):** Soft pay floor — warehouse / back-of-house / non-mall roles near 11110 68 Ave NW are in scope under $60k. Prefer 68 Ave / Calgary Trail industrial corridor
+- **Skip:** Public-facing jobs at Southgate Centre (mall retail, sales associate, barista/cafe inside Southgate, food counter at Southgate, store educator / team leader roles at Southgate). Do not auto-draft or prioritize these.
 
-### Autonomy (approved 2026-07-22)
-- Auto-draft without asking for local near-home roles and career Good/High fits (≥60)
+### Autonomy (approved 2026-07-22; Southgate public-facing excluded 2026-07-22)
+- Auto-draft without asking for nearby non-Southgate-public-facing local roles and career Good/High fits (≥60)
 - Notify via PR updates
 - Auto-submit desired but limited by portal logins/CAPTCHAs — see `AUTOMATION.md`
 
