@@ -28,9 +28,44 @@
 - **Blurb:**
 > I’m applying for the Team Member role at Saje Southgate Centre. I live near the mall and bring strong guest service from Audi Southgate plus retail-facing brand experience. I’m available for flexible shifts including evenings, weekends, and holidays, and I’m ready to learn product deeply, support sales goals, and keep the store experience high quality.
 
+### L. FedEx — Package Handler PT (Edmonton) ★ $21/hr
+- **Link:** https://ca.linkedin.com/jobs/view/4442405050  
+- **Pay / shift:** $21/hr · Mon–Sat ~4:00–8:00 AM  
+- **Blurb:**
+> I’m applying for the Part-Time Package Handler role at FedEx. I’m based in south Edmonton near 68 Ave, available for early morning shifts, and comfortable with physical package handling and fast-paced warehouse work. Reliable, coachable, and ready to learn FedEx methods.
+
+### M. Vans — Seasonal Sales Associate (South Edmonton Common)
+- **Link:** https://ca.linkedin.com/jobs/view/4411162688  
+- **Pay:** $16–$19.20/hr  
+- **Blurb:**
+> I’m applying for the Seasonal Sales Associate role at Vans South Edmonton Common. I’m local to south Edmonton, comfortable on a busy sales floor, and bring customer service from Audi Southgate. Available for seasonal hours including evenings and weekends.
+
+### N. Aritzia — Retail Associate (Edmonton) ★ $20–$30/hr
+- **Link:** https://ca.linkedin.com/jobs/view/4438341494  
+- **Blurb:**
+> I’m applying for the Retail Associate role at Aritzia Edmonton. I bring high-volume guest service from Audi Southgate and enjoy elevated retail environments. Available for flexible boutique shifts and focused on great client experiences and team support.
+
+### O. McKesson — Warehouse Person (Fri/Sun afternoons) $20.07/hr
+- **Link:** https://ca.linkedin.com/jobs/view/4443397965  
+- **Blurb:**
+> I’m applying for the Warehouse Person role (Friday and Sunday afternoon/evening shifts). I’m reliable, comfortable lifting up to 50 lbs and standing for long shifts, and based in south Edmonton. Ready to learn RF scanning and warehouse processes quickly.
+
+### P. Walmart — Stock Unloader Associate (5004 98 Ave)
+- **Link:** https://ca.linkedin.com/jobs/view/4413364609  
+- **Blurb:**
+> I’m applying for the Stock Unloader Associate role. I’m comfortable unloading trailers, moving pallets, and physical stocking work. Reliable, local to Edmonton, and ready for the posted schedule.
+
 ---
 
-## Earlier today (2026-07-22) — still apply
+## SUBMITTED via email (2026-07-22)
+
+### 4. KFC & Pizza Hut — Food Counter Attendant (Southgate) ✅
+- Sent to `hr.foodsservice@gmail.com` and `jobs.southgatefoods@yahoo.com` with local resume  
+- Resend ids: `ffcdb1a9-41a9-4906-92d2-e0a461b7f793`, `b372e6bb-95fd-4057-8e48-c119ddb779c1`
+
+---
+
+## Earlier today (2026-07-22) — still apply (portals)
 
 ### A. Starbucks — Barista (Store# 65529, 75 Street & 68th Avenue) ★ closest
 - **Link:** https://ca.linkedin.com/jobs/view/4440606993  
@@ -97,13 +132,6 @@
 - **Pay:** $18/hr PT  
 - **Blurb:**
 > I’m applying for the Part-Time Coffee Specialist role at Nespresso Southgate. I live near the mall and bring strong customer service from Audi Southgate plus retail-facing experience. I’m comfortable in a fast-paced sales environment, happy to learn the Nespresso product line, and available for flexible part-time shifts.
-
-### 4. KFC & Pizza Hut — Food Counter Attendant (Southgate)
-- **Link:** https://nativejobs.ca/job/562653/food-counter-attendant/  
-- **Pay:** $15.80/hr  
-- **How:** Email or apply in person at #401, 5015–111 Street NW if email isn’t listed as live  
-- **Blurb:**
-> I’m applying for the Food Counter Attendant role at Southgate. I live nearby, can work flexible shifts including evenings and weekends, and I’m comfortable in fast-paced customer environments from Audi Southgate. I’m reliable, willing to train, and ready to help with orders, prep, cleaning, and team support.
 
 ### 5. Michael Hill — Sales Associate PT (Southgate) $17/hr
 - **Link:** https://ca.linkedin.com/jobs/view/sales-associate-southgate-part-time-%2417-per-hour-at-michael-hill-4439901624  
