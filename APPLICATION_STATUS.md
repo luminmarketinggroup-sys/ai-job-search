@@ -41,8 +41,8 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 | L1 | SPUD | Cross Dock Team Member | 7039 68 Ave · ~$17.50/hr · days | https://ca.edajobs.com/job/41460 |
 | L2 | UPS | Evening Warehouse Worker | 6968 68 Ave · evenings | https://swooped.co/job-postings/evening-warehouse-worker-south-edmonton-ca-edmonton-south-centre-abedo-fast-forward-67047 |
 | L3 | FedEx Canada | Package Handler PT | ~$21/hr early AM · also careers.fedex.com P25-93286-2 | https://ca.linkedin.com/jobs/view/4442405050 |
-| L4 | **Uline** | Warehouse Associate – Days | **$31–35/hr** · St Albert · Mon–Fri 10:30–7 | https://ca.linkedin.com/jobs/view/4440735686 |
-| L5 | Uline | Warehouse Associate – Days | Spruce Grove twin listing | https://ca.linkedin.com/jobs/view/4440730783 |
+| L4 | **Uline** | Warehouse Associate – Days | **$31–35/hr** · St Albert · Mon–Fri 10:30–7 | https://www.uline.jobs/ (search Edmonton) · https://ca.linkedin.com/jobs/view/4440735686 |
+| L5 | Uline | Warehouse Associate – Days | Spruce Grove twin listing | https://www.uline.jobs/ · https://ca.linkedin.com/jobs/view/4440730783 |
 | L6 | McKesson | Warehouse Person Fri/Sun | $20.07/hr | https://ca.linkedin.com/jobs/view/4443397965 |
 | L7 | McKesson | Warehouse Worker Evening | Sun–Thu 6:30pm–3am · $20.07/hr · 14010 164 St | https://ca.linkedin.com/jobs/view/4443510654 |
 | L8 | Wesco | Warehouse Associate | $20.04–$24.05/hr · entry OK | https://ca.linkedin.com/jobs/view/4442173995 |
