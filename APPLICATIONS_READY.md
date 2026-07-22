@@ -5,15 +5,15 @@ Drafted CV + cover letter PDFs. **Portal submit still needs you** (or Desktop br
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
-## NEW scrape shortlist (2026-07-22) — apply / tailor next
+## NEW scrape drafts ready (2026-07-22) — portal submit next
 
-| # | Company | Role | Fit | Apply | Notes |
-|---|---------|------|-----|-------|-------|
-| C10 | Riva International | Digital Marketing Manager (13-mo) | High | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 | Remote Canada · paid/SEO/CRO · use nearest digital marketing CV until tailored |
-| C11 | StackAdapt | Marketing Operations Manager | Med-High | https://ca.linkedin.com/jobs/view/4429941362 | Remote Canada · HubSpot/Salesforce ops · 3+ yrs asked |
-| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 | Edmonton · HubSpot + AI · degree preferred |
-| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | https://ca.linkedin.com/jobs/view/4438527510 | Edmonton · PPC/social/ILS |
-| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | https://ca.linkedin.com/jobs/view/4443720741 | Edmonton · loyalty/campaigns |
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C10 | Riva International | Digital Marketing Manager (13-mo) | High | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 | `cv/main_riva.pdf` | `cover_letters/cover_riva_digital_marketing_manager.pdf` | No degree; SMB agency not regulated B2B SaaS (stated in letter) |
+| C11 | StackAdapt | Marketing Operations Manager | Med-High | https://ca.linkedin.com/jobs/view/4429941362 | `cv/main_stackadapt.pdf` | `cover_letters/cover_stackadapt_marketing_operations_manager.pdf` | GHL not HubSpot/Salesforce (stated); remote Canada |
+| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 | `cv/main_pacesetter.pdf` | `cover_letters/cover_pacesetter_digital_ai_marketing_specialist.pdf` | No diploma; HubSpot ramp (stated) |
+| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | https://ca.linkedin.com/jobs/view/4438527510 | `cv/main_morguard.pdf` | `cover_letters/cover_morguard_regional_marketing_digital_specialist.pdf` | No Rentsync/ILS experience (stated) |
+| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | https://ca.linkedin.com/jobs/view/4443720741 | `cv/main_ama.pdf` | `cover_letters/cover_ama_marketing_specialist_member_rewards.pdf` | No large loyalty-program ownership (stated) |
 
 ## Previously new (2026-07-22 evening)
 

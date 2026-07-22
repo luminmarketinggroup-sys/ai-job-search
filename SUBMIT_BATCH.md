@@ -31,7 +31,10 @@ Blurbs: `APPLICATIONS_LOCAL.md`
 Starbucks Calgary Trail / 75&68 / South Park — only if you want cafe work.
 
 ## Career portals still open
-See `APPLICATION_STATUS.md` § Career — LAG Auto, Keysight, LawDepot, CREATIVE, Randstad, Durabuilt, Elevation, AutoCanada + new: Riva, StackAdapt, Pacesetter, Morguard, AMA.
+See `APPLICATION_STATUS.md` / `APPLICATIONS_READY.md`.
+
+**New packs drafted:** Riva · StackAdapt · Pacesetter · Morguard · AMA  
+**Prior packs:** LAG Auto · Keysight · LawDepot · CREATIVE · Randstad · Durabuilt · Elevation · AutoCanada (+ Adster Jotform)
 
 ## Skipped — Southgate public-facing
 Do not apply (mall retail/cafe/food/educator).

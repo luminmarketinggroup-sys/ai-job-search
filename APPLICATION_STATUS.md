@@ -92,18 +92,22 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C8 | AutoCanada | Marketing Account Manager | `main_autocanada` + cover | https://ca.linkedin.com/jobs/view/4432105251 |
 | C9 | Adster | Digital Marketing Strategist | Email done — finish Jotform | https://form.jotform.com/Adster_Creative/adster-careers |
 
-### New this scrape — career shortlist (apply / draft next)
-| # | Company | Role | Fit | Notes | Link |
-|---|---------|------|-----|-------|------|
-| C10 | **Riva International** | Digital Marketing Manager (13-mo) | High | Remote Canada · paid/SEO/CRO · Edmonton HQ | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 |
-| C11 | **StackAdapt** | Marketing Operations Manager | Medium-High | Remote Canada · HubSpot/Salesforce ops · 3+ yrs asked | https://ca.linkedin.com/jobs/view/4429941362 |
-| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | Edmonton · HubSpot/AI · degree preferred | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 |
-| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | Edmonton · PPC/social/ILS · 3–5 yrs | https://ca.linkedin.com/jobs/view/4438527510 |
-| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | Edmonton · loyalty/campaigns · AI tools plus | https://ca.linkedin.com/jobs/view/4443720741 |
-| C15 | Directive | SEO Strategist (Remote Canada) | Medium | Future opening — watch / apply if live | https://ca.linkedin.com/jobs/view/4440590698 |
-| C16 | Go Auto | Automations & Database Marketing Specialist | Medium | Edmonton Mayfield · 3–5 yrs MAP/CRM | https://ca.trabajo.org/job-4038-3c5669375543d4a32badf41d12b2ebbd |
-| C17 | Executrade client | Marketing Generalist | Medium | Edmonton hospitality textiles · 3+ yrs | https://ca.linkedin.com/jobs/view/4439451164 |
-| C18 | Headhunters client | Marketing Manager | Medium | Gibbons onsite · leadership stretch | https://ca.linkedin.com/jobs/view/4441635217 |
+### New this scrape — drafted (portal submit)
+| # | Company | Role | Fit | Materials | Link |
+|---|---------|------|-----|-----------|------|
+| C10 | **Riva International** | Digital Marketing Manager (13-mo) | High | `main_riva` + cover | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 |
+| C11 | **StackAdapt** | Marketing Operations Manager | Med-High | `main_stackadapt` + cover | https://ca.linkedin.com/jobs/view/4429941362 |
+| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | `main_pacesetter` + cover | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 |
+| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | `main_morguard` + cover | https://ca.linkedin.com/jobs/view/4438527510 |
+| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | `main_ama` + cover | https://ca.linkedin.com/jobs/view/4443720741 |
+
+### Watch / later (not fully drafted)
+| # | Company | Role | Notes | Link |
+|---|---------|------|-------|------|
+| C15 | Directive | SEO Strategist (Remote Canada) | Future opening | https://ca.linkedin.com/jobs/view/4440590698 |
+| C16 | Go Auto | Automations & Database Marketing Specialist | 3–5 yrs MAP/CRM | https://ca.trabajo.org/job-4038-3c5669375543d4a32badf41d12b2ebbd |
+| C17 | Executrade client | Marketing Generalist | 3+ yrs | https://ca.linkedin.com/jobs/view/4439451164 |
+| C18 | Headhunters client | Marketing Manager | Leadership stretch · Gibbons | https://ca.linkedin.com/jobs/view/4441635217 |
 
 ---
 
@@ -120,13 +124,12 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 
 ---
 
-## Counts (this scrape)
+## Counts
 
-- LinkedIn CLI: **194** results → **114** unique across warehouse + marketing queries (14-day window)
-- New warehouse/BOH added to active pack: **~20**
-- New career shortlist: **9**
-- Already submitted: **4** (3 career + 1 historical local)
-- Career portals still waiting on you: **8** drafted + Adster Jotform
-- Local portals waiting on you: **Priority A first (L1–L10)**, then B
+- LinkedIn CLI scrape: **194** results → **114** unique
+- Already submitted: **4** (3 career email + 1 historical local)
+- Career portals ready (drafted PDF packs): **13** (C1–C8 prior + C10–C14 new) + Adster Jotform
+- Local warehouse ready: Priority A (L1–L10) then B
+- New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA (CVs 2pp / covers 1pp)
 
-Reply e.g. `submitted L1 L3 L4` or `submitted C1 C2` to update the tracker.
+Reply e.g. `submitted L1 L3 L4` or `submitted C10 C11` to update the tracker.
