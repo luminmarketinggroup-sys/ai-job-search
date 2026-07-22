@@ -1,6 +1,14 @@
-# Email applies — send these first (cloud cannot SMTP from here)
+# Email applies — send these first
 
-No outbound mail is configured in this environment. Open each mailto (or compose in your inbox), attach the PDFs, send.
+**Cloud cannot deliver mail** (no SMTP / Resend / SendGrid credentials in this environment).  
+**One-click on your machine:** open these `.eml` files (double-click → Send):
+
+| File | To |
+|------|-----|
+| `documents/applications/SEND_connected_creative.eml` | hannah@connectedcreative.ca |
+| `documents/applications/SEND_guardium.eml` | info@guardiumgroup.com |
+
+PDFs are already attached inside each `.eml`.
 
 ---
 
