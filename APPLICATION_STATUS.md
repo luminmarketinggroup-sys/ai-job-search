@@ -21,6 +21,11 @@ Southgate Centre public-facing roles are skipped (do not apply).
 | 6 | Career | Pacesetter Homes | Digital and AI Marketing Specialist | Email Resend → info@yourpacesetter.com (`003dc722…`) | 2026-07-22 |
 | 7 | Career | Morguard | Regional Marketing & Digital Specialist | Email Resend → hrassist@morguard.com (`7b60362f…`) | 2026-07-22 |
 | 8 | Career | Riva International | Digital Marketing Manager (13-mo) | Email Resend → careers@ + info@ rivaengine.com (Greenhouse CAPTCHA blocked) | 2026-07-22 |
+| 9 | Career | LAG Auto | Marketing Manager | Email Resend → hiring@lagauto.ca (`14e431e7…`) | 2026-07-22 |
+| 10 | Career | LawDepot | Digital Marketing Automation Specialist | Email Resend → career@lawdepot.ca (`28c53902…`) | 2026-07-22 |
+| 11 | Career | Durabuilt | Digital Marketing Manager | Email Resend → hr@durabuiltwindows.com (`a7c31d3a…`) | 2026-07-22 |
+| 12 | Career | CREATIVE Agency | SEO Specialist | Email Resend → hello@acreativeagency.ca (`5b2c5cdd…`) | 2026-07-22 |
+| 13 | Career | Randstad / client | Digital Marketing Manager (13-mo) | Email Resend → chloe.naccache@randstad.ca (`e3f026a5…`) | 2026-07-22 |
 
 \*KFC is historical only. New Southgate public-facing applies are blocked.
 
@@ -86,19 +91,20 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
-| C1 | LAG Auto | Marketing Manager | `main_lag_auto` + cover | https://ca.linkedin.com/jobs/view/4438330440 |
 | C2 | Keysight | SEO & GEO Specialist | `main_keysight` + cover | https://ca.linkedin.com/jobs/view/4437698032 |
-| C3 | LawDepot | Digital Marketing Automation Specialist | `main_lawdepot` + cover | https://ca.linkedin.com/jobs/view/4439315323 |
-| C4 | CREATIVE Agency | SEO Specialist | `main_creative` + cover | https://acreativeagency.ca/current-job-posting-seo-specialist/ |
-| C5 | Randstad client | Digital Marketing Manager (13-mo) | `main_randstad` + cover | https://www.randstad.ca/jobs/digital-marketing-manager_edmonton_47036423/ |
-| C6 | Durabuilt | Digital Marketing Manager | `main_durabuilt` + cover | https://ca.linkedin.com/jobs/view/4209334487 |
 | C7 | Elevation Capital | Applied AI Marketing Engineer | `main_elevation_capital` + cover | https://ca.linkedin.com/jobs/view/4440462335 |
 | C8 | AutoCanada | Marketing Account Manager | `main_autocanada` + cover | https://ca.linkedin.com/jobs/view/4432105251 |
 | C9 | Adster | Digital Marketing Strategist | Email done — finish Jotform | https://form.jotform.com/Adster_Creative/adster-careers |
+| C4f | CREATIVE Agency | SEO Specialist | Email done — finish web form | https://acreativeagency.ca/current-job-posting-seo-specialist/ |
 
 ### New this scrape — status
 | # | Company | Role | Status | Materials | Official portal (optional follow-up) |
 |---|---------|------|--------|-----------|--------------------------------------|
+| C1 | LAG Auto | Marketing Manager | **Email submitted** | `main_lag_auto` + cover | hiring@lagauto.ca |
+| C3 | LawDepot | Digital Marketing Automation Specialist | **Email submitted** | `main_lawdepot` + cover | career@lawdepot.ca (+ careers portal) |
+| C4 | CREATIVE Agency | SEO Specialist | **Email submitted** | `main_creative` + cover | hello@acreativeagency.ca (+ web form) |
+| C5 | Randstad client | Digital Marketing Manager (13-mo) | **Email submitted** | `main_randstad` + cover | chloe.naccache@randstad.ca |
+| C6 | Durabuilt | Digital Marketing Manager | **Email submitted** | `main_durabuilt` + cover | hr@durabuiltwindows.com |
 | C10 | Riva International | Digital Marketing Manager (13-mo) | **Email submitted** | `main_riva` + cover | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 |
 | C11 | StackAdapt | Marketing Operations Manager | **Email submitted** | `main_stackadapt` + cover | https://job-boards.greenhouse.io/stackadapt/jobs/4282643009 |
 | C12 | Pacesetter Homes | Digital and AI Marketing Specialist | **Email submitted** | `main_pacesetter` + cover | Qualico/Pacesetter Career Centre / ADP |
@@ -131,9 +137,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ## Counts
 
 - LinkedIn CLI scrape: **194** results → **114** unique
-- Already submitted: **4** (3 career email + 1 historical local)
-- Career portals ready (drafted PDF packs): **13** (C1–C8 prior + C10–C14 new) + Adster Jotform
-- Local warehouse ready: Priority A (L1–L10) then B
-- New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA (CVs 2pp / covers 1pp)
+- Already submitted: **13 career/local email applies** (LAG, LawDepot, Durabuilt, CREATIVE, Randstad + prior)
+- Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups
+- New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA
 
-Reply e.g. `submitted L1 L3 L4` or `submitted C10 C11` to update the tracker.
+Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.

@@ -60,6 +60,7 @@
 > I’m applying for the Dishwasher role. I’m reliable, comfortable with physical kitchen support work, and focused on cleanliness and helping the team keep service running smoothly.
 
 ### R. Uline — Warehouse Associate Days (St Albert) ★ $31–35/hr
+- **Official portal:** https://www.uline.jobs/ (search Edmonton / St. Albert)  
 - **Link:** https://ca.linkedin.com/jobs/view/4440735686  
 - **Also:** Spruce Grove https://ca.linkedin.com/jobs/view/4440730783  
 - **Shift:** Mon–Fri 10:30 AM–7:00 PM  

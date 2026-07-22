@@ -23,10 +23,15 @@
 | 8 | Morguard | hrassist@morguard.com | `7b60362f-85c4-4923-8a5a-960355ad14a5` | **submitted** (also finish Teamtailor portal if you can) |
 | 9 | Riva International | careers@rivaengine.com | `2ce95f74-4d01-435b-ab50-f6ca9bfd9d72` | **submitted** (address unverified; Greenhouse CAPTCHA blocked) |
 | 10 | Riva International | info@rivaengine.com | `6d1c9e2b-dbd9-4616-966d-0442b7283808` | **submitted** (address unverified; Greenhouse CAPTCHA blocked) |
+| 11 | LAG Auto Group | hiring@lagauto.ca | `14e431e7-b07d-4c8b-b592-d2ff7de870d6` | **submitted** |
+| 12 | LawDepot | career@lawdepot.ca | `28c53902-f03c-42f2-8d47-78e6c6afdb39` | **submitted** (also careers.lawdepot.com) |
+| 13 | Durabuilt Windows & Doors | hr@durabuiltwindows.com | `a7c31d3a-4541-405e-803f-90d352bbc1b2` | **submitted** (also JazzHR if available) |
+| 14 | CREATIVE Agency | hello@acreativeagency.ca | `5b2c5cdd-9235-4189-95a9-34fc0f795777` | **submitted** (also finish web form if you can) |
+| 15 | Randstad / client | chloe.naccache@randstad.ca | `e3f026a5-97ed-4586-8b43-d369751f259e` | **submitted** (recruiter email from JD) |
 
 From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
-**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), plus official Greenhouse/Teamtailor/ADP forms for Riva/StackAdapt/Morguard/Pacesetter if email is not enough.
+**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser.
 
 ## Send more later
 

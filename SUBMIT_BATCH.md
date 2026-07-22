@@ -34,7 +34,8 @@ Starbucks Calgary Trail / 75&68 / South Park — only if you want cafe work.
 See `APPLICATION_STATUS.md` / `APPLICATIONS_READY.md`.
 
 **New packs drafted:** Riva · StackAdapt · Pacesetter · Morguard · AMA  
-**Prior packs:** LAG Auto · Keysight · LawDepot · CREATIVE · Randstad · Durabuilt · Elevation · AutoCanada (+ Adster Jotform)
+**Email submitted:** LAG · LawDepot · Durabuilt · CREATIVE · Randstad (+ prior Riva/StackAdapt/Pacesetter/Morguard/Adster/Connected/Guardium)
+**Still portal:** Keysight · Elevation · AutoCanada · AMA · Adster Jotform · CREATIVE form · warehouse Priority A
 
 ## Skipped — Southgate public-facing
 Do not apply (mall retail/cafe/food/educator).
