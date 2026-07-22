@@ -9,7 +9,28 @@
 
 ---
 
-## NEW this run (2026-07-22) — apply these first
+## APPLY ORDER (updated 2026-07-22 evening)
+
+### I. Starbucks — Barista (Store# 23089, Calgary Trail S) ★ closest corridor
+- **Link:** https://ca.linkedin.com/jobs/view/4440275436  
+- **Why:** Calgary Trail corridor near home / Southgate  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks store 23089 on Calgary Trail S. I live nearby at 11110 68 Ave NW and can work flexible shifts including early mornings, evenings, weekends, and holidays. I’m used to fast-paced, high-volume customer service from my time as Service Manager at Audi Southgate. I’m reliable, coachable, comfortable with cash handling and cleanliness standards, and ready to learn recipes and deliver a great guest experience.
+
+### J. Starbucks — Shift Supervisor (Store# 04820, South Edmonton Common)
+- **Link:** https://ca.linkedin.com/jobs/view/4440620559  
+- **Blurb:**
+> I’m applying for the Shift Supervisor role at Starbucks South Edmonton Common. I’m based in south Edmonton near 68 Ave and bring high-volume customer operations leadership from Audi Southgate Service Manager. I’m calm under pressure, strong with teamwork and standards, and ready to lead shifts while delivering great customer experiences.
+
+### K. Saje Natural Wellness — Team Member (Southgate Centre)
+- **Link:** https://www.saje.ca/pages/careers (Retail → filter Edmonton / Southgate)  
+- **Alt:** https://ca.trabajo.org/job-2813-a66fcd4f1746a2aa689726d3575ff6dc  
+- **Blurb:**
+> I’m applying for the Team Member role at Saje Southgate Centre. I live near the mall and bring strong guest service from Audi Southgate plus retail-facing brand experience. I’m available for flexible shifts including evenings, weekends, and holidays, and I’m ready to learn product deeply, support sales goals, and keep the store experience high quality.
+
+---
+
+## Earlier today (2026-07-22) — still apply
 
 ### A. Starbucks — Barista (Store# 65529, 75 Street & 68th Avenue) ★ closest
 - **Link:** https://ca.linkedin.com/jobs/view/4440606993  
