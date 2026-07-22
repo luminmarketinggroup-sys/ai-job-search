@@ -1,10 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. **Portal submit still needs you** (or Desktop browser MCP). Exception: Guardium is email apply.
+Drafted CV + cover letter PDFs. **Portal submit still needs you** (or Desktop browser MCP). Exception: Guardium/Connected/Adster email already sent.
 
-Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392
+Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
+**Master status board:** `APPLICATION_STATUS.md`
 
-## NEW this run (2026-07-22 evening)
+## NEW scrape shortlist (2026-07-22) — apply / tailor next
+
+| # | Company | Role | Fit | Apply | Notes |
+|---|---------|------|-----|-------|-------|
+| C10 | Riva International | Digital Marketing Manager (13-mo) | High | https://job-boards.greenhouse.io/rivainternationalinc/jobs/4253859009 | Remote Canada · paid/SEO/CRO · use nearest digital marketing CV until tailored |
+| C11 | StackAdapt | Marketing Operations Manager | Med-High | https://ca.linkedin.com/jobs/view/4429941362 | Remote Canada · HubSpot/Salesforce ops · 3+ yrs asked |
+| C12 | Pacesetter Homes | Digital and AI Marketing Specialist | High | https://jobcanadian.com/digital-and-ai-marketing-specialist-pacesetter-homes-job266616 | Edmonton · HubSpot + AI · degree preferred |
+| C13 | Morguard | Regional Marketing & Digital Specialist | Medium | https://ca.linkedin.com/jobs/view/4438527510 | Edmonton · PPC/social/ILS |
+| C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | Medium | https://ca.linkedin.com/jobs/view/4443720741 | Edmonton · loyalty/campaigns |
+
+## Previously new (2026-07-22 evening)
 
 | # | Company | Role | Apply | CV | Cover | Notes |
 |---|---------|------|-------|----|-------|-------|

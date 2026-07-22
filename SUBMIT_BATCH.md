@@ -2,33 +2,38 @@
 
 **Resume:** `cv/main_local_edmonton.pdf`  
 **Phone:** 825-967-9337 · **Email:** dylanschule@live.ca  
+**Full status board:** `APPLICATION_STATUS.md`
 
-**Rule (2026-07-22):** Skip public-facing Southgate Centre jobs (mall retail, cafe, food counter, store educator/leader). Focus warehouse / back-of-house near 68 Ave + Calgary Trail.
+**Rule (2026-07-22):** Skip public-facing Southgate Centre jobs. Focus warehouse / BOH.
 
 **Already emailed:** KFC Southgate (historical), Connected Creative, Guardium, Adster.
 
 ---
 
-## Priority 1 — closest warehouse / BOH
-| # | Role | Section / link |
-|---|------|----------------|
-| 1 | SPUD Cross Dock — 7039 68 Ave | APPLICATIONS_LOCAL #1 |
-| 2 | UPS Evening Warehouse — 6968 68 Ave | APPLICATIONS_LOCAL #2 |
-| 3 | FedEx Package Handler PT — $21/hr early AM | APPLICATIONS_LOCAL #L |
-| 4 | McKesson Warehouse Fri/Sun — $20.07/hr | APPLICATIONS_LOCAL #O |
-| 5 | PepsiCo Part-Time Unloader | APPLICATIONS_LOCAL #11 |
-| 6 | Walmart Stock Unloader | APPLICATIONS_LOCAL #P / #12 |
-| 7 | Staples Sorter-Loader | APPLICATIONS_LOCAL #13 |
+## Priority 1 — apply first (closest / best pay)
+| # | Role | Why |
+|---|------|-----|
+| 1 | SPUD Cross Dock — 7039 68 Ave | Closest · days |
+| 2 | UPS Evening Warehouse — 6968 68 Ave | Closest · evenings |
+| 3 | FedEx Package Handler PT — ~$21/hr | Strong pay · early AM |
+| 4 | **Uline Warehouse Associate — $31–35/hr** | Best local pay · St Albert / Spruce Grove |
+| 5 | McKesson Fri/Sun + Evening — $20.07/hr | Solid warehouse pay |
+| 6 | Wesco Warehouse Associate — $20–24/hr | Entry OK · strong range |
+| 7 | 7-Eleven Warehouse Associate II — $20/hr | Pick/pack |
+| 8 | PepsiCo PT Unloader | Physical unloader |
 
-## Priority 2 — other nearby non-mall (optional)
-| # | Role | Notes |
-|---|------|-------|
-| 8 | Starbucks barista — Calgary Trail S | Public-facing but **not** Southgate mall — only if you want cafe work |
-| 9 | Starbucks barista — 75 St & 68 Ave | Same — corridor cafe, not Southgate |
-| 10 | Starbucks Shift Sup — South Park Calgary Trail | Same |
-| 11 | Chartwell Dishwasher | Kitchen BOH, not Southgate |
+## Priority 2 — more Edmonton warehouse (new scrape)
+Wolseley day shift · EECOL · UAP/TW · UniFirst · Husqvarna · Motion · Stream-Flo · Sobeys selector · Grainger shipper · Walmart unloaders · Staples sorter · Chartwell dishwasher (BOH)
 
-## Skipped — Southgate public-facing (do not apply)
-lululemon, Browns, JD Sports, Bath & Body Works, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO, Hillberg & Berk, Nespresso Southgate, Starbucks Southgate Mall, Aritzia (mall retail), Vans SEC (mall/retail public-facing — skip if you want zero public retail; kept off active list).
+Blurbs: `APPLICATIONS_LOCAL.md`
 
-Reply e.g. `submitted warehouse 1–7` when done.
+## Optional cafe (not Southgate)
+Starbucks Calgary Trail / 75&68 / South Park — only if you want cafe work.
+
+## Career portals still open
+See `APPLICATION_STATUS.md` § Career — LAG Auto, Keysight, LawDepot, CREATIVE, Randstad, Durabuilt, Elevation, AutoCanada + new: Riva, StackAdapt, Pacesetter, Morguard, AMA.
+
+## Skipped — Southgate public-facing
+Do not apply (mall retail/cafe/food/educator).
+
+Reply e.g. `submitted L1–L8` or `submitted warehouse 1–4` when done.

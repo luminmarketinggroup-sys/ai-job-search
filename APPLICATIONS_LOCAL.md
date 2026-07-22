@@ -59,6 +59,76 @@
 - **Blurb:**
 > I’m applying for the Dishwasher role. I’m reliable, comfortable with physical kitchen support work, and focused on cleanliness and helping the team keep service running smoothly.
 
+### R. Uline — Warehouse Associate Days (St Albert) ★ $31–35/hr
+- **Link:** https://ca.linkedin.com/jobs/view/4440735686  
+- **Also:** Spruce Grove https://ca.linkedin.com/jobs/view/4440730783  
+- **Shift:** Mon–Fri 10:30 AM–7:00 PM  
+- **Blurb:**
+> I’m applying for the Warehouse Associate (Days) role at Uline. I’m based in south Edmonton, available for the Monday–Friday 10:30–7 schedule, and comfortable with physical pick/pack, loading, and unloading work. Reliable, coachable, and ready to learn Uline processes quickly.
+
+### Q. McKesson — Warehouse Worker Evening ($20.07/hr)
+- **Link:** https://ca.linkedin.com/jobs/view/4443510654  
+- **Shift:** Sun–Thu 6:30 PM–3:00 AM · 14010 164 St NW  
+- **Blurb:**
+> I’m applying for the evening Warehouse Worker role at McKesson. I’m reliable for overnight/evening shifts, comfortable lifting up to 50 lbs and standing for long periods, and ready to learn RF scanning and warehouse equipment. Based in south Edmonton.
+
+### S. Wesco — Warehouse Associate ($20.04–$24.05/hr)
+- **Link:** https://ca.linkedin.com/jobs/view/4442173995  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at Wesco. I’m comfortable with receiving, picking, packing, and shipping in a fast-paced warehouse, able to lift up to 50 lbs, and eager to learn Wesco systems. Reliable and local to Edmonton.
+
+### T. 7-Eleven — Warehouse Associate II ($20/hr)
+- **Link:** https://ca.linkedin.com/jobs/view/4440558005  
+- **Blurb:**
+> I’m applying for the Warehouse Associate II role. I’m detail-oriented with pick/pack accuracy, comfortable lifting up to 50 lbs, and available for the posted weekday shifts. Ready to work safely with steel-toe footwear and learn your WMS.
+
+### U. Wolseley Canada — Warehouse Associate (day shift)
+- **Link:** https://ca.linkedin.com/jobs/view/4441623281  
+- **Blurb:**
+> I’m applying for the permanent day-shift Warehouse Associate role at Wolseley. I’m reliable for weekday shifts, comfortable loading/unloading and pick/pack work, and used to fast-paced operations. Happy to learn plumbing/HVAC product flow on the job.
+
+### V. EECOL Electric — Warehouse Associate
+- **Link:** https://ca.linkedin.com/jobs/view/4440199441  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at EECOL. I’m available Monday–Friday, physically ready for warehouse work up to 50 lbs, and eager to train on receiving, picking, packing, and shipping. Reliable and local to Edmonton.
+
+### W. UAP Inc. — Warehouse Worker
+- **Link:** https://ca.linkedin.com/jobs/view/4443570449  
+- **Also:** TW Centre https://ca.linkedin.com/jobs/view/4442956717  
+- **Blurb:**
+> I’m applying for the Warehouse Worker role. I’m detail-oriented with part numbers and figures, comfortable receiving, stocking, and preparing shipments under deadlines, and reliable in a distribution environment.
+
+### Y. UniFirst — Warehouse Worker
+- **Link:** https://ca.linkedin.com/jobs/view/4434071392  
+- **Blurb:**
+> I’m applying for the Warehouse Worker role at UniFirst Edmonton. I’m reliable, comfortable with physical warehouse tasks, and ready to learn site processes quickly.
+
+### Z. Husqvarna — Warehouse Associate II
+- **Link:** https://ca.linkedin.com/jobs/view/4431526346  
+- **Blurb:**
+> I’m applying for the Warehouse Associate II role. I’m comfortable with WMS-directed pick/pack/ship work, scanning, and inventory accuracy, and able to lift 40–55 lbs. Ready for overtime when needed.
+
+### AA. Motion — Material Handler I
+- **Link:** https://ca.linkedin.com/jobs/view/4438540104  
+- **Blurb:**
+> I’m applying for the Material Handler I role. I’m comfortable with shipping/receiving, order fulfillment, and physical material handling in a fast-paced warehouse. Willing to obtain/maintain forklift certification as required.
+
+### AB. Stream-Flo — Warehouse Material Handler
+- **Link:** https://ca.linkedin.com/jobs/view/4438659900  
+- **Blurb:**
+> I’m applying for the Warehouse Material Handler role. I’m organized, safety-focused, and comfortable pulling materials, receiving, and supporting shipping/receiving in a manufacturing warehouse environment.
+
+### AC. Sobeys — Warehouse Order Selector (Day)
+- **Link:** https://ca.linkedin.com/jobs/view/4436625686  
+- **Also night:** https://ca.linkedin.com/jobs/view/4436619747  
+- **Blurb:**
+> I’m applying for the Warehouse Order Selector role. I’m available for the posted selector schedule including weekends as required, comfortable with physical selecting work, and focused on accuracy and safety.
+
+### AD. Grainger Canada — Shipper (Afternoon)
+- **Link:** https://ca.linkedin.com/jobs/view/4430488895  
+- **Blurb:**
+> I’m applying for the Shipper (Afternoon Shift) role at Grainger. I’m reliable, detail-oriented with outbound shipments, and comfortable with paced warehouse shipping work.
+
 ---
 
 ## Optional — cafe on corridor (not Southgate mall)
