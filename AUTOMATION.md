@@ -35,14 +35,18 @@ Until Desktop browser automation is wired, treat “auto-submit” as: **auto-dr
 
 ## Create the Cursor Automation
 
-**Status:** Cloud agents cannot create Automations in the Cursor UI (no Create API; `/automate` is Desktop-only).  
-**Do this once:** follow `automation/CREATE_NOW.md` (Path A UI or Path B GitHub Actions).
+**Status: LIVE** (verified 2026-07-22)
 
-Canonical prompt file (copy/paste source of truth):  
-`automation/daily-job-search-prompt.md`
+| Field | Value |
+|-------|--------|
+| Name | daily job search |
+| ID | `e3c97a08-8569-11f1-a7d1-d6b4613131ce` |
+| Enabled | yes |
+| Dashboard | https://cursor.com/automations/e3c97a08-8569-11f1-a7d1-d6b4613131ce |
+| Owner | Lumin Group (`luminmarketinggroup@gmail.com`) |
 
-In-repo scheduled trigger (Path B):  
-`.github/workflows/daily-job-search.yml` — needs secret `CURSOR_API_KEY`.
+Canonical prompt file: `automation/daily-job-search-prompt.md`  
+Optional backup cron (Path B): `.github/workflows/daily-job-search.yml` — only if you also want GitHub Actions; disable one scheduler to avoid duplicate runs.
 
 ---
 

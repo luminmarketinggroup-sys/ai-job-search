@@ -1,6 +1,9 @@
 # Create the automation — do this once (2 minutes)
 
-Cloud agents **cannot** press Save in the Cursor Automations UI. You (or Desktop `/automate`) must create it. Pick **Path A** (preferred) or **Path B** (repo cron).
+**DONE — live:** https://cursor.com/automations/e3c97a08-8569-11f1-a7d1-d6b4613131ce  
+Name: `daily job search` · Enabled: yes · Owner: Lumin Group
+
+Keep Path B (GitHub Actions) **disabled** unless you intentionally want a second scheduler.
 
 ---
 
