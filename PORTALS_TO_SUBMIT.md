@@ -27,6 +27,17 @@ A) CAREER — portal-only (do these)
    Also: https://ca.linkedin.com/jobs/view/4432105251
    Materials: cv/main_autocanada.pdf + cover_autocanada_marketing_account_manager.pdf
 
+5. Webserv — SEO Manager ($75–90k remote Canada) ★ NEW 2026-07-23
+   https://ca.linkedin.com/jobs/view/4433244231
+   Also: https://webserv.io/about-us/careers/
+   Materials: cv/main_webserv.pdf + cover_webserv_seo_manager.pdf
+   Note: asks 5+ yrs SEO; letter is honest about ~3+ yrs
+
+6. vitruvi — E-commerce & Digital Marketing Specialist ★ NEW 2026-07-23
+   Prefer email: shelly@vitruvi.com (Resend queued; key missing in cloud)
+   https://vitruvi.ca/pages/careers
+   Materials: cv/main_vitruvi.pdf + cover_vitruvi_ecommerce_digital_marketing.pdf
+
 ============================================================
 B) CAREER — optional portal follow-ups (email already sent)
 ============================================================
