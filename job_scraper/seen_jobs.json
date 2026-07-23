@@ -908,6 +908,159 @@
       "fit": "low",
       "status": "new",
       "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321": {
+      "title": "Shipper/Receiver",
+      "company": "Wajax",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4438671623": {
+      "title": "Shipper/Receiver",
+      "company": "Wajax",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4438671623",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-shipping-and-receiving-days-at-powell-4441069074": {
+      "title": "Material Handler Shipping Receiving Days",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-shipping-and-receiving-days-at-powell-4441069074",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-at-johnson-controls-4437643369": {
+      "title": "Material Handler",
+      "company": "Johnson Controls Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-at-johnson-controls-4437643369",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://www.hitechheattreating.ca/contact/": {
+      "title": "Shipper/Receiver",
+      "company": "Hi Tech Heat Treating",
+      "url": "https://www.hitechheattreating.ca/contact/",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://www.jobs.ca/job/53ea3427-c967-4b66-aad5-633f278e4dea": {
+      "title": "Warehouse Associate Edmonton South",
+      "company": "Trail Appliances",
+      "url": "https://www.jobs.ca/job/53ea3427-c967-4b66-aad5-633f278e4dea",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store%23-61243-riverbend-square-at-starbucks-4441750964": {
+      "title": "Barista Riverbend Square",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store%23-61243-riverbend-square-at-starbucks-4441750964",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/data-analyst-digital-marketing-at-lawdepot-4444205280": {
+      "title": "Data Analyst Digital Marketing",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/data-analyst-digital-marketing-at-lawdepot-4444205280",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-strategist-at-np-digital-4429551421": {
+      "title": "SEO Strategist",
+      "company": "NP Digital",
+      "url": "https://ca.linkedin.com/jobs/view/seo-strategist-at-np-digital-4429551421",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://heavydutyadvertising.com/careers/remote-digital-marketing-specialist/": {
+      "title": "Remote Digital Marketing Specialist",
+      "company": "Heavy Duty Advertising",
+      "url": "https://heavydutyadvertising.com/careers/remote-digital-marketing-specialist/",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/ai-and-analytics-specialist-digital-marketing-at-lawdepot-4443998995": {
+      "title": "AI and Analytics Specialist Digital Marketing",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/ai-and-analytics-specialist-digital-marketing-at-lawdepot-4443998995",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-digital-advertising-specialist-go-auto-corporate-at-go-auto-4440344812": {
+      "title": "Senior Digital Advertising Specialist",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/senior-digital-advertising-specialist-go-auto-corporate-at-go-auto-4440344812",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://careers.walmart.ca/job/edmonton/can-omni-customer-fulfillment-associate/4853/98134321728": {
+      "title": "OMNI CFA Tamarack",
+      "company": "Walmart Canada",
+      "url": "https://careers.walmart.ca/job/edmonton/can-omni-customer-fulfillment-associate/4853/98134321728",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://careers.walmart.ca/job/edmonton/can-omni-customer-fulfillment-associate-part-time/4853/98127428224": {
+      "title": "OMNI CFA Watt Common PT",
+      "company": "Walmart Canada",
+      "url": "https://careers.walmart.ca/job/edmonton/can-omni-customer-fulfillment-associate-part-time/4853/98127428224",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-manager-k-12-ote-%2460-000-year-usd-%40sparkrock-at-sparkrock-4441996826": {
+      "title": "Marketing Manager K-12",
+      "company": "Sparkrock",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-manager-k-12-ote-%2460-000-year-usd-%40sparkrock-at-sparkrock-4441996826",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/content-marketing-manager-seo-organic-growth-at-jobgether-4442614247": {
+      "title": "Content Marketing Manager SEO",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/content-marketing-manager-seo-organic-growth-at-jobgether-4442614247",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-seo-strategist-at-bx-studio-4441034652": {
+      "title": "Senior SEO Strategist",
+      "company": "BX Studio",
+      "url": "https://ca.linkedin.com/jobs/view/senior-seo-strategist-at-bx-studio-4441034652",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
     }
   },
   "last_run": "2026-07-22"

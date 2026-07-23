@@ -17,6 +17,12 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| AY | **Hi Tech Heat Treating Shipper/Receiver — 4515 82 Ave · ~$24** | SE · **mailto Info@HiTechHeatTreating.ca** |
+| AV | **Wajax Shipper/Receiver — Acheson / Edmonton** | Industrial ship/receive |
+| AW | **Powell Material Handler S&R Days — Acheson** | Days warehouse · manufacturing |
+| AX | **JC Silent-Aire Material Handler — Nisku** | Separate from prior shipper draft |
+| AZ | **Trail Appliances Warehouse Associate — Edmonton South** | ~$17–19 · Tue–Sat |
+| BA | Starbucks Barista Riverbend Square | South cafe · not Southgate |
 | AI | **Roofmart Shipper/Receiver — 9355 62 Ave** | **CLOSEST new** · south industrial |
 | AJ | **Hercules Shipper/Receiver — 5303 75 St · $19–21** | SE corridor · Mon–Fri 8–5 |
 | AK | **U-Haul U-Box Warehouse Worker** | Forklift training provided |

@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (2026-07-22)
+# Application Status — Dylan Michael (updated 2026-07-23)
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -57,7 +57,13 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
-| L36 | **Roofmart** | Shipper and Receiver | **NEW** · **9355 62 Ave** · closest new · Workday | https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258 |
+| L50 | **Hi Tech Heat Treating** | Shipper/Receiver | **NEW 07-23** · 4515 82 Ave · ~$24 · **mailto Info@** | https://www.hitechheattreating.ca/contact/ |
+| L51 | **Wajax** | Shipper/Receiver | **NEW 07-23** · Acheson + Edmonton listings | https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321 |
+| L52 | **Powell** | Material Handler S&R Days | **NEW 07-23** · Acheson | https://ca.linkedin.com/jobs/view/material-handler-shipping-and-receiving-days-at-powell-4441069074 |
+| L53 | **JC Silent-Aire** | Material Handler | **NEW 07-23** · Nisku (≠ shipper draft) | https://ca.linkedin.com/jobs/view/material-handler-at-johnson-controls-4437643369 |
+| L54 | **Trail Appliances** | Warehouse Associate Edmonton South | **NEW 07-23** · ~$17–19 | https://www.jobs.ca/job/53ea3427-c967-4b66-aad5-633f278e4dea |
+| L55 | Starbucks Riverbend | Barista #61243 | **NEW 07-23** · south cafe · not Southgate | https://ca.linkedin.com/jobs/view/barista-store%23-61243-riverbend-square-at-starbucks-4441750964 |
+| L36 | **Roofmart** | Shipper and Receiver | **9355 62 Ave** · closest prior · Workday | https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258 |
 | L37 | Hercules Crane & Lifting | Shipper/Receiver | **Email submitted** · 5303 75 St · $19–21/hr | https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759 |
 | L38 | **U-Haul** | U-Box Warehouse Worker | **NEW** · forklift training provided · driver’s licence | https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470 |
 | L39 | **NAPA / UAP** | Parts Handler | **NEW** · Audi-adjacent parts flow | https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601 |
@@ -150,6 +156,9 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
 | C15 | Goose Digital | Account Lead, Digital Solutions | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
 | C16 | Goose Digital | Demand Generation Specialist | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
+| C21 | LawDepot | Data Analyst - Digital Marketing | **Ready — mailto** career@lawdepot.ca (Resend unset) | `main_lawdepot_data_analyst` + cover | https://www.lawdepot.ca/career/posting.php?ref_id=DMDA |
+| C22 | NP Digital | SEO Strategist | **Ready — Jobvite portal** | `main_np_digital` + cover | https://jobs.jobvite.com/np-ca |
+| C23 | Heavy Duty Advertising | Remote Digital Marketing Specialist | **Ready — mailto** Edward@KristaAndEd.com | `main_heavy_duty_advertising` + cover | https://heavydutyadvertising.com/careers/remote-digital-marketing-specialist/ |
 
 ### Watch / later (not fully drafted)
 | # | Company | Role | Notes | Link |
@@ -166,7 +175,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | Reason | Examples |
 |--------|----------|
 | Southgate public-facing | lululemon, Browns, JD, Bath & Body, Garage, Saje, Alo, Michael Hill, Vans Southgate, LEGO, Hillberg & Berk, Nespresso, Starbucks Southgate, Aritzia, Chipotle, etc. |
-| Fit / gaps (prior) | Sparkrock K-12 Marketing Manager; Go Auto Senior Digital Advertising (5–8 yrs paid); TELUS Southgate closed; Apryse Growth Marketing Manager (~52 HubSpot/SaaS gap); AlgaeCal SEO AI Search (closed); Talencore SEO PT 20h/mo |
+| Fit / gaps (prior) | Sparkrock K-12 Marketing Manager; Go Auto Senior Digital Advertising (5–8 yrs paid); LawDepot AI & Analytics Specialist (~55); TELUS Southgate closed; Apryse Growth Marketing Manager (~52 HubSpot/SaaS gap); AlgaeCal SEO AI Search (closed); Talencore SEO PT 20h/mo; Walmart OMNI Tamarack/Watt Common (outside corridor) |
 | Too senior / consulting | EY Marketing Transformation Manager/Senior Manager; City of Edmonton Lead Strategist; KPMG Sales Enablement Manager |
 | Likely under $60k career | Jai Homes social media coordinator; Capital Trailers Marketing Assistant; Akash Marketing Coordinator |
 | Relocation / not remote | Calgary-only SEO/marketing roles without remote flag |
@@ -181,6 +190,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-07-23 daily run:** local AV–BA (Wajax, Powell, JC Material Handler, Hi Tech email, Trail Appliances, Starbucks Riverbend); career C21–C23 (LawDepot Data Analyst, NP Digital SEO, Heavy Duty Advertising). Resend unset — mailto lines only.
 - Prior local drafts: Go Kia South, Gentek, Intelcom, Touchette
 
 Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.

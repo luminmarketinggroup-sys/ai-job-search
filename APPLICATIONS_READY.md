@@ -1,9 +1,23 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-23 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C21 | LawDepot | Data Analyst - Digital Marketing | Good (~68) | **mailto** career@lawdepot.ca · https://www.lawdepot.ca/career/posting.php?ref_id=DMDA · LinkedIn https://ca.linkedin.com/jobs/view/4444205280 | `cv/main_lawdepot_data_analyst.pdf` | `cover_letters/cover_lawdepot_data_analyst_digital_marketing.pdf` | Post-secondary listed as essential; high-school diploma gap noted; Google Ads + AI angle |
+| C22 | NP Digital | SEO Strategist | Good (~62) | **PORTAL** https://jobs.jobvite.com/np-ca · https://npdigital.com/ca/careers/ · LinkedIn https://ca.linkedin.com/jobs/view/4429551421 | `cv/main_np_digital.pdf` | `cover_letters/cover_np_digital_seo_strategist.pdf` | $80–85k remote Canada; 4+ yrs / enterprise ask; Edmonton-based (Toronto preferred) |
+| C23 | Heavy Duty Advertising (K+E) | Remote Digital Marketing Specialist (SEO/WordPress) | High (~72) | **mailto** Edward@KristaAndEd.com · https://heavydutyadvertising.com/careers/remote-digital-marketing-specialist/ | `cv/main_heavy_duty_advertising.pdf` | `cover_letters/cover_heavy_duty_advertising_digital_marketing_specialist.pdf` | Contractor / rate TBD; Edmonton MT; GHL nice-to-have; schema depth to grow |
+
+**Mailto (Resend unset this run):**
+- LawDepot: `mailto:career@lawdepot.ca?subject=Data%20Analyst%20-%20Digital%20Marketing%20-%20Dylan%20Michael`
+- Heavy Duty: `mailto:Edward@KristaAndEd.com?subject=Remote%20Digital%20Marketing%20Specialist%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/closed): LawDepot AI & Analytics Specialist (~55; scripting/degree-heavy); Go Auto Senior Digital Advertising Specialist (~52; 5–8 yrs ask); Sparkrock Marketing Manager K-12 (~35; K-12 sector req); Jobgether Content Marketing Manager (Brazil pay framing / unclear); Walmart OMNI CFA at Tamarack & Watt Common (not 68 Ave / Calgary Trail corridor); Webserv SEO Manager (listing archived); BX Studio Senior SEO Strategist (~55; 5+ yrs enterprise stretch).
 
 ## Email submitted this round (2026-07-22 evening) — direct apply
 

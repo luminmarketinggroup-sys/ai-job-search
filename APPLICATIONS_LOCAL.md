@@ -11,6 +11,49 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### AV. Wajax — Shipper/Receiver (Acheson / Edmonton) ★ NEW · 2026-07-23
+- **LinkedIn (Acheson):** https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321  
+- **LinkedIn (Edmonton):** https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4438671623  
+- **Careers:** https://www.wajax.com/careers/ · branch context: Edmonton (Acheson) 11061 269 St  
+- **Why:** Industrial ship/receive · forklift support · west Edmonton / Acheson corridor  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Wajax. I live in south Edmonton at 11110 68 Ave NW and am comfortable with physical warehouse work: receiving and verifying shipments, picking/packing, stocking, documentation accuracy, and learning forklift procedures safely. Reliable, detail-oriented, and ready for full-time branch hours.
+
+### AW. Powell — Material Handler Shipping and Receiving (Days, Acheson) ★ NEW · 2026-07-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/material-handler-shipping-and-receiving-days-at-powell-4441069074  
+- **Careers:** https://www.powellind.com/careers  
+- **Why:** Days shipping/receiving · load/unload · Acheson manufacturing  
+- **Notes:** Forklift experience often preferred; CSTS may be asked  
+- **Blurb:**
+> I’m applying for the Material Handler - Shipping and Receiving (Days) role at Powell’s Electrical Division Edmonton / Acheson site. I’m based in south Edmonton, comfortable loading/unloading, staging materials, documentation, and keeping shipping/receiving areas organized. Willing to confirm forklift credentials or train as required. Reliable and safety-focused.
+
+### AX. Johnson Controls / Silent-Aire — Material Handler (Nisku) ★ NEW · 2026-07-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/material-handler-at-johnson-controls-4437643369  
+- **Why:** Distinct from prior Silent-Aire Shipper/Receiver draft · line-runner / material move · rotating days  
+- **Blurb:**
+> I’m applying for the Material Handler role at Johnson Controls / Silent-Aire in Nisku. I’m comfortable loading/unloading, moving materials by hand or equipment, checking counts, and keeping inventory transactions accurate. Local to south Edmonton and ready for rotating day shifts.
+
+### AY. Hi Tech Heat Treating — Shipper/Receiver (4515 82 Ave NW) ★ NEW · EMAIL · 2026-07-23
+- **Job Bank / Indeed signal:** ~$24/hr · Edmonton SE  
+- **Email:** Info@HiTechHeatTreating.ca  
+- **mailto:** mailto:Info@HiTechHeatTreating.ca?subject=Shipper%2FReceiver%20application%20-%20Dylan%20Michael&body=Please%20find%20my%20resume%20attached.%0A%0AI%27m%20applying%20for%20the%20Shipper%2FReceiver%20role.%20I%20live%20in%20south%20Edmonton%20(11110%2068%20Ave%20NW)%20and%20am%20comfortable%20with%20shipping%2Freceiving%2C%20documentation%2C%20and%20paced%20physical%20warehouse%20work.%0A%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca  
+- **Address:** 4515 82 Avenue NW, Edmonton, AB T6B 2L9  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Hi Tech Heat Treating (4515 82 Ave NW). I live in south Edmonton at 11110 68 Ave NW, am available for full-time hours, and am comfortable with receiving, packing/shipping, inventory accuracy, and keeping a clean, organized dock. Used to paced operations and clear documentation from Audi Southgate service management.
+
+### AZ. Trail Appliances — Warehouse Associate (Edmonton South) ★ NEW · 2026-07-23
+- **Listing:** https://www.jobs.ca/job/53ea3427-c967-4b66-aad5-633f278e4dea  
+- **Careers:** https://www.trailappliances.com/ab/p/careers · https://www.trailappliances.com/careers  
+- **Pay:** ~$17–$19/hr · Tue–Sat retail warehouse hours  
+- **Blurb:**
+> I’m applying for the Warehouse Associate (Edmonton South) role at Trail Appliances. I’m based nearby in south Edmonton, comfortable loading/unloading with a dolly, picking for customer pickups and delivery runs, inventory support, and keeping a clean warehouse. Reliable for the posted Tue–Sat schedule and ready to learn Trail processes quickly.
+
+### BA. Starbucks — Barista · Riverbend Square (Store #61243) ★ NEW · 2026-07-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/barista-store%23-61243-riverbend-square-at-starbucks-4441750964  
+- **Why:** South Edmonton cafe · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks Riverbend Square (store #61243). I live in south Edmonton near 68 Ave / Calgary Trail, am available for flexible cafe shifts, and am used to fast-paced customer environments from Audi Southgate Fixed Ops. Reliable, coachable, and ready to learn Starbucks standards.
+
 ### AI. Roofmart — Shipper and Receiver (9355 62 Ave NW) ★ NEW · CLOSEST
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258  
 - **Portal:** https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers  

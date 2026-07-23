@@ -6,8 +6,23 @@ Blurbs: APPLICATIONS_LOCAL.md
 Skip: Southgate Centre public-facing jobs
 
 ============================================================
-A) CAREER — portal-only (do these)
+A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0a. LawDepot — Data Analyst Digital Marketing (NEW 2026-07-23)
+   mailto:career@lawdepot.ca + https://www.lawdepot.ca/career/posting.php?ref_id=DMDA
+   Materials: cv/main_lawdepot_data_analyst.pdf + cover_lawdepot_data_analyst_digital_marketing.pdf
+   Note: Resend unset this run — send from Desktop or when API key set
+
+0b. NP Digital — SEO Strategist (NEW 2026-07-23)
+   https://jobs.jobvite.com/np-ca · https://npdigital.com/ca/careers/
+   Also: https://ca.linkedin.com/jobs/view/4429551421
+   Materials: cv/main_np_digital.pdf + cover_np_digital_seo_strategist.pdf
+
+0c. Heavy Duty Advertising — Remote Digital Marketing Specialist (NEW 2026-07-23)
+   mailto:Edward@KristaAndEd.com
+   https://heavydutyadvertising.com/careers/remote-digital-marketing-specialist/
+   Materials: cv/main_heavy_duty_advertising.pdf + cover_heavy_duty_advertising_digital_marketing_specialist.pdf
+
 1. AMA — Marketing Specialist, Member Rewards (12-mo)
    https://careers.ama.ab.ca/
    Also: https://ca.linkedin.com/jobs/view/4443720741

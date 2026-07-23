@@ -52,7 +52,15 @@
 
 From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
-**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, etc.).
+**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
+
+## Pending mailto (Resend unset 2026-07-23)
+
+| # | Company | To | Role | Status |
+|---|---------|-----|------|--------|
+| P1 | Hi Tech Heat Treating | Info@HiTechHeatTreating.ca | Shipper/Receiver (local) | mailto ready · attach `cv/main_local_edmonton.pdf` |
+| P2 | LawDepot | career@lawdepot.ca | Data Analyst - Digital Marketing | mailto ready · attach `cv/main_lawdepot_data_analyst.pdf` + cover |
+| P3 | Heavy Duty Advertising | Edward@KristaAndEd.com | Remote Digital Marketing Specialist | mailto ready · attach `cv/main_heavy_duty_advertising.pdf` + cover |
 
 ## Send more later
 
