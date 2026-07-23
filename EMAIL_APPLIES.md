@@ -52,13 +52,58 @@
 
 From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
-**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, etc.).
+**Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, Webserv (LinkedIn), plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Compass, etc.).
+
+## Ready to email (2026-07-23) — Resend not configured in this run
+
+`RESEND_API_KEY` was unset in the cloud environment, so these were **not** sent. Add the key to secrets / `.env`, then run the commands below.
+
+| # | Company | To | Subject | Attach |
+|---|---------|-----|---------|--------|
+| 37 | vitruvi | shelly@vitruvi.com | E-commerce & Digital Marketing Specialist — Dylan Michael | `cv/main_vitruvi.pdf` + cover |
+| 38 | Cargojet | hr@cargojet.com | Ground Handler (YEG) application — Dylan Michael | `cv/main_local_edmonton.pdf` |
+| 39 | Nuna Logistics | hr@nunagroup.com | Shipper/Receiver (Edmonton) — Dylan Michael | `cv/main_local_edmonton.pdf` |
+| 39b | Nuna Logistics | hr@nunalogistics.com | Shipper/Receiver (Edmonton) — Dylan Michael | same (twin inbox) |
+
+### mailto fallbacks
+
+**vitruvi:**  
+`mailto:shelly@vitruvi.com?subject=E-commerce%20%26%20Digital%20Marketing%20Specialist%20-%20Dylan%20Michael`
+
+**Cargojet:**  
+`mailto:hr@cargojet.com?subject=Ground%20Handler%20(YEG)%20-%20Dylan%20Michael`
+
+**Nuna:**  
+`mailto:hr@nunagroup.com?subject=Shipper%2FReceiver%20(Edmonton)%20-%20Dylan%20Michael`
 
 ## Send more later
 
 ```bash
 python3 scripts/send_ready_emails.py --dry-run
 python3 scripts/send_application_email.py --to … --subject … --body … --attach …
+```
+
+### Suggested send commands (after key is set)
+
+```bash
+python3 scripts/send_application_email.py \
+  --to shelly@vitruvi.com \
+  --subject "E-commerce & Digital Marketing Specialist — Dylan Michael" \
+  --body-file /tmp/vitruvi_body.txt \
+  --attach cv/main_vitruvi.pdf \
+  --attach cover_letters/cover_vitruvi_ecommerce_digital_marketing.pdf
+
+python3 scripts/send_application_email.py \
+  --to hr@cargojet.com \
+  --subject "Ground Handler (YEG) application — Dylan Michael" \
+  --body-file /tmp/cargojet_body.txt \
+  --attach cv/main_local_edmonton.pdf
+
+python3 scripts/send_application_email.py \
+  --to hr@nunagroup.com \
+  --subject "Shipper/Receiver (Edmonton) — Dylan Michael" \
+  --body-file /tmp/nuna_body.txt \
+  --attach cv/main_local_edmonton.pdf
 ```
 
 Key lives in gitignored `.env` only — never commit it.

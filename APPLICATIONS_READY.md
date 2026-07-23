@@ -1,9 +1,18 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, Webserv (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-23)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C21 | vitruvi | E-commerce & Digital Marketing Specialist | High (~72) | **EMAIL READY** shelly@vitruvi.com · https://vitruvi.ca/pages/careers | `cv/main_vitruvi.pdf` | `cover_letters/cover_vitruvi_ecommerce_digital_marketing.pdf` | Shopify + paid media liaison; degree gap framed as equivalent experience; Resend not configured in this cloud env |
+| C22 | Webserv | SEO Manager | Good (~60) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4433244231 · https://webserv.io/about-us/careers/ | `cv/main_webserv.pdf` | `cover_letters/cover_webserv_seo_manager.pdf` | $75–90k remote Canada; asks 5+ yrs SEO (have ~3+); no behavioral-health domain yet |
+
+Skipped this run (fit/closed/under floor): Jobgether Content Marketing Manager (Brazil pay band / messy); Jobgether Marketing Manager payments (fintech gap); Warman O'Brien Product Strategist (10+ yrs life sciences); BX Studio Senior SEO Strategist (~55; 5+ yrs senior client-facing); LawDepot Data Analyst Digital Marketing (degree + analyst tooling gap); Midwest Property Management Marketing Coordinator (3-mo contract); North Shore Digital SEO PT (stale closing date); EY Marketing Transformation (too senior).
 
 ## Email submitted this round (2026-07-22 evening) — direct apply
 

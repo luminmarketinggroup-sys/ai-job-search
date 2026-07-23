@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (2026-07-22)
+# Application Status — Dylan Michael (2026-07-23)
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -57,7 +57,11 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
-| L36 | **Roofmart** | Shipper and Receiver | **NEW** · **9355 62 Ave** · closest new · Workday | https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258 |
+| L50 | **Wajax** | Shipper/Receiver | **NEW 07-23** · Acheson · forklift + Class 5 | https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321 |
+| L51 | **Cargojet** | Ground Handler YEG | **NEW 07-23** · EMAIL hr@cargojet.com · lift 60 lbs | https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662 |
+| L52 | **Nuna Logistics** | Shipper/Receiver | **NEW 07-23** · EMAIL hr@nunagroup.com · 50 St | careers / hr@nunagroup.com |
+| L53 | **Compass Group** | Warehouse Associate FT | **NEW 07-23** · Greater Edmonton | https://ca.linkedin.com/jobs/view/warehouse-associate-full-time-at-compass-group-canada-4443463443 |
+| L36 | **Roofmart** | Shipper and Receiver | **9355 62 Ave** · closest prior · Workday | https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258 |
 | L37 | Hercules Crane & Lifting | Shipper/Receiver | **Email submitted** · 5303 75 St · $19–21/hr | https://ca.linkedin.com/jobs/view/shipper-receiver-at-hercules-crane-lifting-supplies-4442172759 |
 | L38 | **U-Haul** | U-Box Warehouse Worker | **NEW** · forklift training provided · driver’s licence | https://ca.linkedin.com/jobs/view/u-box-warehouse-worker-at-u-haul-4438484470 |
 | L39 | **NAPA / UAP** | Parts Handler | **NEW** · Audi-adjacent parts flow | https://ca.linkedin.com/jobs/view/parts-handler-at-napa-canada-4442959601 |
@@ -129,6 +133,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
+| C21 | **vitruvi** | E-commerce & Digital Marketing Specialist | `main_vitruvi` + cover · **email shelly@vitruvi.com** | https://vitruvi.ca/pages/careers |
+| C22 | **Webserv** | SEO Manager | `main_webserv` + cover · LinkedIn/portal | https://ca.linkedin.com/jobs/view/4433244231 |
 | C2 | Keysight | SEO & GEO Specialist | `main_keysight` + cover | https://ca.linkedin.com/jobs/view/4437698032 |
 | C7 | Elevation Capital | Applied AI Marketing Engineer | `main_elevation_capital` + cover | https://ca.linkedin.com/jobs/view/4440462335 |
 | C8 | AutoCanada | Marketing Account Manager | `main_autocanada` + cover | https://ca.linkedin.com/jobs/view/4432105251 |
@@ -176,11 +182,10 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 
 ## Counts
 
-- LinkedIn CLI scrape: **194** results → **114** unique
-- Already submitted: **29+ career/local email applies** (+ Webhorse, Headhunters, RP DMM, ATRIUM, MG Precast, SEP)
-- Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
-- New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
-- Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
-- Prior local drafts: Go Kia South, Gentek, Intelcom, Touchette
+- Already submitted: **32+ career/local email applies** (Resend on 2026-07-22)
+- **New 2026-07-23:** 6 local drafts (Wajax, Cargojet, Compass, Nuna, Braven, JOEY Bell Tower) + 2 career packs (vitruvi, Webserv)
+- Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), Webserv (C22), warehouse Priority A
+- **Email ready (Resend key missing in this cloud env):** vitruvi → shelly@vitruvi.com · Cargojet → hr@cargojet.com · Nuna → hr@nunagroup.com
+- Add `RESEND_API_KEY` to Cloud Agent secrets to auto-send those three
 
 Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.

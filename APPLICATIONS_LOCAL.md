@@ -260,6 +260,45 @@ Only if you want cafe work outside Southgate:
 - **Blurb:**
 > I’m applying for the Production Associate role at HelloFresh in Nisku. I’m reliable for rotational shifts, comfortable standing for long periods and lifting up to 50 lbs, and used to fast-paced, accuracy-focused work. Ready to learn meal-kit packing, labelling, and food-safety processes quickly.
 
+### AV. Wajax — Shipper/Receiver (Acheson) ★ NEW · 2026-07-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321  
+- **Portal:** https://www.wajax.com/careers/  
+- **Notes:** Forklift cert + Class 5 asked · west Edmonton / Acheson commute  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Wajax Acheson. I’m based in south Edmonton, comfortable with receiving accuracy, pick/pack, Bills of Lading, and keeping a clean organized warehouse. Willing to obtain or refresh forklift certification as required and I hold a valid driver’s licence. Reliable, safety-focused, and ready for full-time hours.
+
+### AW. Cargojet — Ground Handler (YEG) ★ NEW · EMAIL READY
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662  
+- **Email:** hr@cargojet.com  
+- **Notes:** Lift 60 lbs · outdoor/all weather · RAIC clearance · shift work  
+- **Blurb:**
+> I’m applying for the Ground Handler role at Cargojet Edmonton International Airport. I have a valid Class 5 driver’s licence, am comfortable with repeated lifting up to 60 lbs, loading/unloading, sorting freight, and fast-paced team work under time pressure. Willing to complete RAIC / background clearance and work evenings, weekends, and outdoor shifts. Based in south Edmonton and ready to start quickly.
+
+### AX. Compass Group Canada — Warehouse Associate FT ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/warehouse-associate-full-time-at-compass-group-canada-4443463443  
+- **Portal:** Compass / UKG careers (search Edmonton Warehouse Associate)  
+- **Blurb:**
+> I’m applying for the full-time Warehouse Associate role with Compass Group Canada in the Greater Edmonton area. I’m comfortable receiving, picking, packing, inventory accuracy, and physical warehouse work up to 50 lbs. Willing to train on forklift equipment. Reliable, coachable, and ready for full-time hours.
+
+### AY. Nuna Logistics — Shipper/Receiver (Edmonton) ★ NEW · EMAIL READY
+- **Source:** Nuna Group careers / aggregator (posted ~2026-07-15)  
+- **Email:** hr@nunagroup.com · also hr@nunalogistics.com  
+- **Portal:** https://careers-nunalogistics.icims.com/jobs/intro  
+- **Site:** Unit 14, 6194 50 Street NW, Edmonton  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role with Nuna Logistics in Edmonton. I have a valid Class 5 driver’s licence, live in the greater Edmonton region, and am comfortable packing, labeling, receiving, courier coordination, and accurate paperwork on a Monday–Friday schedule. Ready to learn Scanman / JD Edwards processes and support procurement as needed.
+
+### AZ. Oliver & Bonacini / Braven — Dishwasher (BOH) ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/dishwasher-braven-at-oliver-bonacini-hospitality-4443955910  
+- **Notes:** Kitchen BOH · $16 + gratuities · not Southgate  
+- **Blurb:**
+> I’m applying for the Dishwasher role at Braven. I’m reliable, comfortable with fast-paced kitchen support, sanitation, and keeping the dish area organized. Available for the posted schedule and ready to support the BOH team.
+
+### BA. JOEY Bell Tower — Dishwasher (BOH) ★ NEW
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/dishwasher-joey-bell-tower-at-joey-restaurant-group-4422758044  
+- **Also:** JOEY Sherwood Park https://ca.linkedin.com/jobs/view/dishwasher-joey-sherwood-park-at-joey-restaurant-group-4422207744  
+- **Blurb:**
+> I’m applying for the Dishwasher role at JOEY Bell Tower. I’m reliable, comfortable with paced kitchen BOH work and sanitation, and focused on keeping service running smoothly. Happy to be considered for JOEY Sherwood Park as well if that site fits better.
 
 ### MG. MG Precast — Material Handler ★ $23/hr (EMAIL SUBMITTED)
 - **Email:** mgprecaststeps@gmail.com · Job Bank #3547373  

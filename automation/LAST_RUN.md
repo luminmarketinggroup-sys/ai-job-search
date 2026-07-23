@@ -1,5 +1,34 @@
 # Daily job-search run log
 
+## 2026-07-23 (More job applications cloud run)
+
+**Focus:** Dual track — local warehouse/BOH near 11110 68 Ave NW + career SEO/marketing ≥ $60k  
+**Counts:** 6 new local drafts · 2 new career drafts  
+**Resend:** **not configured** in this environment (`RESEND_API_KEY` unset). Email-ready rows queued in `EMAIL_APPLIES.md`.
+
+### New drafts this run
+
+| Track | Company | Role | Link | Files |
+|-------|---------|------|------|-------|
+| Local | Wajax | Shipper/Receiver (Acheson) | https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321 | `APPLICATIONS_LOCAL.md#AV` |
+| Local | Cargojet | Ground Handler (YEG) | https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662 | `APPLICATIONS_LOCAL.md#AW` · email hr@cargojet.com |
+| Local | Compass Group | Warehouse Associate FT | https://ca.linkedin.com/jobs/view/warehouse-associate-full-time-at-compass-group-canada-4443463443 | `APPLICATIONS_LOCAL.md#AX` |
+| Local | Nuna Logistics | Shipper/Receiver | hr@nunagroup.com / iCIMS | `APPLICATIONS_LOCAL.md#AY` |
+| Local | Braven (O&B) | Dishwasher BOH | https://ca.linkedin.com/jobs/view/dishwasher-braven-at-oliver-bonacini-hospitality-4443955910 | `APPLICATIONS_LOCAL.md#AZ` |
+| Local | JOEY Bell Tower | Dishwasher BOH | https://ca.linkedin.com/jobs/view/dishwasher-joey-bell-tower-at-joey-restaurant-group-4422758044 | `APPLICATIONS_LOCAL.md#BA` |
+| Career | vitruvi | E-commerce & Digital Marketing Specialist | https://vitruvi.ca/pages/careers · shelly@vitruvi.com | `cv/main_vitruvi` + cover |
+| Career | Webserv | SEO Manager ($75–90k remote) | https://ca.linkedin.com/jobs/view/4433244231 | `cv/main_webserv` + cover |
+
+### Checklists
+- Local: `APPLICATIONS_LOCAL.md` · `SUBMIT_BATCH.md` · `PORTALS_TO_SUBMIT.md`
+- Career: `APPLICATIONS_READY.md` · `APPLICATION_STATUS.md`
+- Email queue: `EMAIL_APPLIES.md` (vitruvi, Cargojet, Nuna)
+
+### Skipped
+Southgate public-facing · Jobgether messy/Brazil pay · Warman O'Brien 10+ yrs life sciences · BX Studio Senior SEO (~55) · LawDepot Data Analyst (degree/analyst gap) · Midwest 3-mo contract · North Shore Digital stale closing · EY too senior · Uline Edmonton twin of prior St Albert listing · EECOL twin of prior listing
+
+---
+
 ## 2026-07-22 (pm — near-address scrape)
 
 **Focus:** Warehouse / BOH near **11110 68 Ave NW** (Calgary Trail / Gateway / SE Edmonton)  

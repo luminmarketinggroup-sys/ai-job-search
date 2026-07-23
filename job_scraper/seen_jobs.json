@@ -908,6 +908,110 @@
       "fit": "low",
       "status": "new",
       "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321": {
+      "title": "Shipper/Receiver",
+      "company": "Wajax",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662": {
+      "title": "Ground Handler (Full time / Part time)",
+      "company": "Cargojet",
+      "url": "https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-associate-full-time-at-compass-group-canada-4443463443": {
+      "title": "Warehouse Associate Full Time",
+      "company": "Compass Group Canada",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-associate-full-time-at-compass-group-canada-4443463443",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "new"
+    },
+    "nuna_logistics_shipper_receiver_edmonton": {
+      "title": "Shipper/Receiver",
+      "company": "Nuna Logistics",
+      "url": "https://careers-nunalogistics.icims.com/jobs/intro",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-braven-at-oliver-bonacini-hospitality-4443955910": {
+      "title": "Dishwasher - Braven",
+      "company": "Oliver & Bonacini Hospitality",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-braven-at-oliver-bonacini-hospitality-4443955910",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-joey-bell-tower-at-joey-restaurant-group-4422758044": {
+      "title": "Dishwasher - JOEY Bell Tower",
+      "company": "JOEY Restaurant Group",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-joey-bell-tower-at-joey-restaurant-group-4422758044",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://vitruvi.ca/pages/careers": {
+      "title": "E-commerce & Digital Marketing Specialist",
+      "company": "vitruvi",
+      "url": "https://vitruvi.ca/pages/careers",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-webserv-4433244231": {
+      "title": "Search Engine Optimization Manager",
+      "company": "Webserv",
+      "url": "https://ca.linkedin.com/jobs/view/4433244231",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-associate-days-at-uline-4440737568": {
+      "title": "Warehouse Associate - Days",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-associate-days-at-uline-4440737568",
+      "first_seen": "2026-07-23",
+      "fit": "high",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-associate-at-eecol-electric-4438756683": {
+      "title": "Warehouse Associate",
+      "company": "EECOL Electric",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-associate-at-eecol-electric-4438756683",
+      "first_seen": "2026-07-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/content-marketing-manager-seo-organic-growth-at-jobgether-4442614247": {
+      "title": "Content Marketing Manager (SEO & Organic Growth)",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4442614247",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/data-analyst-digital-marketing-at-lawdepot-4444205280": {
+      "title": "Data Analyst - Digital Marketing",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/4444205280",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-and-website-management-coordinator-contract-at-midwest-property-management-4442425503": {
+      "title": "Marketing and Website Management Coordinator - Contract",
+      "company": "Midwest Property Management",
+      "url": "https://ca.linkedin.com/jobs/view/4442425503",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped"
     }
   },
   "last_run": "2026-07-22"
