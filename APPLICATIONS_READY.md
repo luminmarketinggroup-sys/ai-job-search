@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-24 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C24 | Talent Advantage (Edmonton agency client) | PPC & Social Media Ads Manager | High (~78) | **mailto** info@talentadvantage.ca · LinkedIn https://ca.linkedin.com/jobs/view/4444776666 · SOS Media signal https://sosmediacorp.com/ (careers page empty; LinkedIn live) | `cv/main_talent_advantage.pdf` | `cover_letters/cover_talent_advantage_ppc_social_ads_manager.pdf` | $60–70k downtown on-site; Google Ads Certified; paid-media years still growing vs large multi-platform book |
+| C25 | Powered by Search | SEO Strategist (Remote) | Good (~61) | **PORTAL** https://www.poweredbysearch.com/careers/ · LinkedIn https://ca.linkedin.com/jobs/view/4441553027 | `cv/main_powered_by_search.pdf` | `cover_letters/cover_powered_by_search_seo_strategist.pdf` | 3+ yrs SEO / 1 yr B2B SaaS client-facing ask; SMB SEO ownership strong; SaaS agency depth gap noted |
+
+**Mailto (Resend unset this run):**
+- Talent Advantage: `mailto:info@talentadvantage.ca?subject=PPC%20%26%20Social%20Media%20Ads%20Manager%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): KOHO Affiliate Marketing Coordinator (~55; affiliate-channel gap); JAM CRM AI Enablement (~58; Toronto onsite / 3–5 yrs martech stretch — Claude fit strong but location fail); Simply Supported Social Media Manager (part-time / under career floor); Webserv SEO Manager (~55; 5+ yrs + 3 yrs AM); Jobgether On-Page SEO (~52; 5+ yrs ecomm); Digital Shift Account Manager (~52; university degree); Midwest Marketing Website Coordinator (~48; degree + 3-mo contract); vitruvi E-comm DMS (~55; Shopify merch + bachelor’s); Critical Mass Search Strategist (Calgary); Aylo SEO (Montreal); Alternative Payments Growth Marketer (Toronto); Jobber Customer Analytics Manager (~35); Purolator Sorter North Depot (distance); Durabuilt Warehouse Helper 178 St (west — not corridor); Walmart unloaders at Tamarack / 87 Ave / 127 St (not corridor); Worley Material Handler (FIFO camp); BrandSafway Warehouse Helper (forklift cert mandatory).
 
 ## NEW drafts this run (2026-07-23 daily scrape)
 

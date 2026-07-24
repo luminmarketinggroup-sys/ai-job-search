@@ -8,6 +8,15 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0z. Talent Advantage — PPC & Social Media Ads Manager (NEW 2026-07-24)
+   mailto:info@talentadvantage.ca · LinkedIn https://ca.linkedin.com/jobs/view/4444776666
+   Materials: cv/main_talent_advantage.pdf + cover_talent_advantage_ppc_social_ads_manager.pdf
+   Note: Resend unset — $60–70k downtown Edmonton agency client
+
+0y. Powered by Search — SEO Strategist Remote (NEW 2026-07-24)
+   https://www.poweredbysearch.com/careers/ · LinkedIn https://ca.linkedin.com/jobs/view/4441553027
+   Materials: cv/main_powered_by_search.pdf + cover_powered_by_search_seo_strategist.pdf
+
 0a. LawDepot — Data Analyst Digital Marketing (NEW 2026-07-23)
    mailto:career@lawdepot.ca + https://www.lawdepot.ca/career/posting.php?ref_id=DMDA
    Materials: cv/main_lawdepot_data_analyst.pdf + cover_lawdepot_data_analyst_digital_marketing.pdf
@@ -73,6 +82,29 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L60. Walmart Stock Unloader — 3931 Calgary Trail ★ NEW CLOSEST 2026-07-24
+     https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443970369
+
+L61. Roofmart Rooftop Loader / Shipper Receiver — Acheson ★ NEW 2026-07-24
+     https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers
+     LinkedIn: https://ca.linkedin.com/jobs/view/rooftop-loader-shipper-and-receiver-at-roofmart-4424801619
+
+L62. Uline Warehouse Associate Days — Edmonton branch $31–35 ★ NEW 2026-07-24
+     https://www.uline.jobs/
+     LinkedIn: https://ca.linkedin.com/jobs/view/warehouse-associate-days-at-uline-4440737568
+
+L63. Olive Garden Gateway Dishwasher — mailto recruit@recipeunlimited.com ★ NEW 2026-07-24
+     https://ca.linkedin.com/jobs/view/dishwasher-olive-garden-south-at-olive-garden-canada-4427647944
+
+L64. JC Silent-Aire Shipper/Receiver Night — Nisku ★ NEW 2026-07-24
+     https://ca.linkedin.com/jobs/view/shipper-receiver-night-shit-at-johnson-controls-4426880365
+
+L65. JC Silent-Aire Kitter — Nisku ★ NEW 2026-07-24
+     https://ca.linkedin.com/jobs/view/kitter-at-johnson-controls-4438443978
+
+L66. Sobeys Warehouse Order Selector Night — Edmonton RSC ★ NEW 2026-07-24
+     https://ca.linkedin.com/jobs/view/warehouse-order-selector-night-at-sobeys-4436619747
+
 L36. Roofmart — Shipper/Receiver (9355 62 Ave) ★ CLOSEST NEW
      https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers
      LinkedIn: https://ca.linkedin.com/jobs/view/shipper-and-receiver-at-roofmart-4442734258

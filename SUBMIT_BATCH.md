@@ -17,6 +17,13 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| BB | **Walmart Stock Unloader — 3931 Calgary Trail** | **NEW 07-24** · exact corridor |
+| BD | **Uline Warehouse Associate Days — Edmonton · $31–35** | **NEW 07-24** · best pay Edmonton branch |
+| BC | **Roofmart Rooftop Loader / Shipper — Acheson** | **NEW 07-24** · yard + rooftop |
+| BE | **Olive Garden Gateway Dishwasher** | **NEW 07-24** · south BOH · mailto recruit@ |
+| BF | **JC Silent-Aire Shipper/Receiver Night — Nisku** | **NEW 07-24** · nights |
+| BG | **JC Silent-Aire Kitter — Nisku** | **NEW 07-24** · line kits |
+| BH | **Sobeys Order Selector Night — Edmonton RSC** | **NEW 07-24** · overnight DC |
 | AY | **Hi Tech Heat Treating Shipper/Receiver — 4515 82 Ave · ~$24** | SE · **mailto Info@HiTechHeatTreating.ca** |
 | AV | **Wajax Shipper/Receiver — Acheson / Edmonton** | Industrial ship/receive |
 | AW | **Powell Material Handler S&R Days — Acheson** | Days warehouse · manufacturing |

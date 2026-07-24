@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (updated 2026-07-23)
+# Application Status — Dylan Michael (updated 2026-07-24)
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -57,6 +57,13 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L60 | **Walmart Calgary Trail** | Stock Unloader Associate | **NEW 07-24** · 3931 Calgary Trail · closest corridor | https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443970369 |
+| L61 | **Uline Edmonton** | Warehouse Associate Days | **NEW 07-24** · $31–35 · Edmonton branch | https://ca.linkedin.com/jobs/view/warehouse-associate-days-at-uline-4440737568 |
+| L62 | **Roofmart Acheson** | Rooftop Loader / Shipper Receiver | **NEW 07-24** · distinct from 62 Ave | https://ca.linkedin.com/jobs/view/rooftop-loader-shipper-and-receiver-at-roofmart-4424801619 |
+| L63 | **Olive Garden Gateway** | Dishwasher | **NEW 07-24** · 4110 Gateway · mailto recruit@ | https://ca.linkedin.com/jobs/view/dishwasher-olive-garden-south-at-olive-garden-canada-4427647944 |
+| L64 | **JC Silent-Aire** | Shipper/Receiver Night | **NEW 07-24** · Nisku nights | https://ca.linkedin.com/jobs/view/shipper-receiver-night-shit-at-johnson-controls-4426880365 |
+| L65 | **JC Silent-Aire** | Kitter | **NEW 07-24** · Nisku line kits | https://ca.linkedin.com/jobs/view/kitter-at-johnson-controls-4438443978 |
+| L66 | **Sobeys** | Warehouse Order Selector Night | **NEW 07-24** · Edmonton RSC overnight | https://ca.linkedin.com/jobs/view/warehouse-order-selector-night-at-sobeys-4436619747 |
 | L50 | **Hi Tech Heat Treating** | Shipper/Receiver | **NEW 07-23** · 4515 82 Ave · ~$24 · **mailto Info@** | https://www.hitechheattreating.ca/contact/ |
 | L51 | **Wajax** | Shipper/Receiver | **NEW 07-23** · Acheson + Edmonton listings | https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321 |
 | L52 | **Powell** | Material Handler S&R Days | **NEW 07-23** · Acheson | https://ca.linkedin.com/jobs/view/material-handler-shipping-and-receiving-days-at-powell-4441069074 |
@@ -156,6 +163,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
 | C15 | Goose Digital | Account Lead, Digital Solutions | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
 | C16 | Goose Digital | Demand Generation Specialist | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
+| C24 | Talent Advantage | PPC & Social Media Ads Manager | **Ready — mailto** info@talentadvantage.ca (Resend unset) · Fit ~78 · $60–70k downtown | `main_talent_advantage` + cover | https://ca.linkedin.com/jobs/view/4444776666 |
+| C25 | Powered by Search | SEO Strategist Remote | **Ready — portal** poweredbysearch.com/careers · Fit ~61 · B2B SaaS gap | `main_powered_by_search` + cover | https://ca.linkedin.com/jobs/view/4441553027 |
 | C21 | LawDepot | Data Analyst - Digital Marketing | **Ready — mailto** career@lawdepot.ca (Resend unset) | `main_lawdepot_data_analyst` + cover | https://www.lawdepot.ca/career/posting.php?ref_id=DMDA |
 | C22 | NP Digital | SEO Strategist | **Ready — Jobvite portal** | `main_np_digital` + cover | https://jobs.jobvite.com/np-ca |
 | C23 | Heavy Duty Advertising | Remote Digital Marketing Specialist | **Ready — mailto** Edward@KristaAndEd.com | `main_heavy_duty_advertising` + cover | https://heavydutyadvertising.com/careers/remote-digital-marketing-specialist/ |
@@ -190,6 +199,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-07-24 daily run:** local BB–BH (Walmart Calgary Trail, Roofmart Acheson rooftop, Uline Edmonton $31–35, Olive Garden Gateway dishwasher mailto, JC Night Shipper/Receiver, JC Kitter, Sobeys night selector); career C24–C25 (Talent Advantage PPC ~78, Powered by Search SEO ~61). Resend unset — mailto lines only. Skipped Southgate PF; Purolator North / Durabuilt 178 St distance; KOHO affiliate gap; JAM CRM Toronto.
 - **2026-07-23 daily run:** local AV–BA (Wajax, Powell, JC Material Handler, Hi Tech email, Trail Appliances, Starbucks Riverbend); career C21–C23 (LawDepot Data Analyst, NP Digital SEO, Heavy Duty Advertising). Resend unset — mailto lines only.
 - Prior local drafts: Go Kia South, Gentek, Intelcom, Touchette
 

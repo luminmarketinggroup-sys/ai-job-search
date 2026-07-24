@@ -11,6 +11,57 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BB. Walmart — Stock Unloader Associate (3931 Calgary Trail NW) ★ NEW · CLOSEST · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443970369  
+- **Primary location (verified on posting):** 3931 Calgary Trail NW, Edmonton, AB T6J 5M8  
+- **Pay:** from ~$16/hr · unload trailers / move pallets / stock support  
+- **Why:** Exact Calgary Trail corridor · ~10 min from 11110 68 Ave NW  
+- **Blurb:**
+> I’m applying for the Stock Unloader Associate role at Walmart Calgary Trail (3931 Calgary Trail NW). I live nearby at 11110 68 Ave NW and am comfortable with physical, paced work: unloading trailers, moving pallets, accurate handling, and keeping receiving areas organized. Reliable for early or overnight unload shifts and ready to learn Walmart processes quickly.
+
+### BC. Roofmart — Rooftop Loader / Shipper and Receiver (Acheson) ★ NEW · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/rooftop-loader-shipper-and-receiver-at-roofmart-4424801619  
+- **Portal:** https://iko.wd3.myworkdayjobs.com/en-US/Roofmart_Careers  
+- **Why:** Distinct from Edmonton South 62 Ave draft · Acheson yard + rooftop load · forklift/fall-protection training can be provided  
+- **Blurb:**
+> I’m applying for the Rooftop Loader / Shipper and Receiver role at Roofmart Acheson. I’m based in south Edmonton, comfortable with physical warehouse and yard work, loading/unloading, shipping/receiving accuracy, and working safely at heights with training. Willing to obtain or refresh forklift and fall-protection credentials as needed. Reliable and ready for full-time hours.
+
+### BD. Uline — Warehouse Associate Days (Edmonton Branch) ★ NEW · $31–35/hr · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/warehouse-associate-days-at-uline-4440737568  
+- **Careers:** https://www.uline.jobs/  
+- **Shift:** Mon–Fri 10:30 AM–7 PM (+ OT) · pick/pack/load/unload  
+- **Why:** Distinct Edmonton branch listing from prior St. Albert / Spruce Grove drafts  
+- **Blurb:**
+> I’m applying for the Warehouse Associate – Days role at Uline’s Edmonton branch ($31–$35/hr). I’m based in south Edmonton, comfortable moving 50–70 lb packages, picking/packing for same-day ship, loading outbound trailers, and unloading supplier shipments accurately. Reliable for the posted 10:30–7 schedule and ready for hands-on equipment training.
+
+### BE. Olive Garden (Gateway) — Dishwasher · South ★ NEW · BOH · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/dishwasher-olive-garden-south-at-olive-garden-canada-4427647944  
+- **Address:** 4110 Gateway Blvd NW, Edmonton, AB T6J 6S7 (south / Gateway · near Calgary Trail corridor)  
+- **Email signal:** recruit@recipeunlimited.com  
+- **mailto:** mailto:recruit@recipeunlimited.com?subject=Dishwasher%20-%20Olive%20Garden%20Gateway%20-%20Dylan%20Michael&body=Please%20find%20my%20resume%20attached.%0A%0AI%27m%20applying%20for%20the%20Dishwasher%20role%20at%20Olive%20Garden%20Gateway%20(4110%20Gateway%20Blvd%20NW).%20I%20live%20in%20south%20Edmonton%20near%2068%20Ave%20/%20Calgary%20Trail%20and%20am%20comfortable%20with%20fast-paced%20kitchen%20BOH%20work.%0A%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca  
+- **Blurb:**
+> I’m applying for the Dishwasher role at Olive Garden Gateway (4110 Gateway Blvd NW). I live in south Edmonton near 68 Ave / Calgary Trail, am available for flexible restaurant shifts, and am used to paced, on-your-feet work from Audi Southgate Fixed Ops. Reliable, coachable, and ready to keep dish and prep areas clean and organized.
+
+### BF. Johnson Controls / Silent-Aire — Shipper/Receiver Night (Nisku) ★ NEW · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shipper-receiver-night-shit-at-johnson-controls-4426880365  
+- **Why:** Night shift variant distinct from prior day Shipper/Receiver and Material Handler drafts · Nisku manufacturing  
+- **Notes:** Posting title has a typo (“Night Shit”); role is weekday nights ship/receive · ~2 yrs preferred / forklift  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver (weekday nights) role at Johnson Controls / Silent-Aire in Nisku. I’m comfortable loading/unloading, put-away, shipping documentation, and keeping a clean, accurate dock. Local to south Edmonton with reliable transportation for night shifts; willing to confirm forklift credentials or train as required.
+
+### BG. Johnson Controls / Silent-Aire — Kitter (Nisku) ★ NEW · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/kitter-at-johnson-controls-4438443978  
+- **Why:** Line-side material kit / move · manufacturing BOH · Nisku  
+- **Blurb:**
+> I’m applying for the Kitter role at Johnson Controls / Silent-Aire in Nisku. I’m comfortable loading/unloading, sorting and staging parts, checking counts, and moving materials by hand or equipment to the point of use. Local to south Edmonton with reliable transportation and ready for paced plant shifts.
+
+### BH. Sobeys — Warehouse Order Selector Night (Edmonton RSC) ★ NEW · 2026-07-24
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/warehouse-order-selector-night-at-sobeys-4436619747  
+- **Shift:** ~10:00pm–6:30am · Fri/Sun mandatory · 32–40 hrs/week PT  
+- **Why:** Night grocery DC selector · physical paced warehouse  
+- **Blurb:**
+> I’m applying for the Warehouse Order Selector – Night role at Sobeys Edmonton RSC. I’m based in south Edmonton, comfortable with paced picking, accurate order assembly, safety-first warehouse work, and overnight schedules including required weekend nights. Reliable attendance and ready to learn RSC processes quickly.
+
 ### AV. Wajax — Shipper/Receiver (Acheson / Edmonton) ★ NEW · 2026-07-23
 - **LinkedIn (Acheson):** https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4444221321  
 - **LinkedIn (Edmonton):** https://ca.linkedin.com/jobs/view/shipper-receiver-at-wajax-4438671623  
