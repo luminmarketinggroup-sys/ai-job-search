@@ -8,6 +8,16 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0aa. Odds Scanner Group — Senior SEO Content Specialist English (NEW 2026-07-25)
+   LinkedIn: https://ca.linkedin.com/jobs/view/senior-seo-content-specialist-english-at-odds-scanner-group-4442732856
+   Materials: cv/main_odds_scanner.pdf + cover_odds_scanner_senior_seo_content_specialist.pdf
+   Note: Remote · fit ~64 · iGaming vertical gap noted
+
+0ab. Brafton — SEO Strategist Remote Canada (NEW 2026-07-25)
+   https://www.brafton.com/careers/ · https://builtin.com/job/remote-seo-strategist-canada/9665907
+   Materials: cv/main_brafton.pdf + cover_brafton_seo_strategist.pdf
+   Note: Confirm base ≥ CAD $60k
+
 0z. Talent Advantage — PPC & Social Media Ads Manager (NEW 2026-07-24)
    mailto:info@talentadvantage.ca · LinkedIn https://ca.linkedin.com/jobs/view/4444776666
    Materials: cv/main_talent_advantage.pdf + cover_talent_advantage_ppc_social_ads_manager.pdf
@@ -82,6 +92,19 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L67. Home Depot Receiving Associate — South Common ★ NEW 2026-07-25
+     https://careers.homedepot.ca/store/7065
+     LinkedIn: https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186
+     Address: 2020 101 Street SW · blurb APPLICATIONS_LOCAL.md#BI
+
+L68. Walmart Overnight Associate — Currents Dr ★ NEW 2026-07-25
+     LinkedIn: https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443957652
+     Address: 6110 Currents Dr NW · blurb APPLICATIONS_LOCAL.md#BJ
+
+L69. Starbucks Barista — College Plaza #22119 ★ NEW 2026-07-25
+     LinkedIn: https://ca.linkedin.com/jobs/view/barista-store-22119-college-plaza-at-starbucks-4441760524
+     Nearby · not Southgate · blurb APPLICATIONS_LOCAL.md#BK
+
 L60. Walmart Stock Unloader — 3931 Calgary Trail ★ NEW CLOSEST 2026-07-24
      https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443970369
 

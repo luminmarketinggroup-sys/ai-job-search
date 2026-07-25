@@ -1329,6 +1329,372 @@
       "fit": "medium",
       "status": "skipped",
       "notes": "address unclear"
+    },
+    "https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186": {
+      "title": "Receiving Associate Full-Time - 7065 South Common",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186",
+      "first_seen": "2026-07-25",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "note": "2020 101 St SW South Common \u00b7 ~10-15 min corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443957652": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443957652",
+      "first_seen": "2026-07-25",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "note": "6110 Currents Dr NW Windermere \u00b7 south corridor unload/stock"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store-22119-college-plaza-at-starbucks-4441760524": {
+      "title": "barista - Store# 22119, COLLEGE PLAZA",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store-22119-college-plaza-at-starbucks-4441760524",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "note": "College Plaza near 82 Ave / 112 St \u00b7 not Southgate"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-seo-content-specialist-english-at-odds-scanner-group-4442732856": {
+      "title": "Senior SEO Content Specialist - English",
+      "company": "Odds Scanner Group",
+      "url": "https://ca.linkedin.com/jobs/view/senior-seo-content-specialist-english-at-odds-scanner-group-4442732856",
+      "first_seen": "2026-07-25",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "note": "Fit ~64 remote Canada; iGaming vertical gap noted"
+    },
+    "https://www.brafton.com/careers/": {
+      "title": "SEO Strategist (Remote Canada)",
+      "company": "Brafton",
+      "url": "https://www.brafton.com/careers/",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "note": "Fit ~63; BuiltIn listing; pay band may start ~$55k \u2014 confirm \u2265$60k"
+    },
+    "https://builtin.com/job/remote-seo-strategist-canada/9665907": {
+      "title": "Remote SEO Strategist - Canada",
+      "company": "Brafton",
+      "url": "https://builtin.com/job/remote-seo-strategist-canada/9665907",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "note": "Source listing for Brafton SEO Strategist"
+    },
+    "https://ca.linkedin.com/jobs/view/parts-shipper-receiver-go-nissan-north-at-go-auto-4445269226": {
+      "title": "Parts Shipper/Receiver (Go Nissan North)",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/parts-shipper-receiver-go-nissan-north-at-go-auto-4445269226",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "North Edmonton \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-team-30-2-at-ryder-system-inc-4444602494": {
+      "title": "Material Handler - Team 30-2",
+      "company": "Ryder System, Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-team-30-2-at-ryder-system-inc-4444602494",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Likely NW 129 Ave / not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/crating-staff-at-wausau-supply-company-4445208882": {
+      "title": "Crating Staff",
+      "company": "Wausau Supply / ChamClad",
+      "url": "https://ca.linkedin.com/jobs/view/crating-staff-at-wausau-supply-company-4445208882",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "170 St NW + carpentry skills \u2014 distance"
+    },
+    "https://ca.linkedin.com/jobs/view/forklift-operator-at-kindersley-transport-ltd-4445245978": {
+      "title": "Forklift Operator",
+      "company": "Kindersley Transport",
+      "url": "https://ca.linkedin.com/jobs/view/forklift-operator-at-kindersley-transport-ltd-4445245978",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "3 yrs forklift mandatory"
+    },
+    "https://ca.linkedin.com/jobs/view/terminal-operator-i-at-crh-canada-4444995504": {
+      "title": "Terminal Operator I",
+      "company": "CRH / Ash Grove",
+      "url": "https://ca.linkedin.com/jobs/view/terminal-operator-i-at-crh-canada-4444995504",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "10122 17 St SE \u2014 farther SE industrial"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-labourer-driver-at-chandos-construction-4434352981": {
+      "title": "Warehouse Labourer/ Driver",
+      "company": "Chandos Construction",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-labourer-driver-at-chandos-construction-4434352981",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Leduc + Class 5/driver abstract"
+    },
+    "https://ca.linkedin.com/jobs/view/storekeeper-at-fairmont-hotels-resorts-4444397283": {
+      "title": "Storekeeper",
+      "company": "Fairmont Jasper Park Lodge",
+      "url": "https://ca.linkedin.com/jobs/view/storekeeper-at-fairmont-hotels-resorts-4444397283",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Jasper Park Lodge \u2014 not Edmonton commute"
+    },
+    "https://ca.linkedin.com/jobs/view/can-produce-stocker-at-walmart-canada-4443968412": {
+      "title": "Produce Stocker",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-produce-stocker-at-walmart-canada-4443968412",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Tamarack \u2014 not corridor; retail floor"
+    },
+    "https://ca.linkedin.com/jobs/view/can-produce-stocker-at-walmart-canada-4443971380": {
+      "title": "Produce Stocker",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-produce-stocker-at-walmart-canada-4443971380",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "87 Ave west \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/can-produce-stocker-at-walmart-canada-4443967479": {
+      "title": "Produce Stocker",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-produce-stocker-at-walmart-canada-4443967479",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Currents \u2014 retail PF; overnight unload preferred instead"
+    },
+    "https://ca.linkedin.com/jobs/view/overnight-associate-at-walmart-canada-4443975214": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/overnight-associate-at-walmart-canada-4443975214",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Northgate Centre \u2014 north"
+    },
+    "https://ca.linkedin.com/jobs/view/overnight-associate-at-walmart-canada-4443953941": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/overnight-associate-at-walmart-canada-4443953941",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Kingsway Garden Mall \u2014 north"
+    },
+    "https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443972276": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443972276",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "127 St NW \u2014 north"
+    },
+    "https://ca.linkedin.com/jobs/view/overnight-associate-at-walmart-canada-4443962591": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/overnight-associate-at-walmart-canada-4443962591",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Tamarack \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/transportation-and-warehouse-supervisor-at-ask-global-corp-4443422532": {
+      "title": "Transportation and Warehouse Supervisor",
+      "company": "ASK Global",
+      "url": "https://ca.linkedin.com/jobs/view/transportation-and-warehouse-supervisor-at-ask-global-corp-4443422532",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Supervisor level stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-manager-industrial-at-wolseley-canada-inc-4443515668": {
+      "title": "Warehouse Manager - Industrial",
+      "company": "Wolseley",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-manager-industrial-at-wolseley-canada-inc-4443515668",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Manager level stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/operations-manager-at-intelcom-dragonfly-4442130328": {
+      "title": "Operations Manager",
+      "company": "Intelcom Dragonfly",
+      "url": "https://ca.linkedin.com/jobs/view/operations-manager-at-intelcom-dragonfly-4442130328",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Manager level stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4444257657": {
+      "title": "Crew Member",
+      "company": "Chipotle",
+      "url": "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4444257657",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Public-facing food; address unverified corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4443090615": {
+      "title": "Crew Member",
+      "company": "Chipotle",
+      "url": "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4443090615",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Public-facing food; address unverified corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-strategist-remote-canada-future-opening-at-directive-4440590698": {
+      "title": "SEO Strategist (Remote Canada) Future Opening",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/seo-strategist-remote-canada-future-opening-at-directive-4440590698",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Must have B2B SaaS/agency enterprise; fit ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/amazon-catalogue-content-listing-specialist-at-the-fastener-group-ltd-4439446120": {
+      "title": "Amazon Catalogue Content & Listing Specialist",
+      "company": "The Fastener Group",
+      "url": "https://ca.linkedin.com/jobs/view/amazon-catalogue-content-listing-specialist-at-the-fastener-group-ltd-4439446120",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Amazon Seller Central required; fit ~45"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-paid-media-specialist-at-connected-creative-4445201546": {
+      "title": "Senior Paid Media Specialist",
+      "company": "Connected Creative",
+      "url": "https://ca.linkedin.com/jobs/view/senior-paid-media-specialist-at-connected-creative-4445201546",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Part-time 10-20 hrs under career floor"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-marketing-specialist-at-gogh-solutions-4440046068": {
+      "title": "Growth Marketing Specialist",
+      "company": "Gogh / JumpGogh",
+      "url": "https://ca.linkedin.com/jobs/view/growth-marketing-specialist-at-gogh-solutions-4440046068",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "3\u20135+ yrs B2B enterprise ERP; fit ~52"
+    },
+    "https://ca.linkedin.com/jobs/view/organic-search-marketer-seo-aeo-at-mercury-4437610537": {
+      "title": "Organic Search Marketer - SEO/AEO",
+      "company": "Mercury",
+      "url": "https://ca.linkedin.com/jobs/view/organic-search-marketer-seo-aeo-at-mercury-4437610537",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "5+ yrs SEO + 2-3 AEO; fit ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-seo-strategist-at-andromeda-software-inc-4438426495": {
+      "title": "Senior SEO Strategist",
+      "company": "Enspire / Andromeda",
+      "url": "https://ca.linkedin.com/jobs/view/senior-seo-strategist-at-andromeda-software-inc-4438426495",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Bachelor\u2019s + 5+ yrs franchise SEO; fit ~52"
+    },
+    "https://ca.linkedin.com/jobs/view/ai-growth-operations-at-woof-pack-4442071807": {
+      "title": "AI & Growth Operations",
+      "company": "Woof Pack",
+      "url": "https://ca.linkedin.com/jobs/view/ai-growth-operations-at-woof-pack-4442071807",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Montreal / 4\u20137 yrs DTC; fit ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/social-media-specialist-at-academy-of-healthcare-services-4445299337": {
+      "title": "social media specialist",
+      "company": "Academy of Healthcare Services",
+      "url": "https://ca.linkedin.com/jobs/view/social-media-specialist-at-academy-of-healthcare-services-4445299337",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Posting incomplete; college preferred; pay unknown"
+    },
+    "https://ca.linkedin.com/jobs/view/cms-editor-at-lawdepot-4440069190": {
+      "title": "CMS Editor",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/cms-editor-at-lawdepot-4440069190",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Content editing not marketing ownership; fit ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/social-media-coordinator-at-nait-northern-alberta-institute-of-technology-4445239430": {
+      "title": "Social Media Coordinator",
+      "company": "NAIT",
+      "url": "https://ca.linkedin.com/jobs/view/social-media-coordinator-at-nait-northern-alberta-institute-of-technology-4445239430",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "~$20.79/hr under career floor"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-marketer-meta-ads-paid-social-for-e-comm-personal-brands-remote-us-\ud83d\ude80-at-atomic-remote-jobs-4444017286": {
+      "title": "Growth Marketer (Meta Ads)",
+      "company": "Atomic Remote Jobs",
+      "url": "https://ca.linkedin.com/jobs/view/growth-marketer-meta-ads-paid-social-for-e-comm-personal-brands-remote-us-\ud83d\ude80-at-atomic-remote-jobs-4444017286",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "US agency; requires PST/CST/EST (MST not listed)"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-and-content-manager-at-lammle-s-western-wear-4444024606": {
+      "title": "Digital Marketing and Content Manager",
+      "company": "Lammle's Western Wear",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-and-content-manager-at-lammle-s-western-wear-4444024606",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Calgary + bachelor\u2019s; fit ~48"
+    },
+    "https://ca.linkedin.com/jobs/view/paid-media-manager-at-benevity-4442910325": {
+      "title": "Paid Media Manager",
+      "company": "Benevity",
+      "url": "https://ca.linkedin.com/jobs/view/paid-media-manager-at-benevity-4442910325",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "skipped",
+      "note": "Calgary; location fail unless remote confirmed"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-growth-operations-manager-at-float-4444798303": {
+      "title": "Marketing & Growth Operations Manager",
+      "company": "Float",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-growth-operations-manager-at-float-4444798303",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "Toronto hybrid + 5+ yrs; fit ~40"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-operations-manager-at-dynata-4441308744": {
+      "title": "Marketing Operations Manager",
+      "company": "Dynata",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-operations-manager-at-dynata-4441308744",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "note": "4\u20136+ yrs MarTech; fit ~42"
     }
   },
   "last_run": "2026-07-22"

@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (updated 2026-07-24)
+# Application Status — Dylan Michael (updated 2026-07-25)
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -57,6 +57,9 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L67 | **Home Depot South Common** | Receiving Associate Full-Time | **NEW 07-25** · 2020 101 St SW · south corridor | https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186 |
+| L68 | **Walmart Currents** | Overnight Associate | **NEW 07-25** · 6110 Currents Dr NW · south unload/stock | https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443957652 |
+| L69 | **Starbucks College Plaza** | Barista #22119 | **NEW 07-25** · near 82 Ave · not Southgate | https://ca.linkedin.com/jobs/view/barista-store-22119-college-plaza-at-starbucks-4441760524 |
 | L60 | **Walmart Calgary Trail** | Stock Unloader Associate | **NEW 07-24** · 3931 Calgary Trail · closest corridor | https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443970369 |
 | L61 | **Uline Edmonton** | Warehouse Associate Days | **NEW 07-24** · $31–35 · Edmonton branch | https://ca.linkedin.com/jobs/view/warehouse-associate-days-at-uline-4440737568 |
 | L62 | **Roofmart Acheson** | Rooftop Loader / Shipper Receiver | **NEW 07-24** · distinct from 62 Ave | https://ca.linkedin.com/jobs/view/rooftop-loader-shipper-and-receiver-at-roofmart-4424801619 |
@@ -163,6 +166,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
 | C15 | Goose Digital | Account Lead, Digital Solutions | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
 | C16 | Goose Digital | Demand Generation Specialist | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
+| C26 | Odds Scanner Group | Senior SEO Content Specialist (English) | **Ready — portal/LinkedIn** · Fit ~64 · iGaming gap | `main_odds_scanner` + cover | https://ca.linkedin.com/jobs/view/senior-seo-content-specialist-english-at-odds-scanner-group-4442732856 |
+| C27 | Brafton | SEO Strategist Remote Canada | **Ready — portal** brafton.com/careers · Fit ~63 · confirm ≥$60k | `main_brafton` + cover | https://www.brafton.com/careers/ |
 | C24 | Talent Advantage | PPC & Social Media Ads Manager | **Ready — mailto** info@talentadvantage.ca (Resend unset) · Fit ~78 · $60–70k downtown | `main_talent_advantage` + cover | https://ca.linkedin.com/jobs/view/4444776666 |
 | C25 | Powered by Search | SEO Strategist Remote | **Ready — portal** poweredbysearch.com/careers · Fit ~61 · B2B SaaS gap | `main_powered_by_search` + cover | https://ca.linkedin.com/jobs/view/4441553027 |
 | C21 | LawDepot | Data Analyst - Digital Marketing | **Ready — mailto** career@lawdepot.ca (Resend unset) | `main_lawdepot_data_analyst` + cover | https://www.lawdepot.ca/career/posting.php?ref_id=DMDA |
@@ -199,6 +204,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-07-25 daily run:** local BI–BK (Home Depot South Common receiving, Walmart Currents overnight, Starbucks College Plaza); career C26–C27 (Odds Scanner SEO Content ~64, Brafton SEO Strategist ~63). Resend unset — portal/checklist only. Skipped Southgate PF; north Walmart overnight; Ryder/ChamClad NW; Directive B2B SaaS hard req; Connected Creative PT paid media; Mercury 5+ yrs AEO.
 - **2026-07-24 daily run:** local BB–BH (Walmart Calgary Trail, Roofmart Acheson rooftop, Uline Edmonton $31–35, Olive Garden Gateway dishwasher mailto, JC Night Shipper/Receiver, JC Kitter, Sobeys night selector); career C24–C25 (Talent Advantage PPC ~78, Powered by Search SEO ~61). Resend unset — mailto lines only. Skipped Southgate PF; Purolator North / Durabuilt 178 St distance; KOHO affiliate gap; JAM CRM Toronto.
 - **2026-07-23 daily run:** local AV–BA (Wajax, Powell, JC Material Handler, Hi Tech email, Trail Appliances, Starbucks Riverbend); career C21–C23 (LawDepot Data Analyst, NP Digital SEO, Heavy Duty Advertising). Resend unset — mailto lines only.
 - Prior local drafts: Go Kia South, Gentek, Intelcom, Touchette

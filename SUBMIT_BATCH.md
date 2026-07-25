@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| BI | **Home Depot Receiving — South Common (2020 101 St SW)** | **NEW 07-25** · south corridor unload/receive |
+| BJ | **Walmart Overnight — Currents Dr (Windermere)** | **NEW 07-25** · south overnight unload/stock |
+| BK | **Starbucks Barista — College Plaza** | **NEW 07-25** · nearby · not Southgate |
 | BB | **Walmart Stock Unloader — 3931 Calgary Trail** | **NEW 07-24** · exact corridor |
 | BD | **Uline Warehouse Associate Days — Edmonton · $31–35** | **NEW 07-24** · best pay Edmonton branch |
 | BC | **Roofmart Rooftop Loader / Shipper — Acheson** | **NEW 07-24** · yard + rooftop |

@@ -1,9 +1,18 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-25 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C26 | Odds Scanner Group | Senior SEO Content Specialist (English) | Good (~64) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/senior-seo-content-specialist-english-at-odds-scanner-group-4442732856 | `cv/main_odds_scanner.pdf` | `cover_letters/cover_odds_scanner_senior_seo_content_specialist.pdf` | Remote; on-page SEO match; iGaming vertical new; Ahrefs preferred vs SEMrush/Search Atlas |
+| C27 | Brafton | SEO Strategist (Remote Canada) | Good (~63) | **PORTAL** https://www.brafton.com/careers/ · listing https://builtin.com/job/remote-seo-strategist-canada/9665907 | `cv/main_brafton.pdf` | `cover_letters/cover_brafton_seo_strategist.pdf` | Confirm base ≥ CAD $60k (public band may start ~$55k); SMB SEO strong; large e-comm / advanced HTML-JS depth growing |
+
+Skipped this run (fit/location/pay): Directive SEO Future Opening (~55; hard B2B SaaS); Connected Creative Senior Paid Media (10–20 hrs/wk); Mercury SEO/AEO (~50; 5+ yrs); Enspire/Andromeda Senior SEO (~52; degree + 5+ yrs); Gogh Growth (~52; enterprise ERP); Fastener Group Amazon listings (~45); Woof Pack AI Ops (~55; Montreal/4–7 yrs); NAIT Social Media Coordinator (under floor); Atomic Meta Ads (US TZ filter); Lammle’s Calgary; Benevity Calgary; Float Toronto; Dynata MarOps stretch.
 
 ## NEW drafts this run (2026-07-24 daily scrape)
 

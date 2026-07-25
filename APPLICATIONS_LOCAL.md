@@ -11,6 +11,30 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BI. Home Depot — Receiving Associate Full-Time (7065 South Common) ★ NEW · SOUTH · 2026-07-25
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186  
+- **Portal:** https://careers.homedepot.ca/store/7065  
+- **Address (verified):** 2020 101 Street SW, Edmonton, AB T6N 1J2  
+- **Why:** South Common / Calgary Trail south · ~10–15 min from 11110 68 Ave NW · unload / receive / stock  
+- **Notes:** Powered lift license required; store may train · 1 yr receiving preferred  
+- **Blurb:**
+> I’m applying for the Receiving Associate role at Home Depot South Common (2020 101 Street SW). I live nearby at 11110 68 Ave NW and am comfortable with physical receiving work: unloading carriers, checking quantities, moving freight, and keeping the dock organized. Willing to complete powered lift equipment training as required. Reliable for full-time hours and ready to learn Home Depot receiving processes quickly.
+
+### BJ. Walmart — Overnight Associate (6110 Currents Dr NW) ★ NEW · SOUTH · 2026-07-25
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/can-overnight-associate-at-walmart-canada-4443957652  
+- **Primary location (verified on posting):** 6110 Currents Dr NW, Edmonton, AB T6W 0L7  
+- **Pay:** from ~$16.15/hr · overnight unload / backroom / floor prep  
+- **Why:** Windermere / south Edmonton · ~15 min via Calgary Trail · stronger unload/stock emphasis overnight  
+- **Blurb:**
+> I’m applying for the Overnight Associate role at Walmart Currents (6110 Currents Dr NW). I live in south Edmonton at 11110 68 Ave NW and am comfortable with paced overnight work: unloading trailers, pulling pallets, labelling/backroom binning, and stocking to prepare the floor for open. Reliable attendance and ready to learn Walmart overnight processes quickly.
+
+### BK. Starbucks — Barista (College Plaza #22119) ★ NEW · NEARBY · 2026-07-25
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/barista-store-22119-college-plaza-at-starbucks-4441760524  
+- **Area:** College Plaza (near 82 Ave / 112 St) · not Southgate Centre  
+- **Why:** Nearby south-central barista · flexible PT shifts  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks College Plaza (#22119). I live nearby in south Edmonton, am available for early mornings, evenings, and weekends, and am used to paced customer-facing work from Audi Southgate Fixed Ops. Coachable on recipes, cash handling, and keeping a clean station.
+
 ### BB. Walmart — Stock Unloader Associate (3931 Calgary Trail NW) ★ NEW · CLOSEST · 2026-07-24
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443970369  
 - **Primary location (verified on posting):** 3931 Calgary Trail NW, Edmonton, AB T6J 5M8  
