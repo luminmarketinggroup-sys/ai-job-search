@@ -17,9 +17,11 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
-| BL | **Princess Auto Receiver Days — Edmonton South (9835 34 Ave)** | **NEW 07-26** · ~6–10 min · store warehouse |
-| BM | **Princess Auto Receiver Nights — Edmonton** | **NEW 07-26** · overnight BOH stock |
-| BN | **Sephora Ops Consultant — Meadows stockroom** | **NEW 07-26** · SE stockroom · not Southgate |
+| BL | **Princess Auto Receiver Days — Edmonton South (9835 34 Ave)** | **PACK READY** · `main_princess_auto.pdf` + days cover · [APPLY_NOW](APPLY_NOW_2026-07-26.md) |
+| BM | **Princess Auto Receiver Nights — Edmonton** | **PACK READY** · same CV + nights cover |
+| BN | **Sephora Ops Consultant — Meadows stockroom** | **PACK READY** · `main_sephora.pdf` + cover |
+| C28 | **Waste Logic Marketing Coordinator** | **FORM FILLED — finish CAPTCHA** · https://wastelogic.bamboohr.com/careers/53 |
+| C29 | **Huzzle Digital Marketing Specialist** | **PACK READY** · remote · LinkedIn/BuiltIn |
 | BI | **Home Depot Receiving — South Common (2020 101 St SW)** | **NEW 07-25** · south corridor unload/receive |
 | BJ | **Walmart Overnight — Currents Dr (Windermere)** | **NEW 07-25** · south overnight unload/stock |
 | BK | **Starbucks Barista — College Plaza** | **NEW 07-25** · nearby · not Southgate |

@@ -53,15 +53,25 @@ Optional backup cron (Path B): `.github/workflows/daily-job-search.yml` — only
 
 ---
 
-## Desktop path for closer-to-auto-submit (optional next step)
+## Professional submit rule (LOCKED)
+
+Follow what each employer requires:
+1. **Portal / ATS first** when that is the listed apply path (BambooHR, Northstar, Sephora careers, Greenhouse, LinkedIn Easy Apply).
+2. **Do not** use Contact Us forms when the employer says applications must go through Careers (e.g. Waste Logic).
+3. **Email / Resend** only when the posting lists a mailto or recruiter email as an apply method.
+4. Never claim portal submit succeeded without a confirmation screen.
+
+Canonical field answers + PDF map: `PROFESSIONAL_PORTAL_APPLY.md`
+
+## Desktop path for portal submits (required for CAPTCHA / login)
 
 On your laptop (Cursor Desktop):
 1. Install a browser MCP / enable browser tool  
-2. Log into Indeed, LinkedIn, Starbucks careers, etc. in that browser  
-3. Ask the agent: “Submit all ready_to_submit rows in APPLICATIONS_LOCAL.md using my logged-in browser”  
-4. Approve CAPTCHAs when they appear  
+2. Log into LinkedIn, Sephora, Princess Auto Northstar, BambooHR, etc. in that browser  
+3. Ask: “Submit the packs in PROFESSIONAL_PORTAL_APPLY.md using my logged-in browser. I will approve CAPTCHAs.”  
+4. Approve CAPTCHAs when they appear; agent uploads the curated CV/cover PDFs  
 
-This is the only practical way to approach “auto submit without human” for form-based employers.
+This is the professional path for form-based employers. Cloud VMs alone cannot complete reCAPTCHA or LinkedIn sessions reliably.
 
 ---
 
