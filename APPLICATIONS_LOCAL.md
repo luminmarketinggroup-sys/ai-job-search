@@ -11,6 +11,32 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BL. Princess Auto — Receiver Days (Edmonton South) ★ NEW · CLOSEST · 2026-07-26
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919  
+- **Portal:** https://www.northstarats.com/Princess-Auto (filter **Edmonton, AB - South**) · https://www.princessauto.com/en/careers  
+- **Address (store):** 9835 34 Ave NW, Edmonton, AB T6E 5X9  
+- **Why:** Store warehouse receive / unload / sort · ~6–10 min from 11110 68 Ave NW via Calgary Trail  
+- **Notes:** Also assists customers with vehicle loading (secondary to dock work) · not Southgate  
+- **Blurb:**
+> I’m applying for the Day Receiver role at Princess Auto Edmonton South (9835 34 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with store-warehouse receiving: unloading trucks, sorting product, preparing outbound merchandise, and keeping the dock organized. Reliable for full-time day shifts and ready to learn Princess Auto Royal Service and receiving processes quickly.
+
+### BM. Princess Auto — Receiver Nights (Edmonton) ★ NEW · CLOSEST · 2026-07-26
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908  
+- **Portal:** https://www.northstarats.com/Princess-Auto (filter Edmonton South / West) · https://www.princessauto.com/en/careers  
+- **Shift:** ~6:00 pm–2:30/4:30 am · sorting, merchandising, warehouse + floor prep  
+- **Why:** Night BOH stocking near south Edmonton · same Princess Auto network as days role  
+- **Blurb:**
+> I’m applying for the Night Receiver role at Princess Auto Edmonton. I live in south Edmonton at 11110 68 Ave NW and am comfortable with paced overnight warehouse and floor-prep work: sorting product, stocking, keeping the warehouse organized, and accurate inventory placement. Available for evening/overnight shifts and ready to learn Princess Auto processes quickly.
+
+### BN. Sephora — Operations Consultant Full-Time (Meadows / stockroom) ★ NEW · SOUTH · 2026-07-26
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445  
+- **Portal:** https://join.sephora.com/careers/ (search Edmonton / Meadows store 1618)  
+- **Address:** 2050-38 Avenue Unit B001, Edmonton, AB T6T 0C2 (The Meadows)  
+- **Pay:** ~$17–20/hr · stockroom receive / process / organize  
+- **Why:** South-east stockroom BOH · ~15 min · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Operations Consultant role at Sephora Meadows (stockroom / operations). I live in south Edmonton at 11110 68 Ave NW and am comfortable with physical stockroom work: receiving shipments, processing merchandise, keeping the back room organized, and accurate inventory handling. Flexible for evenings and weekends and ready to learn Sephora operations standards quickly.
+
 ### BI. Home Depot — Receiving Associate Full-Time (7065 South Common) ★ NEW · SOUTH · 2026-07-25
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186  
 - **Portal:** https://careers.homedepot.ca/store/7065  
