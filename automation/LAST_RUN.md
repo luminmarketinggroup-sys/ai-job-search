@@ -1,23 +1,20 @@
-# Last automation run — 2026-07-26
+# Last automation run — 2026-07-26 (apply pass)
 
 ## Summary
-- **3 new local drafts** (Princess Auto Receiver days + nights, Sephora Meadows Operations Consultant stockroom)
-- **2 new career drafts** (Waste Logic Marketing Coordinator ~67, Huzzle Digital Marketing Specialist ~78)
-- **Resend unset** — portal/checklist only (no email claimed sent)
-- Skipped: Critical Mass Calgary office, Aylo Montreal, BuildDirect Vancouver, Toronto senior growth roles, distance Walmart unloaders, French Cossette SEO
+- **Curated CV + cover for all 5 target roles** (Princess Auto days/nights, Sephora, Waste Logic, Huzzle)
+- **Submit attempts:** Waste Logic BambooHR form fully filled; **reCAPTCHA blocked Submit**. Sephora form started (many required fields). Princess Auto Northstar showed no Edmonton Receiver rows (LinkedIn still live). Huzzle not completed (login).
+- **Resend unset** — no email send
+- Human finish checklist: `APPLY_NOW_2026-07-26.md`
 
-## New drafts this run
+## Packs
 
-| Track | Company | Role | Link | Files |
-|-------|---------|------|------|-------|
-| Local | Princess Auto | Receiver (days) Edmonton South | https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BL` |
-| Local | Princess Auto | Receiver (nights) Edmonton | https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BM` |
-| Local | Sephora | Operations Consultant FT (Meadows stockroom) | https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BN` |
-| Career | Waste Logic Inc | Marketing Coordinator (12-mo) | https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543 | `cv/main_waste_logic.pdf` · cover |
-| Career | Huzzle (Colorado agency client) | Digital Marketing Specialist (Remote) | https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818 | `cv/main_huzzle.pdf` · cover |
+| Track | Company | Role | CV | Cover |
+|-------|---------|------|----|-------|
+| Local | Princess Auto | Receiver Days | `cv/main_princess_auto.pdf` | `cover_princess_auto_receiver_days.pdf` |
+| Local | Princess Auto | Receiver Nights | `cv/main_princess_auto.pdf` | `cover_princess_auto_receiver_nights.pdf` |
+| Local | Sephora | Ops Consultant Meadows | `cv/main_sephora.pdf` | `cover_sephora_operations_consultant.pdf` |
+| Career | Waste Logic | Marketing Coordinator 12-mo | `cv/main_waste_logic.pdf` | `cover_waste_logic_marketing_coordinator.pdf` |
+| Career | Huzzle | Digital Marketing Specialist | `cv/main_huzzle.pdf` | `cover_huzzle_digital_marketing_specialist.pdf` |
 
-## Checklists
-- Local blurbs: `APPLICATIONS_LOCAL.md`
-- Career packs: `APPLICATIONS_READY.md`
-- Portals / mailto: `PORTALS_TO_SUBMIT.md` · `EMAIL_APPLIES.md`
-- Status board: `APPLICATION_STATUS.md`
+## Waste Logic direct apply
+https://wastelogic.bamboohr.com/careers/53

@@ -15,6 +15,7 @@
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919  
 - **Portal:** https://www.northstarats.com/Princess-Auto (filter **Edmonton, AB - South**) · https://www.princessauto.com/en/careers  
 - **Address (store):** 9835 34 Ave NW, Edmonton, AB T6E 5X9  
+- **Materials:** `cv/main_princess_auto.pdf` + `cover_letters/cover_princess_auto_receiver_days.pdf`  
 - **Why:** Store warehouse receive / unload / sort · ~6–10 min from 11110 68 Ave NW via Calgary Trail  
 - **Notes:** Also assists customers with vehicle loading (secondary to dock work) · not Southgate  
 - **Blurb:**
@@ -24,6 +25,7 @@
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908  
 - **Portal:** https://www.northstarats.com/Princess-Auto (filter Edmonton South / West) · https://www.princessauto.com/en/careers  
 - **Shift:** ~6:00 pm–2:30/4:30 am · sorting, merchandising, warehouse + floor prep  
+- **Materials:** `cv/main_princess_auto.pdf` + `cover_letters/cover_princess_auto_receiver_nights.pdf`  
 - **Why:** Night BOH stocking near south Edmonton · same Princess Auto network as days role  
 - **Blurb:**
 > I’m applying for the Night Receiver role at Princess Auto Edmonton. I live in south Edmonton at 11110 68 Ave NW and am comfortable with paced overnight warehouse and floor-prep work: sorting product, stocking, keeping the warehouse organized, and accurate inventory placement. Available for evening/overnight shifts and ready to learn Princess Auto processes quickly.
@@ -33,6 +35,7 @@
 - **Portal:** https://join.sephora.com/careers/ (search Edmonton / Meadows store 1618)  
 - **Address:** 2050-38 Avenue Unit B001, Edmonton, AB T6T 0C2 (The Meadows)  
 - **Pay:** ~$17–20/hr · stockroom receive / process / organize  
+- **Materials:** `cv/main_sephora.pdf` + `cover_letters/cover_sephora_operations_consultant.pdf`  
 - **Why:** South-east stockroom BOH · ~15 min · not Southgate Centre  
 - **Blurb:**
 > I’m applying for the Operations Consultant role at Sephora Meadows (stockroom / operations). I live in south Edmonton at 11110 68 Ave NW and am comfortable with physical stockroom work: receiving shipments, processing merchandise, keeping the back room organized, and accurate inventory handling. Flexible for evenings and weekends and ready to learn Sephora operations standards quickly.
