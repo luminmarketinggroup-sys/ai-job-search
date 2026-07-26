@@ -5,6 +5,15 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-07-26 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C28 | Waste Logic Inc | Marketing Coordinator (12-mo maternity coverage) | Good (~67) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543 · https://wastelogic.com/careers | `cv/main_waste_logic.pdf` | `cover_letters/cover_waste_logic_marketing_coordinator.pdf` | Edmonton onsite; SEO/content/social/email match; diploma/degree gap noted; confirm base ≥ CAD $60k |
+| C29 | Huzzle (Colorado agency client) | Digital Marketing Specialist (Remote) | High (~78) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818 · https://builtin.com/job/digital-marketing-specialist/10232041 | `cv/main_huzzle.pdf` | `cover_letters/cover_huzzle_digital_marketing_specialist.pdf` | 100% remote; MT 9–5; SEO+paid+client ownership; US multi-vertical depth still growing; confirm base ≥ CAD $60k |
+
+Skipped this run (fit/location/pay): Critical Mass Search Strategist (Calgary 3 days/week office); Aylo SEO / Sr SEO (Montreal hybrid / adult vertical — prior skip); BuildDirect Growth & Digital Experience (Vancouver; Claude Code stack but location fail); Staffbase Growth Marketing Lead (Toronto / 6–9 yrs); exacare Growth Marketing Manager (Toronto); Warman O’Brien Product Strategist (10+ yrs life sciences); Digital Lead Account Director (5–10+ yrs agency leadership); Oldcastle Field Marketing Manager (construction field / degree); Cossette SEO Intermédiaire (French required); Walmart unloaders St Albert / Leduc + Sherwood Park produce (distance); BrandSafway / Kindersley / Ash Grove already skipped prior (forklift/cert/industrial).
+
 ## NEW drafts this run (2026-07-25 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

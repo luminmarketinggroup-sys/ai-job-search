@@ -8,6 +8,18 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0ac. Waste Logic — Marketing Coordinator 12-mo (NEW 2026-07-26)
+   LinkedIn: https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543
+   Also: https://wastelogic.com/careers
+   Materials: cv/main_waste_logic.pdf + cover_waste_logic_marketing_coordinator.pdf
+   Note: Edmonton onsite · confirm base ≥ CAD $60k · degree gap noted
+
+0ad. Huzzle (Colorado agency client) — Digital Marketing Specialist Remote (NEW 2026-07-26)
+   LinkedIn: https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818
+   Also: https://builtin.com/job/digital-marketing-specialist/10232041
+   Materials: cv/main_huzzle.pdf + cover_huzzle_digital_marketing_specialist.pdf
+   Note: MT 9–5 · confirm base ≥ CAD $60k
+
 0aa. Odds Scanner Group — Senior SEO Content Specialist English (NEW 2026-07-25)
    LinkedIn: https://ca.linkedin.com/jobs/view/senior-seo-content-specialist-english-at-odds-scanner-group-4442732856
    Materials: cv/main_odds_scanner.pdf + cover_odds_scanner_senior_seo_content_specialist.pdf
@@ -92,6 +104,21 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L70. Princess Auto Receiver Days — Edmonton South ★ NEW 2026-07-26
+     LinkedIn: https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919
+     Portal: https://www.northstarats.com/Princess-Auto (Edmonton, AB - South)
+     Address: 9835 34 Ave NW · blurb APPLICATIONS_LOCAL.md#BL
+
+L71. Princess Auto Receiver Nights — Edmonton ★ NEW 2026-07-26
+     LinkedIn: https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908
+     Portal: https://www.northstarats.com/Princess-Auto
+     Blurb: APPLICATIONS_LOCAL.md#BM
+
+L72. Sephora Operations Consultant FT — Meadows stockroom ★ NEW 2026-07-26
+     LinkedIn: https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445
+     Portal: https://join.sephora.com/careers/
+     Address: 2050-38 Avenue · blurb APPLICATIONS_LOCAL.md#BN
+
 L67. Home Depot Receiving Associate — South Common ★ NEW 2026-07-25
      https://careers.homedepot.ca/store/7065
      LinkedIn: https://ca.linkedin.com/jobs/view/receiving-associate-full-time-7065-south-common-at-the-home-depot-canada-4442604186

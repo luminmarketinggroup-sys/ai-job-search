@@ -1695,6 +1695,118 @@
       "fit": "low",
       "status": "skipped",
       "note": "4\u20136+ yrs MarTech; fit ~42"
+    },
+    "https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919": {
+      "title": "Receiver (days)",
+      "company": "Princess Auto Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908": {
+      "title": "Receiver (nights)",
+      "company": "Princess Auto Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445": {
+      "title": "Operations Consultant Full Time (Meadows stockroom)",
+      "company": "SEPHORA",
+      "url": "https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543": {
+      "title": "Marketing Coordinator (12-month maternity leave coverage)",
+      "company": "Waste Logic Inc",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818": {
+      "title": "Digital Marketing Specialist",
+      "company": "Huzzle.com",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443957716": {
+      "title": "Stock Unloader Associate (St Albert)",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443957716",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4444212925": {
+      "title": "Stock Unloader Associate (Leduc)",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4444212925",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/produce-stocker-overnights-at-walmart-canada-4445254775": {
+      "title": "Produce Stocker Overnights (Sherwood Park)",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/produce-stocker-overnights-at-walmart-canada-4445254775",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/field-marketing-manager-acheson-ab-at-oldcastle-apg-4441831678": {
+      "title": "Field Marketing Manager",
+      "company": "Oldcastle APG",
+      "url": "https://ca.linkedin.com/jobs/view/field-marketing-manager-acheson-ab-at-oldcastle-apg-4441831678",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/lead-account-director-at-digital-4441928998": {
+      "title": "Lead Account Director",
+      "company": "Digital",
+      "url": "https://ca.linkedin.com/jobs/view/lead-account-director-at-digital-4441928998",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-marketing-lead-at-staffbase-4443474430": {
+      "title": "Growth Marketing Lead",
+      "company": "Staffbase",
+      "url": "https://ca.linkedin.com/jobs/view/growth-marketing-lead-at-staffbase-4443474430",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-marketing-manager-at-exacare-ai-4444037591": {
+      "title": "Growth Marketing Manager",
+      "company": "exacare ai",
+      "url": "https://ca.linkedin.com/jobs/view/growth-marketing-manager-at-exacare-ai-4444037591",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-warman-obrien-4440170188": {
+      "title": "Digital Marketing Specialist (Product Strategist life sciences)",
+      "company": "Warman OBrien",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-warman-obrien-4440170188",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-digital-experience-manager-at-builddirect-4443306503": {
+      "title": "Growth & Digital Experience Manager",
+      "company": "BuildDirect",
+      "url": "https://ca.linkedin.com/jobs/view/growth-digital-experience-manager-at-builddirect-4443306503",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "skipped"
     }
   },
   "last_run": "2026-07-22"
