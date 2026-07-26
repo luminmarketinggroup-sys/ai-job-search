@@ -183,9 +183,9 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ## Counts
 
 - Already submitted: **32+ career/local email applies** (Resend on 2026-07-22)
-- **New 2026-07-23:** 6 local drafts (Wajax, Cargojet, Compass, Nuna, Braven, JOEY Bell Tower) + 2 career packs (vitruvi, Webserv)
-- Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), Webserv (C22), warehouse Priority A
-- **Email ready (Resend key missing in this cloud env):** vitruvi → shelly@vitruvi.com · Cargojet → hr@cargojet.com · Nuna → hr@nunagroup.com
-- Add `RESEND_API_KEY` to Cloud Agent secrets to auto-send those three
+- **2026-07-23 pack apply attempt (2026-07-26):** **0 submitted** — Resend unset + portal CAPTCHA/login walls
+- Finish kit: `APPLY_NOW_2026-07-23.md`
+- **Email still queued:** vitruvi → shelly@vitruvi.com · Cargojet → hr@cargojet.com · Nuna → hr@nunagroup.com
+- Add `RESEND_API_KEY` to Cloud Agent secrets, then reply `Resend ready`
 
 Reply e.g. `submitted AMA` or `submitted L1–L8` to update the tracker.

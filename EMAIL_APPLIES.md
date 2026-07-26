@@ -54,9 +54,9 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, Webserv (LinkedIn), plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Compass, etc.).
 
-## Ready to email (2026-07-23) — Resend not configured in this run
+## Ready to email (2026-07-23 pack) — still not sent as of 2026-07-26
 
-`RESEND_API_KEY` was unset in the cloud environment, so these were **not** sent. Add the key to secrets / `.env`, then run the commands below.
+`RESEND_API_KEY` is unset in this cloud environment. Portal attempts also failed (CAPTCHA/login). See `APPLY_NOW_2026-07-23.md`. Add the key to secrets / `.env`, then run the commands below (or reply `Resend ready`).
 
 | # | Company | To | Subject | Attach |
 |---|---------|-----|---------|--------|

@@ -1,5 +1,27 @@
 # Daily job-search run log
 
+## 2026-07-26 (apply pass on 2026-07-23 pack)
+
+**Goal:** Submit the 8 drafts from 2026-07-23  
+**Submitted:** 0  
+**Blocked:** portals (CAPTCHA / account walls)  
+**Email:** not sent — `RESEND_API_KEY` still unset  
+
+| Company | Attempt | Result |
+|---------|---------|--------|
+| vitruvi | email shelly@vitruvi.com | queued — no Resend |
+| Cargojet | UltiPro + email hr@cargojet.com | login wall; email queued |
+| Nuna | iCIMS + email hr@nunagroup.com | CAPTCHA/stuck form; email queued |
+| Compass | careers.compass-canada.com | account required |
+| JOEY | Workable guest form | filled; Cloudflare blocked Submit |
+| Braven / O&B | SmartRecruiters | form technical error |
+| Wajax | UltiPro careers | no Acheson Shipper/Receiver row |
+| Webserv | careers → LinkedIn | LinkedIn-only |
+
+Human finish kit: `APPLY_NOW_2026-07-23.md`
+
+---
+
 ## 2026-07-23 (More job applications cloud run)
 
 **Focus:** Dual track — local warehouse/BOH near 11110 68 Ave NW + career SEO/marketing ≥ $60k  
