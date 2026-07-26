@@ -1,9 +1,10 @@
-Dylan — portal checklist (still need you / Desktop browser)
+Dylan — portal checklist (official channels only)
 
-Resume local: cv/main_local_edmonton.pdf
-Career packs: cv/main_<company>.pdf + matching cover in cover_letters/
-Blurbs: APPLICATIONS_LOCAL.md
-Skip: Southgate Centre public-facing jobs
+**Professional kit (use this):** PROFESSIONAL_PORTAL_APPLY.md  
+Resume local: cv/main_local_edmonton.pdf (or role-specific packs below)  
+Career packs: cv/main_<company>.pdf + matching cover in cover_letters/  
+Blurbs: APPLICATIONS_LOCAL.md  
+Skip: Southgate Centre public-facing jobs · Contact Us forms when Careers is required
 
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
