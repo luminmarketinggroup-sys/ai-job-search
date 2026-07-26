@@ -4,11 +4,13 @@
 
 # Apply local jobs — active batch (no Southgate public-facing)
 
-**Resume:** `cv/main_local_edmonton.pdf`  
+**Resume:** `cv/main_local_edmonton.pdf` (or role-specific packs)  
 **Phone:** 825-967-9337 · **Email:** dylanschule@live.ca  
-**Full status board:** `APPLICATION_STATUS.md`
+**Full status board:** `APPLICATION_STATUS.md`  
+**Official portal answers:** `PROFESSIONAL_PORTAL_APPLY.md`
 
-**Rule (2026-07-22):** Skip public-facing Southgate Centre jobs. Focus warehouse / BOH.
+**Rule (2026-07-22):** Skip public-facing Southgate Centre jobs. Focus warehouse / BOH.  
+**Rule (2026-07-26):** Portal/ATS first; follow employer apply instructions; no contact-form workarounds.
 
 **Already emailed:** KFC Southgate (historical), Connected Creative, Guardium, Adster, MG Precast, **Hercules** (`70460fc1…` → info@herculesslr.com).
 
