@@ -5,14 +5,22 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
-## NEW drafts this run (2026-07-26 daily scrape)
+## NEW drafts this run (2026-07-26 PM daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C30 | AMA - Alberta Motor Association | Marketing Coordinator, Member Rewards (14-mo) | Good (~64) | **PORTAL** https://careers.ama.ab.ca/ · LinkedIn https://ca.linkedin.com/jobs/view/marketing-coordinator-member-rewards-14-month-position-at-ama-alberta-motor-association-4443078908 | `cv/main_ama_coordinator.pdf` | `cover_letters/cover_ama_marketing_coordinator_member_rewards.pdf` | Hybrid Edmonton; multi-channel campaign coord + AI tools plus; bachelor’s listed; confirm base ≥ CAD $60k; distinct from Specialist 12-mo pack |
+
+Skipped this PM run (fit/location/pay): Jobgether Growth Marketing Lead (~55; 5+ yrs fintech growth / $160k+ USD band stretch); Jobgether Head of Marketing / Marketing Manager (leadership / payments compliance stretch); Edmonton Community Foundation Communications Coordinator (~52; band starts ~$56k, comms not SEO/growth); BX Studio Marketing Manager (part-time contract); TraffBand Junior SEO (Ukrainian-language posting / Ontario); DataAnnotation SEO AI Trainer (contractor rating gigs); Braven dishwasher downtown ICE District (distance); Sureway Tool Crib (NE + 5+ yrs); Cargojet Ground Handler (YEG airport / RAIC); Starbucks Southgate Mall FC (hard skip); Walmart Stock Unloader St Albert (distance).
+
+## NEW drafts this run (2026-07-26 AM daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
 |---|---------|------|-----|-------|----|-------|---------------|
 | C28 | Waste Logic Inc | Marketing Coordinator (12-mo maternity coverage) | Good (~67) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543 · https://wastelogic.com/careers | `cv/main_waste_logic.pdf` | `cover_letters/cover_waste_logic_marketing_coordinator.pdf` | Edmonton onsite; SEO/content/social/email match; diploma/degree gap noted; confirm base ≥ CAD $60k |
 | C29 | Huzzle (Colorado agency client) | Digital Marketing Specialist (Remote) | High (~78) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818 · https://builtin.com/job/digital-marketing-specialist/10232041 | `cv/main_huzzle.pdf` | `cover_letters/cover_huzzle_digital_marketing_specialist.pdf` | 100% remote; MT 9–5; SEO+paid+client ownership; US multi-vertical depth still growing; confirm base ≥ CAD $60k |
 
-Skipped this run (fit/location/pay): Critical Mass Search Strategist (Calgary 3 days/week office); Aylo SEO / Sr SEO (Montreal hybrid / adult vertical — prior skip); BuildDirect Growth & Digital Experience (Vancouver; Claude Code stack but location fail); Staffbase Growth Marketing Lead (Toronto / 6–9 yrs); exacare Growth Marketing Manager (Toronto); Warman O’Brien Product Strategist (10+ yrs life sciences); Digital Lead Account Director (5–10+ yrs agency leadership); Oldcastle Field Marketing Manager (construction field / degree); Cossette SEO Intermédiaire (French required); Walmart unloaders St Albert / Leduc + Sherwood Park produce (distance); BrandSafway / Kindersley / Ash Grove already skipped prior (forklift/cert/industrial).
+Skipped this AM run (fit/location/pay): Critical Mass Search Strategist (Calgary 3 days/week office); Aylo SEO / Sr SEO (Montreal hybrid / adult vertical — prior skip); BuildDirect Growth & Digital Experience (Vancouver; Claude Code stack but location fail); Staffbase Growth Marketing Lead (Toronto / 6–9 yrs); exacare Growth Marketing Manager (Toronto); Warman O’Brien Product Strategist (10+ yrs life sciences); Digital Lead Account Director (5–10+ yrs agency leadership); Oldcastle Field Marketing Manager (construction field / degree); Cossette SEO Intermédiaire (French required); Walmart unloaders St Albert / Leduc + Sherwood Park produce (distance); BrandSafway / Kindersley / Ash Grove already skipped prior (forklift/cert/industrial).
 
 ## NEW drafts this run (2026-07-25 daily scrape)
 

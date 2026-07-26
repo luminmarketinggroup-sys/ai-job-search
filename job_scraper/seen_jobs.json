@@ -1807,6 +1807,142 @@
       "first_seen": "2026-07-26",
       "fit": "medium",
       "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363": {
+      "title": "Warehouse Worker",
+      "company": "Dexter",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/order-picker-at-johnson-controls-4437649303": {
+      "title": "Order Picker",
+      "company": "Johnson Controls",
+      "url": "https://ca.linkedin.com/jobs/view/order-picker-at-johnson-controls-4437649303",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/receiving-coordinator-at-surewerx-4442404864": {
+      "title": "Receiving Coordinator",
+      "company": "SureWerx",
+      "url": "https://ca.linkedin.com/jobs/view/receiving-coordinator-at-surewerx-4442404864",
+      "first_seen": "2026-07-26",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-coordinator-member-rewards-14-month-position-at-ama-alberta-motor-association-4443078908": {
+      "title": "Marketing Coordinator, Member Rewards (14 Month Position)",
+      "company": "AMA - Alberta Motor Association",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-coordinator-member-rewards-14-month-position-at-ama-alberta-motor-association-4443078908",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-marketing-lead-at-jobgether-4442019520": {
+      "title": "Growth Marketing Lead",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/growth-marketing-lead-at-jobgether-4442019520",
+      "first_seen": "2026-07-26",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/head-of-marketing-at-jobgether-4442069931": {
+      "title": "Head of Marketing",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/head-of-marketing-at-jobgether-4442069931",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-manager-at-jobgether-4442024477": {
+      "title": "Marketing Manager",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-manager-at-jobgether-4442024477",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/communications-coordinator-at-edmonton-community-foundation-4443957232": {
+      "title": "Communications Coordinator",
+      "company": "Edmonton Community Foundation",
+      "url": "https://ca.linkedin.com/jobs/view/communications-coordinator-at-edmonton-community-foundation-4443957232",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-manager-at-bx-studio-4442369225": {
+      "title": "Marketing Manager (part-time)",
+      "company": "BX Studio",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-manager-at-bx-studio-4442369225",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/strong-junior-seo-specialist-review-at-traffband-4441734807": {
+      "title": "Strong Junior SEO Specialist",
+      "company": "TraffBand",
+      "url": "https://ca.linkedin.com/jobs/view/strong-junior-seo-specialist-review-at-traffband-4441734807",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-specialist-independent-contractor-ai-trainer-at-dataannotation-4367634464": {
+      "title": "SEO Specialist AI Trainer Contractor",
+      "company": "DataAnnotation",
+      "url": "https://ca.linkedin.com/jobs/view/seo-specialist-independent-contractor-ai-trainer-at-dataannotation-4367634464",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-braven-at-oliver-bonacini-hospitality-4443955910": {
+      "title": "Dishwasher - Braven",
+      "company": "Oliver & Bonacini Hospitality",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-braven-at-oliver-bonacini-hospitality-4443955910",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/tool-crib-attendant-heavy-equipment-shop-at-sureway-construction-group-ltd-4444601346": {
+      "title": "Tool Crib Attendant",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/tool-crib-attendant-heavy-equipment-shop-at-sureway-construction-group-ltd-4444601346",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662": {
+      "title": "Ground Handler",
+      "company": "Cargojet",
+      "url": "https://ca.linkedin.com/jobs/view/ground-handler-full-time-part-time-at-cargojet-4441359662",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store-15557-southgate-mall-fc-at-starbucks-4440267834": {
+      "title": "barista - Southgate Mall FC",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store-15557-southgate-mall-fc-at-starbucks-4440267834",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443967503": {
+      "title": "Stock Unloader Associate (St Albert)",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-stock-unloader-associate-at-walmart-canada-4443967503",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://careers.ufa.com/job/Edmonton-Warehouse-ShipperReceiver-AB-T6P-1Z2/602502517/": {
+      "title": "Warehouse Shipper/Receiver (filled)",
+      "company": "UFA Co-operative Ltd.",
+      "url": "https://careers.ufa.com/job/Edmonton-Warehouse-ShipperReceiver-AB-T6P-1Z2/602502517/",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped"
     }
   },
   "last_run": "2026-07-22"

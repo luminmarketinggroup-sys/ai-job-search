@@ -8,6 +8,12 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0ae. AMA — Marketing Coordinator Member Rewards 14-mo (NEW 2026-07-26 PM)
+   Portal: https://careers.ama.ab.ca/
+   LinkedIn: https://ca.linkedin.com/jobs/view/marketing-coordinator-member-rewards-14-month-position-at-ama-alberta-motor-association-4443078908
+   Materials: cv/main_ama_coordinator.pdf + cover_ama_marketing_coordinator_member_rewards.pdf
+   Note: Hybrid Edmonton · fit ~64 · bachelor’s gap · confirm base ≥ CAD $60k · distinct from Specialist 12-mo (C14)
+
 0ac. Waste Logic — Marketing Coordinator 12-mo (NEW 2026-07-26)
    LinkedIn: https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543
    Also: https://wastelogic.com/careers
@@ -104,6 +110,19 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L73. Dexter Warehouse Worker — Parsons Rd ★ NEW 2026-07-26 PM
+     LinkedIn: https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363
+     Address: 3260 Parsons Rd NW, Edmonton, AB T6N 1B3 · blurb APPLICATIONS_LOCAL.md#BO
+
+L74. Johnson Controls / Silent-Aire Order Picker — Nisku ★ NEW 2026-07-26 PM
+     LinkedIn: https://ca.linkedin.com/jobs/view/order-picker-at-johnson-controls-4437649303
+     Blurb: APPLICATIONS_LOCAL.md#BP
+
+L75. SureWerx Receiving Coordinator — Nisku ★ NEW 2026-07-26 PM
+     LinkedIn: https://ca.linkedin.com/jobs/view/receiving-coordinator-at-surewerx-4442404864
+     Portal: https://careers.surewerx.com/s/positions
+     Address: 1540 37th Avenue, Nisku · blurb APPLICATIONS_LOCAL.md#BQ
+
 L70. Princess Auto Receiver Days — Edmonton South ★ NEW 2026-07-26
      LinkedIn: https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919
      Portal: https://www.northstarats.com/Princess-Auto (Edmonton, AB - South)

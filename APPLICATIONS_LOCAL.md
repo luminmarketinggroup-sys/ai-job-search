@@ -11,6 +11,30 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BO. Dexter — Warehouse Worker (3260 Parsons Rd NW) ★ NEW · SOUTH · 2026-07-26 PM
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363  
+- **Address (verified):** 3260 Parsons Rd NW, Edmonton, AB T6N 1B3 (City Spring / Dexter · South Common / Parsons)  
+- **Shift:** Days Mon–Fri · RF scan / pick-pack / receive-ship · forklift training on the job  
+- **Why:** South industrial corridor · ~10–15 min from 11110 68 Ave NW via Calgary Trail / Parsons  
+- **Blurb:**
+> I’m applying for the Warehouse Worker role at Dexter (3260 Parsons Rd NW). I live nearby at 11110 68 Ave NW and am comfortable with physical warehouse work: receiving, picking/packing, staging shipments, RF scanning, and keeping inventory locations accurate. Reliable for weekday day shifts and ready for on-the-job safety and forklift training.
+
+### BP. Johnson Controls / Silent-Aire — Order Picker (Nisku) ★ NEW · 2026-07-26 PM
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/order-picker-at-johnson-controls-4437649303  
+- **Why:** Distinct from prior Silent-Aire Shipper/Receiver, Material Handler, and Kitter drafts · rotating days pick/stage/load  
+- **Notes:** Forklift ability preferred; Nisku plant · reliable transport required  
+- **Blurb:**
+> I’m applying for the Order Picker role at Johnson Controls / Silent-Aire in Nisku. I’m comfortable picking and staging parts, checking counts, loading/unloading, put-away, and keeping inventory transactions accurate. Local to south Edmonton with reliable transportation for rotating day shifts; willing to confirm forklift credentials or train as required.
+
+### BQ. SureWerx — Receiving Coordinator (Nisku) ★ NEW · 2026-07-26 PM
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/receiving-coordinator-at-surewerx-4442404864  
+- **Portal:** https://careers.surewerx.com/s/positions (Edmonton – Nisku)  
+- **Address (verified):** 1540 37th Avenue, Nisku, AB T9E 1C6  
+- **Why:** Receiving / warehouse BOH · Nisku south industrial · Mon–Fri branch hours  
+- **Notes:** Posting leans coordinator/lead on receiving workflow; emphasize dock accuracy and safety  
+- **Blurb:**
+> I’m applying for the Receiving Coordinator role at SureWerx in Nisku (1540 37th Avenue). I’m based in south Edmonton, comfortable with receiving workflows: unloading and verifying shipments, documentation, put-away accuracy, quality/damage checks, and keeping a clean, safe dock. Reliable for full-time branch hours and ready to learn SureWerx receiving standards quickly.
+
 ### BL. Princess Auto — Receiver Days (Edmonton South) ★ NEW · CLOSEST · 2026-07-26
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919  
 - **Portal:** https://www.northstarats.com/Princess-Auto (filter **Edmonton, AB - South**) · https://www.princessauto.com/en/careers  

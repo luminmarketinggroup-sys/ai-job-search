@@ -1,20 +1,20 @@
-# Last automation run — 2026-07-26
+# Last automation run — 2026-07-26 PM
 
 ## Summary
-- **3 new local drafts** (Princess Auto Receiver days + nights, Sephora Meadows Operations Consultant stockroom)
-- **2 new career drafts** (Waste Logic Marketing Coordinator ~67, Huzzle Digital Marketing Specialist ~78)
+- **3 new local drafts** (Dexter Warehouse Worker Parsons Rd, JC Silent-Aire Order Picker Nisku, SureWerx Receiving Coordinator Nisku)
+- **1 new career draft** (AMA Marketing Coordinator Member Rewards 14-mo ~64)
+- Also synced morning 2026-07-26 AM drafts already on branch (Princess Auto x2, Sephora, Waste Logic, Huzzle)
 - **Resend unset** — portal/checklist only (no email claimed sent)
-- Skipped: Critical Mass Calgary office, Aylo Montreal, BuildDirect Vancouver, Toronto senior growth roles, distance Walmart unloaders, French Cossette SEO
+- Skipped: Jobgether Growth Lead / Head / MM stretch; ECF Communications (~$56k start); BX Studio PT; TraffBand UA SEO; DataAnnotation contractor; Braven downtown; Sureway Tool Crib; Cargojet YEG; Starbucks Southgate PF; Walmart St Albert; UFA filled
 
-## New drafts this run
+## New drafts this PM run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Princess Auto | Receiver (days) Edmonton South | https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BL` |
-| Local | Princess Auto | Receiver (nights) Edmonton | https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BM` |
-| Local | Sephora | Operations Consultant FT (Meadows stockroom) | https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BN` |
-| Career | Waste Logic Inc | Marketing Coordinator (12-mo) | https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543 | `cv/main_waste_logic.pdf` · cover |
-| Career | Huzzle (Colorado agency client) | Digital Marketing Specialist (Remote) | https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818 | `cv/main_huzzle.pdf` · cover |
+| Local | Dexter | Warehouse Worker (Parsons Rd) | https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BO` |
+| Local | Johnson Controls / Silent-Aire | Order Picker (Nisku) | https://ca.linkedin.com/jobs/view/order-picker-at-johnson-controls-4437649303 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BP` |
+| Local | SureWerx | Receiving Coordinator (Nisku) | https://ca.linkedin.com/jobs/view/receiving-coordinator-at-surewerx-4442404864 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BQ` |
+| Career | AMA | Marketing Coordinator, Member Rewards (14-mo) | https://ca.linkedin.com/jobs/view/marketing-coordinator-member-rewards-14-month-position-at-ama-alberta-motor-association-4443078908 | `cv/main_ama_coordinator.pdf` · cover |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

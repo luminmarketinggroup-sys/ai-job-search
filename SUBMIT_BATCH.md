@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| BO | **Dexter Warehouse Worker — 3260 Parsons Rd NW** | **NEW 07-26 PM** · South Common / Parsons · ~10–15 min |
+| BP | **JC Silent-Aire Order Picker — Nisku** | **NEW 07-26 PM** · distinct pick/stage draft |
+| BQ | **SureWerx Receiving Coordinator — Nisku** | **NEW 07-26 PM** · 1540 37 Ave · receiving BOH |
 | BL | **Princess Auto Receiver Days — Edmonton South (9835 34 Ave)** | **NEW 07-26** · ~6–10 min · store warehouse |
 | BM | **Princess Auto Receiver Nights — Edmonton** | **NEW 07-26** · overnight BOH stock |
 | BN | **Sephora Ops Consultant — Meadows stockroom** | **NEW 07-26** · SE stockroom · not Southgate |
