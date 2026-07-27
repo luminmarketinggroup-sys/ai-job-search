@@ -2,11 +2,11 @@
 
 ## Role
 Career advisor and application assistant for Lillian Schule Zech:
-1. **Job fit evaluation** against her insurance-claims entry path
-2. **CV tailoring** from her master insurance CV
-3. **Cover letter writing** for Alberta insurance / claims roles
-4. **Interview preparation** for claims intake and insurance customer service
-5. **Career strategy** toward Adjuster Level 1 and long-term claims work
+1. **Job fit evaluation** against her service + accuracy strengths (Lane A priority)
+2. **CV tailoring** from her master CV (service-first; claims variants when relevant)
+3. **Cover letter writing** for Edmonton / Alberta service, billing, member, and claims-adjacent roles
+4. **Interview preparation** for CSR, contact centre, reception, and claims intake
+5. **Career strategy** across service lanes, with insurance claims kept as a secondary track
 
 ## Candidate Profile
 
@@ -18,8 +18,8 @@ Career advisor and application assistant for Lillian Schule Zech:
 - **CIPR:** 770356
 - **LinkedIn:** Not provided
 - **Languages:** English (assumed working/professional; confirm if other languages should be listed)
-- **Status:** Employed at Best Buy (Mobile Specialist / Customer Service Specialist); actively seeking entry-level insurance claims career
-- **LinkedIn headline (suggested):** "Entry-Level Insurance Claims Candidate | CIPR #770356 | Claims Intake & Customer Service | Edmonton, AB"
+- **Status:** Employed at Best Buy (Mobile Specialist / Customer Service Specialist); actively job searching
+- **LinkedIn headline (suggested):** "Customer Service & Account Support | CIPR #770356 | Edmonton, AB"
 
 ### Education
 - **High School Diploma, Graduated with Honours** (2023) - Memorial Place High School, Stony Plain, Alberta
@@ -44,8 +44,9 @@ Career advisor and application assistant for Lillian Schule Zech:
 ### Skills (application-facing)
 - **Primary:** Customer service & client support, conflict resolution, telephone & in-person communication, file/documentation accuracy, data entry, follow-up
 - **Secondary:** Account accuracy, problem solving, time management, team collaboration, adaptability / fast learning
-- **Domain aim:** Claims intake support, insurance customer service, auto/property claims coordination (entry-level)
-- **Credentials in progress:** CIPR #770356 obtained; preparing for Alberta Adjuster Level 1 licensing and entry-level claims training
+- **Domain aim (Lane A priority):** Customer service, member services, billing/account support, contact centre CSR, front desk / reception
+- **Secondary track (Lane B):** Claims intake/admin, insurance customer service, Adjuster Level 1 path
+- **Credentials:** CIPR #770356 obtained; preparing for Alberta Adjuster Level 1 (optional upside, not required for Lane A)
 
 ### Certifications / Licensing
 - **CIPR #770356** (obtained)
@@ -64,31 +65,39 @@ Career advisor and application assistant for Lillian Schule Zech:
 - **Thrives in:** Structured processes, mentorship, accurate file work, customer problem-solving
 
 ### What Excites You
-- Starting a long-term career in Alberta insurance claims
-- Claims intake, documentation, file coordination, and helping customers through stressful claim situations
-- Training, mentorship, and licensing support toward Adjuster Level 1
+- Helping customers solve account and service problems clearly and calmly
+- Accurate documentation and follow-through in busy environments
+- Stable service careers in Edmonton (billing support, member services, contact centre, reception)
+- Longer-term option: Alberta insurance claims / Adjuster Level 1 if the right trainee path appears
 
-### Target Roles
-- Claims Assistant
-- Claims Coordinator
-- Claims Intake Representative
-- Claims Administrator
-- Insurance Customer Service Representative
-- Junior Claims Adjuster Trainee
-- Auto Claims Assistant / Property Claims Assistant
+### Priority search lanes
+1. **Lane A (PRIORITY): Service + accuracy** — CSR, member services, billing/account support, contact centre, reception / front desk
+2. **Lane B:** Admin + files (claims coordinator/admin, records, office assistant, intake)
+3. **Lane C:** Trained professions later (MOA, legal admin, bookkeeping, adjuster Level 1)
+
+### Target Roles (Lane A first)
+- Customer Service Representative / Customer Care Representative
+- Member Services / Member Experience (service-first; skip if sales-quota heavy)
+- Billing Support / Customer Accounts Representative
+- Contact Centre / Call Centre CSR (inbound)
+- Receptionist / Front Desk Member Services
+- Client Service Representative (service track, not sales)
+- Secondary: Claims Assistant / Coordinator / Intake, Insurance CSR, Junior Adjuster Trainee
 
 ### Target Sectors
-- P&C insurance carriers, MGAs, brokerages, and TPAs in Edmonton / Alberta with entry-level claims or insurance service tracks
-- Auto and property claims support teams open to CIPR holders and trainees
+- Insurers and financial institutions with **inbound service / billing** teams (not sales floors)
+- Credit unions / banks member service desks when sales pressure is light or training-first
+- Healthcare labs/clinics customer care, recreation/membership front desk, telecom/account support, government service counters
+- P&C / benefits claims teams remain in scope as Lane B
 
 ### Deal-breakers
-- **Skip sales roles** (retail sales associate, outbound sales, commission-only, door-to-door, etc.). Do not auto-draft or prioritize.
+- **Skip sales roles** (retail sales associate, outbound sales, commission-only, door-to-door, financial advisor sales targets, “hunt” account manager roles). Do not auto-draft or prioritize.
 - **Skip kitchen / food-service roles** (line cook, prep, barista, food counter, restaurant BOH/FOH). Do not auto-draft or prioritize.
+- Skip branch/contact-centre roles whose posting is dominated by sales referrals, product pushing, or measured sales targets (e.g. Servus/ATB-style “growth objectives” as the core job). Light “refer when appropriate” language is OK if service is clearly primary.
 - Relocation away from Alberta without remote/hybrid is a hard fail unless overridden.
-- Roles requiring completed Adjuster Level 1 *with no trainee path* are weak fits unless the posting explicitly trains.
 
 ### Autonomy
-- Prefer ask-before-draft for Lillian until a first batch of insurance applications is reviewed.
+- Prefer ask-before-draft for stretch roles; Lane A Good/High fits may be drafted in batches and listed in the tracker/PR for review.
 - When drafting, always use `candidates/lillian/` paths and her contact details only.
 
 ## Output Paths

@@ -35,9 +35,11 @@ Candidate-specific writing notes and interview prep live under each candidate’
 - **Skip** Southgate Centre public-facing retail/food roles
 
 ### Lillian (`candidates/lillian/`)
-- Target: Claims Assistant / Intake / Coordinator / Administrator, Insurance CSR, Junior Claims Adjuster Trainee (Alberta)
+- **Priority Lane A:** CSR, member services, billing/account support, contact centre, reception/front desk (Edmonton / Alberta)
+- Secondary: claims assistant/coordinator/intake, insurance CSR, junior adjuster trainee
 - **Skip sales roles** and **skip kitchen / food-service roles** — do not draft or prioritize
-- CIPR \#770356; preparing for Alberta Adjuster Level 1 (entry-level / trainee OK)
+- Skip sales-quota-heavy branch banking / advisor roles (service-primary OK)
+- CIPR \#770356; Adjuster Level 1 in progress (optional upside, not required for Lane A)
 
 ## Workflow for New Job Applications
 

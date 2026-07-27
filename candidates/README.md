@@ -5,7 +5,7 @@ This repo supports **two job seekers** in parallel:
 | ID | Name | Focus | Path |
 |----|------|-------|------|
 | `dylan` | Dylan Michael | Digital marketing, SEO, AI automation (Edmonton / remote) | [`candidates/dylan/`](dylan/) |
-| `lillian` | Lillian Schule Zech | Entry-level insurance claims & insurance customer service (Edmonton / Alberta) | [`candidates/lillian/`](lillian/) |
+| `lillian` | Lillian Schule Zech | **Lane A priority:** CSR / member services / billing / contact centre / reception; claims secondary (Edmonton / Alberta) | [`candidates/lillian/`](lillian/) |
 
 ## How agents should load a candidate
 
@@ -38,4 +38,4 @@ candidates/<id>/
 ## Hard filters (quick reference)
 
 - **Dylan:** Skip Southgate Centre public-facing retail/food roles. Career track floor CAD $60k (survival local warehouse track is softer; see his PROFILE).
-- **Lillian:** Skip **sales** and **kitchen / food-service** roles. Target insurance claims intake, claims coordination/admin, and insurance customer service in Alberta.
+- **Lillian:** Skip **sales** and **kitchen / food-service** roles. **Prioritize Lane A** (CSR, member services, billing/account support, contact centre, reception). Claims/insurance service remains a secondary track.
