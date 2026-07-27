@@ -1,135 +1,100 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant — Dylan Michael & Lillian Schule Zech
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+This repository is a **dual-candidate** job application workspace.
 
-## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
-1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
-2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
-3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
-4. **Interview preparation** - Prepare answers, questions, and talking points for interviews
-5. **Career strategy** - Advise on positioning and personal branding
+| Candidate | ID | Focus |
+|-----------|----|-------|
+| **Dylan Michael** | `dylan` | Digital marketing, SEO, paid media, AI automation (Edmonton / remote) |
+| **Lillian Schule Zech** | `lillian` | Entry-level insurance claims & insurance customer service (Edmonton / Alberta) |
 
-## Candidate Profile
+## Always select a candidate first
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
+Before evaluating a job, drafting a CV/cover letter, or updating a tracker:
 
-### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+1. Determine whether the work is for **Dylan** or **Lillian** (ask once if unclear).
+2. Load `candidates/<id>/PROFILE.md` and `candidates/<id>/profile/*` as the source of truth.
+3. Write all outputs under `candidates/<id>/` only.
+4. Never mix contact details, experience, or tracker rows across candidates.
 
-### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+See [`candidates/README.md`](candidates/README.md) for the full layout and routing rules.
 
-### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+## Shared tooling (not candidate-specific)
 
-### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- `.claude/skills/job-application-assistant/` — shared evaluation, CV/cover templates, workflow skill
+- `.claude/skills/job-scraper/` — search orchestration (queries should be candidate-aware)
+- `.agents/skills/` — job portal CLIs
+- Root `cover_letters/cover.cls` + `OpenFonts/` — shared LaTeX cover-letter class (symlinked into each candidate)
 
-### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+Candidate-specific writing notes and interview prep live under each candidate’s `profile/` folder and override the empty placeholders in the shared skill files when present.
 
-### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+## Hard filters
 
-### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+### Dylan (`candidates/dylan/`)
+- Career track: prefer CAD $60k+; Edmonton / remote
+- Survival local warehouse track near 11110 68 Ave NW may be softer on pay (see his PROFILE)
+- **Skip** Southgate Centre public-facing retail/food roles
 
-### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
-
-### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
-
-### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
-
-### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
-
-## Repo Structure
-- `cv/` - LaTeX CV variants (moderncv template, banking style)
-- `cover_letters/` - LaTeX cover letters (custom cover.cls template)
-- `.claude/skills/` - AI skill definitions for the application workflow
-- `.agents/skills/` - Job search CLI tools
+### Lillian (`candidates/lillian/`)
+- **Priority Lane A:** CSR, member services, billing/account support, contact centre, reception/front desk (Edmonton / Alberta)
+- Secondary: claims assistant/coordinator/intake, insurance CSR, junior adjuster trainee
+- **Skip sales roles** and **skip kitchen / food-service roles** — do not draft or prioritize
+- Skip sales-quota-heavy branch banking / advisor roles (service-primary OK)
+- CIPR \#770356; Adjuster Level 1 in progress (optional upside, not required for Lane A)
 
 ## Workflow for New Job Applications
-1. User provides a job posting (URL or text)
-2. **Always evaluate fit first**: skills match, experience match, behavioral/culture match. Present this assessment to the user before proceeding.
-3. If good fit: create targeted CV (`cv/main_<company>.tex`) and cover letter (`cover_letters/cover_<company>_<role>.tex`)
-4. **Verify both documents** (see Verification Checklist below)
-5. Prepare interview talking points based on the role requirements and your strengths
 
-**Important:** When mentioning agentic coding or AI tooling in CVs/cover letters, explicitly reference **Claude Code** by name.
+1. Identify candidate (`dylan` or `lillian`)
+2. User provides a job posting (URL or text), or scraper finds one
+3. **Evaluate fit** against that candidate’s PROFILE (skills, experience, culture, deal-breakers)
+4. If good fit: create targeted CV `candidates/<id>/cv/main_<company>.tex` and cover letter `candidates/<id>/cover_letters/cover_<company>_<role>.tex`
+5. **Verify** using the checklist below (compile + visual PDF inspect + ATS text extract)
+6. Update `candidates/<id>/job_search_tracker.csv`
+7. Prepare interview talking points when moving to interview stage
+
+**Important:** When mentioning agentic coding or AI tooling in CVs/cover letters, explicitly reference **Claude Code** by name. (Primarily relevant for Dylan; do not invent AI tooling experience for Lillian.)
+
+## Master resumes (general-use copies)
+
+- Dylan: `candidates/dylan/cv/main_example.tex` → compile with `lualatex`
+- Lillian: `candidates/lillian/cv/main_example.tex` → compile with `lualatex` (this is the copy she can use generally)
 
 ## Verification Checklist
-After creating or updating a CV or cover letter, re-read the generated file and verify **all** of the following before presenting to the user. Report the results as a pass/fail checklist.
+
+After creating or updating a CV or cover letter, re-read the generated file and verify **all** of the following. Report pass/fail.
 
 ### Factual accuracy
-- [ ] All claims match actual profile (CLAUDE.md / candidate profile) - no fabricated skills, experience, or achievements
+- [ ] All claims match the **selected candidate’s** PROFILE / profile files — no fabricated skills, experience, or achievements
 - [ ] Job titles, dates, company names, and locations are correct
-- [ ] Contact details are correct
-- [ ] All company-specific claims (partnerships, products, technology, expansions) have been independently verified via WebFetch/WebSearch - do not trust reviewer agent research without verification
+- [ ] Contact details are correct for that candidate only
+- [ ] Company-specific claims verified via WebFetch/WebSearch
 
 ### Targeting
-- [ ] Profile statement / opening paragraph is tailored to the specific role (not generic)
-- [ ] Skills and experience bullets are reframed to match the job requirements
-- [ ] Key job requirements are addressed (with gaps acknowledged where relevant)
-- [ ] Nice-to-have requirements are highlighted where there is a match
+- [ ] Profile statement / opening paragraph tailored to the role
+- [ ] Skills and experience bullets reframed to the job (without failing the interview backtrack test)
+- [ ] Key requirements addressed; gaps acknowledged where relevant
+- [ ] For Lillian: sales metrics and kitchen detail de-emphasized; CIPR called out when relevant
 
 ### Consistency
-- [ ] CV follows the standard 2-page moderncv/banking format
-- [ ] Cover letter uses cover.cls template and established structure
-- [ ] Tone is consistent across CV and cover letter
-- [ ] No contradictions between CV and cover letter content
+- [ ] CV follows 2-page moderncv/banking format
+- [ ] Cover letter uses cover.cls and established structure
+- [ ] Tone consistent across CV and cover letter
+- [ ] No contradictions; no cross-candidate contamination
 
 ### Quality
-- [ ] No LaTeX syntax errors (balanced braces, correct commands)
+- [ ] No LaTeX syntax errors
 - [ ] No spelling or grammar errors
-- [ ] Agentic coding / AI tooling references mention **Claude Code** by name
-- [ ] Cover letter is addressed to the correct person (or "Dear Hiring Manager" if unknown)
-- [ ] Cover letter fits approximately one page
+- [ ] Agentic coding / AI tooling references mention **Claude Code** by name (when applicable)
+- [ ] Cover letter addressed correctly; fits approximately one page
 
-### Compiled PDF verification (MANDATORY - never skip)
-Both documents MUST be compiled and visually inspected via the Read tool on the PDF output. "Looks fine in the .tex" is not acceptable - LaTeX page-break decisions are unpredictable. Iterate until these all pass:
-- [ ] CV compiled with **lualatex** (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors). Cover letter compiled with **xelatex** (cover.cls requires fontspec).
-- [ ] **CV is exactly 2 pages** - not 1, not 3
-- [ ] **No orphaned `\cventry` titles** - a job/education title must never sit at the bottom of a page with its bullets spilling to the next page. Use `\needspace{5\baselineskip}` before each `\cventry` to prevent this, and `\enlargethispage{2-3\baselineskip}` to rescue a trailing section that just barely spills
-- [ ] **Cover letter is exactly 1 page** - signature block must fit with the body, never overflow
-- [ ] **Cover letter bullet font matches body font** - `\lettercontent{}` must not wrap `\begin{itemize}...\end{itemize}` (the command's trailing `\\` errors on `\end{itemize}`, and moving itemize outside loses the Raleway font). Standard pattern: close `\lettercontent{}`, then wrap the list in `{\raggedright\fontspec[Path = OpenFonts/fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont \begin{itemize}...\end{itemize}\par}`
+### Compiled PDF verification (MANDATORY)
+- [ ] CV compiled with **lualatex**; cover letter with **xelatex**
+- [ ] **CV is exactly 2 pages**
+- [ ] **No orphaned `\cventry` titles** — use `\needspace{5\baselineskip}` before each `\cventry`
+- [ ] **Cover letter is exactly 1 page**
+- [ ] Cover letter bullet font matches body font (itemize outside `\lettercontent{}` with Raleway wrapper)
 
 ### ATS & keyword verification (CV)
-ATS parsers read the PDF's embedded text layer, not the rendered page. Extract it with `pdftotext -layout` and verify what a parser sees. `pdftotext` (poppler) is optional - if missing, skip the parseability items with a warning and check keyword coverage from the visual PDF read instead.
-- [ ] CV text layer extracts cleanly - no `(cid:*)` markers, `�` replacement characters, or text visible in the PDF but absent from the extraction
-- [ ] Email and phone appear as **literal text** in the extraction (icon-glyph noise like `MOBILE-ALT`/`Envelope` is harmless, but a contact detail carried only by an icon or hyperlink is invisible to ATS)
-- [ ] Reading order of the extracted text matches the visual order (single-column stock template is safe; multi-column custom templates are where this breaks)
-- [ ] Posting keywords covered or honestly absent - synonym-only matches tightened to the posting's exact term where truthfully applicable, keywords the profile genuinely supports added to experience bullets, genuine gaps left visible and **never stuffed**
+- [ ] `pdftotext -layout` extracts cleanly (or skip with warning if missing)
+- [ ] Email and phone appear as literal text
+- [ ] Reading order matches visual order
+- [ ] Posting keywords covered honestly — never stuffed
