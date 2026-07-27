@@ -25,7 +25,7 @@ This workspace tracks **two** job seekers side by side. See [`candidates/README.
 | ID | Person | Focus | General-use resume |
 |----|--------|-------|--------------------|
 | `dylan` | Dylan Michael | Marketing / SEO / AI automation | [`candidates/dylan/cv/main_example.tex`](candidates/dylan/cv/main_example.tex) |
-| `lillian` | Lillian Schule Zech | Entry-level insurance claims (skip sales & kitchen) | [`candidates/lillian/cv/main_example.pdf`](candidates/lillian/cv/main_example.pdf) |
+| `lillian` | Lillian Schule Zech | Lane A: CSR / billing / contact centre / reception (claims secondary; skip sales & kitchen) | [`candidates/lillian/cv/main_example.pdf`](candidates/lillian/cv/main_example.pdf) |
 
 Always load `candidates/<id>/PROFILE.md` before drafting. Outputs stay under that candidate’s folder.
 
