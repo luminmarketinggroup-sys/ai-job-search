@@ -17,7 +17,7 @@ Status legend: **portal_packet** = email Lillian with files + portal link · **m
 - [x] CV 2 pages / cover letter 1 page (compiled)
 - [x] Portal/mailto path identified
 - [x] Email body written under `email_packets/`
-- [ ] Resend send completed (blocked until `RESEND_API_KEY` is set)
+- [x] Resend send completed (2026-07-27): 4 portal packets to Lillian; Peace Hills + Trans Global mailed to employers (BCC Lillian)
 
 ## Send
 ```bash
