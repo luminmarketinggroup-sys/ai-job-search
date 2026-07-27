@@ -18,6 +18,17 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 
 A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is **language- and country-agnostic**. The job portal search skills are built for the Danish market (Jobindex, Jobnet, Akademikernes Jobbank, etc.), but the pattern is designed to be swapped for your local job boards.
 
+### Dual candidates (this fork)
+
+This workspace tracks **two** job seekers side by side. See [`candidates/README.md`](candidates/README.md).
+
+| ID | Person | Focus | General-use resume |
+|----|--------|-------|--------------------|
+| `dylan` | Dylan Michael | Marketing / SEO / AI automation | [`candidates/dylan/cv/main_example.tex`](candidates/dylan/cv/main_example.tex) |
+| `lillian` | Lillian Schule Zech | Entry-level insurance claims (skip sales & kitchen) | [`candidates/lillian/cv/main_example.pdf`](candidates/lillian/cv/main_example.pdf) |
+
+Always load `candidates/<id>/PROFILE.md` before drafting. Outputs stay under that candidate’s folder.
+
 ```
 /setup          /scrape              /apply <url>
   |                |                     |

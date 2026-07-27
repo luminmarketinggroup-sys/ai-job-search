@@ -1,6 +1,6 @@
 # /apply - Drafter-Reviewer Job Application Workflow
 
-You are orchestrating a two-agent job application workflow. The job posting is provided below as `$ARGUMENTS` (either a URL or pasted text).
+You are orchestrating a two-agent job application workflow for **either Dylan or Lillian**. The job posting is provided below as `$ARGUMENTS` (either a URL or pasted text). Optional: prefix with `dylan:` or `lillian:`.
 
 Follow these steps **exactly in order**. Do not skip steps.
 
@@ -12,12 +12,15 @@ Follow these steps **exactly in order**. Do not skip steps.
 
 ---
 
-## Step 0: Parse Input
+## Step 0: Select Candidate + Parse Input
 
+- Determine candidate ID: `dylan` or `lillian` from `$ARGUMENTS` prefix, explicit name, or role type. If unclear, ask once before continuing.
+- Load `candidates/<id>/PROFILE.md` and `candidates/<id>/profile/01-candidate-profile.md` as the candidate source of truth.
+- Enforce deal-breakers (Lillian: no sales / no kitchen; Dylan: no Southgate public-facing retail/food). If the posting is a deal-breaker, stop and say so.
 - If `$ARGUMENTS` looks like a URL, use `WebFetch` to retrieve the job posting content.
 - If it is pasted text, use it directly.
 - Extract: **company name**, **role title**, **department** (if mentioned), **location**, and **language** of the posting (Danish or English).
-- Store these for use throughout the workflow.
+- Store these for use throughout the workflow. All output paths use `candidates/<id>/`.
 
 ---
 
@@ -25,7 +28,8 @@ Follow these steps **exactly in order**. Do not skip steps.
 
 Read the evaluation framework:
 - `.claude/skills/job-application-assistant/04-job-evaluation.md`
-- `.claude/skills/job-application-assistant/01-candidate-profile.md`
+- `candidates/<id>/profile/01-candidate-profile.md` (already loaded in Step 0 — do not re-read if in context)
+- `candidates/<id>/PROFILE.md`
 
 Using the framework from `04-job-evaluation.md`, evaluate the job posting against the candidate's profile. If the salary lookup tool is configured, run:
 
@@ -56,28 +60,29 @@ You already have `01-candidate-profile.md` and `04-job-evaluation.md` in context
 
 Read only the reference files you do not yet have:
 - `.claude/skills/job-application-assistant/03-writing-style.md`
+- `candidates/<id>/profile/03-writing-style.md`
 - `.claude/skills/job-application-assistant/05-cv-templates.md`
 - `.claude/skills/job-application-assistant/06-cover-letter-templates.md`
 
 Also read the most recent existing CV and cover letter files for concrete structural reference (one of each is enough):
-- Read any existing `cv/main_*.tex` file as a LaTeX template reference
-- Read any existing `cover_letters/cover_*.tex` or `cover_letters/Cover_*.tex` file as a template reference
+- Read `candidates/<id>/cv/main_example.tex` (or any `candidates/<id>/cv/main_*.tex`) as a LaTeX template reference
+- Read any existing `candidates/<id>/cover_letters/cover_*.tex` if present; otherwise a root `cover_letters/cover_*.tex` for structure only
 
-### CV (`cv/main_<company>.tex`)
+### CV (`candidates/<id>/cv/main_<company>.tex`)
 - Always in **English**
 - Follow the moderncv/banking format from `05-cv-templates.md`
 - Tailor the profile statement and experience bullets to the specific role
 - Reframe skills and achievements to match job requirements
 - Keep to 2 pages
 
-### Cover Letter (`cover_letters/cover_<company>_<role>.tex`)
+### Cover Letter (`candidates/<id>/cover_letters/cover_<company>_<role>.tex`)
 - **Match the language of the job posting** (Danish posting -> Danish cover letter, English posting -> English cover letter)
 - Follow the structure from `06-cover-letter-templates.md`
-- Use the `cover.cls` template
+- Use the candidate folder’s symlinked `cover.cls` template
 - Tailor the opening paragraph to the specific role and company
 - Address to a named person if available in the posting, otherwise "Dear Hiring Manager" (or equivalent in posting language)
 - Keep to approximately one page
-- Any mention of agentic coding or AI tooling must reference **Claude Code** by name
+- Any mention of agentic coding or AI tooling must reference **Claude Code** by name (Dylan only unless Lillian truly has this experience)
 
 Write both files to disk. Keep the exact text of both drafts in working memory — you will pass them inline to the reviewer in Step 3 and revise them in Step 4 without re-reading.
 
@@ -182,7 +187,7 @@ After all edits are applied, the two files on disk are the final drafts.
 ### 5a. Compile
 
 ```bash
-cd cv && lualatex -interaction=nonstopmode main_<company>.tex
+cd candidates/<id>/cv && lualatex -interaction=nonstopmode main_<company>.tex
 cd ../cover_letters && xelatex -interaction=nonstopmode cover_<company>_<role>.tex
 ```
 
@@ -195,13 +200,13 @@ If either compile fails, fix the error and re-compile until clean.
 
 Read both PDFs via the Read tool and verify:
 
-**CV (`cv/main_<company>.pdf`):**
+**CV (`candidates/<id>/cv/main_<company>.pdf`):**
 - [ ] Exactly 2 pages (not 1, not 3)
 - [ ] No orphaned `\cventry` titles — a job/education title line must never sit alone at the bottom of page 1 with its bullets on page 2. This is the most common failure.
 - [ ] Section headings are not isolated at the top of page 2 with only 1-2 lines below
 - [ ] No awkward whitespace gaps
 
-**Cover letter (`cover_letters/cover_<company>_<role>.pdf`):**
+**Cover letter (`candidates/<id>/cover_letters/cover_<company>_<role>.pdf`):**
 - [ ] Exactly 1 page
 - [ ] Signature block visible, not cut off or pushed to a second page
 - [ ] Bullet list font matches surrounding body text (both should be Raleway-Medium)
@@ -227,7 +232,7 @@ An ATS parser reads the PDF's embedded **text layer**, not the rendered page —
 **1. Extract the text layer:**
 
 ```bash
-cd cv && pdftotext -layout main_<company>.pdf main_<company>.txt
+cd candidates/<id>/cv && pdftotext -layout main_<company>.pdf main_<company>.txt
 ```
 
 Read the `.txt` file.
@@ -276,8 +281,9 @@ Summarize 3-5 key decisions made to tailor the application:
 
 ### Files Created
 List the files written:
-- `cv/main_<company>.tex`
-- `cover_letters/cover_<company>_<role>.tex`
+- `candidates/<id>/cv/main_<company>.tex`
+- `candidates/<id>/cover_letters/cover_<company>_<role>.tex`
+- Update `candidates/<id>/job_search_tracker.csv`
 
 Tell the user: "Both files are ready for your review. Open them to check the final output before compiling."
 
