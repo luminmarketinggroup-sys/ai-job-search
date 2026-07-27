@@ -58,6 +58,22 @@ PORTALS = {
             ROOT / "candidates/lillian/cover_letters/cover_alberta_blue_cross_claims_coordinator.pdf",
         ],
     },
+    "jobber": {
+        "subject": "Ready to apply: Jobber Product Support Specialist — resume + cover letter attached",
+        "body": PACKETS / "portal_jobber.txt",
+        "attach": [
+            ROOT / "candidates/lillian/cv/main_jobber.pdf",
+            ROOT / "candidates/lillian/cover_letters/cover_jobber_product_support_specialist.pdf",
+        ],
+    },
+    "royal_glenora": {
+        "subject": "Ready to apply: Royal Glenora Front Desk Member Services — resume + cover letter attached",
+        "body": PACKETS / "portal_royal_glenora.txt",
+        "attach": [
+            ROOT / "candidates/lillian/cv/main_royal_glenora.pdf",
+            ROOT / "candidates/lillian/cover_letters/cover_royal_glenora_front_desk_member_services.pdf",
+        ],
+    },
 }
 
 MAILTOS = {
