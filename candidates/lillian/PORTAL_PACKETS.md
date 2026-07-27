@@ -12,6 +12,8 @@ Status legend: **portal_packet** = email Lillian with files + portal link · **m
 | 6 | Trans Global / The Brick | Creditor Insurance Claims Rep | mailto | submitted | careers@thebrick.com | `cv/main_trans_global.pdf` | `cover_letters/cover_trans_global_creditor_claims_representative.pdf` |
 | 7 | Jobber | Product Support Specialist (Future Opportunities) | portal | emailed | https://jobs.ashbyhq.com/jobber/17b641db-0e40-418e-a53d-ffce4fee2a31/application | `cv/main_jobber.pdf` | `cover_letters/cover_jobber_product_support_specialist.pdf` |
 | 8 | Royal Glenora Club | Front Desk Member Services (Part-Time) | portal | emailed | https://royalglenoraclub.easyapply.co/job/front-desk-member-services-representative-part-time | `cv/main_royal_glenora.pdf` | `cover_letters/cover_royal_glenora_front_desk_member_services.pdf` |
+| 9 | AMA | MSR Roadside Assistance (WFH) | portal | emailed | https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/AMA/job/CA-AB-Edmonton-South/Member-Service-Representative--Roadside-Assistance--Work-from-Home-_JR102609-1 | `cv/main_ama_roadside.pdf` | `cover_letters/cover_ama_member_service_representative_roadside.pdf` |
+| 10 | AMA | Retail Support Agent (St. Albert 6-mo + Edmonton priority) | portal | emailed | St. Albert + Edmonton Workday links in `email_packets/portal_ama_retail.txt` | `cv/main_ama_retail.pdf` | `cover_letters/cover_ama_retail_support_agent.pdf` |
 
 ## Batch 2 notes (Jobber + Royal Glenora)
 - [x] Contact details are Lillian only
@@ -32,9 +34,15 @@ Status legend: **portal_packet** = email Lillian with files + portal link · **m
 - Ellement Member Service Administrator → Workable showed 0 openings at verify
 - ATB / Servus → sales-heavy (already skipped)
 
+## Batch 3 notes (AMA)
+- [x] Roadside WFH MSR: training Aug 31 2026; evenings/weekends; min 16 hrs/wk
+- [x] Retail Support: St. Albert 6-month + Edmonton priority list (same packet)
+- [x] Contact details Lillian only; CV 2 pages / cover 1 page
+- [x] Portal packets emailed to Lillian
+
 ## Send
 ```bash
 python3 scripts/send_lillian_portal_packets.py --dry-run
-python3 scripts/send_lillian_portal_packets.py --only jobber,royal_glenora --portals-only
+python3 scripts/send_lillian_portal_packets.py --only ama_roadside,ama_retail --portals-only
 python3 scripts/send_lillian_portal_packets.py              # all
 ```

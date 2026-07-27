@@ -74,6 +74,22 @@ PORTALS = {
             ROOT / "candidates/lillian/cover_letters/cover_royal_glenora_front_desk_member_services.pdf",
         ],
     },
+    "ama_roadside": {
+        "subject": "Ready to apply: AMA Roadside Member Service Rep (WFH) — resume + cover letter attached",
+        "body": PACKETS / "portal_ama_roadside.txt",
+        "attach": [
+            ROOT / "candidates/lillian/cv/main_ama_roadside.pdf",
+            ROOT / "candidates/lillian/cover_letters/cover_ama_member_service_representative_roadside.pdf",
+        ],
+    },
+    "ama_retail": {
+        "subject": "Ready to apply: AMA Retail Support Agent (St. Albert + Edmonton) — resume + cover letter attached",
+        "body": PACKETS / "portal_ama_retail.txt",
+        "attach": [
+            ROOT / "candidates/lillian/cv/main_ama_retail.pdf",
+            ROOT / "candidates/lillian/cover_letters/cover_ama_retail_support_agent.pdf",
+        ],
+    },
 }
 
 MAILTOS = {
