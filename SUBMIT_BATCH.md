@@ -17,6 +17,10 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| BR | **Walmart Claims — 1203 Parsons Rd NW** | **NEW 07-27** · South Common BOH claims/returns · ~10–15 min |
+| BS | **Starbucks Barista — South Park #04837 (3931 Calgary Trail)** | **NEW 07-27** · exact corridor · not Southgate |
+| BT | **Starbucks Barista — Glenridding Village #82146** | **NEW 07-27** · Rabbit Hill south · ~15 min |
+| BU | **Co-op Gas Bar Attendant PT — Silverberry** | **NEW 07-27** · SE retail survival · ~15–20 min |
 | BO | **Dexter Warehouse Worker — 3260 Parsons Rd NW** | **NEW 07-26 PM** · South Common / Parsons · ~10–15 min |
 | BP | **JC Silent-Aire Order Picker — Nisku** | **NEW 07-26 PM** · distinct pick/stage draft |
 | BQ | **SureWerx Receiving Coordinator — Nisku** | **NEW 07-26 PM** · 1540 37 Ave · receiving BOH |

@@ -1,9 +1,20 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton (+ optional form follow-ups). **New email this run:** SiteNative (Resend unset → mailto).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-27 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C31 | SiteNative | SEO Expert | Good (~70) | **mailto** careers@sitenative.com · LinkedIn https://ca.linkedin.com/jobs/view/search-engine-optimization-seo-expert-at-sitenative-4443717848 | `cv/main_sitenative.pdf` | `cover_letters/cover_sitenative_seo_expert.pdf` | Remote-friendly email apply; 2–4 yrs SEO + SEMrush/WordPress match; large link-building / crawl-scale depth still growing; confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):**
+- SiteNative: `mailto:careers@sitenative.com?subject=Application%3A%20Search%20Engine%20Optimization%20(SEO)%20Expert%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): Kraken Growth Workflow Specialist (~55; 3+ yrs technical SEO + crypto AEO automation stretch); Jobgether Digital Marketing Specialist (~58; 3–5 yrs multi-platform paid + bachelor’s); One Core Media Senior SEO (~48; 5+ yrs + team lead + degree); SOTI Senior SEO/GEO (Mississauga hybrid); STEMCELL Search Marketing (Burnaby); CAA Search Specialist (Markham); .IMG Digital Marketing Consultant (Calgary); City of Edmonton Marketing Lead (people-manager stretch); EY Marketing Transformation Manager (consulting stretch); Keysight SEO/GEO twin (already drafted); Great Value Hiring / AdsEco contractor spam; LEGO Southgate Team Leader (hard skip); Sunwapta / Emerald Hills gas bars (distance); Oodle Noodle factory Yellowhead (NE); Chipotle crew (store unspecified); JOEY Bell Tower dishwasher (downtown).
 
 ## NEW drafts this run (2026-07-26 PM daily scrape)
 

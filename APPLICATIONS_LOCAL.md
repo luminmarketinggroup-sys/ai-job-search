@@ -11,6 +11,37 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BR. Walmart — Claims Associate (1203 Parsons Rd NW) ★ NEW · SOUTH · 2026-07-27
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/can-claims-at-walmart-canada-4445655988  
+- **Primary location (verified on posting):** 1203 Parsons Rd NW, Edmonton, AB T6N 0A9  
+- **Pay:** from ~$16.95/hr · damaged/returns processing, packing, inventory accuracy  
+- **Why:** South Common / Parsons corridor · ~10–15 min from 11110 68 Ave NW · BOH claims / stock support  
+- **Blurb:**
+> I’m applying for the Claims Associate role at Walmart Parsons (1203 Parsons Rd NW). I live nearby at 11110 68 Ave NW and am comfortable with paced BOH work: handling damaged and returned merchandise, accurate scanning and paperwork, packing returns/shipments, and keeping a claims area organized and safe. Flexible for evenings, weekends, and holidays as posted.
+
+### BS. Starbucks — Barista (South Park #04837, 3931 Calgary Trail) ★ NEW · CLOSEST · 2026-07-27
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/barista-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4445124837  
+- **Address:** 3931 Calgary Trail NW, Edmonton, AB (South Park · same plaza corridor as Walmart Calgary Trail)  
+- **Why:** Exact Calgary Trail corridor · ~10 min · not Southgate Centre  
+- **Notes:** Distinct from prior South Park Shift Supervisor draft (barista entry role)  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks South Park (#04837, 3931 Calgary Trail). I live nearby at 11110 68 Ave NW, am available for early mornings, evenings, and weekends, and am used to paced customer-facing work from Audi Southgate Fixed Ops. Coachable on recipes, cash handling, and keeping a clean station.
+
+### BT. Starbucks — Barista (Glenridding Village #82146) ★ NEW · SOUTH · 2026-07-27
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/barista-store%23-82146-glenridding-village-at-starbucks-4445125874  
+- **Address (verified):** 16741 Rabbit Hill Rd SW, Edmonton, AB T6W 5P4 (Glenridding / Rabbit Hill)  
+- **Why:** South Edmonton · ~15 min via Calgary Trail / Rabbit Hill · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks Glenridding Village (#82146). I live in south Edmonton at 11110 68 Ave NW, am available for flexible shifts including early mornings and weekends, and am used to paced service work from Audi Southgate Fixed Ops. Coachable on recipes, cash handling, and keeping a clean station.
+
+### BU. North Central Co-op — Gas Bar Attendant PT (Silverberry) ★ NEW · SE · 2026-07-27
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-silverberry-gas-bar-at-north-central-co-op-crs-4444381633  
+- **Address (verified):** 1712 34 Ave NW, Edmonton, AB T6T 0N9 (Silverberry)  
+- **Shift:** PT · business hours ~5:30am–11:30pm mix  
+- **Why:** SE Edmonton retail/cashier survival · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the part-time Gas Bar Attendant role at North Central Co-op Silverberry (1712 34 Ave NW). I live in south Edmonton, am available for morning and evening shifts, and am used to paced customer service and accurate cash/documentation work from Audi Southgate Fixed Ops. Reliable, coachable, and ready to learn Co-op gas bar and c-store procedures quickly.
+
 ### BO. Dexter — Warehouse Worker (3260 Parsons Rd NW) ★ NEW · SOUTH · 2026-07-26 PM
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363  
 - **Address (verified):** 3260 Parsons Rd NW, Edmonton, AB T6N 1B3 (City Spring / Dexter · South Common / Parsons)  

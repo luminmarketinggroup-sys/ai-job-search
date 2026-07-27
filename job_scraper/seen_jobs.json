@@ -1943,6 +1943,339 @@
       "first_seen": "2026-07-26",
       "fit": "low",
       "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/can-claims-at-walmart-canada-4445655988": {
+      "title": "Claims Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-claims-at-walmart-canada-4445655988",
+      "first_seen": "2026-07-27",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "Parsons Rd South Common BOH"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4445124837": {
+      "title": "barista - Store# 04837 SOUTH PARK",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4445124837",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "evaluated",
+      "notes": "Calgary Trail corridor barista"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store%23-82146-glenridding-village-at-starbucks-4445125874": {
+      "title": "barista - Store# 82146 GLENRIDDING VILLAGE",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store%23-82146-glenridding-village-at-starbucks-4445125874",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "evaluated",
+      "notes": "Glenridding south barista"
+    },
+    "https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-silverberry-gas-bar-at-north-central-co-op-crs-4444381633": {
+      "title": "Gas Bar Attendant PT Silverberry",
+      "company": "North Central Co-op CRS",
+      "url": "https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-silverberry-gas-bar-at-north-central-co-op-crs-4444381633",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "evaluated",
+      "notes": "SE Silverberry retail survival"
+    },
+    "https://ca.linkedin.com/jobs/view/search-engine-optimization-seo-expert-at-sitenative-4443717848": {
+      "title": "SEO Expert",
+      "company": "SiteNative",
+      "url": "https://ca.linkedin.com/jobs/view/search-engine-optimization-seo-expert-at-sitenative-4443717848",
+      "first_seen": "2026-07-27",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "mailto careers@sitenative.com fit~70"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-workflow-specialist-organic-growth-at-kraken-4444398605": {
+      "title": "Growth Workflow Specialist Organic Growth",
+      "company": "Kraken",
+      "url": "https://ca.linkedin.com/jobs/view/growth-workflow-specialist-organic-growth-at-kraken-4444398605",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "3+ yrs technical SEO/AEO automation stretch ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-jobgether-4444893494": {
+      "title": "Digital Marketing Specialist",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-jobgether-4444893494",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "3-5 yrs multi-platform paid + bachelor's ~58"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-seo-specialist-at-one-core-media-4442684140": {
+      "title": "Senior SEO Specialist",
+      "company": "One Core Media",
+      "url": "https://ca.linkedin.com/jobs/view/senior-seo-specialist-at-one-core-media-4442684140",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5+ yrs team lead + degree ~48"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-seo-and-geo-specialist-at-soti-4416949177": {
+      "title": "Senior SEO and GEO Specialist",
+      "company": "SOTI",
+      "url": "https://ca.linkedin.com/jobs/view/senior-seo-and-geo-specialist-at-soti-4416949177",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Mississauga hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/search-marketing-specialist-at-stemcell-technologies-4434614968": {
+      "title": "Search Marketing Specialist",
+      "company": "STEMCELL Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/search-marketing-specialist-at-stemcell-technologies-4434614968",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Burnaby location"
+    },
+    "https://ca.linkedin.com/jobs/view/search-specialist-at-caa-club-group-4412058678": {
+      "title": "Search Specialist",
+      "company": "CAA Club Group",
+      "url": "https://ca.linkedin.com/jobs/view/search-specialist-at-caa-club-group-4412058678",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Markham ON"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-consultant-at-img-4440230837": {
+      "title": "Digital Marketing Consultant",
+      "company": ".IMG",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-consultant-at-img-4440230837",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Calgary"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-and-communications-lead-strategist-id-55687-at-city-of-edmonton-4439248527": {
+      "title": "Marketing and Communications Lead Strategist",
+      "company": "City of Edmonton",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-and-communications-lead-strategist-id-55687-at-city-of-edmonton-4439248527",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "people-manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/manager-marketing-transformation-loyalty-at-ey-4422238103": {
+      "title": "Manager Marketing Transformation & Loyalty",
+      "company": "EY",
+      "url": "https://ca.linkedin.com/jobs/view/manager-marketing-transformation-loyalty-at-ey-4422238103",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "consulting stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-geo-specialist-at-keysight-technologies-4437684587": {
+      "title": "SEO & GEO Specialist",
+      "company": "Keysight Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/seo-geo-specialist-at-keysight-technologies-4437684587",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin of already-drafted Keysight"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-specialist-at-great-value-hiring-4436034623": {
+      "title": "Marketing Specialist",
+      "company": "Great Value Hiring",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-specialist-at-great-value-hiring-4436034623",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "AI trainer contractor gigs"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-seo-team-leader-at-adseco-company-4445385718": {
+      "title": "Senior SEO Team Leader",
+      "company": "AdsEco Company",
+      "url": "https://ca.linkedin.com/jobs/view/senior-seo-team-leader-at-adseco-company-4445385718",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Google Forms spam listing"
+    },
+    "https://ca.linkedin.com/jobs/view/%E2%80%9Cretail-store-team-leader-part-time-southgate-centre-edmonton-alberta-at-the-lego-group-4442822292": {
+      "title": "Retail Store Team Leader PT Southgate Centre",
+      "company": "the LEGO Group",
+      "url": "https://ca.linkedin.com/jobs/view/%E2%80%9Cretail-store-team-leader-part-time-southgate-centre-edmonton-alberta-at-the-lego-group-4442822292",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Southgate PF hard skip"
+    },
+    "https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-sunwapta-gas-bar-at-north-central-co-op-crs-4444009681": {
+      "title": "Gas Bar Attendant PT Sunwapta",
+      "company": "North Central Co-op CRS",
+      "url": "https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-sunwapta-gas-bar-at-north-central-co-op-crs-4444009681",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "NW 186 St distance"
+    },
+    "https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-emerald-hills-at-north-central-co-op-crs-4444378684": {
+      "title": "Gas Bar Attendant PT Emerald Hills",
+      "company": "North Central Co-op CRS",
+      "url": "https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-emerald-hills-at-north-central-co-op-crs-4444378684",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Sherwood Park distance"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-joey-bell-tower-at-joey-restaurant-group-4422758044": {
+      "title": "Dishwasher JOEY Bell Tower",
+      "company": "JOEY Restaurant Group",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-joey-bell-tower-at-joey-restaurant-group-4422758044",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "downtown distance"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-joey-sherwood-park-at-joey-restaurant-group-4422207744": {
+      "title": "Dishwasher JOEY Sherwood Park",
+      "company": "JOEY Restaurant Group",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-joey-sherwood-park-at-joey-restaurant-group-4422207744",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Sherwood Park distance"
+    },
+    "https://ca.linkedin.com/jobs/view/food-processing-labourer-at-oodle-noodle-4445628083": {
+      "title": "food processing labourer",
+      "company": "Oodle Noodle",
+      "url": "https://ca.linkedin.com/jobs/view/food-processing-labourer-at-oodle-noodle-4445628083",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Yellowhead NE factory distance"
+    },
+    "https://ca.linkedin.com/jobs/view/material-coordinator-fabrication-modular-at-bird-construction-4443706671": {
+      "title": "Material Coordinator Fabrication/Modular",
+      "company": "Bird Construction",
+      "url": "https://ca.linkedin.com/jobs/view/material-coordinator-fabrication-modular-at-bird-construction-4443706671",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5+ yrs fabrication materials stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4444739262": {
+      "title": "Crew Member",
+      "company": "Chipotle Mexican Grill",
+      "url": "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4444739262",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "store unspecified"
+    },
+    "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4443717978": {
+      "title": "Crew Member",
+      "company": "Chipotle Mexican Grill",
+      "url": "https://ca.linkedin.com/jobs/view/crew-member-at-chipotle-mexican-grill-4443717978",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "store unspecified twin"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-associate-at-wolseley-canada-inc-4441628100": {
+      "title": "Warehouse Associate",
+      "company": "Wolseley Canada Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-associate-at-wolseley-canada-inc-4441628100",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin of already-drafted Wolseley day"
+    },
+    "https://ca.linkedin.com/jobs/view/can-stock-unloader-department-manager-at-walmart-canada-4444214919": {
+      "title": "Stock Unloader Department Manager",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-stock-unloader-department-manager-at-walmart-canada-4444214919",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Leduc manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/service-provider-at-ups-4442255719": {
+      "title": "Service Provider",
+      "company": "UPS",
+      "url": "https://ca.linkedin.com/jobs/view/service-provider-at-ups-4442255719",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "delivery driving not warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/restaurant-counter-attendant-at-buffet-royale-carvery-4443331979": {
+      "title": "Restaurant counter attendant",
+      "company": "Buffet Royale Carvery",
+      "url": "https://ca.linkedin.com/jobs/view/restaurant-counter-attendant-at-buffet-royale-carvery-4443331979",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "location unspecified west vs gateway"
+    },
+    "https://ca.linkedin.com/jobs/view/store-crew-at-7-eleven-4445640162": {
+      "title": "Store Crew",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/store-crew-at-7-eleven-4445640162",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "store unspecified"
+    },
+    "https://ca.linkedin.com/jobs/view/ai-operations-developer-marketing-at-docebo-4415579141": {
+      "title": "AI Operations Developer Marketing",
+      "company": "Docebo",
+      "url": "https://ca.linkedin.com/jobs/view/ai-operations-developer-marketing-at-docebo-4415579141",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/ai-enabled-marketing-builder-at-sagard-4423973620": {
+      "title": "AI-enabled Marketing Builder",
+      "company": "Sagard",
+      "url": "https://ca.linkedin.com/jobs/view/ai-enabled-marketing-builder-at-sagard-4423973620",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/head-of-search-at-clearoute-4442082862": {
+      "title": "Head of Search",
+      "company": "Clearoute",
+      "url": "https://ca.linkedin.com/jobs/view/head-of-search-at-clearoute-4442082862",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Markham leadership stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/brand-and-marketing-lead-ey-assurance-hybrid-at-ey-4410626753": {
+      "title": "Brand and Marketing Lead EY Assurance",
+      "company": "EY",
+      "url": "https://ca.linkedin.com/jobs/view/brand-and-marketing-lead-ey-assurance-hybrid-at-ey-4410626753",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "leadership stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-sponichr-4445638338": {
+      "title": "Digital Marketing Specialist",
+      "company": "SponicHR",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-sponichr-4445638338",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "UK spam recruiter listing"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-strategist-remote-canada-future-opening-at-directive-4414958739": {
+      "title": "SEO Strategist Future Opening",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/seo-strategist-remote-canada-future-opening-at-directive-4414958739",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "already skipped B2B SaaS hard req twin"
     }
   },
   "last_run": "2026-07-22"
