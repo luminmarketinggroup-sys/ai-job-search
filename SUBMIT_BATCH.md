@@ -17,6 +17,10 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| BV | **Starbucks Barista — Ellerslie & Parsons #04943** | **NEW 07-28** · 9504 Ellerslie Rd SW · Parsons south · ~10–15 min |
+| BW | **Starbucks Shift Supervisor — Glenridding #82146** | **NEW 07-28** · Rabbit Hill south · distinct from barista draft |
+| BX | **FedEx Package Handler Trainer — YELA** | **NEW 07-28** · airport/Nisku south warehouse · closes 08-03 3pm |
+| BY | **Walmart Stockperson/Cartpusher — Currents Dr** | **NEW 07-28** · 6110 Currents Dr NW · south stock/lot |
 | BR | **Walmart Claims — 1203 Parsons Rd NW** | **NEW 07-27** · South Common BOH claims/returns · ~10–15 min |
 | BS | **Starbucks Barista — South Park #04837 (3931 Calgary Trail)** | **NEW 07-27** · exact corridor · not Southgate |
 | BT | **Starbucks Barista — Glenridding Village #82146** | **NEW 07-27** · Rabbit Hill south · ~15 min |

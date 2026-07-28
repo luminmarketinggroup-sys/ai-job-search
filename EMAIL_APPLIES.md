@@ -54,11 +54,12 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
-## Pending mailto (Resend unset 2026-07-27)
+## Pending mailto (Resend unset 2026-07-28)
 
 | # | Company | To | Role | Status |
 |---|---------|-----|------|--------|
-| P0c | SiteNative | careers@sitenative.com | SEO Expert | **NEW** mailto ready · subject `Application: Search Engine Optimization (SEO) Expert` · attach `cv/main_sitenative.pdf` + `cover_letters/cover_sitenative_seo_expert.pdf` |
+| P0d | Reach First | info@reachfirst.com | Marketing Coordinator | **NEW** mailto ready · subject `Application: Marketing Coordinator - Dylan Michael` · attach `cv/main_reach_first.pdf` + `cover_letters/cover_reach_first_marketing_coordinator.pdf` · also https://www.reachfirst.com/careers/ |
+| P0c | SiteNative | careers@sitenative.com | SEO Expert | mailto ready · subject `Application: Search Engine Optimization (SEO) Expert` · attach `cv/main_sitenative.pdf` + `cover_letters/cover_sitenative_seo_expert.pdf` |
 | P0 | Talent Advantage | info@talentadvantage.ca | PPC & Social Media Ads Manager | mailto ready · attach `cv/main_talent_advantage.pdf` + cover |
 | P0b | Olive Garden / Recipe Unlimited | recruit@recipeunlimited.com | Dishwasher Gateway south (local) | **NEW** mailto ready · attach `cv/main_local_edmonton.pdf` |
 | P1 | Hi Tech Heat Treating | Info@HiTechHeatTreating.ca | Shipper/Receiver (local) | mailto ready · attach `cv/main_local_edmonton.pdf` |

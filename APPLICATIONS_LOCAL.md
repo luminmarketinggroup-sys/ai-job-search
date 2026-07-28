@@ -11,6 +11,35 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BV. Starbucks — Barista (Ellerslie & Parsons #04943) ★ NEW · SOUTH · 2026-07-28
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706  
+- **Address (verified):** 9504 Ellerslie Rd SW, Edmonton, AB T6X 1A7 (Ellerslie & Parsons)  
+- **Why:** South Parsons / Ellerslie corridor · ~10–15 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the barista role at Starbucks Ellerslie & Parsons (#04943, 9504 Ellerslie Rd SW). I live nearby at 11110 68 Ave NW, am available for early mornings, evenings, and weekends, and am used to paced customer-facing work from Audi Southgate Fixed Ops. Coachable on recipes, cash handling, and keeping a clean station.
+
+### BW. Starbucks — Shift Supervisor (Glenridding Village #82146) ★ NEW · SOUTH · 2026-07-28
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-82146-glenridding-village-at-starbucks-4445140719  
+- **Address (verified):** 16741 Rabbit Hill Rd SW, Edmonton, AB T6W 5P4 (Glenridding / Rabbit Hill)  
+- **Why:** South Edmonton · ~15 min · distinct from prior Glenridding barista draft · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Shift Supervisor role at Starbucks Glenridding Village (#82146). I live in south Edmonton at 11110 68 Ave NW, am available for flexible shifts including early mornings and weekends, and am used to paced service leadership and clear handoffs from Audi Southgate Fixed Ops. Coachable on Starbucks routines, partner deployment, and keeping the floor clean and on-standard.
+
+### BX. FedEx Canada — Package Handler Trainer (YELA / Edmonton) ★ NEW · SOUTH · 2026-07-28
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/package-handler-trainer-at-fedex-canada-4445977991  
+- **Location (from posting):** Part-time Package Handler Trainer at YELA (Edmonton International Airport operations) · closes 2026-08-03 3pm local  
+- **Why:** South / Nisku–YEG warehouse corridor · load/unload/scan/sort + train peers · BOH physical work  
+- **Blurb:**
+> I’m applying for the part-time Package Handler Trainer role at FedEx Canada (YELA / Edmonton). I’m comfortable with paced warehouse work—loading and unloading, scanning, sorting, and keeping freight moving safely—and I can coach teammates on safe, accurate methods. Based in south Edmonton (11110 68 Ave NW) with reliable transportation for early or variable shifts.
+
+### BY. Walmart — Stockperson / Cartpusher (6110 Currents Dr NW) ★ NEW · SOUTH · 2026-07-28
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/can-stockperson-cartpusher-at-walmart-canada-4446165211  
+- **Primary location (verified on posting):** 6110 Currents Dr NW, Edmonton, AB T6W 0L7  
+- **Pay:** from ~$16.15/hr · cart retrieval + stock support · steel-toe / PPE as required  
+- **Why:** South Windermere / Currents · same store corridor as prior overnight draft · not Southgate  
+- **Blurb:**
+> I’m applying for the Stockperson / Cartpusher role at Walmart Currents (6110 Currents Dr NW). I live in south Edmonton at 11110 68 Ave NW, am comfortable on my feet for paced shifts, and can keep carts, lot, and stock areas organized and safe. Flexible for evenings, weekends, and holidays as posted; steel-toe ready.
+
 ### BR. Walmart — Claims Associate (1203 Parsons Rd NW) ★ NEW · SOUTH · 2026-07-27
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/can-claims-at-walmart-canada-4445655988  
 - **Primary location (verified on posting):** 1203 Parsons Rd NW, Edmonton, AB T6N 0A9  

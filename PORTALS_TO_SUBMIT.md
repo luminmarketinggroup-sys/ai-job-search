@@ -8,6 +8,12 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0af. Reach First — Marketing Coordinator Edmonton remote (NEW 2026-07-28)
+   mailto:info@reachfirst.com
+   Careers: https://www.reachfirst.com/careers/
+   Materials: cv/main_reach_first.pdf + cover_reach_first_marketing_coordinator.pdf
+   Note: Fit ~70 · Edmonton preferred · bachelor’s gap · confirm base ≥ CAD $60k · Resend unset
+
 0ae. AMA — Marketing Coordinator Member Rewards 14-mo (NEW 2026-07-26 PM)
    Portal: https://careers.ama.ab.ca/
    LinkedIn: https://ca.linkedin.com/jobs/view/marketing-coordinator-member-rewards-14-month-position-at-ama-alberta-motor-association-4443078908

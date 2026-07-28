@@ -1,20 +1,20 @@
-# Last automation run — 2026-07-27
+# Last automation run — 2026-07-28
 
 ## Summary
-- **4 new local drafts** (Walmart Claims Parsons Rd, Starbucks South Park barista, Starbucks Glenridding barista, Co-op Silverberry gas bar)
-- **1 new career draft** (SiteNative SEO Expert ~70 · mailto careers@sitenative.com)
+- **4 new local drafts** (Starbucks Ellerslie & Parsons barista, Starbucks Glenridding Shift Supervisor, FedEx Package Handler Trainer YELA, Walmart Currents Stockperson/Cartpusher)
+- **1 new career draft** (Reach First Marketing Coordinator ~70 · mailto info@reachfirst.com)
 - **Resend unset** — mailto/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: LEGO Southgate Team Leader (hard skip); Kraken Growth Workflow (~55); Jobgether DMS (~58); One Core Media Senior SEO (~48); SOTI Mississauga hybrid; Oodle Noodle Yellowhead NE; Sunwapta/Emerald Hills gas bars; Chipotle store unspecified; JOEY Bell Tower downtown
+- Skipped: UFA Shipper/Receiver (filled on careers.ufa.com); All Weather Trailer Loader (NW); Touchette North; Sobeys Manning Crossing; Fairmont Macdonald Steward; Cactus Club Jasper; non-corridor Walmart OMNI; Jobgether Content AI (~48) / Growth (~58); Rand Group events (~54); Crossing Hurdles contractor; Savvy/SurveyMonkey/Saatchi SEO Manager; Aylo Sr SEO; Algo Burnaby; Wood Automotive Calgary; Skyline $50k Guelph; FIEL Mississauga; Phoenix Toronto; Pioneer Burlington
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Walmart Parsons Claims | Claims Associate | https://ca.linkedin.com/jobs/view/can-claims-at-walmart-canada-4445655988 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BR` |
-| Local | Starbucks South Park | Barista #04837 (3931 Calgary Trail) | https://ca.linkedin.com/jobs/view/barista-store%23-04837-south-park-3931-calgary-trail-at-starbucks-4445124837 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BS` |
-| Local | Starbucks Glenridding | Barista #82146 | https://ca.linkedin.com/jobs/view/barista-store%23-82146-glenridding-village-at-starbucks-4445125874 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BT` |
-| Local | North Central Co-op Silverberry | Gas Bar Attendant PT | https://ca.linkedin.com/jobs/view/gas-bar-attendant-pt-silverberry-gas-bar-at-north-central-co-op-crs-4444381633 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BU` |
-| Career | SiteNative | SEO Expert | https://ca.linkedin.com/jobs/view/search-engine-optimization-seo-expert-at-sitenative-4443717848 | `cv/main_sitenative.pdf` · `cover_letters/cover_sitenative_seo_expert.pdf` |
+| Local | Starbucks Ellerslie & Parsons | Barista #04943 | https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BV` |
+| Local | Starbucks Glenridding | Shift Supervisor #82146 | https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-82146-glenridding-village-at-starbucks-4445140719 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BW` |
+| Local | FedEx Canada YELA | Package Handler Trainer PT | https://ca.linkedin.com/jobs/view/package-handler-trainer-at-fedex-canada-4445977991 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BX` |
+| Local | Walmart Currents | Stockperson / Cartpusher | https://ca.linkedin.com/jobs/view/can-stockperson-cartpusher-at-walmart-canada-4446165211 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BY` |
+| Career | Reach First | Marketing Coordinator | https://www.reachfirst.com/careers/ | `cv/main_reach_first.pdf` · `cover_letters/cover_reach_first_marketing_coordinator.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

@@ -57,6 +57,10 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L77 | **Starbucks Ellerslie & Parsons** | Barista #04943 | **NEW 07-28** · 9504 Ellerslie Rd SW · south corridor | https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706 |
+| L78 | **Starbucks Glenridding** | Shift Supervisor #82146 | **NEW 07-28** · Rabbit Hill · ≠ barista draft | https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-82146-glenridding-village-at-starbucks-4445140719 |
+| L79 | **FedEx Canada YELA** | Package Handler Trainer PT | **NEW 07-28** · airport/Nisku warehouse · closes 08-03 | https://ca.linkedin.com/jobs/view/package-handler-trainer-at-fedex-canada-4445977991 |
+| L80 | **Walmart Currents** | Stockperson / Cartpusher | **NEW 07-28** · 6110 Currents Dr NW · stock/lot | https://ca.linkedin.com/jobs/view/can-stockperson-cartpusher-at-walmart-canada-4446165211 |
 | L70 | **Princess Auto South** | Receiver Days | **NEW 07-26** · 9835 34 Ave · ~6–10 min warehouse | https://ca.linkedin.com/jobs/view/receiver-days-at-princess-auto-ltd-4445338919 |
 | L71 | **Princess Auto** | Receiver Nights | **NEW 07-26** · overnight BOH stock/receive | https://ca.linkedin.com/jobs/view/receiver-nights-at-princess-auto-ltd-4445340908 |
 | L72 | **Sephora Meadows** | Operations Consultant FT | **NEW 07-26** · stockroom · The Meadows · not Southgate | https://ca.linkedin.com/jobs/view/operations-consultant-full-time-at-sephora-4444228445 |
@@ -135,6 +139,8 @@ Only if you want public-facing cafe work on the corridor:
 
 | Company | Role | Link |
 |---------|------|------|
+| Starbucks | Barista — Ellerslie & Parsons #04943 | https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706 |
+| Starbucks | Shift Sup — Glenridding #82146 | https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-82146-glenridding-village-at-starbucks-4445140719 |
 | Starbucks | Barista — Calgary Trail S | https://ca.linkedin.com/jobs/view/4440275436 |
 | Starbucks | Barista — 75 St & 68 Ave | https://ca.linkedin.com/jobs/view/4440606993 |
 | Starbucks | Shift Sup — South Park / Calgary Trail | https://ca.linkedin.com/jobs/view/4440268814 |
@@ -169,6 +175,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 | C14 | AMA | Marketing Specialist, Member Rewards (12-mo) | **Portal only — still open** | `main_ama` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443720741) |
 | C15 | Goose Digital | Account Lead, Digital Solutions | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + account lead cover | https://goosedigital.com/job/account-lead-digital-solutions/ |
 | C16 | Goose Digital | Demand Generation Specialist | **Email submitted** → renata@goosedigital.com | `main_goose_digital` + demand gen cover | https://goosedigital.com/job/demand-generation-specialist/ |
+| C32 | Reach First | Marketing Coordinator | **Ready — mailto** info@reachfirst.com (Resend unset) · Fit ~70 · Edmonton remote preferred · bachelor gap · confirm ≥$60k | `main_reach_first` + cover | https://www.reachfirst.com/careers/ |
+| C31 | SiteNative | SEO Expert | **Ready — mailto** careers@sitenative.com (Resend unset) · Fit ~70 | `main_sitenative` + cover | https://ca.linkedin.com/jobs/view/search-engine-optimization-seo-expert-at-sitenative-4443717848 |
 | C30 | AMA | Marketing Coordinator, Member Rewards (14-mo) | **Ready — portal** · Fit ~64 · hybrid · bachelor gap · confirm ≥$60k | `main_ama_coordinator` + cover | https://careers.ama.ab.ca/ (+ LinkedIn 4443078908) |
 | C28 | Waste Logic Inc | Marketing Coordinator (12-mo) | **Ready — portal/LinkedIn** · Fit ~67 · Edmonton onsite · degree gap · confirm ≥$60k | `main_waste_logic` + cover | https://ca.linkedin.com/jobs/view/marketing-coordinator-12-month-maternity-leave-coverage-at-waste-logic-inc-4443891543 |
 | C29 | Huzzle (Colorado agency client) | Digital Marketing Specialist Remote | **Ready — portal/LinkedIn** · Fit ~78 · MT 9–5 · confirm ≥$60k CAD | `main_huzzle` + cover | https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-huzzle-com-4441923818 |
@@ -210,6 +218,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-07-28 daily run:** local BV–BY (Starbucks Ellerslie & Parsons barista, Starbucks Glenridding Shift Supervisor, FedEx Package Handler Trainer YELA, Walmart Currents Stockperson/Cartpusher); career C32 (Reach First Marketing Coordinator ~70 mailto info@). Resend unset — mailto/checklist only. Skipped UFA filled; All Weather NW; Touchette North; Jobgether Content/Growth stretch; SEO Manager relocate roles; Calgary/Toronto onsite.
 - **2026-07-26 PM daily run:** local BO–BQ (Dexter Parsons warehouse, JC Silent-Aire Order Picker Nisku, SureWerx Receiving Coordinator Nisku); career C30 (AMA Marketing Coordinator Member Rewards 14-mo ~64). Resend unset — portal/checklist only. Skipped Jobgether growth/leadership stretch; ECF Communications pay/fit; Braven downtown; Starbucks Southgate PF; Walmart St Albert; UFA filled.
 - **2026-07-26 AM daily run:** local BL–BN (Princess Auto Receiver days + nights, Sephora Meadows Ops Consultant stockroom); career C28–C29 (Waste Logic Marketing Coordinator ~67, Huzzle Digital Marketing Specialist ~78). Resend unset — portal/checklist only. Skipped Critical Mass Calgary office; Aylo Montreal; BuildDirect Vancouver; Toronto senior growth; distance Walmart unloaders.
 - **2026-07-25 daily run:** local BI–BK (Home Depot South Common receiving, Walmart Currents overnight, Starbucks College Plaza); career C26–C27 (Odds Scanner SEO Content ~64, Brafton SEO Strategist ~63). Resend unset — portal/checklist only. Skipped Southgate PF; north Walmart overnight; Ryder/ChamClad NW; Directive B2B SaaS hard req; Connected Creative PT paid media; Mercury 5+ yrs AEO.

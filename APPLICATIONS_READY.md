@@ -1,9 +1,20 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton (+ optional form follow-ups). **New email this run:** SiteNative (Resend unset → mailto).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton (+ optional form follow-ups). **New email this run:** Reach First (Resend unset → mailto info@).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-28 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C32 | Reach First | Marketing Coordinator | Good (~70) | **mailto** info@reachfirst.com · careers https://www.reachfirst.com/careers/ | `cv/main_reach_first.pdf` | `cover_letters/cover_reach_first_marketing_coordinator.pdf` | Edmonton-preferred remote; agency client coordination + SEO/paid/content match; bachelor’s listed (HS diploma gap); confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):**
+- Reach First: `mailto:info@reachfirst.com?subject=Application%3A%20Marketing%20Coordinator%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): UFA Warehouse Shipper/Receiver (careers.ufa.com shows filled); All Weather Trailer Loader (18550 118A Ave NW — NW, not corridor); Touchette Order Picker Edmonton North; Sobeys Cashier Manning Crossing (north); Fairmont Hotel Macdonald Steward (downtown); Cactus Club Jasper dishwasher (downtown); Walmart OMNI Sherwood Park / Tamarack / Kingsway (not corridor); Jobgether Content Strategist AI (~48; 5+ yrs editorial); Jobgether Growth Strategist (~58; 4+ yrs multi-channel growth stretch); Rand Group Events & Marketing Content (~54; events-heavy); Crossing Hurdles Marketing Manager contractor (deck-evaluation gig); Savvy Talent SEO Manager (Vancouver hybrid relocate); SurveyMonkey / Saatchi SEO Manager (manager + onsite stretch); Aylo Sr SEO (Montreal / adult vertical — prior skip); Algo Content Marketing (Burnaby 4 days office); Wood Automotive DMS/DMC (Calgary onsite); Skyline Digital Marketing Coordinator ($50k under floor + Guelph); FIEL AI e-comm (Mississauga); Phoenix Organic Growth Manager (Toronto on-site / 6+ yrs); Pioneer CRM Automation (Burlington on-site); Starbucks Ever on 170th / Fort Sask (distance).
 
 ## NEW drafts this run (2026-07-27 daily scrape)
 

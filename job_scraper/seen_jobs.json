@@ -2276,7 +2276,349 @@
       "fit": "low",
       "status": "skipped",
       "notes": "already skipped B2B SaaS hard req twin"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706": {
+      "title": "barista - Store# 04943, ELLERSLIE & PARSONS",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "evaluated",
+      "notes": "9504 Ellerslie Rd SW; south corridor auto-draft"
+    },
+    "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-82146-glenridding-village-at-starbucks-4445140719": {
+      "title": "shift supervisor - Store# 82146, GLENRIDDING VILLAGE",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-82146-glenridding-village-at-starbucks-4445140719",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "evaluated",
+      "notes": "16741 Rabbit Hill Rd SW; distinct from barista draft"
+    },
+    "https://ca.linkedin.com/jobs/view/package-handler-trainer-at-fedex-canada-4445977991": {
+      "title": "Package Handler Trainer",
+      "company": "FedEx Canada",
+      "url": "https://ca.linkedin.com/jobs/view/package-handler-trainer-at-fedex-canada-4445977991",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "YELA airport/Nisku south warehouse; closes 2026-08-03"
+    },
+    "https://ca.linkedin.com/jobs/view/can-stockperson-cartpusher-at-walmart-canada-4446165211": {
+      "title": "(CAN) Stockperson/Cartpusher",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-stockperson-cartpusher-at-walmart-canada-4446165211",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "evaluated",
+      "notes": "6110 Currents Dr NW T6W 0L7"
+    },
+    "https://www.reachfirst.com/careers/": {
+      "title": "Marketing Coordinator",
+      "company": "Reach First",
+      "url": "https://www.reachfirst.com/careers/",
+      "first_seen": "2026-07-28",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "Edmonton-preferred remote; mailto info@reachfirst.com; fit~70"
+    },
+    "https://ca.linkedin.com/jobs/view/warehouse-shipper-receiver-at-ufa-4445409028": {
+      "title": "Warehouse Shipper/Receiver",
+      "company": "UFA",
+      "url": "https://ca.linkedin.com/jobs/view/warehouse-shipper-receiver-at-ufa-4445409028",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "careers.ufa.com shows filled; T6P DC"
+    },
+    "https://ca.linkedin.com/jobs/view/trailer-loader-ltl-pu-at-all-weather-at-home-4445168946": {
+      "title": "Trailer Loader - LTL-PU",
+      "company": "All Weather at Home",
+      "url": "https://ca.linkedin.com/jobs/view/trailer-loader-ltl-pu-at-all-weather-at-home-4445168946",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "18550 118A Ave NW T5S \u2014 NW not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/order-picker-edmonton-north-part-time-temporary-at-groupe-touchette-4446144024": {
+      "title": "Order Picker Edmonton North PT Temp",
+      "company": "Groupe Touchette",
+      "url": "https://ca.linkedin.com/jobs/view/order-picker-edmonton-north-part-time-temporary-at-groupe-touchette-4446144024",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Edmonton North distance"
+    },
+    "https://ca.linkedin.com/jobs/view/order-picker-edmonton-north-temporary-at-groupe-touchette-4446137142": {
+      "title": "Order Picker Edmonton North Temp",
+      "company": "Groupe Touchette",
+      "url": "https://ca.linkedin.com/jobs/view/order-picker-edmonton-north-temporary-at-groupe-touchette-4446137142",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Edmonton North distance"
+    },
+    "https://ca.linkedin.com/jobs/view/cashier-1-at-sobeys-4437744828": {
+      "title": "Cashier 1",
+      "company": "Sobeys",
+      "url": "https://ca.linkedin.com/jobs/view/cashier-1-at-sobeys-4437744828",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "8879 Manning Crossing \u2014 north"
+    },
+    "https://ca.linkedin.com/jobs/view/steward-full-time-at-fairmont-hotels-resorts-4445184438": {
+      "title": "Steward Full Time",
+      "company": "Fairmont Hotels & Resorts",
+      "url": "https://ca.linkedin.com/jobs/view/steward-full-time-at-fairmont-hotels-resorts-4445184438",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Hotel Macdonald downtown"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-jasper-avenue-at-cactus-club-cafe-4247383524": {
+      "title": "Dishwasher Jasper Avenue",
+      "company": "Cactus Club Cafe",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-jasper-avenue-at-cactus-club-cafe-4247383524",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "downtown Jasper Ave"
+    },
+    "https://ca.linkedin.com/jobs/view/omni-customer-fulfillment-associate-at-walmart-canada-4445470234": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/omni-customer-fulfillment-associate-at-walmart-canada-4445470234",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "7000 Emerald Dr Sherwood Park \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/can-omni-customer-fulfillment-associate-at-walmart-canada-4443973248": {
+      "title": "OMNI CFA Tamarack",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-omni-customer-fulfillment-associate-at-walmart-canada-4443973248",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "775 Tamarack Way \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/can-omni-customer-fulfillment-associate-at-walmart-canada-4443967443": {
+      "title": "OMNI CFA Kingsway",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-omni-customer-fulfillment-associate-at-walmart-canada-4443967443",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Kingsway Garden Mall \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-80407-ever-on-170th-at-starbucks-4445147212": {
+      "title": "shift supervisor Ever on 170th",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/shift-supervisor-store%23-80407-ever-on-170th-at-starbucks-4445147212",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "NW 170 St distance"
+    },
+    "https://ca.linkedin.com/jobs/view/barista-store%23-05039-fort-saskatchewan-south-pointe-at-starbucks-4443160044": {
+      "title": "barista Fort Saskatchewan South Pointe",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/barista-store%23-05039-fort-saskatchewan-south-pointe-at-starbucks-4443160044",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Fort Sask distance"
+    },
+    "https://ca.linkedin.com/jobs/view/service-staff-server-bartender-at-the-canadian-brewhouse-4442857584": {
+      "title": "Service Staff Server Bartender",
+      "company": "The Canadian Brewhouse",
+      "url": "https://ca.linkedin.com/jobs/view/service-staff-server-bartender-at-the-canadian-brewhouse-4442857584",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "FOH server not BOH priority"
+    },
+    "https://ca.linkedin.com/jobs/view/content-strategist-ai-storytelling-at-jobgether-4443235234": {
+      "title": "Content Strategist AI & Storytelling",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/content-strategist-ai-storytelling-at-jobgether-4443235234",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "~48; 5+ yrs editorial content"
+    },
+    "https://ca.linkedin.com/jobs/view/growth-strategist-at-jobgether-4444293982": {
+      "title": "Growth Strategist",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/growth-strategist-at-jobgether-4444293982",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "~58; 4+ yrs multi-channel growth stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/events-marketing-content-specialist-at-rand-group-4445420675": {
+      "title": "Events & Marketing Content Specialist",
+      "company": "Rand Group",
+      "url": "https://ca.linkedin.com/jobs/view/events-marketing-content-specialist-at-rand-group-4445420675",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "~54; events-heavy"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-manager-%2460-hr-remote-at-crossing-hurdles-4436539059": {
+      "title": "Marketing Manager $60/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-manager-%2460-hr-remote-at-crossing-hurdles-4436539059",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "deck-evaluation contractor gig"
+    },
+    "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-savvy-talent-4446107787": {
+      "title": "SEO Manager",
+      "company": "Savvy Talent",
+      "url": "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-savvy-talent-4446107787",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Vancouver hybrid relocate"
+    },
+    "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-surveymonkey-4445408560": {
+      "title": "SEO Manager",
+      "company": "SurveyMonkey",
+      "url": "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-surveymonkey-4445408560",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "manager + Ottawa stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/seo-manager-at-saatchi-saatchi-canada-4440785388": {
+      "title": "SEO Manager",
+      "company": "Saatchi & Saatchi Canada",
+      "url": "https://ca.linkedin.com/jobs/view/seo-manager-at-saatchi-saatchi-canada-4440785388",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto onsite manager"
+    },
+    "https://ca.linkedin.com/jobs/view/sr-seo-specialist-at-aylo-4441239339": {
+      "title": "Sr. SEO Specialist",
+      "company": "Aylo",
+      "url": "https://ca.linkedin.com/jobs/view/sr-seo-specialist-at-aylo-4441239339",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Montreal / adult vertical prior skip"
+    },
+    "https://ca.linkedin.com/jobs/view/content-marketing-specialist-at-algo-communication-products-ltd-4445470978": {
+      "title": "Content Marketing Specialist",
+      "company": "Algo Communication Products Ltd",
+      "url": "https://ca.linkedin.com/jobs/view/content-marketing-specialist-at-algo-communication-products-ltd-4445470978",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Burnaby 4 days office"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-coordinator-at-wood-automotive-group-4445300566": {
+      "title": "Digital Marketing Coordinator",
+      "company": "Wood Automotive Group",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-coordinator-at-wood-automotive-group-4445300566",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Calgary onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-wood-automotive-group-4443534001": {
+      "title": "Digital Marketing Specialist",
+      "company": "Wood Automotive Group",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-specialist-at-wood-automotive-group-4443534001",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Calgary onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-marketing-coordinator-at-skyline-group-of-companies-4445168848": {
+      "title": "Digital Marketing Coordinator",
+      "company": "Skyline Group of Companies",
+      "url": "https://ca.linkedin.com/jobs/view/digital-marketing-coordinator-at-skyline-group-of-companies-4445168848",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "$50k under floor + Guelph"
+    },
+    "https://ca.linkedin.com/jobs/view/ai-e-commerce-and-digital-marketing-specialist-at-fiel-fairdeal-import-export-ltd-4444692635": {
+      "title": "AI e-commerce and digital marketing specialist",
+      "company": "FIEL",
+      "url": "https://ca.linkedin.com/jobs/view/ai-e-commerce-and-digital-marketing-specialist-at-fiel-fairdeal-import-export-ltd-4444692635",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Mississauga"
+    },
+    "https://ca.linkedin.com/jobs/view/organic-growth-marketing-manager-at-phoenix-4435701845": {
+      "title": "Organic Growth Marketing Manager",
+      "company": "Phoenix",
+      "url": "https://ca.linkedin.com/jobs/view/organic-growth-marketing-manager-at-phoenix-4435701845",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto on-site / 6+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/crm-marketing-automation-specialist-at-pioneer-family-pools-4445187540": {
+      "title": "CRM & Marketing Automation Specialist",
+      "company": "Pioneer Family Pools",
+      "url": "https://ca.linkedin.com/jobs/view/crm-marketing-automation-specialist-at-pioneer-family-pools-4445187540",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Burlington on-site"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-ai-analytics-strategist-at-poka-inc-4434731097": {
+      "title": "Marketing AI & Analytics Strategist",
+      "company": "Poka Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-ai-analytics-strategist-at-poka-inc-4434731097",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Montreal hybrid / 6 yrs analytics stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/retention-marketing-specialist-at-love-ur-curls%C2%AE-4445185063": {
+      "title": "Retention Marketing Specialist",
+      "company": "Love Ur Curls",
+      "url": "https://ca.linkedin.com/jobs/view/retention-marketing-specialist-at-love-ur-curls%C2%AE-4445185063",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Mississauga / 5 yrs retention"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-automation-specialist-at-minto-group-4435359742": {
+      "title": "Marketing Automation Specialist",
+      "company": "Minto Group",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-automation-specialist-at-minto-group-4435359742",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto / 5+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-manager-marketing-transformation-loyalty-at-ey-4421997256": {
+      "title": "Senior Manager Marketing Transformation & Loyalty",
+      "company": "EY",
+      "url": "https://ca.linkedin.com/jobs/view/senior-manager-marketing-transformation-loyalty-at-ey-4421997256",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "consulting leadership stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/new-business-account-executive-at-impact-staffing-international-4446168008": {
+      "title": "New Business Account Executive",
+      "company": "IMPACT STAFFING INTERNATIONAL",
+      "url": "https://ca.linkedin.com/jobs/view/new-business-account-executive-at-impact-staffing-international-4446168008",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "sales AE not marketing"
     }
   },
-  "last_run": "2026-07-22"
+  "last_run": "2026-07-28"
 }
