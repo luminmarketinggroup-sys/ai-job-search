@@ -11,6 +11,38 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### BZ. Home Depot — Receiving Associate Part-Time (7065 South Common) ★ NEW · SOUTH · 2026-07-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4445762399  
+- **Portal:** https://careers.homedepot.ca/store/7065  
+- **Address (verified):** 2020 101 Street SW, Edmonton, AB (store #7065 South Common)  
+- **Why:** South Common / Calgary Trail south · ~10–15 min from 11110 68 Ave NW · unload / receive / stock · distinct from prior full-time receiving draft  
+- **Blurb:**
+> I’m applying for the part-time Receiving Associate role at Home Depot South Common (2020 101 Street SW). I live nearby at 11110 68 Ave NW and am comfortable with physical receiving work: unloading carriers, checking quantities, moving freight, and keeping the dock organized. Willing to complete powered lift equipment training as required. Reliable for the posted part-time schedule.
+
+### CA. Home Depot — Order Picker Part-Time (7065 South Common) ★ NEW · SOUTH · 2026-07-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4445750548  
+- **Portal:** https://careers.homedepot.ca/store/7065  
+- **Address (verified):** 2020 101 Street SW, Edmonton, AB (store #7065 South Common)  
+- **Why:** South Common corridor · pick / stage / stock support · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the part-time Order Picker role at Home Depot South Common (2020 101 Street SW). I live nearby at 11110 68 Ave NW, am comfortable on my feet for paced warehouse-style work, and can pick, stage, and keep product organized accurately. Willing to train on powered equipment as required. Flexible for evenings and weekends as posted.
+
+### CB. Home Depot — Overnight Freight Associate Part-Time (7065 South Common) ★ NEW · SOUTH · 2026-07-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4445752544  
+- **Portal:** https://careers.homedepot.ca/store/7065  
+- **Address (verified):** 2020 101 Street SW, Edmonton, AB (store #7065 South Common)  
+- **Why:** South Common overnight freight / stocking · BOH physical work · ~10–15 min  
+- **Blurb:**
+> I’m applying for the part-time Overnight Freight Associate role at Home Depot South Common (2020 101 Street SW). I live nearby at 11110 68 Ave NW and am comfortable with overnight stocking: unloading, organizing freight, and keeping the floor safe and ready for open. Willing to train on reach truck / forklift / order picker equipment as required. Reliable attendance for overnight part-time hours.
+
+### CC. Walmart — Produce Stocker (1203 Parsons Rd NW) ★ NEW · SOUTH · 2026-07-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446391951  
+- **Primary location (verified on posting):** 1203 Parsons Rd NW, Edmonton, AB T6N 0A9  
+- **Pay:** from ~$16/hr · produce stock / zoning / freshness support  
+- **Why:** South Common / Parsons corridor · same store as prior Claims draft · not Southgate  
+- **Blurb:**
+> I’m applying for the Produce Stocker role at Walmart Parsons (1203 Parsons Rd NW). I live nearby at 11110 68 Ave NW and am comfortable with paced stock work: keeping product rotated and faced, keeping the area clean and organized, and supporting a busy floor. Flexible for evenings, weekends, and holidays as posted.
+
 ### BV. Starbucks — Barista (Ellerslie & Parsons #04943) ★ NEW · SOUTH · 2026-07-28
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/barista-store%23-04943-ellerslie-parsons-at-starbucks-4445145706  
 - **Address (verified):** 9504 Ellerslie Rd SW, Edmonton, AB T6X 1A7 (Ellerslie & Parsons)  

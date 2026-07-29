@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-07-29 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C33 | Jobgether (partner) | Senior Digital Marketing Coordinator | High (~75) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4443293039 | `cv/main_jobgether_sdmc.pdf` | `cover_letters/cover_jobgether_senior_digital_marketing_coordinator.pdf` | Remote Canada; Google/Meta Ads + SEO + WordPress + GA4 + CRM match; enterprise MAP depth still growing; confirm base ≥ CAD $60k |
+| C34 | MEDIAFORCE Digital Marketing | Client Success Manager - Digital Marketing | Good (~70) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4442238197 · https://mediaforce.ca/ | `cv/main_mediaforce.pdf` | `cover_letters/cover_mediaforce_client_success_manager.pdf` | Remote contract; $64k CAD + signing bonus; Go High Level + client ownership match; multi-brand book size still growing; no verified public apply email this run (LinkedIn/portal) |
+| C35 | Go Auto | Senior Database Marketing & Automations Specialist | Good (~62) | **PORTAL** https://careersen-goauto.icims.com/jobs/24387/senior-database-marketing-%26-automations-specialist-%28go-auto-corporate---mayfield-%2816830-107-ave%29%29/job · LinkedIn https://ca.linkedin.com/jobs/view/4446507638 | `cv/main_go_auto.pdf` | `cover_letters/cover_go_auto_database_marketing_automations.pdf` | Edmonton onsite Mayfield; GHL CRM automation + Audi Fixed Ops context; Iterable/Marketo/Braze/Klaviyo + SQL gaps noted; bachelor’s or equivalent practical experience; confirm base ≥ CAD $60k |
+
+**Resend unset this run** — no email claimed sent; no portal submits claimed.
+
+Skipped this run (fit/location/pay): Audi RED Dealer Performance Specialist (~50; oADD enablement / liaison vs marketing execution); Jobber Marketing Data Manager (data-engineering stretch / $98k+ band); Billion Junior Marketing Associate (junior / pay unknown); Zen Community Manager (property ops not marketing); Konstruct Paid Ads (Calgary hybrid required); Jobgether Director of Demand Generation (leadership stretch); Jobgether Temporary Lifecycle ($38–42/hr temp); Flywheel Manager MarOps AI (Toronto); SurveyMonkey / Crossing Hurdles SEO Manager twins; TELUS Media Search Analyst (rater gig); ChamClad Shipper/Packaging (west-end NW); Brandt Parts Person (176 St NW); Emco Material Handler (address ambiguous / often NW); Atlas Grand Villa dishwasher (west casino); Earls dishwasher (store unspecified); SECURE General Labourer (industrial yard); Chartwell St Albert; Ash Grove Terminal; Walmart Fort Sask / Leduc unloaders.
+
 ## NEW drafts this run (2026-07-28 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

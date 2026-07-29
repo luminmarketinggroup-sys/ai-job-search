@@ -2618,6 +2618,336 @@
       "fit": "low",
       "status": "skipped",
       "notes": "sales AE not marketing"
+    },
+    "https://ca.linkedin.com/jobs/view/4445762399": {
+      "title": "Receiving Associate Part-Time - 7065 South Common",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4445762399",
+      "first_seen": "2026-07-29",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "2020 101 St SW South Common PT"
+    },
+    "https://ca.linkedin.com/jobs/view/4445750548": {
+      "title": "Order Picker Part-Time - 7065 South Common",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4445750548",
+      "first_seen": "2026-07-29",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "South Common pick/stock"
+    },
+    "https://ca.linkedin.com/jobs/view/4445752544": {
+      "title": "Overnight Freight Associate Part-Time - 7065 South Common",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4445752544",
+      "first_seen": "2026-07-29",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "South Common overnight freight"
+    },
+    "https://ca.linkedin.com/jobs/view/4446391951": {
+      "title": "(CAN) Produce Stocker",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446391951",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "1203 Parsons Rd NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4443293039": {
+      "title": "Senior Digital Marketing Coordinator",
+      "company": "Jobgether (partner)",
+      "url": "https://ca.linkedin.com/jobs/view/4443293039",
+      "first_seen": "2026-07-29",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit~75 remote"
+    },
+    "https://ca.linkedin.com/jobs/view/4442238197": {
+      "title": "Client Success Manager - Digital Marketing",
+      "company": "MEDIAFORCE Digital Marketing",
+      "url": "https://ca.linkedin.com/jobs/view/4442238197",
+      "first_seen": "2026-07-29",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit~70 $64k remote"
+    },
+    "https://ca.linkedin.com/jobs/view/4446507638": {
+      "title": "Senior Database Marketing & Automations Specialist",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4446507638",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit~62 Mayfield"
+    },
+    "https://ca.linkedin.com/jobs/view/dealer-performance-specialist-western-canada-at-audi-red-4443643156": {
+      "title": "Dealer Performance Specialist (Western Canada)",
+      "company": "Audi RED",
+      "url": "https://ca.linkedin.com/jobs/view/dealer-performance-specialist-western-canada-at-audi-red-4443643156",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "oADD liaison ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-data-manager-at-jobber-4443631570": {
+      "title": "Marketing Data Manager",
+      "company": "Jobber",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-data-manager-at-jobber-4443631570",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "data stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/shipper-receiver-chamclad-at-wausau-supply-company-4446533066": {
+      "title": "Shipper/Receiver-ChamClad",
+      "company": "Wausau Supply Company",
+      "url": "https://ca.linkedin.com/jobs/view/shipper-receiver-chamclad-at-wausau-supply-company-4446533066",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "west-end NW"
+    },
+    "https://ca.linkedin.com/jobs/view/packaging-staff-2nd-shift-chamclad-at-wausau-supply-company-4446534018": {
+      "title": "Packaging Staff-2nd Shift-ChamClad",
+      "company": "Wausau Supply Company",
+      "url": "https://ca.linkedin.com/jobs/view/packaging-staff-2nd-shift-chamclad-at-wausau-supply-company-4446534018",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "west-end NW"
+    },
+    "https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4446511974": {
+      "title": "Parts Person",
+      "company": "Brandt Group of Companies",
+      "url": "https://ca.linkedin.com/jobs/view/parts-person-at-brandt-group-of-companies-4446511974",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "176 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/paid-ads-specialist-at-konstruct-digital-4445196030": {
+      "title": "Paid Ads Specialist",
+      "company": "Konstruct Digital",
+      "url": "https://ca.linkedin.com/jobs/view/paid-ads-specialist-at-konstruct-digital-4445196030",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Calgary hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/junior-marketing-associate-at-billion-business-consulting-inc-4446063547": {
+      "title": "Junior Marketing Associate",
+      "company": "Billion Business Consulting Inc",
+      "url": "https://ca.linkedin.com/jobs/view/junior-marketing-associate-at-billion-business-consulting-inc-4446063547",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "junior / pay unknown"
+    },
+    "https://ca.linkedin.com/jobs/view/community-manager-at-zen-residential-ltd-4446533764": {
+      "title": "Community Manager",
+      "company": "Zen Residential Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/community-manager-at-zen-residential-ltd-4446533764",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "property ops"
+    },
+    "https://ca.linkedin.com/jobs/view/director-of-demand-generation-at-jobgether-4444888548": {
+      "title": "Director of Demand Generation",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/director-of-demand-generation-at-jobgether-4444888548",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "leadership stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/temporary-lifecycle-marketing-specialist-at-jobgether-4443241193": {
+      "title": "Temporary Lifecycle Marketing Specialist",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/temporary-lifecycle-marketing-specialist-at-jobgether-4443241193",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "temp $38-42/hr"
+    },
+    "https://ca.linkedin.com/jobs/view/manager-marketing-operations-ai-at-flywheel-4444384360": {
+      "title": "Manager, Marketing Operations & AI",
+      "company": "Flywheel",
+      "url": "https://ca.linkedin.com/jobs/view/manager-marketing-operations-ai-at-flywheel-4444384360",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/media-search-analyst-canada-english-language-at-telus-digital-4432570732": {
+      "title": "Media Search Analyst Canada (English language)",
+      "company": "TELUS Digital",
+      "url": "https://ca.linkedin.com/jobs/view/media-search-analyst-canada-english-language-at-telus-digital-4432570732",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "rater gig"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-at-earls-kitchen-bar-4436791710": {
+      "title": "Dishwasher",
+      "company": "Earls Kitchen + Bar",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-at-earls-kitchen-bar-4436791710",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "store unspecified"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-atlas-steak-fish-at-gateway-casinos-and-entertainment-limited-4442896394": {
+      "title": "Dishwasher - Atlas Steak + Fish",
+      "company": "Gateway Casinos and Entertainment Limited",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-atlas-steak-fish-at-gateway-casinos-and-entertainment-limited-4442896394",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Grand Villa west"
+    },
+    "https://ca.linkedin.com/jobs/view/material-handler-at-emco-corporation-plumbing-hvac-waterworks-industrial-irrigation-fire-protection-4443622668": {
+      "title": "Material Handler",
+      "company": "Emco Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/material-handler-at-emco-corporation-plumbing-hvac-waterworks-industrial-irrigation-fire-protection-4443622668",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "address ambiguous / often NW"
+    },
+    "https://ca.linkedin.com/jobs/view/general-labourer-at-secure-4446164128": {
+      "title": "General Labourer",
+      "company": "SECURE",
+      "url": "https://ca.linkedin.com/jobs/view/general-labourer-at-secure-4446164128",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "industrial metals yard"
+    },
+    "https://ca.linkedin.com/jobs/view/dishwasher-casual-at-chartwell-retirement-residences-4446534820": {
+      "title": "Dishwasher (Casual)",
+      "company": "Chartwell Retirement Residences",
+      "url": "https://ca.linkedin.com/jobs/view/dishwasher-casual-at-chartwell-retirement-residences-4446534820",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "St Albert"
+    },
+    "https://ca.linkedin.com/jobs/view/stock-unloader-associate-at-walmart-canada-4445301557": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/stock-unloader-associate-at-walmart-canada-4445301557",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Fort Saskatchewan"
+    },
+    "https://ca.linkedin.com/jobs/view/omni-customer-fulfillment-associate-at-walmart-canada-4443971228": {
+      "title": "omni customer fulfillment associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/omni-customer-fulfillment-associate-at-walmart-canada-4443971228",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Leduc"
+    },
+    "https://ca.linkedin.com/jobs/view/can-omni-customer-fulfillment-associate-at-walmart-canada-4443968443": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/can-omni-customer-fulfillment-associate-at-walmart-canada-4443968443",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Fort Saskatchewan"
+    },
+    "https://ca.linkedin.com/jobs/view/gas-bar-site-supervisor-ft-sunwapta-gas-bar-at-north-central-co-op-crs-4444009686": {
+      "title": "Gas Bar Site Supervisor -FT, Sunwapta Gas Bar",
+      "company": "North Central Co-op CRS",
+      "url": "https://ca.linkedin.com/jobs/view/gas-bar-site-supervisor-ft-sunwapta-gas-bar-at-north-central-co-op-crs-4444009686",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Sunwapta NW"
+    },
+    "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-surveymonkey-4445751248": {
+      "title": "Search Engine Optimization Manager",
+      "company": "SurveyMonkey",
+      "url": "https://ca.linkedin.com/jobs/view/search-engine-optimization-manager-at-surveymonkey-4445751248",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "manager stretch twin"
+    },
+    "https://ca.linkedin.com/jobs/view/marketing-manager-60-hr-remote-at-crossing-hurdles-4444112768": {
+      "title": "Marketing Manager $60/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://ca.linkedin.com/jobs/view/marketing-manager-60-hr-remote-at-crossing-hurdles-4444112768",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "contractor deck eval"
+    },
+    "https://ca.linkedin.com/jobs/view/strong-junior-seo-specialist-review-at-traffband-4446046092": {
+      "title": "Strong Junior SEO Specialist (Review)",
+      "company": "TraffBand",
+      "url": "https://ca.linkedin.com/jobs/view/strong-junior-seo-specialist-review-at-traffband-4446046092",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Ontario / weak listing"
+    },
+    "https://ca.linkedin.com/jobs/view/linkedin-lead-generation-growth-marketing-apprentice-at-acadium-4445726280": {
+      "title": "LinkedIn Lead Generation & Growth Marketing Apprentice",
+      "company": "Acadium",
+      "url": "https://ca.linkedin.com/jobs/view/linkedin-lead-generation-growth-marketing-apprentice-at-acadium-4445726280",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "apprentice"
+    },
+    "https://careersen-goauto.icims.com/jobs/24387/senior-database-marketing-%26-automations-specialist-%28go-auto-corporate---mayfield-%2816830-107-ave%29%29/job": {
+      "title": "Senior Database Marketing & Automations Specialist",
+      "company": "Go Auto",
+      "url": "https://careersen-goauto.icims.com/jobs/24387/senior-database-marketing-%26-automations-specialist-%28go-auto-corporate---mayfield-%2816830-107-ave%29%29/job",
+      "first_seen": "2026-07-29",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "iCIMS portal twin of LinkedIn 4446507638"
     }
   },
   "last_run": "2026-07-28"

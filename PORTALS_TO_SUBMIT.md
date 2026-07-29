@@ -8,6 +8,23 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0ag. Jobgether (partner) — Senior Digital Marketing Coordinator Remote (NEW 2026-07-29)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4443293039
+   Materials: cv/main_jobgether_sdmc.pdf + cover_jobgether_senior_digital_marketing_coordinator.pdf
+   Note: Fit ~75 · remote Canada · confirm base ≥ CAD $60k · Resend unset
+
+0ah. MEDIAFORCE — Client Success Manager Digital Marketing Remote (NEW 2026-07-29)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4442238197
+   Also: https://mediaforce.ca/
+   Materials: cv/main_mediaforce.pdf + cover_mediaforce_client_success_manager.pdf
+   Note: Fit ~70 · $64k CAD contract · no verified public apply email this run · LinkedIn/portal
+
+0ai. Go Auto — Senior Database Marketing & Automations Specialist (NEW 2026-07-29)
+   Portal: https://careersen-goauto.icims.com/jobs/24387/senior-database-marketing-%26-automations-specialist-%28go-auto-corporate---mayfield-%2816830-107-ave%29%29/job
+   LinkedIn: https://ca.linkedin.com/jobs/view/4446507638
+   Materials: cv/main_go_auto.pdf + cover_go_auto_database_marketing_automations.pdf
+   Note: Fit ~62 · Edmonton Mayfield onsite · MAP/SQL gaps noted · confirm base ≥ CAD $60k
+
 0af. Reach First — Marketing Coordinator Edmonton remote (NEW 2026-07-28)
    mailto:info@reachfirst.com
    Careers: https://www.reachfirst.com/careers/

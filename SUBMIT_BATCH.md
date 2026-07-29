@@ -17,6 +17,10 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| BZ | **Home Depot Receiving PT — South Common #7065** | **NEW 07-29** · 2020 101 St SW · distinct from FT receiving |
+| CA | **Home Depot Order Picker PT — South Common #7065** | **NEW 07-29** · pick/stage/stock · south corridor |
+| CB | **Home Depot Overnight Freight PT — South Common #7065** | **NEW 07-29** · overnight freight/stock · ~10–15 min |
+| CC | **Walmart Produce Stocker — 1203 Parsons Rd NW** | **NEW 07-29** · South Common produce stock · same store as Claims |
 | BV | **Starbucks Barista — Ellerslie & Parsons #04943** | **NEW 07-28** · 9504 Ellerslie Rd SW · Parsons south · ~10–15 min |
 | BW | **Starbucks Shift Supervisor — Glenridding #82146** | **NEW 07-28** · Rabbit Hill south · distinct from barista draft |
 | BX | **FedEx Package Handler Trainer — YELA** | **NEW 07-28** · airport/Nisku south warehouse · closes 08-03 3pm |
