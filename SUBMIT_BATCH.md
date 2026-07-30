@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CD | **FedEx Package Handler PT Evening** | **NEW 07-30** · $21/hr evening PH · SE industrial · distinct from #L/#BX |
+| CE | **Tile Town Store/Stock — Edmonton South Argyll** | **NEW 07-30** · 8219 Argyll Rd · stock/pull/load · ~15 min |
+| CF | **Princess Auto Merchandiser Nights — South (9835 34 Ave)** | **NEW 07-30** · 6pm–2:30am · distinct from #BL/#BM |
 | BZ | **Home Depot Receiving PT — South Common #7065** | **NEW 07-29** · 2020 101 St SW · distinct from FT receiving |
 | CA | **Home Depot Order Picker PT — South Common #7065** | **NEW 07-29** · pick/stage/stock · south corridor |
 | CB | **Home Depot Overnight Freight PT — South Common #7065** | **NEW 07-29** · overnight freight/stock · ~10–15 min |

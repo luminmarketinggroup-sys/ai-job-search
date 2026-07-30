@@ -11,6 +11,31 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CD. FedEx Canada — Package Handler PT (Evening) ★ NEW · SOUTH · 2026-07-30
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446827804  
+- **Portal:** https://careers.fedex.com/ (search Package Handler · Edmonton)  
+- **Pay / shift (from posting):** $21/hr · Sun 19:00–23:30 · Mon–Thu 21:30–01:30  
+- **Address:** Confirm facility on FedEx Careers at apply (Edmonton SE industrial often 6364 50 St NW T6B 2N7)  
+- **Why:** Distinct from prior early-AM Package Handler (#L) and YELA Trainer (#BX) · evening PH · south-east industrial corridor · ~10–15 min from 11110 68 Ave NW  
+- **Blurb:**
+> I’m applying for the part-time evening Package Handler role at FedEx Canada in Edmonton ($21/hr). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: loading/unloading, scanning, sorting, and lifting packages as posted. Available for the Sunday–Thursday evening/overnight window and willing to complete FedEx training. Reliable attendance and coachable on facility SOPs.
+
+### CE. Tile Town — Store/Stock Person (Edmonton South) ★ NEW · SOUTH · 2026-07-30
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446129967  
+- **Address (verified showroom):** 8219 Argyll Road NW, Edmonton, AB T6C 4B2 (Edmonton South)  
+- **Hours:** Mon–Fri 8:00–5:30 · Sat 10:00–5:00 · closed Sundays  
+- **Why:** South-east stock / pull / load · ~15 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Store/Stock Person role at Tile Town Edmonton South (8219 Argyll Road). I live nearby at 11110 68 Ave NW and am comfortable with physical stock work: stocking the floor, pulling orders, loading product into customer vehicles, and keeping the warehouse/showroom organized. Valid driver’s licence; forklift/pallet jack training welcome. Reliable for weekday and Saturday hours as posted.
+
+### CF. Princess Auto — Merchandiser Nights (Edmonton South) ★ NEW · CLOSEST · 2026-07-30
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446555942  
+- **Address (Edmonton South store):** 9835 34 Ave NW, Edmonton, AB T6E 5X9  
+- **Shift:** approx. 6:00 p.m. – 2:30 a.m.  
+- **Why:** Distinct from prior Receiver Days/Nights drafts (#BL/#BM) · night merchandiser / BOH stock near South Common · ~6–10 min  
+- **Blurb:**
+> I’m applying for the Night Merchandiser role at Princess Auto Edmonton South (9835 34 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with paced overnight warehouse and floor-prep work: sorting product, building displays, pricing, and keeping the warehouse and sales floor organized. Available for the posted evening/overnight window and ready to learn Princess Auto Royal Service processes quickly.
+
 ### BZ. Home Depot — Receiving Associate Part-Time (7065 South Common) ★ NEW · SOUTH · 2026-07-29
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4445762399  
 - **Portal:** https://careers.homedepot.ca/store/7065  

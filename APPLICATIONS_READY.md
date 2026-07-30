@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton (+ optional form follow-ups). **New email this run:** Reach First (Resend unset → mailto info@).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT (+ optional form follow-ups). **New email this run:** Jacked Factory / Nutra Holdings (Resend unset → mailto jobs@).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-30 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C36 | CCWESTT | Marketing and Communications Coordinator | Good (~64) | **PORTAL** https://ccwestt.jobboardly.com/ · LinkedIn https://ca.linkedin.com/jobs/view/4445755551 | `cv/main_ccwestt.pdf` | `cover_letters/cover_ccwestt_marketing_communications_coordinator.pdf` | Remote Canada; $60–70k; fixed-term to 2027-03-31; WordPress + newsletter/CRM + social match; post-secondary diploma gap; French not listed; closes 2026-08-17 |
+| C37 | Jacked Factory (Nutra Holdings) | Marketing Coordinator | Good (~63) | **mailto** jobs@nutraholdings.com · LinkedIn https://ca.linkedin.com/jobs/view/4445228638 | `cv/main_jacked_factory.pdf` | `cover_letters/cover_jacked_factory_marketing_coordinator.pdf` | Remote Canada OK; social + email + creator support match; large athlete roster / TikTok-native depth still growing; confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):**
+- Jacked Factory: `mailto:jobs@nutraholdings.com?subject=Application%3A%20Marketing%20Coordinator%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): FedEx evening PH drafted local; Tile Town Argyll stock drafted local; Princess Auto Merchandiser nights drafted local; Walmart Capilano Stockperson/Cartpusher (5004 98 Ave — east, not corridor); Walmart Tamarack Produce; TECO Shipping (18060 109 Ave NW); Uline St Albert/Spruce Grove twin IDs; JC Silent-Aire Picker twin of prior Order Picker; Emco Material Handler twin; 7-Eleven store unspecified; UPS Service Provider (driver); Radius Recycling salvage (address/yard stretch); Atomic Creative Strategist (US TZ PST/CST/EST filter); Headhunters Marketing Manager Gibbons (~48; 6–10+ yrs leadership); Sia Applied AI Lead (~35; software/OT production stretch); MoveSmart Account Manager (leasing ops not marketing); Zoom Growth Marketer (Toronto hybrid); Mazda CRM Automation (Richmond Hill hybrid); Arc'teryx Lifecycle (N Vancouver / SFMC depth); JAM CRM AI Enablement (Toronto onsite — prior pattern); OssKin Montreal; Salve.Lab Growth Marketing Manager (~52; 5+ yrs EOR/HR tech); Salvation Army DMC (GTA travel + band starts ~$51k); commonsku Brand Coordinator (junior / pay band starts ~$58k); Directive SEO Future Opening Ottawa twin; Fresh Tracks Marketo Manager stretch.
 
 ## NEW drafts this run (2026-07-29 daily scrape)
 

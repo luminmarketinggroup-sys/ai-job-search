@@ -1,22 +1,20 @@
-# Last automation run — 2026-07-29
+# Last automation run — 2026-07-30
 
 ## Summary
-- **4 new local drafts** (Home Depot South Common Receiving PT, Order Picker PT, Overnight Freight PT; Walmart Parsons Produce Stocker)
-- **3 new career drafts** (Jobgether Senior Digital Marketing Coordinator ~75; MEDIAFORCE CSM ~70; Go Auto Database Marketing Automations ~62)
+- **3 new local drafts** (FedEx Package Handler PT evening; Tile Town Store/Stock Person Argyll South; Princess Auto Merchandiser Nights South)
+- **2 new career drafts** (CCWESTT Marketing and Communications Coordinator ~64; Jacked Factory Marketing Coordinator ~63)
 - **Resend unset** — mailto/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: ChamClad Shipper/Packaging (west-end NW); Brandt Parts (176 St NW); Emco address ambiguous; Atlas Grand Villa dishwasher; Earls store unspecified; Audi RED Dealer Performance (~50); Jobber Marketing Data Manager; Billion Junior; Zen Community Manager; Konstruct Calgary; Jobgether Director Demand Gen / Temp Lifecycle; Flywheel Toronto; SurveyMonkey/Crossing Hurdles SEO Manager twins; TELUS Media Search Analyst; Fort Sask/Leduc Walmart unloaders
+- Skipped: Walmart Capilano Stockperson; Walmart Tamarack Produce; TECO 109 Ave NW; Uline St Albert twins; JC Picker twin; Emco twin; 7-Eleven unspecified; UPS driver; Radius salvage; Atomic Creative Strategist US TZ; Headhunters MM Gibbons; Sia Applied AI Lead; MoveSmart AM; Zoom Toronto; Mazda Richmond Hill; Arc'teryx; JAM Toronto; OssKin Montreal; Salve.Lab 5+ yrs; Salvation Army GTA; commonsku junior; Directive Ottawa twin; Fresh Tracks Marketo
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Home Depot South Common | Receiving Associate PT #7065 | https://ca.linkedin.com/jobs/view/4445762399 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#BZ` |
-| Local | Home Depot South Common | Order Picker PT #7065 | https://ca.linkedin.com/jobs/view/4445750548 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CA` |
-| Local | Home Depot South Common | Overnight Freight Associate PT #7065 | https://ca.linkedin.com/jobs/view/4445752544 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CB` |
-| Local | Walmart Parsons | Produce Stocker | https://ca.linkedin.com/jobs/view/4446391951 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CC` |
-| Career | Jobgether (partner) | Senior Digital Marketing Coordinator | https://ca.linkedin.com/jobs/view/4443293039 | `cv/main_jobgether_sdmc.pdf` · `cover_letters/cover_jobgether_senior_digital_marketing_coordinator.pdf` |
-| Career | MEDIAFORCE | Client Success Manager - Digital Marketing | https://ca.linkedin.com/jobs/view/4442238197 | `cv/main_mediaforce.pdf` · `cover_letters/cover_mediaforce_client_success_manager.pdf` |
-| Career | Go Auto | Senior Database Marketing & Automations Specialist | https://careersen-goauto.icims.com/jobs/24387/senior-database-marketing-%26-automations-specialist-%28go-auto-corporate---mayfield-%2816830-107-ave%29%29/job | `cv/main_go_auto.pdf` · `cover_letters/cover_go_auto_database_marketing_automations.pdf` |
+| Local | FedEx Canada | Package Handler PT (Evening) | https://ca.linkedin.com/jobs/view/4446827804 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CD` |
+| Local | Tile Town Edmonton South | Store/Stock Person | https://ca.linkedin.com/jobs/view/4446129967 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CE` |
+| Local | Princess Auto Edmonton South | Merchandiser Nights | https://ca.linkedin.com/jobs/view/4446555942 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CF` |
+| Career | CCWESTT | Marketing and Communications Coordinator | https://ca.linkedin.com/jobs/view/4445755551 · https://ccwestt.jobboardly.com/ | `cv/main_ccwestt.pdf` · `cover_letters/cover_ccwestt_marketing_communications_coordinator.pdf` |
+| Career | Jacked Factory (Nutra Holdings) | Marketing Coordinator | https://ca.linkedin.com/jobs/view/4445228638 | `cv/main_jacked_factory.pdf` · `cover_letters/cover_jacked_factory_marketing_coordinator.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

@@ -8,6 +8,18 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0aj. CCWESTT — Marketing and Communications Coordinator Remote (NEW 2026-07-30)
+   Portal: https://ccwestt.jobboardly.com/
+   LinkedIn: https://ca.linkedin.com/jobs/view/4445755551
+   Materials: cv/main_ccwestt.pdf + cover_ccwestt_marketing_communications_coordinator.pdf
+   Note: Fit ~64 · $60–70k · fixed-term to 2027-03-31 · closes 2026-08-17 · diploma gap · need cover + resume + candidate Qs + writing samples
+
+0ak. Jacked Factory (Nutra Holdings) — Marketing Coordinator Remote (NEW 2026-07-30)
+   mailto:jobs@nutraholdings.com
+   LinkedIn: https://ca.linkedin.com/jobs/view/4445228638
+   Materials: cv/main_jacked_factory.pdf + cover_jacked_factory_marketing_coordinator.pdf
+   Note: Fit ~63 · remote Canada OK · confirm base ≥ CAD $60k · Resend unset
+
 0ag. Jobgether (partner) — Senior Digital Marketing Coordinator Remote (NEW 2026-07-29)
    LinkedIn: https://ca.linkedin.com/jobs/view/4443293039
    Materials: cv/main_jobgether_sdmc.pdf + cover_jobgether_senior_digital_marketing_coordinator.pdf
@@ -133,6 +145,20 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L85. FedEx Package Handler PT Evening ★ NEW 2026-07-30
+     LinkedIn: https://ca.linkedin.com/jobs/view/4446827804
+     Portal: https://careers.fedex.com/ (Package Handler · Edmonton)
+     Blurb: APPLICATIONS_LOCAL.md#CD · $21/hr evening · confirm facility
+
+L86. Tile Town Store/Stock Person — Edmonton South ★ NEW 2026-07-30
+     LinkedIn: https://ca.linkedin.com/jobs/view/4446129967
+     Address: 8219 Argyll Road NW · blurb APPLICATIONS_LOCAL.md#CE
+
+L87. Princess Auto Merchandiser Nights — Edmonton South ★ NEW 2026-07-30
+     LinkedIn: https://ca.linkedin.com/jobs/view/4446555942
+     Portal: https://www.northstarats.com/Princess-Auto
+     Address: 9835 34 Ave NW · blurb APPLICATIONS_LOCAL.md#CF
+
 L73. Dexter Warehouse Worker — Parsons Rd ★ NEW 2026-07-26 PM
      LinkedIn: https://ca.linkedin.com/jobs/view/warehouse-worker-at-dexter-4440794363
      Address: 3260 Parsons Rd NW, Edmonton, AB T6N 1B3 · blurb APPLICATIONS_LOCAL.md#BO

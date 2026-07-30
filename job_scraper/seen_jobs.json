@@ -2948,6 +2948,402 @@
       "status": "evaluated",
       "tracker_status": "ready_to_submit",
       "notes": "iCIMS portal twin of LinkedIn 4446507638"
+    },
+    "https://ca.linkedin.com/jobs/view/4446827804": {
+      "title": "Package Handler/Non-Driver PT Evening",
+      "company": "FedEx Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446827804",
+      "first_seen": "2026-07-30",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446129967": {
+      "title": "Store/Stock Person",
+      "company": "Tile Town Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4446129967",
+      "first_seen": "2026-07-30",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446555942": {
+      "title": "Merchandiser (nights)",
+      "company": "Princess Auto Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4446555942",
+      "first_seen": "2026-07-30",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445755551": {
+      "title": "Marketing and Communications Coordinator",
+      "company": "CCWESTT",
+      "url": "https://ca.linkedin.com/jobs/view/4445755551",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445228638": {
+      "title": "Marketing Coordinator (Jacked Factory)",
+      "company": "Nutra Holdings",
+      "url": "https://ca.linkedin.com/jobs/view/4445228638",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4443967241": {
+      "title": "Stockperson/Cartpusher Capilano",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4443967241",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4446889160": {
+      "title": "Produce Stocker Tamarack",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446889160",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4434889529": {
+      "title": "Shipping and Receiving",
+      "company": "TECO-Westinghouse",
+      "url": "https://ca.linkedin.com/jobs/view/4434889529",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4446449795": {
+      "title": "Creative Strategist Paid Social",
+      "company": "Atomic - Remote Jobs",
+      "url": "https://ca.linkedin.com/jobs/view/4446449795",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4441635217": {
+      "title": "Marketing Manager",
+      "company": "The Headhunters Recruitment",
+      "url": "https://ca.linkedin.com/jobs/view/4441635217",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4441838672": {
+      "title": "Applied AI Lead - Edmonton",
+      "company": "Sia",
+      "url": "https://ca.linkedin.com/jobs/view/4441838672",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446773090": {
+      "title": "Growth Marketing Manager",
+      "company": "Salve.Lab",
+      "url": "https://ca.linkedin.com/jobs/view/4446773090",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4435639324": {
+      "title": "Picker",
+      "company": "Johnson Controls",
+      "url": "https://ca.linkedin.com/jobs/view/4435639324",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4427311628": {
+      "title": "Picker",
+      "company": "Johnson Controls",
+      "url": "https://ca.linkedin.com/jobs/view/4427311628",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4444575628": {
+      "title": "Warehouse Associate - Days Edmonton",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4444575628",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4444574676": {
+      "title": "Warehouse Associate - Nights Edmonton",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4444574676",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4444583406": {
+      "title": "Warehouse Associate - Days St Albert",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4444583406",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4444571702": {
+      "title": "Warehouse Associate - Days Spruce Grove",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4444571702",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4443625477": {
+      "title": "Material Handler",
+      "company": "Emco Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4443625477",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4446831788": {
+      "title": "Store Crew",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/4446831788",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4445201948": {
+      "title": "Store Crew Sherwood Park",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/4445201948",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4442269053": {
+      "title": "Service Provider",
+      "company": "UPS",
+      "url": "https://ca.linkedin.com/jobs/view/4442269053",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445441592": {
+      "title": "General Laborer I",
+      "company": "Radius Recycling",
+      "url": "https://ca.linkedin.com/jobs/view/4445441592",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4443949759": {
+      "title": "Account Manager",
+      "company": "MoveSmart Rentals",
+      "url": "https://ca.linkedin.com/jobs/view/4443949759",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446868640": {
+      "title": "Growth Marketer",
+      "company": "Zoom",
+      "url": "https://ca.linkedin.com/jobs/view/4446868640",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4434539707": {
+      "title": "Specialist CRM and Marketing Automation",
+      "company": "Mazda Canada Inc",
+      "url": "https://ca.linkedin.com/jobs/view/4434539707",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4442184376": {
+      "title": "Lifecycle Marketing Automations Specialist",
+      "company": "Arc'teryx Equipment",
+      "url": "https://ca.linkedin.com/jobs/view/4442184376",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4444580982": {
+      "title": "AI Enablement Specialist",
+      "company": "JAM CRM",
+      "url": "https://ca.linkedin.com/jobs/view/4444580982",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4442723936": {
+      "title": "Digital Marketing Specialist",
+      "company": "OssKin",
+      "url": "https://ca.linkedin.com/jobs/view/4442723936",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4434012461": {
+      "title": "Lifecycle Marketing Operations Manager",
+      "company": "Fresh Tracks Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4434012461",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4414960680": {
+      "title": "SEO Strategist Future Opening Ottawa",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4414960680",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4444710813": {
+      "title": "Digital Marketing Coordinator Thrift Stores",
+      "company": "The Salvation Army in Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4444710813",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4437340485": {
+      "title": "Brand Coordinator",
+      "company": "commonsku",
+      "url": "https://ca.linkedin.com/jobs/view/4437340485",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445255725": {
+      "title": "Produce Stocker PT DAY Sherwood Park",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4445255725",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4444197967": {
+      "title": "Crew Member",
+      "company": "Chipotle Mexican Grill",
+      "url": "https://ca.linkedin.com/jobs/view/4444197967",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4446067883": {
+      "title": "Operation Supervisor",
+      "company": "Intelcom | Dragonfly",
+      "url": "https://ca.linkedin.com/jobs/view/4446067883",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445451182": {
+      "title": "Inventory Clerk Reed Hycalog",
+      "company": "NOV",
+      "url": "https://ca.linkedin.com/jobs/view/4445451182",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4446827435": {
+      "title": "GENERAL LABOURER",
+      "company": "TownPost",
+      "url": "https://ca.linkedin.com/jobs/view/4446827435",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4446851535": {
+      "title": "Logistics Coordinator",
+      "company": "Cole International",
+      "url": "https://ca.linkedin.com/jobs/view/4446851535",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446146935": {
+      "title": "Area Manager Early Career 2027",
+      "company": "Amazon",
+      "url": "https://ca.linkedin.com/jobs/view/4446146935",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4444186269": {
+      "title": "Site Superintendent Contract",
+      "company": "Tor Properties Management Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4444186269",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445603871": {
+      "title": "Transportation Specialist",
+      "company": "Access Information Management",
+      "url": "https://ca.linkedin.com/jobs/view/4445603871",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446319454": {
+      "title": "Housekeeper",
+      "company": "Aramark Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446319454",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4442149453": {
+      "title": "Digital Marketing Manager",
+      "company": "Scotlynn",
+      "url": "https://ca.linkedin.com/jobs/view/4442149453",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
     }
   },
   "last_run": "2026-07-28"
