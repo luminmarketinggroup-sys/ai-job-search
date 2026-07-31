@@ -8,6 +8,23 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0al. BIS Safety Software — Web Optimization Lead Sherwood Park (NEW 2026-07-31)
+   mailto:careers@bistraining.ca
+   LinkedIn: https://ca.linkedin.com/jobs/view/4447215154
+   Portal: https://trainanddevelop.ca/careers/
+   Materials: cv/main_bis_web_optimization.pdf + cover_bis_web_optimization_lead.pdf
+   Note: Fit ~72 · on-site Sherwood Park · confirm ≥$60k · distinct from prior Marketing Manager email
+
+0am. Jobgether (partner) — Organic Growth Analyst Remote (NEW 2026-07-31)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4443265223
+   Materials: cv/main_jobgether_organic_growth.pdf + cover_jobgether_organic_growth_analyst.pdf
+   Note: Fit ~78 · remote Canada · confirm ≥$60k
+
+0an. Jobgether (partner) — Meta PPC Specialist Remote (NEW 2026-07-31)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4445722680
+   Materials: cv/main_jobgether_meta_ppc.pdf + cover_jobgether_meta_ppc_specialist.pdf
+   Note: Fit ~74 · remote Canada · confirm ≥$60k
+
 0aj. CCWESTT — Marketing and Communications Coordinator Remote (NEW 2026-07-30)
    Portal: https://ccwestt.jobboardly.com/
    LinkedIn: https://ca.linkedin.com/jobs/view/4445755551
@@ -145,6 +162,25 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L88. Johnson Controls Silent-Aire Line Runner Nisku ★ NEW 2026-07-31
+   LinkedIn: https://ca.linkedin.com/jobs/view/4445039153
+   Resume: cv/main_local_edmonton.pdf · Blurb: APPLICATIONS_LOCAL.md#CG
+
+L89. Tiger Calcium Shipper/Receiver Nisku ★ NEW 2026-07-31
+   Portal: https://www.tigercalcium.com/about/careers
+   LinkedIn: https://ca.linkedin.com/jobs/view/4445021887
+   Resume: cv/main_local_edmonton.pdf · Blurb: APPLICATIONS_LOCAL.md#CH
+
+L90. Highlander Vac Shop Hand Leduc ★ NEW 2026-07-31 · EMAIL
+   mailto:lauree@highlandervac.ca
+   LinkedIn: https://ca.linkedin.com/jobs/view/4446786696
+   Resume: cv/main_local_edmonton.pdf · Blurb: APPLICATIONS_LOCAL.md#CI
+
+L91. Walmart OMNI CFA Parsons ★ NEW 2026-07-31
+   LinkedIn: https://ca.linkedin.com/jobs/view/4446337713
+   Address: 1203 Parsons Rd NW T6N 0A9
+   Resume: cv/main_local_edmonton.pdf · Blurb: APPLICATIONS_LOCAL.md#CJ
+
 L85. FedEx Package Handler PT Evening ★ NEW 2026-07-30
      LinkedIn: https://ca.linkedin.com/jobs/view/4446827804
      Portal: https://careers.fedex.com/ (Package Handler · Edmonton)

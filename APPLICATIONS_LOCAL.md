@@ -11,6 +11,36 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CG. Johnson Controls / Silent-Aire — Line Runner / Material Handler (Nisku) ★ NEW · SOUTH · 2026-07-31
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4445039153  
+- **Portal:** https://www.johnsoncontrols.com/careers (search Line Runner · Nisku / Silent-Aire)  
+- **Shift:** Mon–Thu nightshift 6:00 p.m.–5:30 a.m. **or** rotating days 6:00 a.m.–6:00 p.m. (incl. weekends)  
+- **Why:** Nisku Silent-Aire plant · material move / pick-place / receive checks · distinct from prior Shipper/Receiver and Order Picker drafts · ~15–20 min south of 11110 68 Ave NW  
+- **Blurb:**
+> I’m applying for the Line Runner / Material Handler role at Silent-Aire / Johnson Controls in Nisku. I live in south Edmonton (11110 68 Ave NW) and am comfortable with paced plant/warehouse work: loading and unloading, moving materials to point of use, checking counts, and keeping documentation accurate. Available for nightshift or rotating days as posted. Reliable attendance and coachable on safety and inventory SOPs.
+
+### CH. Tiger Calcium — Shipper/Receiver (Nisku) ★ NEW · SOUTH · 2026-07-31
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4445021887  
+- **Portal:** https://www.tigercalcium.com/about/careers  
+- **Notes:** Class 5 licence required · forklift/skid steer experience an asset · stretch on 2 yrs warehouse ask  
+- **Why:** Nisku shipper/receiver · parts run + dock + tank farm support · south industrial corridor  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Tiger Calcium in Nisku. I live in south Edmonton (11110 68 Ave NW), hold a Class 5 licence, and am comfortable with physical shipping/receiving work: loading/unloading, put-away accuracy, paperwork, and keeping a clean safe yard/warehouse. Willing to train or refresh forklift/skid steer as required. Ready for full-time hours and PPE standards as posted.
+
+### CI. Highlander Vac — Shop Hand (Leduc) ★ NEW · SOUTH · 2026-07-31 · EMAIL
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446786696  
+- **Email:** lauree@highlandervac.ca  
+- **Why:** Leduc hydrovac parts shop · receive / stock / pick-pack · Class 5 · train-friendly · not Southgate  
+- **Blurb:**
+> I’m applying for the Shop Hand role at Highlander Vac in Leduc. I live in south Edmonton (11110 68 Ave NW), have a Class 5 licence, and am comfortable with receiving, stocking, pick/pack, and keeping a shop/warehouse organized and safe. Reliable, coachable, and ready for full-time hours. Resume attached.
+
+### CJ. Walmart — OMNI Customer Fulfillment Associate (1203 Parsons Rd NW) ★ NEW · SOUTH · 2026-07-31
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446337713  
+- **Primary location (verified on posting):** 1203 Parsons Rd NW, Edmonton, AB T6N 0A9  
+- **Why:** South Common / Parsons corridor · pick/pack/dispense online orders · same store as prior Claims/Produce drafts · distinct OMNI role · ~10–15 min  
+- **Blurb:**
+> I’m applying for the OMNI Customer Fulfillment Associate role at Walmart Parsons (1203 Parsons Rd NW). I live nearby at 11110 68 Ave NW and am comfortable with paced pick/pack accuracy, scanning, and keeping a clean organized fulfillment area. Flexible for evenings, weekends, and holidays as posted.
+
 ### CD. FedEx Canada — Package Handler PT (Evening) ★ NEW · SOUTH · 2026-07-30
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4446827804  
 - **Portal:** https://careers.fedex.com/ (search Package Handler · Edmonton)  

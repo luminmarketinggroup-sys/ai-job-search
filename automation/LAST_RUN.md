@@ -1,20 +1,22 @@
-# Last automation run — 2026-07-30
+# Last automation run — 2026-07-31
 
 ## Summary
-- **3 new local drafts** (FedEx Package Handler PT evening; Tile Town Store/Stock Person Argyll South; Princess Auto Merchandiser Nights South)
-- **2 new career drafts** (CCWESTT Marketing and Communications Coordinator ~64; Jacked Factory Marketing Coordinator ~63)
+- **4 new local drafts** (JC Silent-Aire Line Runner Nisku; Tiger Calcium Shipper/Receiver Nisku; Highlander Vac Shop Hand Leduc mailto; Walmart OMNI CFA Parsons)
+- **3 new career drafts** (BIS Web Optimization Lead ~72; Jobgether Organic Growth Analyst ~78; Jobgether Meta PPC Specialist ~74)
 - **Resend unset** — mailto/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: Walmart Capilano Stockperson; Walmart Tamarack Produce; TECO 109 Ave NW; Uline St Albert twins; JC Picker twin; Emco twin; 7-Eleven unspecified; UPS driver; Radius salvage; Atomic Creative Strategist US TZ; Headhunters MM Gibbons; Sia Applied AI Lead; MoveSmart AM; Zoom Toronto; Mazda Richmond Hill; Arc'teryx; JAM Toronto; OssKin Montreal; Salve.Lab 5+ yrs; Salvation Army GTA; commonsku junior; Directive Ottawa twin; Fresh Tracks Marketo
+- Skipped: AMA Coordinator/Specialist LinkedIn twins; Trail Warehouse twin; Walmart 127 St / Tamarack overnight; Walmart Claims Parsons twin; Home Depot French receiving twin; NACG Acheson; ChamClad/TECO/Brandt NW; Sobeys Manning coffee; Freshslice unspecified; UFA unclear/filled pattern; Randstad forklift hard-req; Aisimpro PT+degree; Jobgether WordPress $45–60k; Performance/Paid Media Manager stretch; Crossing Hurdles gig; Hire With Near LATAM; Twine niche; Toronto SEO; Demand Gen leadership; TGS aggregator-only
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | FedEx Canada | Package Handler PT (Evening) | https://ca.linkedin.com/jobs/view/4446827804 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CD` |
-| Local | Tile Town Edmonton South | Store/Stock Person | https://ca.linkedin.com/jobs/view/4446129967 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CE` |
-| Local | Princess Auto Edmonton South | Merchandiser Nights | https://ca.linkedin.com/jobs/view/4446555942 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CF` |
-| Career | CCWESTT | Marketing and Communications Coordinator | https://ca.linkedin.com/jobs/view/4445755551 · https://ccwestt.jobboardly.com/ | `cv/main_ccwestt.pdf` · `cover_letters/cover_ccwestt_marketing_communications_coordinator.pdf` |
-| Career | Jacked Factory (Nutra Holdings) | Marketing Coordinator | https://ca.linkedin.com/jobs/view/4445228638 | `cv/main_jacked_factory.pdf` · `cover_letters/cover_jacked_factory_marketing_coordinator.pdf` |
+| Local | Johnson Controls / Silent-Aire | Line Runner / Material Handler (Nisku) | https://ca.linkedin.com/jobs/view/4445039153 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CG` |
+| Local | Tiger Calcium | Shipper/Receiver (Nisku) | https://ca.linkedin.com/jobs/view/4445021887 · https://www.tigercalcium.com/about/careers | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CH` |
+| Local | Highlander Vac | Shop Hand (Leduc) | https://ca.linkedin.com/jobs/view/4446786696 · mailto:lauree@highlandervac.ca | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CI` |
+| Local | Walmart Canada | OMNI Customer Fulfillment Associate (Parsons) | https://ca.linkedin.com/jobs/view/4446337713 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CJ` |
+| Career | BIS Safety Software | Web Optimization Lead | https://ca.linkedin.com/jobs/view/4447215154 | `cv/main_bis_web_optimization.pdf` · `cover_letters/cover_bis_web_optimization_lead.pdf` |
+| Career | Jobgether (partner) | Organic Growth Analyst | https://ca.linkedin.com/jobs/view/4443265223 | `cv/main_jobgether_organic_growth.pdf` · `cover_letters/cover_jobgether_organic_growth_analyst.pdf` |
+| Career | Jobgether (partner) | Meta PPC Specialist | https://ca.linkedin.com/jobs/view/4445722680 | `cv/main_jobgether_meta_ppc.pdf` · `cover_letters/cover_jobgether_meta_ppc_specialist.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

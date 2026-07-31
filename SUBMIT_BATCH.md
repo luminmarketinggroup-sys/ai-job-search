@@ -17,6 +17,10 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CG | **JC Silent-Aire Line Runner Nisku** | **NEW 07-31** · material handler · night or rotating · distinct from shipper/picker |
+| CH | **Tiger Calcium Shipper/Receiver Nisku** | **NEW 07-31** · portal tigercalcium.com/careers · Class 5 |
+| CI | **Highlander Vac Shop Hand Leduc** | **NEW 07-31** · **EMAIL** lauree@highlandervac.ca · receive/stock |
+| CJ | **Walmart OMNI CFA Parsons** | **NEW 07-31** · 1203 Parsons Rd NW · pick/pack online · ~10–15 min |
 | CD | **FedEx Package Handler PT Evening** | **NEW 07-30** · $21/hr evening PH · SE industrial · distinct from #L/#BX |
 | CE | **Tile Town Store/Stock — Edmonton South Argyll** | **NEW 07-30** · 8219 Argyll Rd · stock/pull/load · ~15 min |
 | CF | **Princess Auto Merchandiser Nights — South (9835 34 Ave)** | **NEW 07-30** · 6pm–2:30am · distinct from #BL/#BM |

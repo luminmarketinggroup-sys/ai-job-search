@@ -3344,6 +3344,359 @@
       "fit": "medium",
       "status": "skipped",
       "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4445039153": {
+      "title": "Line Runner / Material Handler",
+      "company": "Johnson Controls / Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/4445039153",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445021887": {
+      "title": "Shipper/Receiver",
+      "company": "Tiger Calcium Services Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4445021887",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446786696": {
+      "title": "Shop Hand",
+      "company": "Highlander Vac Supply & Service Inc",
+      "url": "https://ca.linkedin.com/jobs/view/4446786696",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446337713": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446337713",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4447215154": {
+      "title": "Web Optimization Lead",
+      "company": "BIS Safety Software",
+      "url": "https://ca.linkedin.com/jobs/view/4447215154",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4443265223": {
+      "title": "Organic Growth Analyst",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4443265223",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4445722680": {
+      "title": "Meta PPC Specialist",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4445722680",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4446783859": {
+      "title": "Marketing Coordinator, Member Rewards (14 Month Position)",
+      "company": "AMA - Alberta Motor Association",
+      "url": "https://ca.linkedin.com/jobs/view/4446783859",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "twin of prior AMA coordinator draft"
+    },
+    "https://ca.linkedin.com/jobs/view/4446779879": {
+      "title": "Marketing Specialist, Member Rewards (12 Month Position)",
+      "company": "AMA - Alberta Motor Association",
+      "url": "https://ca.linkedin.com/jobs/view/4446779879",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "twin of prior AMA specialist draft"
+    },
+    "https://ca.linkedin.com/jobs/view/4228993237": {
+      "title": "Warehouse Associate (Edmonton South)",
+      "company": "Trail Appliances AB/SK",
+      "url": "https://ca.linkedin.com/jobs/view/4228993237",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "twin of APPLICATIONS_LOCAL#AZ"
+    },
+    "https://ca.linkedin.com/jobs/view/4447058416": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4447058416",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "16940 127 St NW NW \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/4447294765": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4447294765",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "16940 127 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4447044511": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4447044511",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "775 Tamarack Way"
+    },
+    "https://ca.linkedin.com/jobs/view/4446826536": {
+      "title": "Claims Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446826536",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "Parsons Claims twin of prior draft"
+    },
+    "https://ca.linkedin.com/jobs/view/4445763394": {
+      "title": "Associ\u00e9, R\u00e9ception",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4445763394",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "French twin of South Common receiving"
+    },
+    "https://ca.linkedin.com/jobs/view/4444180137": {
+      "title": "Warehouse Operator (Acheson)",
+      "company": "North American Construction Group",
+      "url": "https://ca.linkedin.com/jobs/view/4444180137",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Acheson west"
+    },
+    "https://ca.linkedin.com/jobs/view/4446891087": {
+      "title": "Stock Unloader Department Manager",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446891087",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Sherwood Park Emerald Dr"
+    },
+    "https://ca.linkedin.com/jobs/view/4447068894": {
+      "title": "Coffee Bar Server",
+      "company": "Sobeys",
+      "url": "https://ca.linkedin.com/jobs/view/4447068894",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Manning Crossing NE cafe"
+    },
+    "https://ca.linkedin.com/jobs/view/4447500301": {
+      "title": "Food counter attendant",
+      "company": "Freshslice Pizza",
+      "url": "https://ca.linkedin.com/jobs/view/4447500301",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "store unspecified Edmonton PF"
+    },
+    "https://ca.linkedin.com/jobs/view/4445409028": {
+      "title": "Warehouse Shipper/Receiver",
+      "company": "UFA",
+      "url": "https://ca.linkedin.com/jobs/view/4445409028",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "prior filled pattern / address unclear"
+    },
+    "https://www.randstad.ca/jobs/shipper-receiver-forklift-operator_edmonton_47199831": {
+      "title": "Shipper Receiver - Forklift Operator",
+      "company": "Randstad Canada",
+      "url": "https://www.randstad.ca/jobs/shipper-receiver-forklift-operator_edmonton_47199831/",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "valid forklift ticket hard-req; address unknown"
+    },
+    "https://ca.linkedin.com/jobs/view/4446403529": {
+      "title": "Digital Marketing Coordinator",
+      "company": "Aisimpro",
+      "url": "https://ca.linkedin.com/jobs/view/4446403529",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "~55 PT 20-40h + bachelor"
+    },
+    "https://ca.linkedin.com/jobs/view/4444528639": {
+      "title": "Digital Marketing Specialist / WordPress Developer",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4444528639",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "$45-60k under floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4445740030": {
+      "title": "Performance Marketing Manager",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4445740030",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "leadership/agency ownership stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4443279604": {
+      "title": "Paid Media Manager",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4443279604",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4437588084": {
+      "title": "Marketing Operations Manager | $40/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://ca.linkedin.com/jobs/view/4437588084",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "AI training data gig"
+    },
+    "https://ca.linkedin.com/jobs/view/4447062024": {
+      "title": "Search Engine Optimization Specialist",
+      "company": "Hire With Near",
+      "url": "https://ca.linkedin.com/jobs/view/4447062024",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "LATAM talent for US clients"
+    },
+    "https://ca.linkedin.com/jobs/view/4434825985": {
+      "title": "Remote Digital Marketing \u2013 PPC (Mid-Senior Contract)",
+      "company": "Twine",
+      "url": "https://ca.linkedin.com/jobs/view/4434825985",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "mortgage Costa Rica niche"
+    },
+    "https://ca.linkedin.com/jobs/view/4446900340": {
+      "title": "Analyst, SEO",
+      "company": "Dentalcorp",
+      "url": "https://ca.linkedin.com/jobs/view/4446900340",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4446872896": {
+      "title": "SEO Content Marketer & Writer",
+      "company": "Feathery",
+      "url": "https://ca.linkedin.com/jobs/view/4446872896",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4444539403": {
+      "title": "Demand Generation Manager",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4444539403",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4446503951": {
+      "title": "Demand Generation Manager - B2B",
+      "company": "The Sales Factory",
+      "url": "https://ca.linkedin.com/jobs/view/4446503951",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4445041007": {
+      "title": "Sr. Growth Marketing Strategist",
+      "company": "Plastic Bank",
+      "url": "https://ca.linkedin.com/jobs/view/4445041007",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "senior growth stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4446367965": {
+      "title": "Installation Coordinator (Edmonton South)",
+      "company": "Trail Appliances AB/SK",
+      "url": "https://ca.linkedin.com/jobs/view/4446367965",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "office scheduling not warehouse/career $60k"
+    },
+    "https://ca.linkedin.com/jobs/view/4443611715": {
+      "title": "Communications Specialist",
+      "company": "Apex Utilities Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4443611715",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "utility communications stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4427791284": {
+      "title": "Manager, Brand & Communications",
+      "company": "Clark Builders",
+      "url": "https://ca.linkedin.com/jobs/view/4427791284",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "brand manager leadership"
     }
   },
   "last_run": "2026-07-28"

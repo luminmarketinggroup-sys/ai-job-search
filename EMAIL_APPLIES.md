@@ -54,6 +54,15 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
+## Pending mailto (Resend unset 2026-07-31)
+
+| # | Company | Role | Mailto |
+|---|---------|------|--------|
+| M1 | Highlander Vac | Shop Hand (Leduc) | `mailto:lauree@highlandervac.ca?subject=Application%3A%20Shop%20Hand%20-%20Dylan%20Michael` |
+| M2 | BIS Safety Software | Web Optimization Lead | `mailto:careers@bistraining.ca?subject=Application%3A%20Web%20Optimization%20Lead%20-%20Dylan%20Michael` |
+
+Attach: local resume for Highlander; `cv/main_bis_web_optimization.pdf` + cover for BIS.
+
 ## Pending mailto (Resend unset 2026-07-30)
 
 | # | Company | To | Role | Status |

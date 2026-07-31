@@ -1,9 +1,23 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT (+ optional form follow-ups). **New email this run:** Jacked Factory / Nutra Holdings (Resend unset → mailto jobs@).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). **New email this run:** Highlander Vac Shop Hand (local) mailto lauree@; BIS careers@ mailto (Resend unset).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-07-31 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C38 | BIS Safety Software | Web Optimization Lead | Good (~72) | **PORTAL / mailto** careers@bistraining.ca · LinkedIn https://ca.linkedin.com/jobs/view/4447215154 · https://trainanddevelop.ca/careers/ | `cv/main_bis_web_optimization.pdf` | `cover_letters/cover_bis_web_optimization_lead.pdf` | Sherwood Park on-site; SEO + WordPress + AEO/GEO + landing CRO match; web-team lead / proprietary eComm checkout depth still growing; confirm base ≥ CAD $60k; prior Marketing Manager email already sent (different role) |
+| C39 | Jobgether (partner) | Organic Growth Analyst | High (~78) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4443265223 | `cv/main_jobgether_organic_growth.pdf` | `cover_letters/cover_jobgether_organic_growth_analyst.pdf` | Remote Canada; SEO research + GA4/GSC match; Ahrefs/Looker bench varies; confirm base ≥ CAD $60k |
+| C40 | Jobgether (partner) | Meta PPC Specialist | High (~74) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4445722680 | `cv/main_jobgether_meta_ppc.pdf` | `cover_letters/cover_jobgether_meta_ppc_specialist.pdf` | Remote Canada; Meta Ads ownership match; multi-vertical media-buyer scale still growing; confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):**
+- BIS Web Optimization Lead: `mailto:careers@bistraining.ca?subject=Application%3A%20Web%20Optimization%20Lead%20-%20Dylan%20Michael`
+- Highlander Vac Shop Hand (local): `mailto:lauree@highlandervac.ca?subject=Application%3A%20Shop%20Hand%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): AMA Marketing Coordinator / Specialist LinkedIn twins (already drafted packs); Trail Appliances Warehouse Associate twin (already #AZ); Walmart Stock Unloader / Overnight 16940 127 St NW (NW — not corridor); Walmart Overnight Tamarack; Walmart Claims Parsons twin of prior Claims draft; Home Depot Associé Réception French twin; NACG Warehouse Acheson (west); ChamClad / TECO / Brandt NW; Sobeys Coffee Manning Crossing (NE cafe); Freshslice food counter store unspecified; UFA Shipper/Receiver (prior filled pattern / address unclear); Randstad Shipper forklift ticket hard-req + address unknown; Aisimpro Digital Marketing Coordinator (~55; PT 20–40h + bachelor’s); Jobgether DMS/WordPress ($45–60k under floor); Jobgether Performance/Paid Media Manager leadership stretch; Crossing Hurdles AI-training gig; Hire With Near LATAM talent pipeline; Twine mortgage PPC niche; Dentalcorp SEO Toronto; Feathery Toronto; Demand Gen Manager stretch roles; TGS Digital Marketing Coordinator (aggregator only, no live LinkedIn/apply path verified this run).
 
 ## NEW drafts this run (2026-07-30 daily scrape)
 
