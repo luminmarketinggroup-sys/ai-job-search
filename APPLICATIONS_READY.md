@@ -1,9 +1,20 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). **New email this run:** Highlander Vac Shop Hand (local) mailto lauree@; BIS careers@ mailto (Resend unset).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only left:** AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC, Clever SEM Coordinator, Ignite PPC Google Ads AM (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-01 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C41 | Clever Digital Marketing | SEM Coordinator | High (~72) | **PORTAL** https://careers.cleverdigitalmarketing.ca/ · LinkedIn https://ca.linkedin.com/jobs/view/4436234342 | `cv/main_clever_sem_coordinator.pdf` | `cover_letters/cover_clever_sem_coordinator.pdf` | Remote Canada; $58–65k (target ≥$60k); Google Ads Search + cert match; $50k+/mo home-improvement book size still growing vs 2 SMB accounts |
+| C42 | Ignite PPC | Google Ads Account Manager | Good (~66) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4447166905 | `cv/main_ignite_ppc.pdf` | `cover_letters/cover_ignite_ppc_google_ads_am.pdf` | Remote; Google Ads ownership match; 15–16 REI account book + Canada eligibility / CAD≥$60k must confirm; US niche agency (not Ignite Visibility) |
+
+**Mailto (Resend unset this run):** none verified for Clever / Ignite — use careers portals / LinkedIn Easy Apply.
+
+Skipped this run (fit/location/pay): JC Silent-Aire Kitter twin (already #BG); Motion Material Handler twin (already #AA); Walmart Overnight Currents twin (already #BJ/L68); GLBC Forklift (3–5 yrs ticket hard-req); East Penn warehouse 18543 104 Ave NW (NW); 7-Eleven DC 14434 157 Ave NW (north); Walmart Unloader 16940 127 St / T5Y (NW/NE); Uline St Albert nights twin; Fairmont Macdonald Purchasing (downtown); Bass Pro north T5Y if offered; Clever SEM Manager (~55; $250k/mo budget ask); BWZ Off-Page SEO Manager twins (~48; link-acquisition specialist); VERB Generative Search Strategist (~50; 5+ yrs GEO/SME); 1UP Digital AM (BC-only); OffSeq Baltics €1.5k; ICUC social $15–19/hr; AirAdvisor content 3–5 yrs; Aptum Toronto; Fable Senior Campaign Manager stretch; Hunter Regional Sales & Marketing Manager (hotel RevPAR leadership); Aramark “Marketing Intern” (events set-up, not marketing); Home Depot Head Cashier South Common (retail lead, lower priority vs warehouse this run).
 
 ## NEW drafts this run (2026-07-31 daily scrape)
 

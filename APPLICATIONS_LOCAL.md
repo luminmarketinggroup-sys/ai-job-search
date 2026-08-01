@@ -11,6 +11,30 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CK. UPS — Preloader (Edmonton) ★ NEW · CLOSEST · 2026-08-01
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4438398419  
+- **Portal:** https://www.jobs-ups.com/ (search Preloader · Edmonton)  
+- **Address:** Confirm facility at apply — **prefer Edmonton South 6979 68 Ave NW** (on 68 Ave near home); North is 11204 151 St NW (skip if only North offered)  
+- **Why:** Package load/unload/scan/sort · PT early window · 68 Ave South facility is closest corridor fit · not Southgate  
+- **Blurb:**
+> I’m applying for the Preloader role at UPS in Edmonton. I live at 11110 68 Ave NW and am comfortable with paced warehouse work: loading and unloading packages, scanning, sorting, and lifting up to the posted limits. Prefer the Edmonton South facility on 68 Ave if available. Reliable attendance and coachable on UPS methods; available for flexible early shifts Monday–Friday as posted.
+
+### CL. Walmart — Stock Unloader Associate Part-Time (110 Watt Common SW) ★ NEW · SOUTH · 2026-08-01
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4447710223  
+- **Primary location (verified on posting):** 110 Watt Common SW, Edmonton, AB T6X 1X2  
+- **Pay:** from ~$16/hr · unload trailers / process merchandise / move pallets  
+- **Why:** Ellerslie / Watt Common south corridor · ~12–15 min from 11110 68 Ave NW · distinct from prior Parsons OMNI/Produce drafts · not Southgate  
+- **Blurb:**
+> I’m applying for the part-time Stock Unloader Associate role at Walmart Watt Common (110 Watt Common SW). I live nearby at 11110 68 Ave NW and am comfortable with physical receiving work: unloading trailers, moving pallets, stocking support, and keeping a clean safe dock. Flexible for evenings, weekends, and holidays as posted.
+
+### CM. Bass Pro Shops / Cabela’s — Receiving Outfitter (Currents / South Edmonton) ★ NEW · SOUTH · 2026-08-01
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4447236685  
+- **Address (south store):** 6150 Currents Drive NW, Edmonton, AB T6W 0L7 (confirm Currents / former Cabela’s at apply; north T5Y store is out of corridor)  
+- **Notes:** Steel-toe required · PAL license must be obtainable · BOH receive / stock / replenish  
+- **Why:** South Currents receiving / back-room · ~12–15 min · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Receiving Outfitter role at Bass Pro Shops / Cabela’s South Edmonton (Currents Drive). I live nearby at 11110 68 Ave NW and am comfortable with backend receiving: counting packages, verifying packing slips, stocking from back room to floor, and keeping the warehouse area organized. Steel-toe ready; willing to complete PAL licensing if required. Reliable for paced physical shifts.
+
 ### CG. Johnson Controls / Silent-Aire — Line Runner / Material Handler (Nisku) ★ NEW · SOUTH · 2026-07-31
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4445039153  
 - **Portal:** https://www.johnsoncontrols.com/careers (search Line Runner · Nisku / Silent-Aire)  

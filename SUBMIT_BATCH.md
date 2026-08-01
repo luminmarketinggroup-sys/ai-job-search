@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CK | **UPS Preloader Edmonton** | **NEW 08-01** · prefer South 6979 68 Ave · closest corridor |
+| CL | **Walmart Stock Unloader PT — Watt Common** | **NEW 08-01** · 110 Watt Common SW · unload/receive · south |
+| CM | **Bass Pro Receiving Outfitter — Currents** | **NEW 08-01** · 6150 Currents Dr · BOH receive/stock · PAL note |
 | CG | **JC Silent-Aire Line Runner Nisku** | **NEW 07-31** · material handler · night or rotating · distinct from shipper/picker |
 | CH | **Tiger Calcium Shipper/Receiver Nisku** | **NEW 07-31** · portal tigercalcium.com/careers · Class 5 |
 | CI | **Highlander Vac Shop Hand Leduc** | **NEW 07-31** · **EMAIL** lauree@highlandervac.ca · receive/stock |

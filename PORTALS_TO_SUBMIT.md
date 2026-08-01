@@ -8,6 +8,17 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0ao. Clever Digital Marketing — SEM Coordinator Remote Canada (NEW 2026-08-01)
+   Portal: https://careers.cleverdigitalmarketing.ca/
+   LinkedIn: https://ca.linkedin.com/jobs/view/4436234342
+   Materials: cv/main_clever_sem_coordinator.pdf + cover_clever_sem_coordinator.pdf
+   Note: Fit ~72 · $58–65k · target ≥$60k · Google Ads Search match · home-improvement $50k+/mo book still growing
+
+0ap. Ignite PPC — Google Ads Account Manager Remote (NEW 2026-08-01)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4447166905
+   Materials: cv/main_ignite_ppc.pdf + cover_ignite_ppc_google_ads_am.pdf
+   Note: Fit ~66 · confirm Canada remote + CAD≥$60k · 15–16 REI accounts stretch · not Ignite Visibility
+
 0al. BIS Safety Software — Web Optimization Lead Sherwood Park (NEW 2026-07-31)
    mailto:careers@bistraining.ca
    LinkedIn: https://ca.linkedin.com/jobs/view/4447215154
@@ -162,6 +173,19 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L92. UPS Preloader Edmonton ★ NEW 2026-08-01 · CLOSEST
+   LinkedIn: https://ca.linkedin.com/jobs/view/4438398419
+   Portal: https://www.jobs-ups.com/ (Preloader · Edmonton)
+   Prefer South 6979 68 Ave NW · Blurb: APPLICATIONS_LOCAL.md#CK
+
+L93. Walmart Stock Unloader PT — Watt Common ★ NEW 2026-08-01
+   LinkedIn: https://ca.linkedin.com/jobs/view/4447710223
+   Address: 110 Watt Common SW T6X 1X2 · Blurb: APPLICATIONS_LOCAL.md#CL
+
+L94. Bass Pro / Cabela’s Receiving Outfitter — Currents ★ NEW 2026-08-01
+   LinkedIn: https://ca.linkedin.com/jobs/view/4447236685
+   Address: 6150 Currents Dr NW · steel-toe · PAL obtainable · Blurb: APPLICATIONS_LOCAL.md#CM
+
 L88. Johnson Controls Silent-Aire Line Runner Nisku ★ NEW 2026-07-31
    LinkedIn: https://ca.linkedin.com/jobs/view/4445039153
    Resume: cv/main_local_edmonton.pdf · Blurb: APPLICATIONS_LOCAL.md#CG

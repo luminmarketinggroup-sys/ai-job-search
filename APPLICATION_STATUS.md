@@ -57,6 +57,13 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L92 | **UPS** | Preloader | **NEW 08-01** · prefer South 6979 68 Ave · closest | https://ca.linkedin.com/jobs/view/4438398419 |
+| L93 | **Walmart Watt Common** | Stock Unloader Associate PT | **NEW 08-01** · 110 Watt Common SW · unload | https://ca.linkedin.com/jobs/view/4447710223 |
+| L94 | **Bass Pro / Cabela’s Currents** | Receiving Outfitter | **NEW 08-01** · 6150 Currents Dr · BOH · PAL note | https://ca.linkedin.com/jobs/view/4447236685 |
+| L88 | **JC Silent-Aire** | Line Runner / Material Handler | **NEW 07-31** · Nisku · night or rotating | https://ca.linkedin.com/jobs/view/4445039153 |
+| L89 | **Tiger Calcium** | Shipper/Receiver | **NEW 07-31** · Nisku · Class 5 | https://ca.linkedin.com/jobs/view/4445021887 |
+| L90 | **Highlander Vac** | Shop Hand | **NEW 07-31** · Leduc · mailto lauree@ | https://ca.linkedin.com/jobs/view/4446786696 |
+| L91 | **Walmart Parsons** | OMNI Customer Fulfillment Associate | **NEW 07-31** · 1203 Parsons Rd NW | https://ca.linkedin.com/jobs/view/4446337713 |
 | L85 | **FedEx Canada** | Package Handler PT Evening | **NEW 07-30** · $21/hr evening · SE industrial · ≠ #L/#BX | https://ca.linkedin.com/jobs/view/4446827804 |
 | L86 | **Tile Town Edmonton South** | Store/Stock Person | **NEW 07-30** · 8219 Argyll Rd · stock/pull/load | https://ca.linkedin.com/jobs/view/4446129967 |
 | L87 | **Princess Auto South** | Merchandiser Nights | **NEW 07-30** · 9835 34 Ave · 6pm–2:30am · ≠ #BL/#BM | https://ca.linkedin.com/jobs/view/4446555942 |
@@ -161,6 +168,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
+| C41 | Clever Digital Marketing | SEM Coordinator | `main_clever_sem_coordinator` + cover · Fit ~72 · portal careers.cleverdigitalmarketing.ca | https://ca.linkedin.com/jobs/view/4436234342 |
+| C42 | Ignite PPC | Google Ads Account Manager | `main_ignite_ppc` + cover · Fit ~66 · confirm Canada + CAD≥$60k | https://ca.linkedin.com/jobs/view/4447166905 |
 | C2 | Keysight | SEO & GEO Specialist | `main_keysight` + cover | https://ca.linkedin.com/jobs/view/4437698032 |
 | C7 | Elevation Capital | Applied AI Marketing Engineer | `main_elevation_capital` + cover | https://ca.linkedin.com/jobs/view/4440462335 |
 | C8 | AutoCanada | Marketing Account Manager | `main_autocanada` + cover | https://ca.linkedin.com/jobs/view/4432105251 |
@@ -230,6 +239,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-08-01 daily run:** local CK–CM (UPS Preloader prefer 68 Ave South, Walmart Stock Unloader Watt Common, Bass Pro Receiving Outfitter Currents); career C41–C42 (Clever SEM Coordinator ~72, Ignite PPC Google Ads AM ~66). Resend unset — portal/checklist only. Skipped JC Kitter/Motion twins; Walmart Overnight Currents twin; GLBC forklift hard-req; East Penn/7-Eleven NW; Clever SEM Manager $250k/mo stretch; BWZ off-page link-building; VERB 5+ yrs GEO.
 - **2026-07-31 daily run:** local CG–CJ (JC Silent-Aire Line Runner Nisku, Tiger Calcium Shipper/Receiver Nisku, Highlander Vac Shop Hand Leduc mailto lauree@, Walmart OMNI CFA Parsons); career C38–C40 (BIS Web Optimization Lead ~72, Jobgether Organic Growth Analyst ~78, Jobgether Meta PPC Specialist ~74). Resend unset — mailto/checklist only. Skipped AMA twins; Walmart 127 St/Tamarack; Acheson/NW warehouse; Aisimpro PT; Jobgether $45–60k WordPress; Demand Gen leadership stretch.
 - **2026-07-30 daily run:** local CD–CF (FedEx Package Handler PT evening, Tile Town Store/Stock Argyll South, Princess Auto Merchandiser Nights South); career C36–C37 (CCWESTT Marketing Communications Coordinator ~64, Jacked Factory Marketing Coordinator ~63 mailto jobs@). Resend unset — portal/checklist only. Skipped Capilano/Tamarack Walmart; TECO NW; Atomic US TZ; Headhunters/Sia/Salve stretch; Toronto/Montreal onsite.
 - **2026-07-29 daily run:** local BZ–CC (Home Depot South Common Receiving PT / Order Picker PT / Overnight Freight PT, Walmart Parsons Produce Stocker); career C33–C35 (Jobgether Senior Digital Marketing Coordinator ~75, MEDIAFORCE CSM ~70, Go Auto Database Marketing Automations ~62). Resend unset — portal/checklist only. Skipped ChamClad/Brandt NW; Audi RED liaison; Jobber data manager; Calgary Konstruct; leadership/temp Jobgether; Toronto Flywheel.
