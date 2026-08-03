@@ -57,6 +57,9 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L95 | **NWT Group Nisku** | Shipper/Receiver | **NEW 08-03** · Bay 2 1906 4 St · mailto info@ | https://ca.linkedin.com/jobs/view/4226521628 |
+| L96 | **Reliance Coronet** | Warehouse Helper/Runner | **NEW 08-03** · 8545 Coronet Rd · ~10–12 min | https://ca.linkedin.com/jobs/view/4211114005 |
+| L97 | **Stream-Flo** | Shipper Receiver Warehouse | **NEW 08-03** · SE · ≠ Material Handler #AB | https://ca.linkedin.com/jobs/view/4215018618 |
 | L92 | **UPS** | Preloader | **NEW 08-01** · prefer South 6979 68 Ave · closest | https://ca.linkedin.com/jobs/view/4438398419 |
 | L93 | **Walmart Watt Common** | Stock Unloader Associate PT | **NEW 08-01** · 110 Watt Common SW · unload | https://ca.linkedin.com/jobs/view/4447710223 |
 | L94 | **Bass Pro / Cabela’s Currents** | Receiving Outfitter | **NEW 08-01** · 6150 Currents Dr · BOH · PAL note | https://ca.linkedin.com/jobs/view/4447236685 |
@@ -168,6 +171,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
+| C43 | White Bay (client agency) | Paid Media Strategist | `main_white_bay` + cover · Fit ~65 · remote $70–90k · 5yr/programmatic gaps | https://ca.linkedin.com/jobs/view/4435486005 |
 | C41 | Clever Digital Marketing | SEM Coordinator | `main_clever_sem_coordinator` + cover · Fit ~72 · portal careers.cleverdigitalmarketing.ca | https://ca.linkedin.com/jobs/view/4436234342 |
 | C42 | Ignite PPC | Google Ads Account Manager | `main_ignite_ppc` + cover · Fit ~66 · confirm Canada + CAD≥$60k | https://ca.linkedin.com/jobs/view/4447166905 |
 | C2 | Keysight | SEO & GEO Specialist | `main_keysight` + cover | https://ca.linkedin.com/jobs/view/4437698032 |
@@ -239,6 +243,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-08-03 daily run:** local CN–CP (NWT Shipper/Receiver Nisku mailto info@, Reliance Warehouse Helper Coronet, Stream-Flo Shipper Receiver SE); career C43 (White Bay Paid Media Strategist ~65). Resend unset — mailto/checklist only. Skipped UPS/Princess Auto twins; Metrie/Cintas/Telecon NW; Grainger forklift hard-req; StudioFlow Victoria office; HostGenius/Prosana/Fable stretch; Gogh ERP demand gen; Cosmo5 Montreal technical SEO.
 - **2026-08-01 daily run:** local CK–CM (UPS Preloader prefer 68 Ave South, Walmart Stock Unloader Watt Common, Bass Pro Receiving Outfitter Currents); career C41–C42 (Clever SEM Coordinator ~72, Ignite PPC Google Ads AM ~66). Resend unset — portal/checklist only. Skipped JC Kitter/Motion twins; Walmart Overnight Currents twin; GLBC forklift hard-req; East Penn/7-Eleven NW; Clever SEM Manager $250k/mo stretch; BWZ off-page link-building; VERB 5+ yrs GEO.
 - **2026-07-31 daily run:** local CG–CJ (JC Silent-Aire Line Runner Nisku, Tiger Calcium Shipper/Receiver Nisku, Highlander Vac Shop Hand Leduc mailto lauree@, Walmart OMNI CFA Parsons); career C38–C40 (BIS Web Optimization Lead ~72, Jobgether Organic Growth Analyst ~78, Jobgether Meta PPC Specialist ~74). Resend unset — mailto/checklist only. Skipped AMA twins; Walmart 127 St/Tamarack; Acheson/NW warehouse; Aisimpro PT; Jobgether $45–60k WordPress; Demand Gen leadership stretch.
 - **2026-07-30 daily run:** local CD–CF (FedEx Package Handler PT evening, Tile Town Store/Stock Argyll South, Princess Auto Merchandiser Nights South); career C36–C37 (CCWESTT Marketing Communications Coordinator ~64, Jacked Factory Marketing Coordinator ~63 mailto jobs@). Resend unset — portal/checklist only. Skipped Capilano/Tamarack Walmart; TECO NW; Atomic US TZ; Headhunters/Sia/Salve stretch; Toronto/Montreal onsite.

@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CN | **NWT Shipper/Receiver — Nisku** | **NEW 08-03** · Bay 2 1906 4 St · **EMAIL** info@nwt-group.ca |
+| CO | **Reliance Warehouse Helper — Coronet** | **NEW 08-03** · 8545 Coronet Rd · ~10–12 min · Class 5 |
+| CP | **Stream-Flo Shipper Receiver** | **NEW 08-03** · SE warehouse · ≠ Material Handler #AB |
 | CK | **UPS Preloader Edmonton** | **NEW 08-01** · prefer South 6979 68 Ave · closest corridor |
 | CL | **Walmart Stock Unloader PT — Watt Common** | **NEW 08-01** · 110 Watt Common SW · unload/receive · south |
 | CM | **Bass Pro Receiving Outfitter — Currents** | **NEW 08-01** · 6150 Currents Dr · BOH receive/stock · PAL note |

@@ -8,6 +8,11 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0aq. White Bay (client agency) — Paid Media Strategist Remote Canada (NEW 2026-08-03)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4435486005
+   Materials: cv/main_white_bay.pdf + cover_white_bay_paid_media_strategist.pdf
+   Note: Fit ~65 · $70–90k CAD · Google/Meta match · 5 yrs dedicated paid-media + Programmatic/Retail Media still growing
+
 0ao. Clever Digital Marketing — SEM Coordinator Remote Canada (NEW 2026-08-01)
    Portal: https://careers.cleverdigitalmarketing.ca/
    LinkedIn: https://ca.linkedin.com/jobs/view/4436234342
@@ -173,6 +178,19 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L95. NWT Group Shipper/Receiver — Nisku ★ NEW 2026-08-03 · EMAIL
+   mailto:info@nwt-group.ca
+   LinkedIn: https://ca.linkedin.com/jobs/view/4226521628
+   Address: Bay 2, 1906 4 Street, Nisku T9E 7T8 · Blurb: APPLICATIONS_LOCAL.md#CN
+
+L96. Reliance Warehouse Helper/Runner — Coronet ★ NEW 2026-08-03
+   LinkedIn: https://ca.linkedin.com/jobs/view/4211114005
+   Address: 8545 Coronet Road NW T6E 4N7 · Blurb: APPLICATIONS_LOCAL.md#CO
+
+L97. Stream-Flo Shipper Receiver Warehouse ★ NEW 2026-08-03
+   LinkedIn: https://ca.linkedin.com/jobs/view/4215018618
+   Note: SE Edmonton · confirm site · ≠ Material Handler #AB · Blurb: APPLICATIONS_LOCAL.md#CP
+
 L92. UPS Preloader Edmonton ★ NEW 2026-08-01 · CLOSEST
    LinkedIn: https://ca.linkedin.com/jobs/view/4438398419
    Portal: https://www.jobs-ups.com/ (Preloader · Edmonton)

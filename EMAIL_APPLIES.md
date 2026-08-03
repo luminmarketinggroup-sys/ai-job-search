@@ -60,8 +60,9 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 |---|---------|------|--------|
 | M1 | Highlander Vac | Shop Hand (Leduc) | `mailto:lauree@highlandervac.ca?subject=Application%3A%20Shop%20Hand%20-%20Dylan%20Michael` |
 | M2 | BIS Safety Software | Web Optimization Lead | `mailto:careers@bistraining.ca?subject=Application%3A%20Web%20Optimization%20Lead%20-%20Dylan%20Michael` |
+| M3 | NWT Group | Shipper/Receiver (Nisku) | `mailto:info@nwt-group.ca?subject=Application%3A%20Shipper%2FReceiver%20-%20Dylan%20Michael` |
 
-Attach: local resume for Highlander; `cv/main_bis_web_optimization.pdf` + cover for BIS.
+Attach: local resume for Highlander and NWT; `cv/main_bis_web_optimization.pdf` + cover for BIS.
 
 ## Pending mailto (Resend unset 2026-07-30)
 

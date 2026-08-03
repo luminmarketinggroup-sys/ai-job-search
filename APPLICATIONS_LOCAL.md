@@ -11,6 +11,30 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CN. NWT Group — Shipper/Receiver (Nisku) ★ NEW · SOUTH · 2026-08-03 · EMAIL
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4226521628  
+- **Email:** info@nwt-group.ca  
+- **Address (verified):** Bay 2, 1906 4 Street, Nisku, AB T9E 7T8 (NWT Safety Supplies HQ)  
+- **Why:** Full-time on-site shipper/receiver · inventory / carriers / stock organization · Nisku south corridor · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at NWT Group in Nisku. I live in south Edmonton (11110 68 Ave NW) and am comfortable with physical shipping/receiving work: unloading and checking goods, organizing stock, keeping inventory records accurate, and keeping a clean safe warehouse. Willing to train or refresh forklift as required. Reliable attendance and ready for full-time hours. Resume attached.
+
+### CO. Reliance Home Comfort — Warehouse Helper/Runner (Coronet) ★ NEW · CLOSEST · 2026-08-03
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4211114005  
+- **Portal:** https://www.reliancehomecomfort.com/ (careers / Warehouse Runner · Edmonton)  
+- **Address (verified):** 8545 Coronet Road NW, Edmonton, AB T6E 4N7  
+- **Why:** HVAC parts warehouse · load/unload / inventory scan / staging · Coronet industrial near Calgary Trail · ~10–12 min · Class 5 · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Helper/Runner role at Reliance Home Comfort in Edmonton (8545 Coronet Road). I live nearby at 11110 68 Ave NW, hold a Class 5 licence, and am comfortable with paced warehouse work: loading and unloading equipment, scanning/inventory accuracy, staging parts for installs, and keeping the warehouse organized. Reliable attendance and coachable on safety and SOPs.
+
+### CP. Stream-Flo Industries — Shipper Receiver Warehouse ★ NEW · SOUTH · 2026-08-03
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4215018618  
+- **Portal:** Stream-Flo careers / Apply Now on LinkedIn posting  
+- **Address notes:** SE Edmonton Stream-Flo sites (e.g. Roper industrial / 74 Ave manufacturing-service area); confirm exact warehouse at apply · ~10–15 min from 11110 68 Ave NW  
+- **Why:** Distinct from prior Stream-Flo Material Handler draft (#AB) · receive / put-away / load-unload / paperwork · SE industrial · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper Receiver warehouse role at Stream-Flo Industries in Edmonton. I live nearby at 11110 68 Ave NW and am comfortable with paced receiving work: unloading and inspecting goods, paperwork accuracy, put-away, and loading with attention to safety. Willing to train or refresh forklift and RF scanning as required. Reliable attendance and ready for full-time warehouse hours.
+
 ### CK. UPS — Preloader (Edmonton) ★ NEW · CLOSEST · 2026-08-01
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4438398419  
 - **Portal:** https://www.jobs-ups.com/ (search Preloader · Edmonton)  

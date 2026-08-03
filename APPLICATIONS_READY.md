@@ -5,6 +5,16 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-08-03 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C43 | White Bay (client digital agency) | Paid Media Strategist (Search + Social) | Good (~65) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4435486005 | `cv/main_white_bay.pdf` | `cover_letters/cover_white_bay_paid_media_strategist.pdf` | Remote Canada; $70–90k CAD; Google Ads + Meta match; 5 yrs dedicated paid-media + Programmatic/Retail Media depth still growing; tertiary degree gap |
+
+**Mailto (Resend unset this run):** NWT Shipper/Receiver (local): `mailto:info@nwt-group.ca?subject=Application%3A%20Shipper%2FReceiver%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): UPS Preloader twin 4438902014 (already #CK); Princess Auto Receiver days twin 4448102617 (already #BL); Metrie night production (NW 131 Ave / 184 St); Cintas Loader/Unloader (primary site 17811 116 Ave NW); Telecon Warehouse Clerk (current 146 St NW before Roper move); Grainger Order Picker (forklift ticket hard-req); JC Assembler Panels (fab/assembly not warehouse priority); Cooper Yard Coordinator (yard wash stretch); Walmart St Albert OMNI/Overnight; Uline Spruce Grove nights twin; StudioFlow Marketing Specialist / AM (Victoria 1–2 days office + pay band starts ~$45k); HostGenius Growth Marketing Manager (~55; 4+ yrs personally owning Meta growth engine); Prosana Head of Paid Media (7+ yrs leadership); Fable Growth Marketing Manager stretch; Jobgether Senior Marketing Manager leadership; Best Buy Paid Search (Vancouver); Voxira Montreal hybrid 5+ yrs; Gogh Solutions Growth Marketing (~55; 3–5 yrs B2B ERP/HubSpot demand gen); Cosmo5 SEO Manager (~52; Montreal + enterprise technical SEO); Cymax Vancouver hybrid; CJAM PT Growth Marketing.
+
 ## NEW drafts this run (2026-08-01 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
