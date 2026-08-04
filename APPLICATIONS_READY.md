@@ -5,6 +5,17 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-08-04 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C44 | Herb | Key Account Manager (Paid Media / Performance Marketing) | Good (~70) | **EMAIL** careers@herb.co · LinkedIn https://ca.linkedin.com/jobs/view/4446799483 | `cv/main_herb.pdf` | `cover_letters/cover_herb_key_account_manager.pdf` | Remote Canada; up to CAD $130k OTE; client ownership + Google/Meta + SEO/CRM match; large concurrent performance book + cannabis niche still growing; include screening answers in email body |
+
+**Mailto (Resend unset this run):**
+- Herb KAM: `mailto:careers@herb.co?subject=Application%3A%20Key%20Account%20Manager%20-%20Dylan%20Michael`
+
+Skipped this run (fit/location/pay): Manulift Shipper-Receiver Clerk (15730 118 Ave NW — NW distance); Amity Insulation Shipper/Receiver (14715 122 Ave NW — NW); Kal Tire Shipper/Receiver Acheson (west + forklift experience ask); Arjae Warehouse Shipper/Receiver Nisku (5+ yrs + forklift cert hard-req); JC Silent-Aire Material Handler I 4446212909 (twin of Line Runner #CG); Walmart Produce Stocker 4448646272 (no primary store on posting); Walmart OMNI 16940 127 St NW (NW); SECURE Heavy Equipment Operator Material Handler (equipment ticket); Ash Grove Terminal Operator (prior industrial skip); Primoris Materials Receiver/Coordinator (travel / 3–8 yrs industrial); Powered by Search Senior Paid Media (~55; $50k/mo B2B SaaS spend stretch); Syroscape Director of Paid Media (6+ yrs director); Atomic Creative/Growth Marketer (US TZ filter); VERB Generative Search twins (~50); Aylo SEO (Montreal/adult vertical prior skip); Konstruct Calgary hybrid (prior); Dentalcorp Toronto SEO (prior); Crossing Hurdles gigs; Hire With Near LATAM.
+
 ## NEW drafts this run (2026-08-03 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

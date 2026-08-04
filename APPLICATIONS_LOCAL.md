@@ -11,6 +11,24 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CQ. Thermon — Warehouse Worker / Shipping & Receiving Clerk (Roper) ★ NEW · CLOSEST · 2026-08-04
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4439513560  
+- **Portal:** Thermon careers / Apply on LinkedIn posting  
+- **Address (verified):** 5918 Roper Road NW, Edmonton, AB T6B 3E1  
+- **Why:** SE Roper industrial · shipping/receiving clerk · docs + load/unload + pickups · ~10–12 min from 11110 68 Ave NW · Class 5 advantage · forklift a plus (not hard cert) · not Southgate  
+- **Honesty:** Posting prefers 2+ years order-processing experience; still strong corridor BOH fit  
+- **Blurb:**
+> I’m applying for the Warehouse Worker (Shipping & Receiving Clerk) role at Thermon in Edmonton (5918 Roper Road). I live nearby at 11110 68 Ave NW, hold a Class 5 licence, and am comfortable with paced shipping/receiving work: checking documentation, preparing packing lists, loading/unloading freight, and keeping a clean safe warehouse. Willing to train or refresh forklift as required. Reliable attendance and coachable on Thermon safety and order processes.
+
+### CR. A.R. Thomson Group — Shipper/Receiver (Parsons / 31 Ave) ★ NEW · CLOSEST · 2026-08-04
+- **Indeed:** https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html (search A.R. THOMSON GROUP INC. · Shipper/Receiver)  
+- **Address (verified):** 10030 31 Avenue NW, Edmonton, AB T6N 1G4  
+- **Pay:** $20–$23/hr · permanent full-time  
+- **Phone (branch):** 780-450-8080  
+- **Why:** Parsons Industrial · put-away / pick-pack / ship-receive · ~8–10 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at A.R. Thomson Group in Edmonton (10030 31 Avenue NW). I live nearby at 11110 68 Ave NW and am comfortable with physical warehouse work: receiving and putting away stock, picking and packing orders, loading/unloading, and keeping inventory and paperwork accurate. Reliable attendance and ready for full-time hours.
+
 ### CN. NWT Group — Shipper/Receiver (Nisku) ★ NEW · SOUTH · 2026-08-03 · EMAIL
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4226521628  
 - **Email:** info@nwt-group.ca  

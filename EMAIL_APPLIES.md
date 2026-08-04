@@ -54,6 +54,14 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
+## Pending mailto (Resend unset 2026-08-04)
+
+| # | Company | Role | Mailto |
+|---|---------|------|--------|
+| M4 | Herb | Key Account Manager (Paid Media) | `mailto:careers@herb.co?subject=Application%3A%20Key%20Account%20Manager%20-%20Dylan%20Michael` |
+
+Attach: `cv/main_herb.pdf` + `cover_letters/cover_herb_key_account_manager.pdf` + screening answers from cover letter.
+
 ## Pending mailto (Resend unset 2026-07-31)
 
 | # | Company | Role | Mailto |

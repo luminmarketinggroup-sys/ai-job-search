@@ -8,6 +8,12 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0ar. Herb — Key Account Manager Paid Media / Performance Marketing Remote Canada (NEW 2026-08-04)
+   mailto:careers@herb.co
+   LinkedIn: https://ca.linkedin.com/jobs/view/4446799483
+   Materials: cv/main_herb.pdf + cover_herb_key_account_manager.pdf
+   Note: Fit ~70 · up to CAD $130k OTE · include screening answers in email · Resend unset this run
+
 0aq. White Bay (client agency) — Paid Media Strategist Remote Canada (NEW 2026-08-03)
    LinkedIn: https://ca.linkedin.com/jobs/view/4435486005
    Materials: cv/main_white_bay.pdf + cover_white_bay_paid_media_strategist.pdf
@@ -178,6 +184,14 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L98. Thermon Warehouse Worker / Shipping & Receiving Clerk — Roper ★ NEW 2026-08-04
+   LinkedIn: https://ca.linkedin.com/jobs/view/4439513560
+   Address: 5918 Roper Road NW T6B 3E1 · Blurb: APPLICATIONS_LOCAL.md#CQ · Class 5 · ~10–12 min
+
+L99. A.R. Thomson Group Shipper/Receiver — 31 Ave / Parsons ★ NEW 2026-08-04
+   Indeed: https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html (A.R. THOMSON GROUP INC.)
+   Address: 10030 31 Avenue NW T6N 1G4 · $20–23/hr · Blurb: APPLICATIONS_LOCAL.md#CR · ~8–10 min
+
 L95. NWT Group Shipper/Receiver — Nisku ★ NEW 2026-08-03 · EMAIL
    mailto:info@nwt-group.ca
    LinkedIn: https://ca.linkedin.com/jobs/view/4226521628

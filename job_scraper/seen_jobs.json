@@ -3022,13 +3022,13 @@
       "tracker_status": "skipped_distance"
     },
     "https://ca.linkedin.com/jobs/view/4446449795": {
-      "title": "Creative Strategist Paid Social",
+      "title": "Creative Strategist",
       "company": "Atomic - Remote Jobs",
       "url": "https://ca.linkedin.com/jobs/view/4446449795",
-      "first_seen": "2026-07-30",
-      "fit": "medium",
+      "first_seen": "2026-08-04",
+      "fit": "low",
       "status": "skipped",
-      "tracker_status": "skipped_location"
+      "notes": "US TZ filter"
     },
     "https://ca.linkedin.com/jobs/view/4441635217": {
       "title": "Marketing Manager",
@@ -4810,6 +4810,195 @@
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
       "notes": "DTC growth player-coach stretch prior pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4439513560": {
+      "title": "Warehouse Worker (Shipping & Receiving Clerk)",
+      "company": "Thermon",
+      "url": "https://ca.linkedin.com/jobs/view/4439513560",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Roper Rd local CQ"
+    },
+    "https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html#ar-thomson-10030-31-ave": {
+      "title": "Shipper/Receiver",
+      "company": "A.R. Thomson Group",
+      "url": "https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html#ar-thomson-10030-31-ave",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Parsons 31 Ave local CR"
+    },
+    "https://ca.linkedin.com/jobs/view/4446799483": {
+      "title": "Key Account Manager (Paid Media / Performance Marketing)",
+      "company": "Herb",
+      "url": "https://ca.linkedin.com/jobs/view/4446799483",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "career C44 fit~70"
+    },
+    "https://ca.linkedin.com/jobs/view/4226640974": {
+      "title": "Shipper-Receiver Clerk",
+      "company": "Manulift",
+      "url": "https://ca.linkedin.com/jobs/view/4226640974",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "NW 118 Ave distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4221455920": {
+      "title": "Shipper/Receiver",
+      "company": "Amity Insulation Group Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4221455920",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "NW 122 Ave distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4215947528": {
+      "title": "Warehouse Shipper / Receiver",
+      "company": "Kal Tire",
+      "url": "https://ca.linkedin.com/jobs/view/4215947528",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Acheson west + forklift ask"
+    },
+    "https://ca.linkedin.com/jobs/view/4227697293": {
+      "title": "Materials Receiver Primoris Pilings",
+      "company": "Primoris Services Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4227697293",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "travel / project sites"
+    },
+    "https://ca.linkedin.com/jobs/view/4446212909": {
+      "title": "Material Handler I",
+      "company": "Johnson Controls",
+      "url": "https://ca.linkedin.com/jobs/view/4446212909",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin of Line Runner #CG"
+    },
+    "https://ca.linkedin.com/jobs/view/4448646272": {
+      "title": "(CAN) Produce Stocker",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4448646272",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "no primary store on posting"
+    },
+    "https://ca.linkedin.com/jobs/view/4448656127": {
+      "title": "(CAN) OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4448656127",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "16940 127 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4444760187": {
+      "title": "Heavy Equipment Operator - Material Handler",
+      "company": "SECURE",
+      "url": "https://ca.linkedin.com/jobs/view/4444760187",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "heavy equipment ticket"
+    },
+    "https://ca.linkedin.com/jobs/view/4446249446": {
+      "title": "Terminal Operator I",
+      "company": "Ash Grove Cement Company",
+      "url": "https://ca.linkedin.com/jobs/view/4446249446",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "industrial terminal prior skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4441551066": {
+      "title": "Senior Paid Media Strategist (REMOTE)",
+      "company": "Powered by Search",
+      "url": "https://ca.linkedin.com/jobs/view/4441551066",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "~55 B2B $50k/mo spend stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4446646259": {
+      "title": "Director of Paid Media \u2014 Remote",
+      "company": "Syroscape",
+      "url": "https://ca.linkedin.com/jobs/view/4446646259",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "6+ yrs director"
+    },
+    "https://ca.linkedin.com/jobs/view/4444017286": {
+      "title": "Growth Marketer (Meta Ads)",
+      "company": "Atomic - Remote Jobs",
+      "url": "https://ca.linkedin.com/jobs/view/4444017286",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "US TZ filter"
+    },
+    "https://ca.linkedin.com/jobs/view/4446595687": {
+      "title": "Generative Search Strategist",
+      "company": "VERB Interactive",
+      "url": "https://ca.linkedin.com/jobs/view/4446595687",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "GEO SME stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4448628461": {
+      "title": "Materials Coordinator",
+      "company": "Primoris Services Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4448628461",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "3-8 yrs industrial"
+    },
+    "https://ca.linkedin.com/jobs/view/4448230532": {
+      "title": "barista Store# 80407 EVER ON 170TH",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/4448230532",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "170 St west"
+    },
+    "https://ca.linkedin.com/jobs/view/4441291660": {
+      "title": "Field Service Warehouse & Assembly Technician",
+      "company": "Toshiba International Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4441291660",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "assembly / field service stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4437349481": {
+      "title": "Warehouse Administrator",
+      "company": "UFA",
+      "url": "https://ca.linkedin.com/jobs/view/4437349481",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "WMS admin not dock BOH priority"
+    },
+    "https://arjae.ca/careers/": {
+      "title": "Warehouse Shipper/Receiver",
+      "company": "Arjae Design Solutions Ltd.",
+      "url": "https://arjae.ca/careers/",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5+ yrs + forklift cert hard-req Nisku"
     }
   },
   "last_run": "2026-07-28"

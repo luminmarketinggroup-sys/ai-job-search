@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CQ | **Thermon Warehouse Worker / Ship-Receive — Roper** | **NEW 08-04** · 5918 Roper Rd · ~10–12 min · Class 5 |
+| CR | **A.R. Thomson Shipper/Receiver — 31 Ave** | **NEW 08-04** · 10030 31 Ave NW · $20–23/hr · Parsons · Indeed |
 | CN | **NWT Shipper/Receiver — Nisku** | **NEW 08-03** · Bay 2 1906 4 St · **EMAIL** info@nwt-group.ca |
 | CO | **Reliance Warehouse Helper — Coronet** | **NEW 08-03** · 8545 Coronet Rd · ~10–12 min · Class 5 |
 | CP | **Stream-Flo Shipper Receiver** | **NEW 08-03** · SE warehouse · ≠ Material Handler #AB |
