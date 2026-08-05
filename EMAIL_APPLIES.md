@@ -54,6 +54,14 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
+## Pending mailto (Resend unset 2026-08-05)
+
+| # | Company | Role | Mailto |
+|---|---------|------|--------|
+| M5 | Western Truck Body Mfg. | Warehouse Shipper and Receiver | `mailto:wtbhr@westerntruckbody.com?subject=Application%3A%20Warehouse%20Shipper%20and%20Receiver%20-%20Dylan%20Michael` |
+
+Acceler8 Labs and Ross Video are portal/LinkedIn apply (no public apply email verified this run).
+
 ## Pending mailto (Resend unset 2026-08-04)
 
 | # | Company | Role | Mailto |

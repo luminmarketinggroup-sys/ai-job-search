@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CS | **Purolator Sorter AM 378 — 76 Ave Freight** | **NEW 08-05** · 2840 76 Ave NW · $23.40/hr · ~10–12 min |
+| CT | **JYSK Warehouse Colleague — prefer South Park** | **NEW 08-05** · 3803 Calgary Trail · backroom unload/stock |
+| CU | **Western Truck Body Shipper/Receiver — 30 St** | **NEW 08-05** · 6115 30 St NW · **EMAIL** wtbhr@westerntruckbody.com |
 | CQ | **Thermon Warehouse Worker / Ship-Receive — Roper** | **NEW 08-04** · 5918 Roper Rd · ~10–12 min · Class 5 |
 | CR | **A.R. Thomson Shipper/Receiver — 31 Ave** | **NEW 08-04** · 10030 31 Ave NW · $20–23/hr · Parsons · Indeed |
 | CN | **NWT Shipper/Receiver — Nisku** | **NEW 08-03** · Bay 2 1906 4 St · **EMAIL** info@nwt-group.ca |

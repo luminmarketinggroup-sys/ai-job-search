@@ -8,6 +8,17 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0as. Acceler8 Labs — Paid Search Specialist Remote Canada (NEW 2026-08-05)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4444787554
+   Materials: cv/main_acceler8.pdf + cover_acceler8_paid_search_specialist.pdf
+   Note: Fit ~70 · Canada remote required · Google Ads Search match · Shopping/Merchant Center/PMax still growing · confirm ≥$60k
+
+0at. Ross Video — Marketing Automation Specialist Remote Canada (NEW 2026-08-05)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4446966192
+   Portal: https://www.rossvideo.com/company/careers/
+   Materials: cv/main_ross_video.pdf + cover_ross_video_marketing_automation_specialist.pdf
+   Note: Fit ~64 · CAD $66.5–80k · GHL + Claude match · Salesforce/Pardot preferred gap
+
 0ar. Herb — Key Account Manager Paid Media / Performance Marketing Remote Canada (NEW 2026-08-04)
    mailto:careers@herb.co
    LinkedIn: https://ca.linkedin.com/jobs/view/4446799483
@@ -184,6 +195,20 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L100. Purolator Sorter AM 378 — Edmonton Freight / 76 Ave ★ NEW 2026-08-05
+   LinkedIn: https://ca.linkedin.com/jobs/view/4448912138
+   Portal: https://www.purolator.com/en/careers (posting 69465)
+   Address: 2840 76 Ave NW T6P 1J4 · $23.40/hr · Blurb: APPLICATIONS_LOCAL.md#CS · ~10–12 min
+
+L101. JYSK Warehouse Colleague — prefer South Park / Calgary Trail ★ NEW 2026-08-05
+   LinkedIn: https://ca.linkedin.com/jobs/view/4446693408
+   Preferred store: 3803 Calgary Trail NW Unit 500 · Blurb: APPLICATIONS_LOCAL.md#CT
+
+L102. Western Truck Body Warehouse Shipper and Receiver — 30 St ★ NEW 2026-08-05 · EMAIL
+   mailto:wtbhr@westerntruckbody.com
+   Indeed: https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html (Western Truck Body Mfg.)
+   Address: 6115 30 Street NW T6P 1J8 · Blurb: APPLICATIONS_LOCAL.md#CU · ~12–15 min
+
 L98. Thermon Warehouse Worker / Shipping & Receiving Clerk — Roper ★ NEW 2026-08-04
    LinkedIn: https://ca.linkedin.com/jobs/view/4439513560
    Address: 5918 Roper Road NW T6B 3E1 · Blurb: APPLICATIONS_LOCAL.md#CQ · Class 5 · ~10–12 min

@@ -11,6 +11,32 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CS. Purolator — Sorter AM 378 (Edmonton Freight / 76 Ave) ★ NEW · CLOSEST · 2026-08-05
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4448912138  
+- **Portal:** https://www.purolator.com/en/careers (search Sorter · Edmonton Freight · posting 69465)  
+- **Address (verified on posting):** 2840 76 Ave NW, Edmonton, AB T6P 1J4 (Edmonton Freight Depot)  
+- **Pay / shift:** from ~$23.40/hr · AM sorter · ~40 hrs · 06:00–14:30 (Sun earlier window per posting)  
+- **Why:** SE 76 Ave freight dock · unload / sort / scan / preload · ~10–12 min from 11110 68 Ave NW · no experience required · not Southgate  
+- **Blurb:**
+> I’m applying for the AM Sorter role at Purolator Edmonton Freight (2840 76 Ave). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: unloading, sorting, scanning, and loading packages up to the posted limits. Reliable attendance and coachable on Purolator safety and sort methods; available for the posted AM schedule including Sunday early start if required.
+
+### CT. JYSK Canada — Warehouse Colleague (prefer South Park / Calgary Trail) ★ NEW · CLOSEST · 2026-08-05
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446693408  
+- **Portal:** JYSK careers / Apply on LinkedIn posting (confirm store at apply)  
+- **Preferred store:** JYSK Edmonton South Park Centre — 3803 Calgary Trail NW, Unit 500, Edmonton, AB T6J 5M8  
+- **Why:** Calgary Trail corridor backroom unload/stock/retrieve · ~8–12 min · not Southgate Centre (distinct retail on Calgary Trail)  
+- **Honesty:** Role also supports sales floor/cash at times; prefer South Park over Mayfield if both available  
+- **Blurb:**
+> I’m applying for the Warehouse Colleague role at JYSK in Edmonton. I live nearby at 11110 68 Ave NW and prefer the South Park Centre store on Calgary Trail if available. I am comfortable with backroom warehouse work: unloading, stocking, retrieving merchandise, pallet-jack style equipment, and keeping stock accurate. Reliable attendance and coachable on JYSK safety and store methods.
+
+### CU. Western Truck Body Mfg. — Warehouse Shipper and Receiver (30 St / SE) ★ NEW · SOUTH · 2026-08-05 · EMAIL
+- **Indeed:** https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html (search Western Truck Body Mfg. · Warehouse Shipper and Receiver)  
+- **Email:** wtbhr@westerntruckbody.com  
+- **Address (verified):** 6115 30 Street NW, Edmonton, AB T6P 1J8  
+- **Why:** SE industrial shipper/receiver · inbound/outbound + inventory · ~12–15 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Shipper and Receiver role at Western Truck Body in Edmonton (6115 30 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with physical shipping/receiving work: checking inbound and outbound shipments, keeping inventory accurate, loading/unloading, and keeping a clean safe warehouse. Reliable attendance and ready for full-time hours. Resume attached.
+
 ### CQ. Thermon — Warehouse Worker / Shipping & Receiving Clerk (Roper) ★ NEW · CLOSEST · 2026-08-04
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4439513560  
 - **Portal:** Thermon careers / Apply on LinkedIn posting  

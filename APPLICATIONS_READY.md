@@ -1,9 +1,23 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-05 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C45 | Acceler8 Labs | Paid Search Specialist | Good (~70) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4444787554 | `cv/main_acceler8.pdf` | `cover_letters/cover_acceler8_paid_search_specialist.pdf` | Remote Canada required; Google Ads Search + cert match; ecommerce Shopping/Merchant Center/PMax + multi-brand book still growing vs 2 SMB accounts; confirm base ≥ CAD $60k |
+| C46 | Ross Video | Marketing Automation Specialist | Good (~64) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4446966192 · https://www.rossvideo.com/company/careers/ | `cv/main_ross_video.pdf` | `cover_letters/cover_ross_video_marketing_automation_specialist.pdf` | Remote Canada; CAD $66.5–80k; GHL CRM automation + Claude match; Salesforce Account Engagement (Pardot) preferred stack still growing |
+
+**Mailto (Resend unset this run):**
+- Western Truck Body Shipper/Receiver (local): `mailto:wtbhr@westerntruckbody.com?subject=Application%3A%20Warehouse%20Shipper%20and%20Receiver%20-%20Dylan%20Michael`
+
+**Local drafts this run:** Purolator Sorter AM 378 (2840 76 Ave), JYSK Warehouse Colleague (prefer South Park Calgary Trail), Western Truck Body Shipper/Receiver — see `APPLICATIONS_LOCAL.md` (#CS–#CU).
+
+Skipped this run (fit/location/pay): Celanese Labourer (101 Ave east); Powell Material Handler Days/Nights Acheson (west); Purolator Sorter PM North (17718 114 Ave); UPS Air Walker (route helper); Air Liquide Package Gas Dispatcher (desk); Keurig Delivery Associate; JOEY Mayfield dishwasher (NW); Contact Instruments shipper/receiver (not on live careers page); Telecon Warehouse Clerk (still NW 146 St until Roper move); AMA Social Media Specialist (~48; 6+ yrs corporate + degree); BX Studio Senior SEO & AEO (~50; 5+ yrs); Marketbridge Manager SEM (~55; manager + EST); Bookedly Media Buyer contract (~58); Banch META Ads (BC); Digital Braze/SFMC migration specialist; Pacesetter Digital/AI Marketing (stale/expired close); Jobgether Content & Digital Marketing (PH-centric benefits / CAD unclear); HostGenius / Syroscape / prior leadership stretches.
 
 ## NEW drafts this run (2026-08-04 daily scrape)
 
