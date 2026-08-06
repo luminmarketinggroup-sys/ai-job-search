@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CV | **Lifting Solutions Shipper & Receiver — 78 Ave** | **NEW 08-06** · 3710 78 Ave NW · SE Weir · ~10–12 min |
+| CW | **Walmart Stock Unloader — Currents** | **NEW 08-06** · 6110 Currents Dr NW · unload dock · ≠ #BY/#BJ |
 | CS | **Purolator Sorter AM 378 — 76 Ave Freight** | **NEW 08-05** · 2840 76 Ave NW · $23.40/hr · ~10–12 min |
 | CT | **JYSK Warehouse Colleague — prefer South Park** | **NEW 08-05** · 3803 Calgary Trail · backroom unload/stock |
 | CU | **Western Truck Body Shipper/Receiver — 30 St** | **NEW 08-05** · 6115 30 St NW · **EMAIL** wtbhr@westerntruckbody.com |

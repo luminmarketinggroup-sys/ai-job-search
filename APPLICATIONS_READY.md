@@ -1,9 +1,22 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-06 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C47 | Roveia Health / Roveir | Marketing Account Manager (Agency) | Good (~72) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4444891926 | `cv/main_roveia.pdf` | `cover_letters/cover_roveia_marketing_account_manager.pdf` | Fully remote; CAD $65–95k; Google/Meta fluency + client ownership match; multi-million spend / telehealth patient-acquisition depth still growing vs 2 SMB accounts |
+| C48 | Flywheel Digital | Paid Growth Lead | Good (~66) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4450226154 | `cv/main_flywheel.pdf` | `cover_letters/cover_flywheel_paid_growth_lead.pdf` | Remote-first Canada; CAD $80–100k; Meta + Google + Claude bonus match; 5–6 figure monthly budgets + PMax/ecommerce economics still growing |
+
+**Mailto (Resend unset this run):** none verified public apply email for Roveia / Flywheel — use LinkedIn / careers portals.
+
+**Local drafts this run:** Lifting Solutions Shipper & Receiver (3710 78 Ave), Walmart Stock Unloader Currents (6110 Currents) — see `APPLICATIONS_LOCAL.md` (#CV–#CW).
+
+Skipped this run (fit/location/pay): DashMart Team Member (11735 108 Ave NW — Queen Mary Park / not corridor); Wesco Wire Cutting 3rd (12354 184 St NW — NW); 7-Eleven Freezer DC (north); Reliable Controls Inventory Clerk (10715 182 St NW — NW); TECO Shipping (18060 109 Ave — NW prior); Calmont Shipper/Receiver (174 St NW — NW); CNRL Warehouse Technician Nisku (3+ yrs forklift hard-req); GLBC Production Team Member (manufacturing not warehouse priority); UPS Preloader twin 4438397445 (already #CK); SiteNative SEO Expert twin (already C31); SiteNative Marketing Automations (~58; HubSpot/Salesforce 2–4 yrs stretch vs GHL); Felix Sr Growth (~55; deep unit-economics category ownership); Fable Growth Marketing Manager (prior stretch); Awesome Motive Growth Manager (5+ yrs SaaS email founder); ElevenLabs B2B Growth (5–7 yrs enterprise); Blacksmith Growth Marketing Manager (thin posting / pay unclear / LATAM-style talent pool risk); Taktical Marketing Engineer (~55; API/webhook engineering stretch); FlightHub SEM Montreal onsite; Best Buy Paid Search Vancouver area; Web Wizards DMS ($45–55k under floor); Cossette / Starcom pay under floor; RoibyRoy SEO (spam-style listing); Exults/SEO.cc degree + on-site training language; Critical Mass Senior SEO Calgary; Atomic US TZ filter twins.
 
 ## NEW drafts this run (2026-08-05 daily scrape)
 

@@ -4286,10 +4286,10 @@
       "company": "UPS",
       "url": "https://ca.linkedin.com/jobs/view/4438397445",
       "first_seen": "2026-08-01",
-      "fit": "medium",
+      "fit": "low",
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
-      "notes": "UPS Preloader French twin",
+      "notes": "twin of already drafted Preloader #CK",
       "location": "Edmonton, Alberta, Canada"
     },
     "https://ca.linkedin.com/jobs/view/4446921907": {
@@ -4806,10 +4806,10 @@
       "company": "Fable",
       "url": "https://ca.linkedin.com/jobs/view/4447567318",
       "first_seen": "2026-08-03",
-      "fit": "low",
+      "fit": "medium",
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
-      "notes": "DTC growth player-coach stretch prior pattern"
+      "notes": "prior HostGenius-style Meta growth stretch (~55)"
     },
     "https://ca.linkedin.com/jobs/view/4439513560": {
       "title": "Warehouse Worker (Shipping & Receiving Clerk)",
@@ -5219,6 +5219,389 @@
       "status": "skipped",
       "track": "local",
       "notes": "Dispatch desk logistics \u2014 not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4449149321": {
+      "title": "Shipper & Receiver",
+      "company": "Lifting Solutions",
+      "url": "https://ca.linkedin.com/jobs/view/4449149321",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "drafted"
+    },
+    "https://ca.linkedin.com/jobs/view/4449939493": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4449939493",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "drafted"
+    },
+    "https://ca.linkedin.com/jobs/view/4444891926": {
+      "title": "Marketing Account Manager (Agency)",
+      "company": "Roveia Health",
+      "url": "https://ca.linkedin.com/jobs/view/4444891926",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "drafted"
+    },
+    "https://ca.linkedin.com/jobs/view/4450226154": {
+      "title": "Paid Growth Lead",
+      "company": "Flywheel Digital",
+      "url": "https://ca.linkedin.com/jobs/view/4450226154",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "drafted"
+    },
+    "https://ca.linkedin.com/jobs/view/4449337373": {
+      "title": "DashMart Team Member - Edmonton",
+      "company": "DoorDash",
+      "url": "https://ca.linkedin.com/jobs/view/4449337373",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "11735 108 Ave NW Queen Mary Park \u2014 not corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/4440858589": {
+      "title": "Union Warehouse Associate - Wire Cutting - 3rd shift",
+      "company": "Wesco",
+      "url": "https://ca.linkedin.com/jobs/view/4440858589",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "12354 184 St NW T5V \u2014 NW distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4440553069": {
+      "title": "Warehouse Associate II (Freezer)",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/4440553069",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Edmonton DC north \u2014 prior north skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4448070609": {
+      "title": "Inventory & Receiving Clerk",
+      "company": "Reliable Controls",
+      "url": "https://ca.linkedin.com/jobs/view/4448070609",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "10715 182 St NW T5S \u2014 NW distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4405394535": {
+      "title": "Warehouse Technician - Nisku",
+      "company": "Canadian Natural Resources Limited (CNRL)",
+      "url": "https://ca.linkedin.com/jobs/view/4405394535",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "3+ yrs forklift hard-req"
+    },
+    "https://ca.linkedin.com/jobs/view/4447479719": {
+      "title": "Production Team Member - Edmonton",
+      "company": "Great Little Box Company",
+      "url": "https://ca.linkedin.com/jobs/view/4447479719",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5219 47 St production manufacturing \u2014 not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4449457011": {
+      "title": "Search Engine Optimization (SEO) Expert",
+      "company": "SiteNative",
+      "url": "https://ca.linkedin.com/jobs/view/4449457011",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin of drafted C31 SiteNative SEO"
+    },
+    "https://ca.linkedin.com/jobs/view/4449457013": {
+      "title": "Marketing Automations Specialist / CRM Manager",
+      "company": "SiteNative",
+      "url": "https://ca.linkedin.com/jobs/view/4449457013",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "HubSpot/Salesforce 2\u20134 yrs stretch vs GHL (~58)"
+    },
+    "https://ca.linkedin.com/jobs/view/4445532747": {
+      "title": "Sr. Growth Marketing Specialist",
+      "company": "Felix",
+      "url": "https://ca.linkedin.com/jobs/view/4445532747",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "deep ecommerce unit-economics category ownership stretch (~55)"
+    },
+    "https://ca.linkedin.com/jobs/view/4449684138": {
+      "title": "Growth Manager",
+      "company": "Awesome Motive, Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4449684138",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5+ yrs founding SaaS email/lifecycle operator"
+    },
+    "https://ca.linkedin.com/jobs/view/4449952260": {
+      "title": "B2B Growth Marketer - Canada",
+      "company": "ElevenLabs",
+      "url": "https://ca.linkedin.com/jobs/view/4449952260",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5\u20137 yrs enterprise B2B demand gen"
+    },
+    "https://ca.linkedin.com/jobs/view/4449637604": {
+      "title": "Growth Marketing Manager",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4449637604",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "thin posting; pay unclear; multi-region talent pool"
+    },
+    "https://ca.linkedin.com/jobs/view/4449752209": {
+      "title": "Marketing Engineer",
+      "company": "Taktical Digital (Acquired by MediaMint)",
+      "url": "https://ca.linkedin.com/jobs/view/4449752209",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "API/webhook/LLM engineering stretch (~55)"
+    },
+    "https://ca.linkedin.com/jobs/view/4449153043": {
+      "title": "Amazon Catalogue & Listing Specialist",
+      "company": "The Fastener Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4449153043",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Amazon catalogue specialist \u2014 prior Fastener skip pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4449151270": {
+      "title": "Digital Marketing Specialist",
+      "company": "Web Wizards Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4449151270",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "$45\u201355k under career floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4448378637": {
+      "title": "Digital Marketing Specialist",
+      "company": "FlightHub",
+      "url": "https://ca.linkedin.com/jobs/view/4448378637",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Montreal onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4365540410": {
+      "title": "SEM Specialist",
+      "company": "FlightHub",
+      "url": "https://ca.linkedin.com/jobs/view/4365540410",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Montreal onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4436521450": {
+      "title": "Digital Marketing Specialist (Paid Search)",
+      "company": "Best Buy Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4436521450",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Vancouver area required"
+    },
+    "https://ca.linkedin.com/jobs/view/4446937065": {
+      "title": "SEM Specialist",
+      "company": "Starcom Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4446937065",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "$45\u201350k under floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4447212598": {
+      "title": "Specialist, Search & Social",
+      "company": "Cossette Media",
+      "url": "https://ca.linkedin.com/jobs/view/4447212598",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "$50\u201355k under floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4449117952": {
+      "title": "Digital SEO Consultant",
+      "company": "RoibyRoy",
+      "url": "https://ca.linkedin.com/jobs/view/4449117952",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "spam-style self-pitch listing"
+    },
+    "https://ca.linkedin.com/jobs/view/4449481135": {
+      "title": "SEARCH ENGINE OPTIMIZATION SPECIALIST",
+      "company": "Search Engine Operator, Inc - SEO.cc",
+      "url": "https://ca.linkedin.com/jobs/view/4449481135",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "degree req; Exults on-site training language"
+    },
+    "https://ca.linkedin.com/jobs/view/4448596250": {
+      "title": "Senior SEO Strategist",
+      "company": "Critical Mass",
+      "url": "https://ca.linkedin.com/jobs/view/4448596250",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4\u20135+ yrs senior SEO / Calgary agency stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4448568113": {
+      "title": "Marketing Operations Specialist",
+      "company": "TEC Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4448568113",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Calgary + 3\u20135 yrs HubSpot ops stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4449082376": {
+      "title": "General Manager- Administration and Marketing",
+      "company": "KAIRALI REALTY INC",
+      "url": "https://ca.linkedin.com/jobs/view/4449082376",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "GM leadership / realty ops"
+    },
+    "https://ca.linkedin.com/jobs/view/4449127494": {
+      "title": "Account Manager",
+      "company": "Community Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4449127494",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Toronto influencer/agency AM stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4446873143": {
+      "title": "Account Manager, Influencer Marketing",
+      "company": "Viral Nation",
+      "url": "https://ca.linkedin.com/jobs/view/4446873143",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "influencer AM + bachelor\u2019s stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4447341101": {
+      "title": "Global Paid Search Marketing Manager",
+      "company": "Okta",
+      "url": "https://ca.linkedin.com/jobs/view/4447341101",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "manager / enterprise paid search leadership"
+    },
+    "https://ca.linkedin.com/jobs/view/4444002712": {
+      "title": "SEM Manager",
+      "company": "Klick",
+      "url": "https://ca.linkedin.com/jobs/view/4444002712",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "SEM manager Toronto life sciences stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4440356672": {
+      "title": "Inventory Control Specialist",
+      "company": "Bass Pro Shops",
+      "url": "https://ca.linkedin.com/jobs/view/4440356672",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "store inventory control; south store not verified on posting"
+    },
+    "https://ca.linkedin.com/jobs/view/4448561232": {
+      "title": "Air Walker",
+      "company": "UPS",
+      "url": "https://ca.linkedin.com/jobs/view/4448561232",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "route helper not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4440837922": {
+      "title": "Crew Member",
+      "company": "Chipotle Mexican Grill",
+      "url": "https://ca.linkedin.com/jobs/view/4440837922",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "public-facing food; lower priority vs warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/4449470524": {
+      "title": "Restaurant counter attendant",
+      "company": "Buffet Royale Carvery",
+      "url": "https://ca.linkedin.com/jobs/view/4449470524",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "public-facing food counter"
+    },
+    "https://ca.linkedin.com/jobs/view/4449412384": {
+      "title": "Sharetea \u2013 Edmonton City Centre",
+      "company": "Edmonton City Centre",
+      "url": "https://ca.linkedin.com/jobs/view/4449412384",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "downtown cafe / public-facing"
+    },
+    "https://ca.linkedin.com/jobs/view/4449108887": {
+      "title": "Food Counter Clerk",
+      "company": "Hula Poke U of A",
+      "url": "https://ca.linkedin.com/jobs/view/4449108887",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "public-facing food counter"
+    },
+    "https://ca.linkedin.com/jobs/view/4446698673": {
+      "title": "Barista, Forest Park Hotel",
+      "company": "Pursuit",
+      "url": "https://ca.linkedin.com/jobs/view/4446698673",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "barista; not warehouse priority this run"
+    },
+    "https://ca.linkedin.com/jobs/view/4447546199": {
+      "title": "Laundry Worker",
+      "company": "Aramark Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4447546199",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "laundry not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4448050100": {
+      "title": "Yard Helper/Swamper",
+      "company": "Nucor Rebar Fabrication",
+      "url": "https://ca.linkedin.com/jobs/view/4448050100",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Fort Saskatchewan distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4448074403": {
+      "title": "Yard laborer/Swamper",
+      "company": "Forum Energy Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/4448074403",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Leduc yard stretch vs warehouse priority"
     }
   },
   "last_run": "2026-07-28"

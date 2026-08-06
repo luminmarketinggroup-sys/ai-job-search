@@ -8,6 +8,16 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0au. Roveia Health / Roveir — Marketing Account Manager Remote (NEW 2026-08-06)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4444891926
+   Materials: cv/main_roveia.pdf + cover_roveia_marketing_account_manager.pdf
+   Note: Fit ~72 · CAD $65–95k · Google/Meta + client ownership · multi-million book still growing
+
+0av. Flywheel Digital — Paid Growth Lead Remote-first Canada (NEW 2026-08-06)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4450226154
+   Materials: cv/main_flywheel.pdf + cover_flywheel_paid_growth_lead.pdf
+   Note: Fit ~66 · CAD $80–100k · Meta + Google + Claude bonus · 5–6 figure monthly budgets still growing
+
 0as. Acceler8 Labs — Paid Search Specialist Remote Canada (NEW 2026-08-05)
    LinkedIn: https://ca.linkedin.com/jobs/view/4444787554
    Materials: cv/main_acceler8.pdf + cover_acceler8_paid_search_specialist.pdf

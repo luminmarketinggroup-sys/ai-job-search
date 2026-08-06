@@ -11,6 +11,23 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CV. Lifting Solutions — Shipper & Receiver (78 Ave / Weir Industrial) ★ NEW · CLOSEST · 2026-08-06
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4449149321  
+- **Portal:** Lifting Solutions careers / Apply on LinkedIn posting  
+- **Address (verified):** 3710 78 Ave NW, Edmonton, AB T6B 3E5 (HQ / manufacturing)  
+- **Why:** SE Weir Industrial shipper/receiver · load/unload + docs + inventory · ~10–12 min from 11110 68 Ave NW · not Southgate  
+- **Honesty:** Posting prefers 1–2 years shipping/receiving; forklift cert an asset (willing to train/refresh)  
+- **Blurb:**
+> I’m applying for the Shipper & Receiver role at Lifting Solutions in Edmonton (3710 78 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with paced shipping/receiving work: checking inbound and outbound shipments, packing and labeling, loading/unloading, and keeping inventory and paperwork accurate. Willing to train or refresh forklift as required. Reliable attendance and coachable on Lifting Solutions safety and ERP processes.
+
+### CW. Walmart — Stock Unloader Associate (6110 Currents Dr NW) ★ NEW · SOUTH · 2026-08-06
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4449939493  
+- **Primary location (verified on posting):** 6110 Currents Dr NW, Edmonton, AB T6W 0L7  
+- **Pay:** from ~$16/hr · unload trailers / process merchandise / move pallets  
+- **Why:** South Currents / Windermere receive dock · distinct from prior Stockperson (#BY) and Overnight (#BJ) at same store · ~12–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Stock Unloader Associate role at Walmart Currents (6110 Currents Dr NW). I live nearby at 11110 68 Ave NW and am comfortable with physical receiving work: unloading trailers, moving pallets, stocking support, and keeping a clean safe dock. Flexible for evenings, weekends, and holidays as posted.
+
 ### CS. Purolator — Sorter AM 378 (Edmonton Freight / 76 Ave) ★ NEW · CLOSEST · 2026-08-05
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4448912138  
 - **Portal:** https://www.purolator.com/en/careers (search Sorter · Edmonton Freight · posting 69465)  

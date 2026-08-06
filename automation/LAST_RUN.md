@@ -1,20 +1,19 @@
-# Last automation run — 2026-08-05
+# Last automation run — 2026-08-06
 
 ## Summary
-- **3 new local drafts** (Purolator Sorter AM 76 Ave; JYSK Warehouse Colleague prefer South Park; Western Truck Body Shipper/Receiver)
-- **2 new career drafts** (Acceler8 Paid Search ~70; Ross Video Marketing Automation ~64)
+- **2 new local drafts** (Lifting Solutions Shipper & Receiver 78 Ave; Walmart Stock Unloader Currents)
+- **2 new career drafts** (Roveia Marketing Account Manager ~72; Flywheel Paid Growth Lead ~66)
 - **Resend unset** — mailto/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: Celanese 101 Ave; Powell Acheson; Purolator North PM; UPS Air Walker; AMA Social (~48); BX Studio Senior SEO; Marketbridge SEM Manager; Bookedly contract; Jobgether content (PH benefits); Pacesetter stale; Contact Instruments shipper not on live careers; Telecon still NW
+- Skipped: DashMart 108 Ave; Wesco 184 St NW; 7-Eleven Freezer north; Reliable Controls 182 St NW; TECO/Calmont NW; CNRL 3+ yrs forklift; SiteNative CRM stretch; Felix/Fable/Awesome Motive/ElevenLabs leadership or depth stretches; FlightHub Montreal onsite; under-floor Cossette/Starcom/Web Wizards
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Purolator | Sorter AM 378 (Edmonton Freight / 76 Ave) | https://ca.linkedin.com/jobs/view/4448912138 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CS` |
-| Local | JYSK Canada | Warehouse Colleague (prefer South Park) | https://ca.linkedin.com/jobs/view/4446693408 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CT` |
-| Local | Western Truck Body Mfg. | Warehouse Shipper and Receiver | https://ca.indeed.com/q-shipper-receiver-l-edmonton,-ab-jobs.html · mailto wtbhr@westerntruckbody.com | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CU` |
-| Career | Acceler8 Labs | Paid Search Specialist | https://ca.linkedin.com/jobs/view/4444787554 | `cv/main_acceler8.pdf` · `cover_letters/cover_acceler8_paid_search_specialist.pdf` |
-| Career | Ross Video | Marketing Automation Specialist | https://ca.linkedin.com/jobs/view/4446966192 | `cv/main_ross_video.pdf` · `cover_letters/cover_ross_video_marketing_automation_specialist.pdf` |
+| Local | Lifting Solutions | Shipper & Receiver | https://ca.linkedin.com/jobs/view/4449149321 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CV` |
+| Local | Walmart Canada | Stock Unloader Associate (Currents) | https://ca.linkedin.com/jobs/view/4449939493 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CW` |
+| Career | Roveia Health / Roveir | Marketing Account Manager | https://ca.linkedin.com/jobs/view/4444891926 | `cv/main_roveia.pdf` · `cover_letters/cover_roveia_marketing_account_manager.pdf` |
+| Career | Flywheel Digital | Paid Growth Lead | https://ca.linkedin.com/jobs/view/4450226154 | `cv/main_flywheel.pdf` · `cover_letters/cover_flywheel_paid_growth_lead.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`
