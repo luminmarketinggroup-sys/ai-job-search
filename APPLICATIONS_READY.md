@@ -1,9 +1,24 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-07 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C49 | CanadaOne Auto | Digital Marketing Coordinator | High (~74) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4449762330 | `cv/main_canadaone.pdf` | `cover_letters/cover_canadaone_digital_marketing_coordinator.pdf` | Edmonton multi-rooftop; Google/Meta + SEO/GEO + GA4 + Audi Fixed Ops match; manufacturer Tier-1 coordination still growing; confirm base ≥ CAD $60k |
+| C50 | Attention Sales & Marketing | Paid Media Specialist | High (~72) | **EMAIL / portal** tyler@attentioncompany.ca · https://attentioncompany.ca/careers · LinkedIn https://ca.linkedin.com/jobs/view/4444833951 | `cv/main_attention.pdf` | `cover_letters/cover_attention_paid_media_specialist.pdf` | Remote Canada OK; Google + Meta day-to-day match; multi-vertical compliance books still growing vs 2 SMB accounts; confirm base ≥ CAD $60k |
+| C51 | Roveia Health / Roveir | Performance Marketing Lead | Good (~66) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4445100059 | `cv/main_roveia_performance.pdf` | `cover_letters/cover_roveia_performance_marketing_lead.pdf` | Fully remote; CAD $55–80k (confirm ≥$60k); agency Meta/Google execution match; $20k–$200k+/mo multi-account + telehealth depth still growing; distinct from AM draft C47 |
+
+**Mailto (Resend unset this run):**
+- Attention Paid Media Specialist: `mailto:tyler@attentioncompany.ca?subject=Application%3A%20Paid%20Media%20Specialist%20-%20Dylan%20Michael`
+
+**Local drafts this run:** Copart Inventory Specialist (3175 4 St Nisku), Walmart Overnight Associate Leduc (5302 Discovery Way), Dynaflex Shipper/Receiver Nisku — see `APPLICATIONS_LOCAL.md` (#CX–#CZ).
+
+Skipped this run (fit/location/pay): GFL Recycling Sorter (Winterburn MRF NW); Sobeys Warehouse Order Selector Night (156 St / Yellowhead NW); Kal Tire Shipper/Receiver Acheson (west); Walmart OMNI Wetaskiwin; Walmart OMNI 16940 127 St NW twin; Bass Pro BOSS Outfitter (no primary store on posting); Ardene Stock Clerk (store unspecified); CanadaOne Digital Marketing Manager (BCom hard-req + 4+ yrs manager ~52); POD Marketing SEO Strategist (Calgary hybrid required); Bloom SEO Montreal hybrid; Versatile Agency AM/Mediabuyer ($52–65k floor risk + RE niche ~58); Storm Ideas AI Creative AM (US PT hours / entertainment creative stretch); Jobgether Off-page SEO (4+ yrs link-building specialist); Tali AI Growth Marketer (4–6 yrs B2B SaaS personally-built growth ~55); Float/Speer/Advantage HQ senior growth; Salt XC / Rockwell Toronto hybrid; Cymax Vancouver; Western Standard Calgary onsite; Hire With Near LATAM twin.
 
 ## NEW drafts this run (2026-08-06 daily scrape)
 

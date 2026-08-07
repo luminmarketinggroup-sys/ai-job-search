@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (updated 2026-08-06)
+# Application Status — Dylan Michael (updated 2026-08-07)
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -57,6 +57,9 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L105 | **Copart Nisku** | Inventory Specialist | **NEW 08-07** · 3175 4 St · $22–25/hr · yard inventory | https://ca.linkedin.com/jobs/view/4444147618 |
+| L106 | **Walmart Leduc** | Overnight Associate | **NEW 08-07** · 5302 Discovery Way · overnight stock | https://ca.linkedin.com/jobs/view/4446940658 |
+| L107 | **Dynaflex Pipe Nisku** | Shipper/Receiver | **NEW 08-07** · #2003 5 St · $25–30/hr · Indeed | https://ca.indeed.com/q-shipper-receiver-l-nisku,-ab-jobs.html |
 | L103 | **Lifting Solutions 78 Ave** | Shipper & Receiver | **NEW 08-06** · 3710 78 Ave NW · SE Weir · ~10–12 min | https://ca.linkedin.com/jobs/view/4449149321 |
 | L104 | **Walmart Currents** | Stock Unloader Associate | **NEW 08-06** · 6110 Currents Dr · unload · ≠ stockperson/overnight | https://ca.linkedin.com/jobs/view/4449939493 |
 | L100 | **Purolator Freight 76 Ave** | Sorter AM 378 | **NEW 08-05** · 2840 76 Ave · $23.40/hr · ~10–12 min | https://ca.linkedin.com/jobs/view/4448912138 |
@@ -178,6 +181,9 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
+| C49 | CanadaOne Auto | Digital Marketing Coordinator | `main_canadaone` + cover · Fit ~74 · Edmonton · confirm ≥$60k | https://ca.linkedin.com/jobs/view/4449762330 |
+| C50 | Attention Sales & Marketing | Paid Media Specialist | `main_attention` + cover · Fit ~72 · **mailto** tyler@ · remote Canada | https://ca.linkedin.com/jobs/view/4444833951 |
+| C51 | Roveia Health / Roveir | Performance Marketing Lead | `main_roveia_performance` + cover · Fit ~66 · CAD $55–80k confirm ≥$60k · ≠ AM C47 | https://ca.linkedin.com/jobs/view/4445100059 |
 | C47 | Roveia Health / Roveir | Marketing Account Manager | `main_roveia` + cover · Fit ~72 · remote CAD $65–95k · multi-million book still growing | https://ca.linkedin.com/jobs/view/4444891926 |
 | C48 | Flywheel Digital | Paid Growth Lead | `main_flywheel` + cover · Fit ~66 · remote-first CAD $80–100k · large monthly budgets still growing | https://ca.linkedin.com/jobs/view/4450226154 |
 | C45 | Acceler8 Labs | Paid Search Specialist | `main_acceler8` + cover · Fit ~70 · remote Canada · Shopping/PMax still growing | https://ca.linkedin.com/jobs/view/4444787554 |
@@ -255,6 +261,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-08-07 daily run:** local CX–CZ (Copart Inventory Specialist Nisku 3175 4 St, Walmart Overnight Leduc 5302 Discovery Way, Dynaflex Shipper/Receiver Nisku $25–30); career C49–C51 (CanadaOne Digital Marketing Coordinator ~74, Attention Paid Media ~72 mailto tyler@, Roveia Performance Marketing Lead ~66). Resend unset — mailto/checklist only. Skipped GFL Winterburn NW; Sobeys RSC NW; Kal Tire Acheson; CanadaOne DMM degree hard-req; POD Calgary hybrid; Versatile $52–65k RE niche; Storm Ideas PT hours; Jobgether off-page; Tali/Float/Advantage senior growth.
 - **2026-08-06 daily run:** local CV–CW (Lifting Solutions Shipper & Receiver 3710 78 Ave, Walmart Stock Unloader Currents 6110 Currents); career C47–C48 (Roveia Marketing Account Manager ~72, Flywheel Paid Growth Lead ~66). Resend unset — portal/checklist only. Skipped DashMart 108 Ave; Wesco 184 St NW; 7-Eleven Freezer north; Reliable Controls 182 St NW; CNRL 3+ yrs forklift; SiteNative CRM HubSpot stretch; Felix/Fable/Awesome Motive/ElevenLabs stretches; FlightHub Montreal; under-floor Cossette/Starcom/Web Wizards.
 - **2026-08-05 daily run:** local CS–CU (Purolator Sorter AM 2840 76 Ave, JYSK Warehouse Colleague prefer South Park Calgary Trail, Western Truck Body Shipper/Receiver mailto wtbhr@); career C45–C46 (Acceler8 Paid Search ~70, Ross Video Marketing Automation ~64). Resend unset — mailto/checklist only. Skipped Celanese 101 Ave; Powell Acheson; Purolator North; UPS Air Walker; AMA Social 6yr ask; BX Studio Senior SEO; Marketbridge SEM Manager; Bookedly contract; Jobgether content PH benefits; Pacesetter stale; Contact Instruments shipper not on live careers.
 - **2026-08-04 daily run:** local CQ–CR (Thermon Warehouse Worker Roper 5918 Roper Rd, A.R. Thomson Shipper/Receiver 10030 31 Ave); career C44 (Herb Key Account Manager ~70 mailto careers@herb.co). Resend unset — mailto/checklist only. Skipped Manulift/Amity NW; Kal Tire Acheson; Arjae 5yr+forklift cert; JC Material Handler twin of #CG; Walmart Produce no store; Walmart OMNI 127 St NW; SECURE heavy equipment; Ash Grove; Primoris travel; PBS Senior Paid Media / Syroscape Director stretch; Atomic US TZ; VERB/Aylo prior skips.

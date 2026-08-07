@@ -54,6 +54,14 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
+## Pending mailto (Resend unset 2026-08-07)
+
+| # | Company | Role | Mailto |
+|---|---------|------|--------|
+| M6 | Attention Sales & Marketing | Paid Media Specialist | `mailto:tyler@attentioncompany.ca?subject=Application%3A%20Paid%20Media%20Specialist%20-%20Dylan%20Michael` |
+
+Attach: `cv/main_attention.pdf` + `cover_letters/cover_attention_paid_media_specialist.pdf`
+
 ## Pending mailto (Resend unset 2026-08-05)
 
 | # | Company | Role | Mailto |

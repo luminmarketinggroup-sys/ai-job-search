@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| CX | **Copart Inventory Specialist — Nisku** | **NEW 08-07** · 3175 4 St Nisku · $22–25/hr · yard inventory/receive |
+| CY | **Walmart Overnight Associate — Leduc** | **NEW 08-07** · 5302 Discovery Way · overnight stock · south |
+| CZ | **Dynaflex Shipper/Receiver — Nisku** | **NEW 08-07** · #2003 5 St · $25–30/hr · forklift preferred |
 | CV | **Lifting Solutions Shipper & Receiver — 78 Ave** | **NEW 08-06** · 3710 78 Ave NW · SE Weir · ~10–12 min |
 | CW | **Walmart Stock Unloader — Currents** | **NEW 08-06** · 6110 Currents Dr NW · unload dock · ≠ #BY/#BJ |
 | CS | **Purolator Sorter AM 378 — 76 Ave Freight** | **NEW 08-05** · 2840 76 Ave NW · $23.40/hr · ~10–12 min |

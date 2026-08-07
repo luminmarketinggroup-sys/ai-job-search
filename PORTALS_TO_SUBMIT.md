@@ -8,6 +8,23 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0aw. CanadaOne Auto — Digital Marketing Coordinator Edmonton (NEW 2026-08-07)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4449762330
+   Materials: cv/main_canadaone.pdf + cover_canadaone_digital_marketing_coordinator.pdf
+   Note: Fit ~74 · Google/Meta + SEO/GEO + Audi Fixed Ops · confirm ≥$60k
+
+0ax. Attention Sales & Marketing — Paid Media Specialist Remote Canada (NEW 2026-08-07)
+   Email: mailto:tyler@attentioncompany.ca?subject=Application%3A%20Paid%20Media%20Specialist%20-%20Dylan%20Michael
+   Portal: https://attentioncompany.ca/careers
+   LinkedIn: https://ca.linkedin.com/jobs/view/4444833951
+   Materials: cv/main_attention.pdf + cover_attention_paid_media_specialist.pdf
+   Note: Fit ~72 · Google + Meta · confirm ≥$60k · Resend unset this run
+
+0ay. Roveia Health / Roveir — Performance Marketing Lead Remote (NEW 2026-08-07)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4445100059
+   Materials: cv/main_roveia_performance.pdf + cover_roveia_performance_marketing_lead.pdf
+   Note: Fit ~66 · CAD $55–80k confirm ≥$60k · distinct from AM C47
+
 0au. Roveia Health / Roveir — Marketing Account Manager Remote (NEW 2026-08-06)
    LinkedIn: https://ca.linkedin.com/jobs/view/4444891926
    Materials: cv/main_roveia.pdf + cover_roveia_marketing_account_manager.pdf

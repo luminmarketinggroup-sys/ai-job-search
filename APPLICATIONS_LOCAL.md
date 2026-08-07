@@ -11,6 +11,30 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### CX. Copart — Inventory Specialist (Nisku yard) ★ NEW · SOUTH · 2026-08-07
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4444147618  
+- **Address (verified):** 3175 4th Street, Nisku, AB T9E 8L1  
+- **Pay:** $22.38–$25.18/hr · outdoor yard inventory / receiving flow  
+- **Why:** Nisku south corridor vehicle inventory + receiving area · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Inventory Specialist role at Copart Edmonton (3175 4th Street, Nisku). I live nearby at 11110 68 Ave NW and am comfortable with paced outdoor receiving work: documenting vehicle condition, photos, organizing the receiving area, and keeping inventory accurate. Reliable attendance, Class 5 preferred context, and coachable on Copart safety and handheld inventory tools.
+
+### CY. Walmart — Overnight Associate (5302 Discovery Way, Leduc) ★ NEW · SOUTH · 2026-08-07
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4446940658  
+- **Primary location (verified on posting):** 5302 Discovery Way, Leduc, AB T9E 8J7  
+- **Why:** South Leduc overnight stock/freight · ~20–25 min · not Southgate · distinct from Currents unloader (#CW)  
+- **Blurb:**
+> I’m applying for the Overnight Associate role at Walmart Leduc (5302 Discovery Way). I live nearby at 11110 68 Ave NW and am comfortable with paced overnight floor work: stocking, freight support, keeping aisles safe and organized, and showing up reliably for overnight shifts including weekends and holidays as posted.
+
+### CZ. Dynaflex Pipe — Shipper/Receiver (Nisku) ★ NEW · SOUTH · 2026-08-07 · INDEED
+- **Indeed:** https://ca.indeed.com/q-shipper-receiver-l-nisku,-ab-jobs.html (search Dynaflex Pipe · Shipper/Receiver)  
+- **Address (verified):** #2003, 5th Street, Nisku, AB T9E 7X4  
+- **Pay:** $25–$30/hr · full-time · forklift 1 year preferred  
+- **Why:** Nisku industrial shipper/receiver · HDPE pipe load/unload + inventory · ~15–20 min · not Southgate  
+- **Honesty:** Forklift experience preferred (willing to train/refresh)  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Dynaflex Pipe in Nisku (#2003 5th Street). I live nearby at 11110 68 Ave NW and am comfortable with physical shipping/receiving work: loading and unloading, keeping inventory accurate, yard organization, and safe forklift use (willing to train or refresh). Reliable attendance and ready for full-time hours including overtime when needed.
+
 ### CV. Lifting Solutions — Shipper & Receiver (78 Ave / Weir Industrial) ★ NEW · CLOSEST · 2026-08-06
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4449149321  
 - **Portal:** Lifting Solutions careers / Apply on LinkedIn posting  
