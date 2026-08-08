@@ -13,7 +13,7 @@ A0) OILFIELD / HIGH-PAY FIELD — portal this run (NEW)
    Careers hub: https://www.savannaenergy.com/careers/apply-canada/
    Recruiter email (referral/info): rigjobs@savannadrilling.com
    Materials: cv/main_savanna_drilling.pdf + cover_letters/cover_savanna_drilling_rig_jobs.pdf
-   Note: Fit ~45 Moderate · Floorhand $40.60/hr · Alberta rotations 14/7 or 20/10 · Class 5 + reliable vehicle · honest no prior drilling · ADP Apply (account/CAPTCHA likely) · Requisition 1065 / jobId 419984
+   Note: Fit ~45 · Floorhand $40.60/hr · rotations 14/7 or 20/10 · Class 5 · honest no drilling · ADP Apply STARTED (privacy + name/email/phone) · BLOCKED: verify code emailed to dylanschule@live.ca then upload resume/cover · Requisition 1065 / jobId 419984
 
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
