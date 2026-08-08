@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (updated 2026-08-08)
+# Application Status — Dylan Michael (updated 2026-08-08 (Savanna submitted))
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -9,13 +9,9 @@ Southgate Centre public-facing roles are skipped (do not apply).
 
 ---
 
-## Ready to apply — oilfield (user-requested 2026-08-08)
+## Ready to apply — oilfield
 
-| # | Track | Company | Role | Materials | Portal |
-|---|-------|---------|------|-----------|--------|
-| S1 | Field / income | **Savanna Drilling** | Drilling Rig Jobs (Floorhand) | `cv/main_savanna_drilling.pdf` + `cover_letters/cover_savanna_drilling_rig_jobs.pdf` | [ADP job 419984](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=527a8af5-4d9b-4bdc-8345-95845e3da2fc&ccId=19000101_000001&jobId=419984&lang=en_CA) |
-
-**Fit:** Moderate (~45). Strong pay (Floorhand $40.60/hr+), Edmonton base for Alberta hitches, Class 5. Gap: no prior drilling / tickets (stated honestly). Not a marketing career role.
+_None pending. Savanna Drilling Floorhand submitted via ADP 2026-08-08._
 
 ---
 
@@ -24,6 +20,7 @@ Southgate Centre public-facing roles are skipped (do not apply).
 
 | # | Track | Company | Role | How | Date |
 |---|-------|---------|------|-----|------|
+| S1 | Field | Savanna Drilling | Drilling Rig Jobs (Floorhand) | ADP Workforce Now (thank-you confirmation) | 2026-08-08 |
 | 1 | Career | Adster Creative | Digital Marketing Strategist | Email Resend → info@adster.ca (also finish Jotform if asked) | 2026-07-22 |
 | 2 | Career | Connected Creative | Marketing Manager | Email Resend → hannah@connectedcreative.ca | 2026-07-22 |
 | 3 | Career | Guardium Group | Digital Marketing Specialist | Email Resend → info@guardiumgroup.com | 2026-07-22 |

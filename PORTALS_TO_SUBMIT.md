@@ -8,12 +8,12 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A0) OILFIELD / HIGH-PAY FIELD — portal this run (NEW)
 ============================================================
-0az. Savanna Drilling — Drilling Rig Jobs Alberta / Floorhand (NEW 2026-08-08) ★ USER-REQUESTED
+0az. Savanna Drilling — Drilling Rig Jobs Alberta / Floorhand (SUBMITTED 2026-08-08 via ADP) ★ DONE
    ADP: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=527a8af5-4d9b-4bdc-8345-95845e3da2fc&ccId=19000101_000001&jobId=419984&lang=en_CA
    Careers hub: https://www.savannaenergy.com/careers/apply-canada/
    Recruiter email (referral/info): rigjobs@savannadrilling.com
    Materials: cv/main_savanna_drilling.pdf + cover_letters/cover_savanna_drilling_rig_jobs.pdf
-   Note: Fit ~45 · Floorhand $40.60/hr · rotations 14/7 or 20/10 · Class 5 · honest no drilling · ADP Apply STARTED (privacy + name/email/phone) · BLOCKED: verify code emailed to dylanschule@live.ca then upload resume/cover · Requisition 1065 / jobId 419984
+   Note: SUBMITTED 2026-08-08 · ADP thank-you confirmation · resume+cover uploaded · screening honest (no drilling; H2S no/willing; Class 5; 75lb; Canada work auth) · Req 1065 / jobId 419984
 
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)

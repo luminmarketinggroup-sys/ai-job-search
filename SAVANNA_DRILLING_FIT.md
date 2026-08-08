@@ -38,3 +38,9 @@ Draft complete. Submit via ADP Apply when ready (account/CAPTCHA may require Des
 - [x] Job posting wages/requirements verified via browser scrape of ADP
 - [ ] Glassdoor/network insider check (optional follow-up)
 - [ ] Named hiring contact (none on posting; recruiter mailbox rigjobs@savannadrilling.com)
+
+
+## Submit Outcome
+- **Status:** SUBMITTED 2026-08-08 via ADP Workforce Now
+- **Confirmation:** "Thank You! We have received your application."
+- Resume + cover letter uploaded; screening answers honest (no prior drilling; H2S Alive No / willing to obtain)
