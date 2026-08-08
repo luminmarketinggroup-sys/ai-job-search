@@ -11,6 +11,22 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DA. Randstad — Warehouse & Logistics Specialist (Nisku) ★ NEW · SOUTH · 2026-08-08
+- **Portal:** https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/  
+- **Address:** Nisku, AB (client warehouse / energy-solutions site · confirm exact street at apply)  
+- **Pay / schedule:** $23–$25/hr · permanent · Mon–Fri 8:00 AM – 4:30 PM · reliable personal vehicle + ASAP start  
+- **Why:** Nisku south corridor receive/pack/ship + inventory · forklift operate (willing to train/refresh) · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse & Logistics Specialist role with Randstad in Nisku ($23–$25/hr, Mon–Fri 8:00–4:30). I live nearby at 11110 68 Ave NW, have a reliable vehicle, and am comfortable with paced shipping/receiving work: checking inbound against POs, packing and labeling outbound orders, cycle counts, and keeping a clean safe warehouse. Willing to train or refresh forklift as required. Available for an immediate start and ready for site safety/PPE requirements.
+
+### DB. Apex Distribution — Warehouse Associate (Nisku) ★ NEW · SOUTH · 2026-08-08 · INDEED
+- **Indeed:** https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html (search Apex Distribution · Warehouse Associate)  
+- **Address (verified):** 1080 34 Ave, Nisku, AB T9E 1K7  
+- **Pay:** $22/hr · full-time · forklift certified an asset (willing to train) · pre-employment drug/alcohol test  
+- **Why:** Nisku oilfield supply warehouse ship/receive · unload/reload crates · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at Apex Distribution in Nisku (1080 34 Ave). I live nearby at 11110 68 Ave NW and am comfortable with physical shipping/receiving work: preparing outbound shipments, wrapping product, loading/unloading, and keeping paperwork and the work area accurate and organized. Forklift certification is an asset — willing to train. Reliable attendance and ready for full-time hours and pre-employment screening as posted.
+
 ### CX. Copart — Inventory Specialist (Nisku yard) ★ NEW · SOUTH · 2026-08-07
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4444147618  
 - **Address (verified):** 3175 4th Street, Nisku, AB T9E 8L1  

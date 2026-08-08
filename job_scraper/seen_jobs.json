@@ -5989,6 +5989,174 @@
       "fit": "low",
       "status": "skipped",
       "notes": "Store unclear / produce twin pattern"
+    },
+    "https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/": {
+      "title": "Warehouse & Logistics Specialist",
+      "company": "Randstad",
+      "url": "https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "ready_to_submit"
+    },
+    "https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html#apex-distribution-warehouse-associate": {
+      "title": "Warehouse Associate",
+      "company": "Apex Distribution",
+      "url": "https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html#apex-distribution-warehouse-associate",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "ready_to_submit"
+    },
+    "https://laivly.bamboohr.com/careers/114": {
+      "title": "Digital Marketing Specialist (Paid Media & Growth)",
+      "company": "Laivly",
+      "url": "https://laivly.bamboohr.com/careers/114",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4451012976": {
+      "title": "Digital Marketing Specialist (Paid Media & Growth)",
+      "company": "Laivly",
+      "url": "https://ca.linkedin.com/jobs/view/4451012976",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4450392447": {
+      "title": "Warehouse & Production Sorter",
+      "company": "Savers Value Village",
+      "url": "https://ca.linkedin.com/jobs/view/4450392447",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4450398311": {
+      "title": "Warehouse Associate",
+      "company": "Savers Value Village",
+      "url": "https://ca.linkedin.com/jobs/view/4450398311",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4451001049": {
+      "title": "Sorter",
+      "company": "Veolia",
+      "url": "https://ca.linkedin.com/jobs/view/4451001049",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4450515482": {
+      "title": "CAN Warehouse Worker",
+      "company": "Interstate Batteries",
+      "url": "https://ca.linkedin.com/jobs/view/4450515482",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4450074039": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4450074039",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4447867018": {
+      "title": "OMNI Customer Fulfillment Associate PT",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4447867018",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4449219240": {
+      "title": "Shipper/Receiver",
+      "company": "Federal Signal Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4449219240",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4425655747": {
+      "title": "Digital Marketing & Analytics Specialist",
+      "company": "Kinaxis",
+      "url": "https://ca.linkedin.com/jobs/view/4425655747",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4441238382": {
+      "title": "Search Advertising Lead - E-Commerce",
+      "company": "BlueTuskr",
+      "url": "https://ca.linkedin.com/jobs/view/4441238382",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4448475172": {
+      "title": "Performance Marketing Manager",
+      "company": "Vendry",
+      "url": "https://ca.linkedin.com/jobs/view/4448475172",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4450679217": {
+      "title": "SEO Manager (EST Hours)",
+      "company": "Pressure Washing Marketing Pros",
+      "url": "https://ca.linkedin.com/jobs/view/4450679217",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4450754582": {
+      "title": "Associate Director, Paid Media",
+      "company": "Ground News",
+      "url": "https://ca.linkedin.com/jobs/view/4450754582",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4451019342": {
+      "title": "AI Automation and Growth Coordinator",
+      "company": "HomeLife/Cimerman",
+      "url": "https://ca.linkedin.com/jobs/view/4451019342",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4449012444": {
+      "title": "Digital Marketing Coordinator",
+      "company": "Oxford International",
+      "url": "https://ca.linkedin.com/jobs/view/4449012444",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4448765860": {
+      "title": "Search Specialist",
+      "company": "Reshift Media",
+      "url": "https://ca.linkedin.com/jobs/view/4448765860",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4448436113": {
+      "title": "Warehouse Order Selector - Day",
+      "company": "Sobeys",
+      "url": "https://ca.linkedin.com/jobs/view/4448436113",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://www.randstad.ca/jobs/shipper-receiver_edmonton_47207997/": {
+      "title": "Shipper Receiver",
+      "company": "Randstad",
+      "url": "https://www.randstad.ca/jobs/shipper-receiver_edmonton_47207997/",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped"
     }
   },
   "last_run": "2026-07-28"

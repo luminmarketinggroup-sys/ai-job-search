@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DA | **Randstad Warehouse & Logistics Specialist — Nisku** | **NEW 08-08** · $23–25/hr Mon–Fri · receive/pack/ship |
+| DB | **Apex Distribution Warehouse Associate — Nisku** | **NEW 08-08** · 1080 34 Ave · $22/hr · forklift train OK |
 | CX | **Copart Inventory Specialist — Nisku** | **NEW 08-07** · 3175 4 St Nisku · $22–25/hr · yard inventory/receive |
 | CY | **Walmart Overnight Associate — Leduc** | **NEW 08-07** · 5302 Discovery Way · overnight stock · south |
 | CZ | **Dynaflex Shipper/Receiver — Nisku** | **NEW 08-07** · #2003 5 St · $25–30/hr · forklift preferred |

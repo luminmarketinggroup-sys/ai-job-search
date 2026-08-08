@@ -8,6 +8,12 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0az. Laivly — Digital Marketing Specialist (Paid Media & Growth) Remote Canada (NEW 2026-08-08)
+   Portal: https://laivly.bamboohr.com/careers/114 · https://laivly.com/join-the-team/
+   LinkedIn: https://ca.linkedin.com/jobs/view/4451012976
+   Materials: cv/main_laivly.pdf + cover_laivly_digital_marketing_specialist.pdf
+   Note: Fit ~71 · Google/Meta + GHL→HubSpot honesty · confirm ≥$60k
+
 0aw. CanadaOne Auto — Digital Marketing Coordinator Edmonton (NEW 2026-08-07)
    LinkedIn: https://ca.linkedin.com/jobs/view/4449762330
    Materials: cv/main_canadaone.pdf + cover_canadaone_digital_marketing_coordinator.pdf
@@ -222,6 +228,14 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L108. Randstad Warehouse & Logistics Specialist — Nisku ★ NEW 2026-08-08
+   Portal: https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/
+   Pay: $23–25/hr Mon–Fri 8:00–4:30 · Blurb: APPLICATIONS_LOCAL.md#DA · ~15–20 min
+
+L109. Apex Distribution Warehouse Associate — Nisku ★ NEW 2026-08-08 · INDEED
+   Indeed: https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html (Apex Distribution · Warehouse Associate)
+   Address: 1080 34 Ave, Nisku T9E 1K7 · $22/hr · Blurb: APPLICATIONS_LOCAL.md#DB · ~15–20 min
+
 L100. Purolator Sorter AM 378 — Edmonton Freight / 76 Ave ★ NEW 2026-08-05
    LinkedIn: https://ca.linkedin.com/jobs/view/4448912138
    Portal: https://www.purolator.com/en/careers (posting 69465)

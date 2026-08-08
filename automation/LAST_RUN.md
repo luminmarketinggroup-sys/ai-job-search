@@ -1,24 +1,20 @@
-# Last automation run — 2026-08-07
+# Last automation run — 2026-08-08
 
 ## Summary
-- **3 new local drafts** (Copart Inventory Specialist Nisku; Walmart Overnight Associate Leduc; Dynaflex Shipper/Receiver Nisku)
-- **3 new career drafts** (CanadaOne Digital Marketing Coordinator ~74; Attention Paid Media Specialist ~72; Roveia Performance Marketing Lead ~66)
-- **Resend unset** — mailto/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: GFL Recycling Sorter (Winterburn NW); Sobeys Warehouse Night (156 St NW); Kal Tire Acheson; CanadaOne Digital Marketing Manager (degree hard-req); POD Calgary hybrid; Bloom Montreal; Versatile $52–65k RE niche; Storm Ideas US PT hours; Jobgether Off-page SEO; Tali/Float/Speer/Advantage senior growth; Salt XC / Rockwell Toronto hybrid
+- **2 new local drafts** (Randstad Warehouse & Logistics Specialist Nisku; Apex Distribution Warehouse Associate Nisku)
+- **1 new career draft** (Laivly Digital Marketing Specialist Paid Media & Growth ~71)
+- **Resend unset** — portal/checklist only (no email claimed sent; no portal submits claimed)
+- Skipped: Savers Acheson west; Veolia Aurum NE; Interstate Batteries 118 Ave NW; Walmart OMNI 127 St / Sherwood Park; Federal Signal WTB twin; Kinaxis enterprise MarTech (~58); BlueTuskr / Vendry / PWMP EST / Ground News director; HomeLife North York; Oxford $45–50k; Reshift Toronto; Sobeys Day RSC NW
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Copart | Inventory Specialist (Nisku) | https://ca.linkedin.com/jobs/view/4444147618 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CX` |
-| Local | Walmart Canada | Overnight Associate (Leduc) | https://ca.linkedin.com/jobs/view/4446940658 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CY` |
-| Local | Dynaflex Pipe | Shipper/Receiver (Nisku) | https://ca.indeed.com/q-shipper-receiver-l-nisku,-ab-jobs.html | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#CZ` |
-| Career | CanadaOne Auto | Digital Marketing Coordinator | https://ca.linkedin.com/jobs/view/4449762330 | `cv/main_canadaone.pdf` · `cover_letters/cover_canadaone_digital_marketing_coordinator.pdf` |
-| Career | Attention Sales & Marketing | Paid Media Specialist | https://ca.linkedin.com/jobs/view/4444833951 | `cv/main_attention.pdf` · `cover_letters/cover_attention_paid_media_specialist.pdf` |
-| Career | Roveia Health / Roveir | Performance Marketing Lead | https://ca.linkedin.com/jobs/view/4445100059 | `cv/main_roveia_performance.pdf` · `cover_letters/cover_roveia_performance_marketing_lead.pdf` |
+| Local | Randstad | Warehouse & Logistics Specialist (Nisku) | https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/ | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DA` |
+| Local | Apex Distribution | Warehouse Associate (1080 34 Ave Nisku) | https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DB` |
+| Career | Laivly | Digital Marketing Specialist (Paid Media & Growth) | https://laivly.bamboohr.com/careers/114 · https://ca.linkedin.com/jobs/view/4451012976 | `cv/main_laivly.pdf` · `cover_letters/cover_laivly_digital_marketing_specialist.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`
 - Career packs: `APPLICATIONS_READY.md`
 - Submit order: `SUBMIT_BATCH.md` · portals: `PORTALS_TO_SUBMIT.md`
-- Attention mailto: `EMAIL_APPLIES.md` (M6)

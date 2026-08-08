@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-08 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C52 | Laivly | Digital Marketing Specialist (Paid Media & Growth) | High (~71) | **PORTAL** https://laivly.bamboohr.com/careers/114 · https://laivly.com/join-the-team/ · LinkedIn https://ca.linkedin.com/jobs/view/4451012976 | `cv/main_laivly.pdf` | `cover_letters/cover_laivly_digital_marketing_specialist.pdf` | Remote Canada; Google/Meta + CRM follow-up + Claude match; HubSpot/AdRoll/B2B SaaS book still growing vs 2 SMB accounts; confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):** none verified public apply email for Laivly — use BambooHR / LinkedIn.
+
+**Local drafts this run:** Randstad Warehouse & Logistics Specialist (Nisku), Apex Distribution Warehouse Associate (1080 34 Ave Nisku) — see `APPLICATIONS_LOCAL.md` (#DA–#DB).
+
+Skipped this run (fit/location/pay): Savers/Value Village CPC (21457 115 Ave / Acheson west); Veolia Sorter MRF (250 Aurum Rd NE); Interstate Batteries warehouse (15840 118 Ave NW); Walmart OMNI 16940 127 St NW; Walmart OMNI Sherwood Park Wye Rd (prior non-corridor skip); Federal Signal Shipper/Receiver (Western Truck Body twin of #CU; 2 yrs + forklift cert hard-req); Randstad Shipper Receiver building-products (forklift ticket hard-req + address unknown); Sobeys Warehouse Order Selector Day (same RSC NW pattern); Kinaxis Digital Campaign Specialist (~58; Eloqua/Salesforce/6sense + 4+ yrs B2B enterprise); BlueTuskr Search Advertising Lead (~55; 3–5 yrs agency ecommerce + Microsoft Ads lead); Vendry Performance Marketing Manager (~55; 5+ yrs hands-on growth); Pressure Washing Marketing Pros SEO Manager (EST hard hours + lead 3 SEOs); Ground News Associate Director Paid Media (director-scale Google Ads); HomeLife AI Automation Coordinator (North York onsite); Reshift Search Specialist (Toronto HQ); Fitness World Growth (Richmond BC); Oxford Digital Marketing Coordinator ($45–50k under floor); Jane SEO Specialist/Onboarding (not live on Ashby this run); Mattermost Digital Experience SEO (removed); POD Calgary / StudioFlow Victoria priors.
 
 ## NEW drafts this run (2026-08-07 daily scrape)
 
