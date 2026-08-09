@@ -1,4 +1,4 @@
-# Application Status — Dylan Michael (updated 2026-08-08)
+# Application Status — Dylan Michael (updated 2026-08-09)
 
 Master list: **already applied** vs **ready to apply**.  
 Southgate Centre public-facing roles are skipped (do not apply).
@@ -57,6 +57,9 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L110 | **Randstad Nisku** | Shipper Receiver | **NEW 08-09** · $23–25/hr Mon–Fri · mailto grace.mendoza@ | https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/ |
+| L111 | **Walmart Leduc** | OMNI Customer Fulfillment Associate | **NEW 08-09** · 5302 Discovery Way · pick/pack · ≠ Overnight | https://ca.linkedin.com/jobs/view/4451099868 |
+| L112 | **Silent-Aire / JC Nisku** | Tool Crib Attendant | **NEW 08-09** · inventory/tool crib · night or rotating | https://ca.linkedin.com/jobs/view/4438754572 |
 | L108 | **Randstad Nisku** | Warehouse & Logistics Specialist | **NEW 08-08** · $23–25/hr Mon–Fri · portal | https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/ |
 | L109 | **Apex Distribution Nisku** | Warehouse Associate | **NEW 08-08** · 1080 34 Ave · $22/hr · Indeed | https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html |
 | L105 | **Copart Nisku** | Inventory Specialist | **NEW 08-07** · 3175 4 St · $22–25/hr · yard inventory | https://ca.linkedin.com/jobs/view/4444147618 |
@@ -183,6 +186,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
+| C53 | AutoCanada / ACX | Media & Performance Marketing Specialist | `main_acx` + cover · Fit ~72 · remote/Edmonton · $70–85k | https://ca.linkedin.com/jobs/view/4437350083 |
 | C52 | Laivly | Digital Marketing Specialist (Paid Media & Growth) | `main_laivly` + cover · Fit ~71 · remote Canada · BambooHR | https://laivly.bamboohr.com/careers/114 |
 | C49 | CanadaOne Auto | Digital Marketing Coordinator | `main_canadaone` + cover · Fit ~74 · Edmonton · confirm ≥$60k | https://ca.linkedin.com/jobs/view/4449762330 |
 | C50 | Attention Sales & Marketing | Paid Media Specialist | `main_attention` + cover · Fit ~72 · **mailto** tyler@ · remote Canada | https://ca.linkedin.com/jobs/view/4444833951 |
@@ -264,6 +268,7 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 - Still need you for portals: AMA (C14), Keysight (C2), Elevation (C7), AutoCanada (C8), warehouse Priority A, optional form follow-ups, BIS careers portal
 - New career packs compiled 2026-07-22: Riva, StackAdapt, Pacesetter, Morguard, AMA, **Goose Digital (Account Lead + Demand Gen)**
 - Near-address scrape 2026-07-22 (pm): **Roofmart 62 Ave**, **Hercules 75 St**, U-Haul U-Box, NAPA/UAP Parts Handler, Federal Signal $23–27, Brandt, Richards Packaging, JC Shipper Nisku, Allredi, JOEY South Common / Aramark / Atria BOH
+- **2026-08-09 daily run:** local DC–DE (Randstad Shipper Receiver Nisku $23–25 mailto grace.mendoza@, Walmart OMNI CFA Leduc Discovery Way, Silent-Aire Tool Crib Attendant Nisku); career C53 (ACX Media & Performance Marketing Specialist ~72). Resend unset — mailto Randstad + portal/checklist. Skipped Walmart Unloader 40 St NE; EECOL Fort Sask; Univar degree; KOHO CRO closed; ToursByLocals inactive; WFG Meta Ads ~58; Clever Senior Performance ~58; Toronto hybrids; Finning portfolio; OpenText SEO; CCS bilingual floor/French.
 - **2026-08-08 daily run:** local DA–DB (Randstad Warehouse & Logistics Specialist Nisku $23–25, Apex Distribution Warehouse Associate 1080 34 Ave $22); career C52 (Laivly Digital Marketing Specialist Paid Media & Growth ~71 BambooHR). Resend unset — portal/checklist only. Skipped Savers Acheson; Veolia Aurum NE; Interstate Batteries 118 Ave NW; Walmart OMNI 127 St / Sherwood Park; Federal Signal WTB twin; Kinaxis ~58; BlueTuskr/Vendry/PWMP EST/Ground News director; HomeLife North York; Oxford $45–50k; Reshift Toronto; Sobeys Day RSC NW.
 - **2026-08-07 daily run:** local CX–CZ (Copart Inventory Specialist Nisku 3175 4 St, Walmart Overnight Leduc 5302 Discovery Way, Dynaflex Shipper/Receiver Nisku $25–30); career C49–C51 (CanadaOne Digital Marketing Coordinator ~74, Attention Paid Media ~72 mailto tyler@, Roveia Performance Marketing Lead ~66). Resend unset — mailto/checklist only. Skipped GFL Winterburn NW; Sobeys RSC NW; Kal Tire Acheson; CanadaOne DMM degree hard-req; POD Calgary hybrid; Versatile $52–65k RE niche; Storm Ideas PT hours; Jobgether off-page; Tali/Float/Advantage senior growth.
 - **2026-08-06 daily run:** local CV–CW (Lifting Solutions Shipper & Receiver 3710 78 Ave, Walmart Stock Unloader Currents 6110 Currents); career C47–C48 (Roveia Marketing Account Manager ~72, Flywheel Paid Growth Lead ~66). Resend unset — portal/checklist only. Skipped DashMart 108 Ave; Wesco 184 St NW; 7-Eleven Freezer north; Reliable Controls 182 St NW; CNRL 3+ yrs forklift; SiteNative CRM HubSpot stretch; Felix/Fable/Awesome Motive/ElevenLabs stretches; FlightHub Montreal; under-floor Cossette/Starcom/Web Wizards.

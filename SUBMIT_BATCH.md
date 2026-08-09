@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DC | **Randstad Shipper Receiver — Nisku** | **NEW 08-09** · $23–25/hr Mon–Fri · **EMAIL** grace.mendoza@randstad.ca |
+| DD | **Walmart OMNI CFA — Leduc Discovery Way** | **NEW 08-09** · 5302 Discovery Way · pick/pack · ≠ Overnight #CY |
+| DE | **Silent-Aire Tool Crib Attendant — Nisku** | **NEW 08-09** · inventory/tool crib · night or rotating days |
 | DA | **Randstad Warehouse & Logistics Specialist — Nisku** | **NEW 08-08** · $23–25/hr Mon–Fri · receive/pack/ship |
 | DB | **Apex Distribution Warehouse Associate — Nisku** | **NEW 08-08** · 1080 34 Ave · $22/hr · forklift train OK |
 | CX | **Copart Inventory Specialist — Nisku** | **NEW 08-07** · 3175 4 St Nisku · $22–25/hr · yard inventory/receive |

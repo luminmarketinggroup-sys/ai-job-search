@@ -6157,7 +6157,255 @@
       "first_seen": "2026-08-08",
       "fit": "medium",
       "status": "skipped"
+    },
+    "https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/": {
+      "title": "Shipper Receiver - Nisku",
+      "company": "Randstad",
+      "url": "https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4451099868": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451099868",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Primary 5302 Discovery Way Leduc"
+    },
+    "https://ca.linkedin.com/jobs/view/4438754572": {
+      "title": "Tool Crib Attendant",
+      "company": "Johnson Controls / Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/4438754572",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Nisku tool crib / inventory BOH"
+    },
+    "https://ca.linkedin.com/jobs/view/4437350083": {
+      "title": "Media & Performance Marketing Specialist - ACX Corporate Support",
+      "company": "AutoCanada / ACX",
+      "url": "https://ca.linkedin.com/jobs/view/4437350083",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Fit ~72; remote or Edmonton; $70-85k"
+    },
+    "https://ca.linkedin.com/jobs/view/4451317079": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451317079",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Primary 13703 40 St NW T5Y NE"
+    },
+    "https://ca.linkedin.com/jobs/view/4438756682": {
+      "title": "Warehouse Associate",
+      "company": "EECOL Electric",
+      "url": "https://ca.linkedin.com/jobs/view/4438756682",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Fort Saskatchewan"
+    },
+    "https://ca.linkedin.com/jobs/view/4432881185": {
+      "title": "Inventory Specialist",
+      "company": "Univar Solutions",
+      "url": "https://ca.linkedin.com/jobs/view/4432881185",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "University/college diploma hard-req"
+    },
+    "https://ca.linkedin.com/jobs/view/4429824149": {
+      "title": "CRO Specialist",
+      "company": "KOHO",
+      "url": "https://ca.linkedin.com/jobs/view/4429824149",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_closed",
+      "notes": "LinkedIn no longer accepting; not listed on Ashby board this run"
+    },
+    "https://ca.linkedin.com/jobs/view/4441335961": {
+      "title": "Meta Ads Specialist",
+      "company": "Western Financial Group",
+      "url": "https://ca.linkedin.com/jobs/view/4441335961",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Fit ~58; 5+ yrs + six-to-seven-figure budgets"
+    },
+    "https://ca.linkedin.com/jobs/view/4426648421": {
+      "title": "Senior Performance Marketing Specialist",
+      "company": "Clever Digital Marketing",
+      "url": "https://ca.linkedin.com/jobs/view/4426648421",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Fit ~58; $100k+/mo Meta lead-gen ask"
+    },
+    "https://ca.linkedin.com/jobs/view/4450726296": {
+      "title": "Paid Media Manager",
+      "company": "Pomp & Circumstance PR",
+      "url": "https://ca.linkedin.com/jobs/view/4450726296",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto hybrid 3 days office"
+    },
+    "https://ca.linkedin.com/jobs/view/4444757431": {
+      "title": "Digital Marketing Specialist",
+      "company": "Knix",
+      "url": "https://ca.linkedin.com/jobs/view/4444757431",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto; 4+ yrs paid social"
+    },
+    "https://ca.linkedin.com/jobs/view/4442130036": {
+      "title": "Growth Marketing Specialist",
+      "company": "Turo",
+      "url": "https://ca.linkedin.com/jobs/view/4442130036",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto hybrid 3 days"
+    },
+    "https://ca.linkedin.com/jobs/view/4450914810": {
+      "title": "Marketing Portfolio Manager \u2013 Aftermarket",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4450914810",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Senior aftermarket portfolio stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4447319188": {
+      "title": "SEO Manager",
+      "company": "OpenText",
+      "url": "https://ca.linkedin.com/jobs/view/4447319188",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Enterprise SEO + degree stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4451002235": {
+      "title": "Bilingual Digital Campaign & Reporting Specialist",
+      "company": "Canadian Cancer Society",
+      "url": "https://ca.linkedin.com/jobs/view/4451002235",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "$57-63k floor risk + bilingual French hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/4451081647": {
+      "title": "SEO Manager",
+      "company": "Savvy Talent",
+      "url": "https://ca.linkedin.com/jobs/view/4451081647",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Vancouver hybrid 6+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4450941705": {
+      "title": "On-Page SEO Analyst",
+      "company": "WhiteLake Technology Solution",
+      "url": "https://ca.linkedin.com/jobs/view/4450941705",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Thin Niagara listing"
+    },
+    "https://ca.linkedin.com/jobs/view/4450375185": {
+      "title": "Feeder Folder",
+      "company": "Alsco Uniforms",
+      "url": "https://ca.linkedin.com/jobs/view/4450375185",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Production laundry not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4448466384": {
+      "title": "Cashier",
+      "company": "One Therapy Network",
+      "url": "https://ca.linkedin.com/jobs/view/4448466384",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "220 Mayfield Common NW public-facing"
+    },
+    "https://jaabz.com/jobs/185724-seo-specialist-19-month-maternity-cover-remote": {
+      "title": "SEO Specialist (Maternity Cover)",
+      "company": "ToursByLocals",
+      "url": "https://jaabz.com/jobs/185724-seo-specialist-19-month-maternity-cover-remote",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_closed",
+      "notes": "No longer accepting applications"
+    },
+    "https://ca.linkedin.com/jobs/view/4447217342": {
+      "title": "Marketing and Communications Specialist",
+      "company": "RECRUITMENT PARTNERS INC.",
+      "url": "https://ca.linkedin.com/jobs/view/4447217342",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Bachelor + 5+ yrs corporate comms"
+    },
+    "https://ca.linkedin.com/jobs/view/4448467412": {
+      "title": "DISPATCHER - DELIVERY SUPERVISOR",
+      "company": "Consolidated Gypsum Supply Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4448467412",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Dispatcher/supervisor not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4450719889": {
+      "title": "Transportation Specialist",
+      "company": "McKesson",
+      "url": "https://ca.linkedin.com/jobs/view/4450719889",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Transportation specialist not warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/4450764342": {
+      "title": "Planner",
+      "company": "Day & Ross",
+      "url": "https://ca.linkedin.com/jobs/view/4450764342",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Planner desk role"
     }
-  },
-  "last_run": "2026-07-28"
+  }
 }

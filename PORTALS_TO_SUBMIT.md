@@ -8,6 +8,11 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0ba. AutoCanada / ACX — Media & Performance Marketing Specialist Remote or Edmonton (NEW 2026-08-09)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4437350083
+   Materials: cv/main_acx.pdf + cover_acx_media_performance_marketing_specialist.pdf
+   Note: Fit ~72 · CAD $70–85k + up to $8k bonus · Google/Meta + Audi Fixed Ops · OOH/vendor honesty
+
 0az. Laivly — Digital Marketing Specialist (Paid Media & Growth) Remote Canada (NEW 2026-08-08)
    Portal: https://laivly.bamboohr.com/careers/114 · https://laivly.com/join-the-team/
    LinkedIn: https://ca.linkedin.com/jobs/view/4451012976

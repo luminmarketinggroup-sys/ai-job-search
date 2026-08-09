@@ -1,18 +1,19 @@
-# Last automation run — 2026-08-08
+# Last automation run — 2026-08-09
 
 ## Summary
-- **2 new local drafts** (Randstad Warehouse & Logistics Specialist Nisku; Apex Distribution Warehouse Associate Nisku)
-- **1 new career draft** (Laivly Digital Marketing Specialist Paid Media & Growth ~71)
-- **Resend unset** — portal/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: Savers Acheson west; Veolia Aurum NE; Interstate Batteries 118 Ave NW; Walmart OMNI 127 St / Sherwood Park; Federal Signal WTB twin; Kinaxis enterprise MarTech (~58); BlueTuskr / Vendry / PWMP EST / Ground News director; HomeLife North York; Oxford $45–50k; Reshift Toronto; Sobeys Day RSC NW
+- **3 new local drafts** (Randstad Shipper Receiver Nisku; Walmart OMNI CFA Leduc Discovery Way; Silent-Aire Tool Crib Attendant Nisku)
+- **1 new career draft** (AutoCanada / ACX Media & Performance Marketing Specialist ~72)
+- **Resend unset** — portal/checklist + mailto for Randstad only (no email claimed sent; no portal submits claimed)
+- Skipped: Walmart Unloader 40 St NE; EECOL Fort Sask; Univar degree; KOHO CRO closed; ToursByLocals inactive; WFG Meta Ads ~58; Clever Senior Performance ~58; Toronto hybrid (Pomp/Knix/Turo); Finning portfolio stretch; OpenText SEO; CCS bilingual floor/French; Savvy Vancouver hybrid; WhiteLake thin; Alsco laundry; Mayfield cashier NW
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Randstad | Warehouse & Logistics Specialist (Nisku) | https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/ | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DA` |
-| Local | Apex Distribution | Warehouse Associate (1080 34 Ave Nisku) | https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DB` |
-| Career | Laivly | Digital Marketing Specialist (Paid Media & Growth) | https://laivly.bamboohr.com/careers/114 · https://ca.linkedin.com/jobs/view/4451012976 | `cv/main_laivly.pdf` · `cover_letters/cover_laivly_digital_marketing_specialist.pdf` |
+| Local | Randstad | Shipper Receiver (Nisku) | https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/ | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DC` · mailto grace.mendoza@randstad.ca |
+| Local | Walmart Canada | OMNI Customer Fulfillment Associate (Leduc) | https://ca.linkedin.com/jobs/view/4451099868 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DD` |
+| Local | Johnson Controls / Silent-Aire | Tool Crib Attendant (Nisku) | https://ca.linkedin.com/jobs/view/4438754572 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DE` |
+| Career | AutoCanada / ACX | Media & Performance Marketing Specialist | https://ca.linkedin.com/jobs/view/4437350083 | `cv/main_acx.pdf` · `cover_letters/cover_acx_media_performance_marketing_specialist.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

@@ -1,9 +1,22 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-09 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C53 | AutoCanada / ACX Corporate Support | Media & Performance Marketing Specialist | High (~72) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4437350083 | `cv/main_acx.pdf` | `cover_letters/cover_acx_media_performance_marketing_specialist.pdf` | Remote or Edmonton; CAD $70–85k + up to $8k bonus; Google/Meta + Audi Fixed Ops match; OOH/DOOH/radio + 30+ market media book still growing vs 2 SMB accounts |
+
+**Mailto (Resend unset this run):**
+- Randstad Shipper Receiver Nisku (local): `mailto:grace.mendoza@randstad.ca?subject=Application%3A%20Shipper%20Receiver%20Nisku%20-%20Dylan%20Michael`
+
+**Local drafts this run:** Randstad Shipper Receiver Nisku, Walmart OMNI CFA Leduc (5302 Discovery Way), Silent-Aire Tool Crib Attendant Nisku — see `APPLICATIONS_LOCAL.md` (#DC–#DE).
+
+Skipped this run (fit/location/pay): Walmart Stock Unloader 13703 40 St NW T5Y (NE); EECOL Fort Saskatchewan; Univar Inventory Specialist (degree hard-req); KOHO CRO (LinkedIn closed / not on Ashby board); ToursByLocals SEO maternity (inactive); Western Financial Meta Ads (~58; 5+ yrs + six-to-seven-figure budgets); Clever Senior Performance Marketing (~58; $100k+/mo Meta lead-gen); Pomp Paid Media (Toronto hybrid); Knix / Turo (Toronto hybrid); Finning Marketing Portfolio Manager (senior aftermarket stretch); OpenText SEO Manager (enterprise + degree); CCS bilingual campaign ($57–63k floor + French hybrid); Savvy SEO Manager (Vancouver hybrid 6+ yrs); WhiteLake On-Page SEO (thin Niagara listing); Alsco Feeder Folder (production laundry); Cashier Mayfield Common (NW public-facing).
 
 ## NEW drafts this run (2026-08-08 daily scrape)
 

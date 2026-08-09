@@ -11,6 +11,31 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DC. Randstad — Shipper Receiver (Nisku) ★ NEW · SOUTH · 2026-08-09 · EMAIL
+- **Portal:** https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/  
+- **Email:** mailto:grace.mendoza@randstad.ca?subject=Application%3A%20Shipper%20Receiver%20Nisku%20-%20Dylan%20Michael  
+- **Address:** Nisku, AB (industrial client warehouse · confirm exact street at apply)  
+- **Pay / schedule:** $23–$25/hr · permanent · Mon–Fri 8:00 AM – 4:30 PM · forklift preferred (willing to train)  
+- **Why:** Distinct from Warehouse & Logistics Specialist (#DA) · receive/inspect/pack/ship + cycle counts · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper / Receiver role with Randstad in Nisku ($23–$25/hr, Mon–Fri 8:00–4:30). I live nearby at 11110 68 Ave NW, have a reliable vehicle, and am comfortable with paced shipping/receiving work: checking inbound against purchase orders, packing and labeling outbound orders, cycle counts, and keeping a clean safe warehouse. Willing to train or refresh forklift as required. Available for an immediate start and ready for site safety/PPE and pre-employment requirements.
+
+### DD. Walmart — OMNI Customer Fulfillment Associate (5302 Discovery Way, Leduc) ★ NEW · SOUTH · 2026-08-09
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4451099868  
+- **Primary location (verified on posting):** 5302 Discovery Way, Leduc, AB T9E 8J7  
+- **Why:** South Leduc pick/pack/dispense online orders · distinct from Overnight Associate at same store (#CY) and Parsons OMNI (#CJ) · ~20–25 min · not Southgate  
+- **Blurb:**
+> I’m applying for the OMNI Customer Fulfillment Associate role at Walmart Leduc (5302 Discovery Way). I live nearby at 11110 68 Ave NW and am comfortable with paced fulfillment work: picking and packing online orders accurately, keeping the work area organized and safe, and showing up reliably for the posted schedule including weekends and holidays as required.
+
+### DE. Johnson Controls / Silent-Aire — Tool Crib Attendant (Nisku) ★ NEW · SOUTH · 2026-08-09
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4438754572  
+- **Address:** Silent-Aire Nisku manufacturing facility (confirm gate/address at apply)  
+- **Schedule:** Mon–Thu nightshift (6:00 PM – 5:30 AM) or rotating days (6:00 AM – 6:00 PM including weekends)  
+- **Why:** Nisku inventory / tool crib BOH · receive restock + Giga Trak check-in/out · ~15–20 min · not Southgate  
+- **Honesty:** Manufacturing inventory systems / Sage experience still growing; coachable and detail-focused  
+- **Blurb:**
+> I’m applying for the Tool Crib Attendant role at Silent-Aire / Johnson Controls in Nisku. I live nearby at 11110 68 Ave NW, have reliable transportation, and am comfortable with paced inventory and materials work: counting stock, checking inbound parts, restocking, keeping accurate records, and following safety rules in an industrial setting. Willing to learn Sage, Giga Trak, and site methods quickly. Available for the posted night or rotating-day schedules.
+
 ### DA. Randstad — Warehouse & Logistics Specialist (Nisku) ★ NEW · SOUTH · 2026-08-08
 - **Portal:** https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/  
 - **Address:** Nisku, AB (client warehouse / energy-solutions site · confirm exact street at apply)  
