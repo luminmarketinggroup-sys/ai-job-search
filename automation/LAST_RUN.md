@@ -1,19 +1,19 @@
-# Last automation run — 2026-08-09
+# Last automation run — 2026-08-10
 
 ## Summary
-- **3 new local drafts** (Randstad Shipper Receiver Nisku; Walmart OMNI CFA Leduc Discovery Way; Silent-Aire Tool Crib Attendant Nisku)
-- **1 new career draft** (AutoCanada / ACX Media & Performance Marketing Specialist ~72)
-- **Resend unset** — portal/checklist + mailto for Randstad only (no email claimed sent; no portal submits claimed)
-- Skipped: Walmart Unloader 40 St NE; EECOL Fort Sask; Univar degree; KOHO CRO closed; ToursByLocals inactive; WFG Meta Ads ~58; Clever Senior Performance ~58; Toronto hybrid (Pomp/Knix/Turo); Finning portfolio stretch; OpenText SEO; CCS bilingual floor/French; Savvy Vancouver hybrid; WhiteLake thin; Alsco laundry; Mayfield cashier NW
+- **2 new local drafts** (Michels Canada Skilled Labourer / Yard Hand Nisku; EBlock Vehicle Inspections and Lot Coordinator Nisku)
+- **2 new career drafts** (Fortra Web Strategy Lead ~70; Victor Energy Marketing Coordinator ~64)
+- **Resend unset** — portal/checklist only (no email claimed sent; no portal submits claimed)
+- Skipped: Kristian Electric NW; JC Forklift hard-req; Walmart 127 St / Northgate; Starbucks Newcastle NW; Leadpages 5+ yrs SaaS; Thumbtack 8+ yrs ON/BC; Martell Kelowna; Growth Commerce pay unclear; Aylo adult; BWZ SEO filled; Mitratech Greenhouse empty; French Cossette; forklift-ticket Randstad building products
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Randstad | Shipper Receiver (Nisku) | https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/ | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DC` · mailto grace.mendoza@randstad.ca |
-| Local | Walmart Canada | OMNI Customer Fulfillment Associate (Leduc) | https://ca.linkedin.com/jobs/view/4451099868 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DD` |
-| Local | Johnson Controls / Silent-Aire | Tool Crib Attendant (Nisku) | https://ca.linkedin.com/jobs/view/4438754572 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DE` |
-| Career | AutoCanada / ACX | Media & Performance Marketing Specialist | https://ca.linkedin.com/jobs/view/4437350083 | `cv/main_acx.pdf` · `cover_letters/cover_acx_media_performance_marketing_specialist.pdf` |
+| Local | Michels Canada | Skilled Labourer / Yard Hand (Nisku) | https://ca.linkedin.com/jobs/view/4408479095 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DF` |
+| Local | EBlock / E INC | Vehicle Inspections and Lot Coordinator (Nisku) | https://ca.linkedin.com/jobs/view/4443536509 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DG` |
+| Career | Fortra | Web Strategy Lead | https://ca.linkedin.com/jobs/view/4448537353 | `cv/main_fortra.pdf` · `cover_letters/cover_fortra_web_strategy_lead.pdf` |
+| Career | Victor Energy | Marketing Coordinator | https://ca.linkedin.com/jobs/view/4451396097 | `cv/main_victor_energy.pdf` · `cover_letters/cover_victor_energy_marketing_coordinator.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

@@ -11,6 +11,24 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DF. Michels Canada — Skilled Labourer / Yard Hand (Nisku) ★ NEW · SOUTH · 2026-08-10
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4408479095  
+- **Portal:** https://www.michelscanada.com/jobs/apply (apply to current openings; careers@michelscanada.com for accessibility only — do not send resumes there)  
+- **Address:** Michels Canada Nisku yard / HQ area (confirm gate at apply)  
+- **Schedule:** Full-time permanent · yard hand supporting shop/office and vendors  
+- **Why:** Nisku yard load/unload + material restock + equipment staging · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Skilled Labourer / yard hand role at Michels Canada in Nisku. I live nearby at 11110 68 Ave NW, have reliable transportation, and am comfortable with paced outdoor yard work: loading and unloading materials, staging equipment, keeping walkways and work areas clear, and following safety rules around trucks and heavy equipment. Reliable attendance and coachable on Michels Canada yard and PPE methods.
+
+### DG. EBlock — Vehicle Inspections and Lot Coordinator (Nisku) ★ NEW · SOUTH · 2026-08-10
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4443536509  
+- **Portal:** Apply via LinkedIn / Indeed / ADP as posted (E INC recruiting)  
+- **Pay / schedule:** $20–$23/hr · Mon–Fri 8:30 AM – 5:00 PM MDT · age 21+ · valid license + clean abstract  
+- **Why:** Nisku outdoor lot + vehicle move/inspect/clean · ~15–20 min · not Southgate · similar physical receiving flow to Copart inventory work  
+- **Honesty:** AutoGrade / formal vehicle-inspection tooling still growing; coachable  
+- **Blurb:**
+> I’m applying for the Vehicle Inspections and Lot Coordinator role at EBlock in Nisku ($20–$23/hr, Mon–Fri 8:30–5:00). I live nearby at 11110 68 Ave NW, am 21+, hold a valid driver’s license with a clean abstract, and am comfortable with paced outdoor lot work: moving and organizing vehicles, cleaning to standard, basic inspections, snow clearing when needed, and clear customer communication. Reliable attendance and ready for all-weather shifts.
+
 ### DC. Randstad — Shipper Receiver (Nisku) ★ NEW · SOUTH · 2026-08-09 · EMAIL
 - **Portal:** https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/  
 - **Email:** mailto:grace.mendoza@randstad.ca?subject=Application%3A%20Shipper%20Receiver%20Nisku%20-%20Dylan%20Michael  

@@ -6406,6 +6406,118 @@
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
       "notes": "Planner desk role"
+    },
+    "https://ca.linkedin.com/jobs/view/4408479095": {
+      "title": "Skilled Labourer - Michels Canada",
+      "company": "Michels Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4408479095",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4443536509": {
+      "title": "Vehicle Inspections and Lot Coordinator",
+      "company": "EBlock",
+      "url": "https://ca.linkedin.com/jobs/view/4443536509",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4448537353": {
+      "title": "Web Strategy Lead",
+      "company": "Fortra",
+      "url": "https://ca.linkedin.com/jobs/view/4448537353",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4451396097": {
+      "title": "Marketing Coordinator",
+      "company": "Victor Energy",
+      "url": "https://ca.linkedin.com/jobs/view/4451396097",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4437616787": {
+      "title": "Forklift Operator",
+      "company": "Johnson Controls",
+      "url": "https://ca.linkedin.com/jobs/view/4437616787",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4449325797": {
+      "title": "Shop Labourer",
+      "company": "Kristian Electric Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4449325797",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4438287338": {
+      "title": "Growth Marketing Lead (AI-Native)",
+      "company": "Leadpages",
+      "url": "https://ca.linkedin.com/jobs/view/4438287338",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4440994845": {
+      "title": "Performance Marketing Manager",
+      "company": "Serv Recruitment",
+      "url": "https://ca.linkedin.com/jobs/view/4440994845",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4449507917": {
+      "title": "Paid Social Marketing Manager (Remote)",
+      "company": "Growth Commerce",
+      "url": "https://ca.linkedin.com/jobs/view/4449507917",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4451388649": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451388649",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4451173901": {
+      "title": "barista - Store# 20081, NEWCASTLE",
+      "company": "Starbucks",
+      "url": "https://ca.linkedin.com/jobs/view/4451173901",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4449995200": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4449995200",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4221975492": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4221975492",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4427024412": {
+      "title": "Campaign Manager (Paid Social)",
+      "company": "Operatic Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4427024412",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "skipped"
     }
   }
 }

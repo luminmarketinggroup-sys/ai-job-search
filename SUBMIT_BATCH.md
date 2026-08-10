@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DF | **Michels Skilled Labourer / Yard Hand — Nisku** | **NEW 08-10** · yard load/unload · LinkedIn 4408479095 |
+| DG | **EBlock Lot Coordinator — Nisku** | **NEW 08-10** · $20–23/hr Mon–Fri · vehicle lot/inspect |
 | DC | **Randstad Shipper Receiver — Nisku** | **NEW 08-09** · $23–25/hr Mon–Fri · **EMAIL** grace.mendoza@randstad.ca |
 | DD | **Walmart OMNI CFA — Leduc Discovery Way** | **NEW 08-09** · 5302 Discovery Way · pick/pack · ≠ Overnight #CY |
 | DE | **Silent-Aire Tool Crib Attendant — Nisku** | **NEW 08-09** · inventory/tool crib · night or rotating days |

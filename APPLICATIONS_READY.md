@@ -1,9 +1,22 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-10 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C54 | Fortra | Web Strategy Lead | High (~70) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4448537353 · Fortra careers (Greenhouse board empty this run — use LinkedIn) | `cv/main_fortra.pdf` | `cover_letters/cover_fortra_web_strategy_lead.pdf` | Remote Canada; CAD $65–80k; SEO/on-page/technical + SEMrush + GA4/GSC match; enterprise multi-brand migrations / Looker Studio / deep backlinks still growing vs 2 SMB accounts |
+| C55 | Victor Energy | Marketing Coordinator | Good (~64) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4451396097 · https://www.victorenergy.com/careers/ | `cv/main_victor_energy.pdf` | `cover_letters/cover_victor_energy_marketing_coordinator.pdf` | Nisku onsite (1511 Sparrow Dr); content/social/SEO support + proposal coord match; diploma preferred (equivalent considered); Adobe depth + construction-sector marketing still growing; confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):** none verified public apply email for Fortra / Victor Energy — use LinkedIn / careers portals. Michels: do not email resumes to careers@michelscanada.com (accessibility only).
+
+**Local drafts this run:** Michels Canada Skilled Labourer / Yard Hand (Nisku), EBlock Vehicle Inspections and Lot Coordinator (Nisku) — see `APPLICATIONS_LOCAL.md` (#DF–#DG).
+
+Skipped this run (fit/location/pay): Kristian Electric Shop Labourer (14236 121A Ave NW T5L — NW); JC Silent-Aire Forklift Operator (valid forklift license + 2 yrs hard-req); Walmart Stock Unloader / OMNI 16940 127 St + Northgate 137 Ave (NW); Walmart OMNI Fort Sask / Sherwood Park; Walmart Currents Unloader twin of #CW; Starbucks Newcastle 127 St NW; Chipotle crew store unspecified; Cintas Loader/Unloader (laundry + often NW license site); Worley Material Handler (FIFO camp); Veolia Sorter (Aurum NE prior); Hexion / Pagnotta / industrial loader operator stretch; Federal Signal Yard Coordinator (JD describes Calgary yard); Randstad building-products Shipper (forklift ticket hard-req); Leadpages Growth Marketing Lead (~52; 5+ yrs B2B SaaS); Thumbtack SEM (~45; 8+ yrs + ON/BC geo); Martell/Serv Performance Marketing (Kelowna office after 90 days); Operatic Paid Social (Hamilton hybrid); Growth Commerce Paid Social (pay/Canada eligibility unclear); Aylo SEO (adult vertical prior); BWZ SEO Strategist (filled); Mitratech Paid Digital (not on Greenhouse this run); Cossette SEO Intermédiaire (French hybrid).
 
 ## NEW drafts this run (2026-08-09 daily scrape)
 
