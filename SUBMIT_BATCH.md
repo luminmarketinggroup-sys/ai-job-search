@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DH | **PTW Warehouse Assistant — Nisku** | **NEW 08-11** · from $24/hr · AcquireTM portal · LinkedIn 4449302863 |
+| DI | **Cooper Yard Coordinator — 24 St SE** | **NEW 08-11** · $22–25/hr · 8430 24 St NW · yard wash/load |
+| DJ | **Walmart Overnight Associate — Parsons** | **NEW 08-11** · 1203 Parsons Rd NW · overnight receive · ≠ OMNI #CJ |
 | DF | **Michels Skilled Labourer / Yard Hand — Nisku** | **NEW 08-10** · yard load/unload · LinkedIn 4408479095 |
 | DG | **EBlock Lot Coordinator — Nisku** | **NEW 08-10** · $20–23/hr Mon–Fri · vehicle lot/inspect |
 | DC | **Randstad Shipper Receiver — Nisku** | **NEW 08-09** · $23–25/hr Mon–Fri · **EMAIL** grace.mendoza@randstad.ca |

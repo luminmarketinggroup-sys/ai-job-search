@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-11 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C56 | Binary Stream Software | Marketing Specialist | Good (~68) | **PORTAL / LinkedIn** https://binarystream.bamboohr.com/careers/ · https://ca.linkedin.com/jobs/view/4449937240 | `cv/main_binary_stream.pdf` | `cover_letters/cover_binary_stream_marketing_specialist.pdf` | Remote Canada; CAD $71–85k; Google/Meta + email/CRM + Claude match; HubSpot depth, B2B SaaS partner/trade-show book still growing vs 2 SMB accounts |
+
+**Mailto (Resend unset this run):** none verified public apply email for Binary Stream — use BambooHR / LinkedIn. Local PTW: portal only (Terrie Mantika 403-305-5804 for questions, not a resume inbox).
+
+**Local drafts this run:** PTW Warehouse Assistant (Nisku), Cooper Yard Coordinator (8430 24 St NW), Walmart Overnight Associate Parsons (1203 Parsons Rd NW) — see `APPLICATIONS_LOCAL.md` (#DH–#DJ).
+
+Skipped this run (fit/location/pay): Finning Yardperson/Warehouse TCRS (10920 170 St NW — NW); GM Warehouse Associate Edmonton PDC (17707 118 Ave NW — NW); JC Silent-Aire Tool Crib twin of #DE; Walmart OMNI 16940 127 St NW; Walmart Stockperson/Cartpusher Northgate 137 Ave; Walmart Overnight St Albert / Sherwood Park; Forbes Bros Labourer Acheson (west); Airswift Warehouse Tech Sherwood Park (5+ yrs hard); ALS Login/Shipping Clerk (lab login primary / address unverified); Princess Auto Night Merchandiser (store unspecified); LemonadeLXP Campaign & Marketing Ops (~55; HubSpot power-user hard + $58k floor); Stripe Forward Deployed AI Accelerator Marketing (~50; 5+ yrs + enterprise agent-build bar); Intersog Growth Marketing Lead (~52; 5+ yrs B2B demand-gen + HubSpot operator depth); Directive Senior Paid Media Strategist (~55; senior multi-account B2B stretch); Intrepid Senior SEO (Toronto/Seattle hybrid); Clever Senior Performance Marketing (Vancouver senior Meta lead-gen prior pattern); Fitness World Richmond BC; MEC/Cymax/Advantage HQ Vancouver; Fasken Toronto hybrid; Marketbridge Waterloo; O2E Brands Vancouver; MNP Marketing Coordinator Calgary; Loshen & Crem Brand Content (skincare content stretch).
 
 ## NEW drafts this run (2026-08-10 daily scrape)
 

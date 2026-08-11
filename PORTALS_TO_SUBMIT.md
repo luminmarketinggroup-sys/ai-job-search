@@ -8,6 +8,22 @@ Skip: Southgate Centre public-facing jobs
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0bc. Binary Stream Software — Marketing Specialist Remote Canada (NEW 2026-08-11)
+   Portal: https://binarystream.bamboohr.com/careers/
+   LinkedIn: https://ca.linkedin.com/jobs/view/4449937240
+   Materials: cv/main_binary_stream.pdf + cover_binary_stream_marketing_specialist.pdf
+   Note: Fit ~68 · CAD $71–85k · Google/Meta + GHL→HubSpot honesty · B2B SaaS/trade-show still growing
+
+0bb. Fortra — Web Strategy Lead Remote Canada (NEW 2026-08-10)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4448537353
+   Materials: cv/main_fortra.pdf + cover_fortra_web_strategy_lead.pdf
+   Note: Fit ~70 · CAD $65–80k · SEO/web · Greenhouse empty last check — use LinkedIn
+
+0bd. Victor Energy — Marketing Coordinator Nisku (NEW 2026-08-10)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4451396097 · https://www.victorenergy.com/careers/
+   Materials: cv/main_victor_energy.pdf + cover_victor_energy_marketing_coordinator.pdf
+   Note: Fit ~64 · Nisku onsite · confirm ≥$60k · Adobe/construction honesty
+
 0ba. AutoCanada / ACX — Media & Performance Marketing Specialist Remote or Edmonton (NEW 2026-08-09)
    LinkedIn: https://ca.linkedin.com/jobs/view/4437350083
    Materials: cv/main_acx.pdf + cover_acx_media_performance_marketing_specialist.pdf
@@ -233,6 +249,26 @@ B) CAREER — optional portal follow-ups (email already sent)
 C) LOCAL WAREHOUSE — Priority A (apply first)
     Resume: cv/main_local_edmonton.pdf + blurb in APPLICATIONS_LOCAL.md
 ============================================================
+L112. PTW Energy Services Warehouse Assistant — Nisku ★ NEW 2026-08-11
+   Portal: https://ptwenergyca.acquiretm.com/home.aspx · LinkedIn https://ca.linkedin.com/jobs/view/4449302863
+   Pay: from $24/hr · Blurb: APPLICATIONS_LOCAL.md#DH · ~15–20 min · questions Terrie Mantika 403-305-5804
+
+L113. Cooper Equipment Rentals Yard Coordinator — 8430 24 St NW ★ NEW 2026-08-11
+   LinkedIn: https://ca.linkedin.com/jobs/view/4449526198
+   Pay: $22–25/hr · Blurb: APPLICATIONS_LOCAL.md#DI · SE Edmonton yard · ~15–20 min
+
+L114. Walmart Overnight Associate — 1203 Parsons Rd NW ★ NEW 2026-08-11
+   LinkedIn: https://ca.linkedin.com/jobs/view/4450391495
+   Primary: 1203 Parsons Rd NW T6N 0A9 · Blurb: APPLICATIONS_LOCAL.md#DJ · ≠ OMNI #CJ · ~10–15 min
+
+L110. Michels Canada Skilled Labourer / Yard Hand — Nisku ★ NEW 2026-08-10
+   Portal: https://www.michelscanada.com/jobs/apply · LinkedIn https://ca.linkedin.com/jobs/view/4408479095
+   Blurb: APPLICATIONS_LOCAL.md#DF · do not email resumes to careers@michelscanada.com
+
+L111. EBlock Vehicle Inspections and Lot Coordinator — Nisku ★ NEW 2026-08-10
+   LinkedIn: https://ca.linkedin.com/jobs/view/4443536509
+   Pay: $20–23/hr Mon–Fri · Blurb: APPLICATIONS_LOCAL.md#DG · ~15–20 min
+
 L108. Randstad Warehouse & Logistics Specialist — Nisku ★ NEW 2026-08-08
    Portal: https://www.randstad.ca/jobs/warehouse-and-logistics-specialist_nisku_47261258/
    Pay: $23–25/hr Mon–Fri 8:00–4:30 · Blurb: APPLICATIONS_LOCAL.md#DA · ~15–20 min

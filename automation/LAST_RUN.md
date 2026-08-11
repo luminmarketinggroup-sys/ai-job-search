@@ -1,19 +1,19 @@
-# Last automation run — 2026-08-10
+# Last automation run — 2026-08-11
 
 ## Summary
-- **2 new local drafts** (Michels Canada Skilled Labourer / Yard Hand Nisku; EBlock Vehicle Inspections and Lot Coordinator Nisku)
-- **2 new career drafts** (Fortra Web Strategy Lead ~70; Victor Energy Marketing Coordinator ~64)
+- **3 new local drafts** (PTW Warehouse Assistant Nisku; Cooper Yard Coordinator 8430 24 St NW; Walmart Overnight Associate Parsons)
+- **1 new career draft** (Binary Stream Marketing Specialist ~68; remote Canada CAD $71–85k)
 - **Resend unset** — portal/checklist only (no email claimed sent; no portal submits claimed)
-- Skipped: Kristian Electric NW; JC Forklift hard-req; Walmart 127 St / Northgate; Starbucks Newcastle NW; Leadpages 5+ yrs SaaS; Thumbtack 8+ yrs ON/BC; Martell Kelowna; Growth Commerce pay unclear; Aylo adult; BWZ SEO filled; Mitratech Greenhouse empty; French Cossette; forklift-ticket Randstad building products
+- Skipped: Finning/GM NW; Silent-Aire Tool Crib twin; Walmart 127 St / Northgate; LemonadeLXP HubSpot hard; Stripe FDA 5+ yrs; Intersog Growth Lead; Directive Senior Paid; Intrepid Toronto hybrid; Acheson/Sherwood Park stretch locals
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Michels Canada | Skilled Labourer / Yard Hand (Nisku) | https://ca.linkedin.com/jobs/view/4408479095 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DF` |
-| Local | EBlock / E INC | Vehicle Inspections and Lot Coordinator (Nisku) | https://ca.linkedin.com/jobs/view/4443536509 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DG` |
-| Career | Fortra | Web Strategy Lead | https://ca.linkedin.com/jobs/view/4448537353 | `cv/main_fortra.pdf` · `cover_letters/cover_fortra_web_strategy_lead.pdf` |
-| Career | Victor Energy | Marketing Coordinator | https://ca.linkedin.com/jobs/view/4451396097 | `cv/main_victor_energy.pdf` · `cover_letters/cover_victor_energy_marketing_coordinator.pdf` |
+| Local | PTW Energy Services | Warehouse Assistant (Nisku) | https://ca.linkedin.com/jobs/view/4449302863 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DH` |
+| Local | Cooper Equipment Rentals | Yard Coordinator (8430 24 St NW) | https://ca.linkedin.com/jobs/view/4449526198 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DI` |
+| Local | Walmart Canada | Overnight Associate (Parsons) | https://ca.linkedin.com/jobs/view/4450391495 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DJ` |
+| Career | Binary Stream Software | Marketing Specialist | https://ca.linkedin.com/jobs/view/4449937240 | `cv/main_binary_stream.pdf` · `cover_letters/cover_binary_stream_marketing_specialist.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

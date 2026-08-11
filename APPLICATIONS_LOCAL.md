@@ -11,6 +11,31 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DH. PTW Energy Services — Warehouse Assistant (Nisku) ★ NEW · SOUTH · 2026-08-11
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4449302863  
+- **Portal:** https://ptwenergyca.acquiretm.com/home.aspx (search Warehouse Assistant / Nisku)  
+- **Phone (questions):** Terrie Mantika 403-305-5804  
+- **Address:** PTW Nisku area (listings cite 1609 / 2308 8 St, Nisku — confirm gate at apply)  
+- **Pay:** from $24/hr · forklift experience required (willing to train/refresh) · clean driving record / abstract  
+- **Why:** Nisku tool warehouse ship/organize · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Assistant role at PTW Energy Services in Nisku (from $24/hr). I live nearby at 11110 68 Ave NW, have a reliable vehicle and clean driving record, and am comfortable with paced warehouse work: organizing tools and materials, checking shipments, keeping accurate records, and following site safety rules. Willing to train or refresh forklift as required. Available for an immediate start and ready for ToolWatch / site methods.
+
+### DI. Cooper Equipment Rentals — Yard Coordinator (Edmonton SE) ★ NEW · SOUTH · 2026-08-11
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4449526198  
+- **Address (verified on posting):** 8430 24 Street NW, Edmonton, AB T6P 1X8  
+- **Pay:** $22–$25/hr · outdoor yard wash/load/unload · forklift asset  
+- **Why:** SE Edmonton equipment yard BOH · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Yard Coordinator role at Cooper Equipment Rentals (8430 24 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced outdoor yard work: washing and staging equipment, helping load and unload, checking returns for damage, and keeping the yard and wash bay organized and safe. Willing to train or refresh forklift. Reliable attendance and available for overtime when required.
+
+### DJ. Walmart — Overnight Associate (1203 Parsons Rd NW) ★ NEW · SOUTH · 2026-08-11
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4450391495  
+- **Primary location (verified on posting):** 1203 Parsons Rd NW, Edmonton, AB T6N 0A9  
+- **Why:** South Parsons overnight receiving / freight flow · distinct from Parsons OMNI (#CJ) and Claims · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Overnight Associate role at Walmart Parsons (1203 Parsons Rd NW). I live nearby at 11110 68 Ave NW and am comfortable with paced overnight receiving work: unloading trailers, moving freight safely, helping process merchandise to the floor, and keeping the work area clean and organized. Reliable attendance for overnight shifts including weekends and holidays as posted.
+
 ### DF. Michels Canada — Skilled Labourer / Yard Hand (Nisku) ★ NEW · SOUTH · 2026-08-10
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4408479095  
 - **Portal:** https://www.michelscanada.com/jobs/apply (apply to current openings; careers@michelscanada.com for accessibility only — do not send resumes there)  
