@@ -6120,11 +6120,13 @@
     },
     "https://ca.linkedin.com/jobs/view/4451019342": {
       "title": "AI Automation and Growth Coordinator",
-      "company": "HomeLife/Cimerman",
+      "company": "HomeLife/Cimerman Real Estate",
       "url": "https://ca.linkedin.com/jobs/view/4451019342",
       "first_seen": "2026-08-08",
       "fit": "medium",
-      "status": "skipped"
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "North York ON; HighLevel+Claude match but location"
     },
     "https://ca.linkedin.com/jobs/view/4449012444": {
       "title": "Digital Marketing Coordinator",
@@ -6716,6 +6718,276 @@
       "fit": "medium",
       "status": "skipped",
       "notes": "Calgary"
+    },
+    "https://ca.linkedin.com/jobs/view/4451954273": {
+      "title": "Shipper/Receiver",
+      "company": "CGIS (CG Industrial Specialties)",
+      "url": "https://ca.linkedin.com/jobs/view/4451954273",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "2812 Ellwood Dr SW T6X; forklift cert required stretch; mailto hr@cgis.ca"
+    },
+    "https://ca.linkedin.com/jobs/view/4451974448": {
+      "title": "Parts Shipper/Receiver (Infiniti South Edmonton)",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4451974448",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "2110 103A St SW T6W; south Edmonton parts dock"
+    },
+    "https://ca.linkedin.com/jobs/view/4451361999": {
+      "title": "Yard Coordinator",
+      "company": "Federal Signal / Joe Johnson Equipment",
+      "url": "https://ca.linkedin.com/jobs/view/4451361999",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "1002 15th Ave Nisku T9E 7S5; 2+ yrs yard stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4449528696": {
+      "title": "Yard Coordinator",
+      "company": "Federal Signal / Joe Johnson Equipment",
+      "url": "https://ca.linkedin.com/jobs/view/4449528696",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "Twin of 4451361999 Edmonton/Nisku label"
+    },
+    "https://ca.linkedin.com/jobs/view/4452347517": {
+      "title": "Marketing Specialist",
+      "company": "Levven",
+      "url": "https://ca.linkedin.com/jobs/view/4452347517",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Fit ~72; Edmonton onsite 9741 54 Ave NW; confirm base >=60k"
+    },
+    "https://ca.linkedin.com/jobs/view/4451922026": {
+      "title": "Warehouse Person - 7x7 Dayshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4451922026",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "West Edmonton warehouse / NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4451698968": {
+      "title": "Warehouse Person - 7x7 Nightshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4451698968",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "West Edmonton warehouse / NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452459900": {
+      "title": "Inbound Receiver",
+      "company": "Sysco Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4452459900",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "25140 114 Ave Acheson west"
+    },
+    "https://ca.linkedin.com/jobs/view/4453027879": {
+      "title": "WAREHOUSE MATERIAL HANDLERS",
+      "company": "Consolidated Gypsum Supply Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4453027879",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "11660 170 St NW T5S / East NW; $23-27/hr forklift preferred"
+    },
+    "https://ca.linkedin.com/jobs/view/4449512792": {
+      "title": "Rental Coordinator",
+      "company": "Cooper Equipment Rentals",
+      "url": "https://ca.linkedin.com/jobs/view/4449512792",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "10828 209 St NW T5S NW office"
+    },
+    "https://ca.linkedin.com/jobs/view/4440535929": {
+      "title": "Warehouse Receiver (Forklift Operator)",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/4440535929",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "14434 157 Ave NW T6V NW DC"
+    },
+    "https://ca.linkedin.com/jobs/view/4451317080": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451317080",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "700 St Albert Trl St Albert"
+    },
+    "https://ca.linkedin.com/jobs/view/4451977097": {
+      "title": "Omni Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451977097",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "6800 48th Ave Camrose"
+    },
+    "https://ca.linkedin.com/jobs/view/4452345362": {
+      "title": "Dishwasher",
+      "company": "Chartwell Retirement Residences",
+      "url": "https://ca.linkedin.com/jobs/view/4452345362",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Edmonton site unspecified (mixed N/W/S residences)"
+    },
+    "https://ca.linkedin.com/jobs/view/4451354900": {
+      "title": "Hourly Dishwasher - South Edmonton The Rec Room",
+      "company": "Cineplex",
+      "url": "https://ca.linkedin.com/jobs/view/4451354900",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_priority",
+      "notes": "1725 99 St NW BOH; warehouse priority this run"
+    },
+    "https://ca.linkedin.com/jobs/view/4449240129": {
+      "title": "Dishwasher - Match Eatery & Public House",
+      "company": "Gateway Casinos",
+      "url": "https://ca.linkedin.com/jobs/view/4449240129",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Grand Villa Casino west Edmonton"
+    },
+    "https://ca.linkedin.com/jobs/view/4451978515": {
+      "title": "Production and Logistics Coordinator",
+      "company": "Ryerson",
+      "url": "https://ca.linkedin.com/jobs/view/4451978515",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Coordinator/office liaison stretch vs warehouse BOH"
+    },
+    "https://ca.linkedin.com/jobs/view/4451936412": {
+      "title": "Junior/Intermediate Media Buyer",
+      "company": "AutoCanada",
+      "url": "https://ca.linkedin.com/jobs/view/4451936412",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Fit ~58; pay band ~$55-75k floor risk under $60k"
+    },
+    "https://ca.linkedin.com/jobs/view/4452464938": {
+      "title": "Senior Web Optimization Strategist",
+      "company": "SMS Equipment Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4452464938",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Fit ~55; 5+ yrs + bachelor's + $95-105k senior stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4451903891": {
+      "title": "SEO Specialist",
+      "company": "Best Buy Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451903891",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Fit ~48; 5+ yrs large-scale eCommerce SEO; $75-80k remote-first Vancouver HQ"
+    },
+    "https://ca.linkedin.com/jobs/view/4452676897": {
+      "title": "AI Enablement Specialist",
+      "company": "JAM CRM",
+      "url": "https://ca.linkedin.com/jobs/view/4452676897",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto Liberty Village Claude enablement; onsite/agency"
+    },
+    "https://ca.linkedin.com/jobs/view/4452693481": {
+      "title": "Marketing Automation Developer",
+      "company": "JAM CRM",
+      "url": "https://ca.linkedin.com/jobs/view/4452693481",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "SFMC/Adobe Campaign enterprise developer + Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4453030147": {
+      "title": "Marketing Specialist",
+      "company": "A-Apollo Windows & Doors",
+      "url": "https://ca.linkedin.com/jobs/view/4453030147",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Calgary on-site"
+    },
+    "https://ca.linkedin.com/jobs/view/4452049475": {
+      "title": "AI & Data Analyst",
+      "company": "Carrington Communities",
+      "url": "https://ca.linkedin.com/jobs/view/4452049475",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Fit ~40; Fabric/LLM engineering analyst; fully in-office"
+    },
+    "https://ca.linkedin.com/jobs/view/4449241146": {
+      "title": "Revenue Technology Manager",
+      "company": "Jobber",
+      "url": "https://ca.linkedin.com/jobs/view/4449241146",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Sales enablement RevTech $98k+ stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4432693493": {
+      "title": "Senior Marketing AI & Systems Manager",
+      "company": "Geotab",
+      "url": "https://ca.linkedin.com/jobs/view/4432693493",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "7+ yrs MOps; Oakville hybrid $116-140k"
+    },
+    "https://ca.linkedin.com/jobs/view/4450297897": {
+      "title": "Marketing Lead",
+      "company": "Sadie",
+      "url": "https://ca.linkedin.com/jobs/view/4450297897",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "5+ yrs B2B SaaS; Montreal hybrid"
     }
   }
 }

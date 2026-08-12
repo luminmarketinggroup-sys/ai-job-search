@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DK | **CGIS Shipper/Receiver — Ellwood SW** | **NEW 08-12** · **EMAIL** hr@cgis.ca · 2812 Ellwood Dr SW · forklift stretch |
+| DL | **Infiniti South Parts Shipper/Receiver** | **NEW 08-12** · 2110 103A St SW · dealership parts dock |
+| DM | **JJE / Federal Signal Yard Coordinator — Nisku** | **NEW 08-12** · 1002 15 Ave Nisku · 2+ yrs stretch |
 | DH | **PTW Warehouse Assistant — Nisku** | **NEW 08-11** · from $24/hr · AcquireTM portal · LinkedIn 4449302863 |
 | DI | **Cooper Yard Coordinator — 24 St SE** | **NEW 08-11** · $22–25/hr · 8430 24 St NW · yard wash/load |
 | DJ | **Walmart Overnight Associate — Parsons** | **NEW 08-11** · 1203 Parsons Rd NW · overnight receive · ≠ OMNI #CJ |

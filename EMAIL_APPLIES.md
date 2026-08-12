@@ -88,6 +88,15 @@ Attach: `cv/main_herb.pdf` + `cover_letters/cover_herb_key_account_manager.pdf` 
 
 Attach: local resume for Highlander and NWT; `cv/main_bis_web_optimization.pdf` + cover for BIS.
 
+## Pending mailto (Resend unset 2026-08-12)
+
+| # | Company | To | Role | Status |
+|---|---------|-----|------|--------|
+| P0f | CGIS (CG Industrial Specialties) | hr@cgis.ca | Shipper/Receiver Edmonton | **NEW 2026-08-12** mailto ready · subject `Shipper/Receiver - Dylan Michael (Edmonton)` · attach `cv/main_local_edmonton.pdf` · https://cgis.ca/careers/ · LinkedIn https://ca.linkedin.com/jobs/view/4451954273 |
+
+**Mailto (copy/paste):**  
+`mailto:hr@cgis.ca?subject=Shipper%2FReceiver%20-%20Dylan%20Michael%20(Edmonton)&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Shipper%2FReceiver%20role%20at%20CGIS%20Edmonton%20(2812%20Ellwood%20Drive%20SW).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
 ## Pending mailto (Resend unset 2026-07-30)
 
 | # | Company | To | Role | Status |

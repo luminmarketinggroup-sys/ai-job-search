@@ -11,6 +11,32 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DK. CGIS (CG Industrial Specialties) — Shipper/Receiver (Ellwood SW) ★ NEW · SOUTH · 2026-08-12 · EMAIL
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4451954273  
+- **Careers:** https://cgis.ca/careers/  
+- **Email:** hr@cgis.ca  
+- **Address (verified):** 2812 Ellwood Drive SW, Edmonton, AB T6X 0A9  
+- **Notes:** Forklift certification required (stretch — willing to certify/refresh) · valve assembly support as needed  
+- **Why:** Ellerslie south industrial · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at CGIS Edmonton (2812 Ellwood Drive SW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: picking/packing, inbound inspection, shipping docs, inventory counts, and keeping a clean organized dock. Willing to obtain or refresh forklift certification as required and support light valve-assembly tasks as needed. Reliable attendance and ready for full-time hours.
+
+### DL. Go Auto / Infiniti South Edmonton — Parts Shipper/Receiver ★ NEW · SOUTH · 2026-08-12
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4451974448  
+- **Address (verified):** 2110 103A Street SW, Edmonton, AB T6W 2P6  
+- **Portal:** https://www.autocan.ca/careers / Go Auto careers  
+- **Why:** South Edmonton dealership parts dock · ~10–15 min · Audi Fixed Ops background transfers · not Southgate  
+- **Blurb:**
+> I’m applying for the Parts Shipper/Receiver role at Infiniti South Edmonton (2110 103A Street SW). I live nearby at 11110 68 Ave NW and previously worked Fixed Ops at Audi Southgate, so I’m used to paced parts/service environments, accurate paperwork, and clear manufacturer follow-up. Comfortable packaging, receiving, checking shortages/damage, and completing wholesale picks carefully. Reliable attendance and available for the posted parts-department schedule.
+
+### DM. Federal Signal / Joe Johnson Equipment — Yard Coordinator (Nisku) ★ NEW · SOUTH · 2026-08-12
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4451361999  
+- **Address (verified):** 1002 15th Avenue, Nisku, AB T9E 7S5  
+- **Notes:** Asks 2+ years yard coordinator experience — stretch apply · twin listing 4449528696 skipped as duplicate  
+- **Why:** Nisku equipment yard · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Yard Coordinator role at Joe Johnson Equipment / Federal Signal in Nisku (1002 15th Avenue). I live nearby at 11110 68 Ave NW and am comfortable with paced outdoor yard work: receiving and inspecting units, moving equipment for shop handoffs, loading/unloading, and keeping the yard organized and safe. Reliable attendance, safety-focused, and ready to learn site check-in procedures quickly.
+
 ### DH. PTW Energy Services — Warehouse Assistant (Nisku) ★ NEW · SOUTH · 2026-08-11
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4449302863  
 - **Portal:** https://ptwenergyca.acquiretm.com/home.aspx (search Warehouse Assistant / Nisku)  

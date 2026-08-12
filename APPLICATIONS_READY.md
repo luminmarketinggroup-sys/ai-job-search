@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-12 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C57 | Levven | Marketing Specialist | Good (~72) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4452347517 · Edmonton HQ 9741 54 Ave NW | `cv/main_levven.pdf` | `cover_letters/cover_levven_marketing_specialist.pdf` | On-site Edmonton; B2B campaigns/content/email/LinkedIn + freelancer briefs match; Odoo depth and production-builder category marketing still growing vs 2 SMB accounts; confirm base ≥ CAD $60k |
+
+**Mailto (Resend unset this run):** CGIS Shipper/Receiver → `mailto:hr@cgis.ca?subject=Shipper%2FReceiver%20-%20Dylan%20Michael%20(Edmonton)&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Shipper%2FReceiver%20role%20at%20CGIS%20Edmonton%20(2812%20Ellwood%20Drive%20SW).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca` · attach `cv/main_local_edmonton.pdf`. No verified public apply email for Levven — use LinkedIn.
+
+**Local drafts this run:** CGIS Shipper/Receiver Ellwood SW (email), Go Auto Infiniti South Parts Shipper/Receiver, Federal Signal / JJE Yard Coordinator Nisku — see `APPLICATIONS_LOCAL.md` (#DK–#DM).
+
+Skipped this run (fit/location/pay): Finning Warehouse Person West Edmonton (NW); Sysco Inbound Receiver Acheson west; Consolidated Gypsum 170 St NW; Cooper Rental Coordinator 209 St NW; 7-Eleven Receiver 157 Ave NW; Walmart Overnight St Albert; Walmart OMNI Camrose; Federal Signal Yard twin 4449528696; Chartwell dishwasher (site unspecified); Rec Room dishwasher (warehouse priority); Gateway Grand Villa dishwasher (west); Ryerson Production Logistics Coordinator; AutoCanada Junior/Intermediate Media Buyer (~58; $55–75k floor); SMS Senior Web Optimization Strategist (~55; 5+ yrs); Best Buy SEO Specialist (~48; 5+ yrs eCommerce); JAM CRM AI Enablement / Marketing Automation Developer (Toronto); HomeLife AI Automation (North York); A-Apollo Marketing Specialist (Calgary on-site); Carrington AI & Data Analyst (~40); Jobber Revenue Technology Manager; Geotab Senior Marketing AI (7+ yrs Oakville); Sadie Marketing Lead (5+ yrs Montreal).
 
 ## NEW drafts this run (2026-08-11 daily scrape)
 

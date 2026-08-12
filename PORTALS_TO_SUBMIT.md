@@ -6,8 +6,33 @@ Blurbs: APPLICATIONS_LOCAL.md
 Skip: Southgate Centre public-facing jobs
 
 ============================================================
+LOCAL EMAIL THIS RUN (Resend unset — send from Desktop)
+============================================================
+DK. CGIS Shipper/Receiver — Ellwood SW (NEW 2026-08-12)
+   Email: hr@cgis.ca · https://cgis.ca/careers/
+   LinkedIn: https://ca.linkedin.com/jobs/view/4451954273
+   Attach: cv/main_local_edmonton.pdf
+   Note: forklift cert required (stretch)
+
+DL. Go Auto / Infiniti South — Parts Shipper/Receiver (NEW 2026-08-12)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4451974448
+   Address: 2110 103A St SW
+   Attach: cv/main_local_edmonton.pdf · portal/LinkedIn Easy Apply
+
+DM. Federal Signal / JJE — Yard Coordinator Nisku (NEW 2026-08-12)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4451361999
+   Address: 1002 15th Ave Nisku
+   Attach: cv/main_local_edmonton.pdf · 2+ yrs yard stretch
+
+============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0bd. Levven — Marketing Specialist Edmonton on-site (NEW 2026-08-12)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4452347517
+   HQ: 9741 54 Ave NW, Edmonton
+   Materials: cv/main_levven.pdf + cover_levven_marketing_specialist.pdf
+   Note: Fit ~72 · B2B campaigns/content/email · Odoo honesty · confirm ≥$60k
+
 0bc. Binary Stream Software — Marketing Specialist Remote Canada (NEW 2026-08-11)
    Portal: https://binarystream.bamboohr.com/careers/
    LinkedIn: https://ca.linkedin.com/jobs/view/4449937240
