@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DN | **NOV Material Handler PCP — 93 St** | **NEW 08-13** · Strathcona Industrial · load/unload · ~10–15 min |
+| DO | **Airways Shop Coordinator — Nisku** | **NEW 08-13** · 1802-8 St NW · shop/yard coord · ~15–20 min |
+| DP | **Walmart Stock Unloader — Leduc Discovery** | **NEW 08-13** · 5302 Discovery Way · unload · ≠ Overnight #CY / OMNI #DD |
 | DK | **CGIS Shipper/Receiver — Ellwood SW** | **NEW 08-12** · **EMAIL** hr@cgis.ca · 2812 Ellwood Dr SW · forklift stretch |
 | DL | **Infiniti South Parts Shipper/Receiver** | **NEW 08-12** · 2110 103A St SW · dealership parts dock |
 | DM | **JJE / Federal Signal Yard Coordinator — Nisku** | **NEW 08-12** · 1002 15 Ave Nisku · 2+ yrs stretch |

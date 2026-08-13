@@ -6,7 +6,25 @@ Blurbs: APPLICATIONS_LOCAL.md
 Skip: Southgate Centre public-facing jobs
 
 ============================================================
-LOCAL EMAIL THIS RUN (Resend unset — send from Desktop)
+LOCAL THIS RUN (2026-08-13) — portal / LinkedIn
+============================================================
+DN. NOV — Material Handler PCP 93 St (NEW 2026-08-13)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4450400056 · https://www.nov.com/Careers
+   Address: ~3550–3660 93 St NW (Strathcona Industrial)
+   Attach: cv/main_local_edmonton.pdf
+
+DO. Airways Truck Rentals — Shop Coordinator Nisku (NEW 2026-08-13)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4449775095
+   Address: 1802-8 Street NW, Nisku T9E 7W2
+   Attach: cv/main_local_edmonton.pdf
+
+DP. Walmart — Stock Unloader Associate Leduc (NEW 2026-08-13)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4453604232
+   Address: 5302 Discovery Way, Leduc T9E 8J7 · ≠ Overnight #CY / OMNI #DD
+   Attach: cv/main_local_edmonton.pdf
+
+============================================================
+LOCAL EMAIL PRIOR (Resend unset — send from Desktop)
 ============================================================
 DK. CGIS Shipper/Receiver — Ellwood SW (NEW 2026-08-12)
    Email: hr@cgis.ca · https://cgis.ca/careers/
@@ -27,6 +45,16 @@ DM. Federal Signal / JJE — Yard Coordinator Nisku (NEW 2026-08-12)
 ============================================================
 A) CAREER — portal-only / mailto this run (do these)
 ============================================================
+0be. Odd Bunch — Performance Marketing Specialist Paid Search (NEW 2026-08-13)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4452725597 · https://odd-bunch.breezy.hr/
+   Materials: cv/main_odd_bunch.pdf + cover_odd_bunch_performance_marketing_paid_search.pdf
+   Note: Fit ~70 · remote Canada · Google Ads match · DTC multi-market honesty
+
+0bf. DOE Media — Account Manager (NEW 2026-08-13)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4449212617 · https://doemedia.com/careers/
+   Materials: cv/main_doe_media.pdf + cover_doe_media_account_manager.pdf
+   Note: Fit ~64 · remote 9–5 CT · franchise scale honesty · pay band not posted
+
 0bd. Levven — Marketing Specialist Edmonton on-site (NEW 2026-08-12)
    LinkedIn: https://ca.linkedin.com/jobs/view/4452347517
    HQ: 9741 54 Ave NW, Edmonton

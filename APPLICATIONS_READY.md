@@ -1,9 +1,22 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Odd Bunch Paid Search (LinkedIn), DOE Media Account Manager (LinkedIn), Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-13 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C58 | Odd Bunch | Performance Marketing Specialist (Paid Search) | Good (~70) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4452725597 · https://odd-bunch.breezy.hr/ (Paid Search may be LinkedIn-only if not listed on Breezy) | `cv/main_odd_bunch.pdf` | `cover_letters/cover_odd_bunch_performance_marketing_paid_search.pdf` | Remote Canada; Google Ads + GA4 + Claude match; multi-market DTC / Microsoft Ads / Reddit / Triple Whale still growing vs 2 SMB accounts; confirm base ≥ CAD $60k |
+| C59 | DOE Media | Account Manager | Good (~64) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4449212617 · https://doemedia.com/careers/ | `cv/main_doe_media.pdf` | `cover_letters/cover_doe_media_account_manager.pdf` | Remote; 9–5 CT OK from Edmonton; Google/Meta + client-facing match; 40–50 franchise book larger than 2 SMB accounts; pay band not posted |
+
+**Mailto (Resend unset this run):** none verified public apply email for Odd Bunch Paid Search or DOE Account Manager — use LinkedIn / careers portals. Local: NOV and Airways portal/LinkedIn; Walmart Leduc careers portal.
+
+**Local drafts this run:** NOV Material Handler PCP (93 St), Airways Shop Coordinator (Nisku), Walmart Stock Unloader Leduc (5302 Discovery Way) — see `APPLICATIONS_LOCAL.md` (#DN–#DP).
+
+Skipped this run (fit/location/pay): Uline Spruce Grove/St Albert warehouse; Powell Acheson; Finning West Edmonton warehouse twins; Consolidated Gypsum 170 St; Sysco Acheson; Champion Petfoods Yellowhead; Mars Warehouse Tech; WeldCor (JD Saskatoon despite Edmonton label); Radius Recycling 118A Ave NW; McKesson 164 St NW; KBL Environmental (travel / internship); SECURE night labourer (address/industrial stretch); NACG Shop Labourer Acheson west; Baker Hughes Blend Operator (3+ yrs chemicals); Kiewit Materials Tech (forklift+telehandler tickets hard); WestJet Aircraft Materials (aviation stores 2+ yrs); Princess Auto nights (store unspecified); Aramark Food Prep (site unspecified); Worldpac Branch Ops Lead (leadership track deferred); AutoCanada Media Buyer pay floor; SMS / Best Buy SEO senior; Adster already submitted; Tiger Calcium already drafted; Mercury SEO/AEO 5+ yrs (~48); Stoko Vancouver hybrid; Headhunters Marketing Manager Gibbons 6–10 yrs; Valpo home-service Google Ads CST; OEG/Sports Careers Manager Marketing; Odd Bunch Paid Social closed; Affirm Copywriting Lead.
 
 ## NEW drafts this run (2026-08-12 daily scrape)
 

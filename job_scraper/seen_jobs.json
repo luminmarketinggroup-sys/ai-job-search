@@ -383,9 +383,10 @@
       "company": "McKesson",
       "url": "https://ca.linkedin.com/jobs/view/4443510654",
       "first_seen": "2026-07-22",
-      "fit": "medium",
-      "status": "evaluated",
-      "tracker_status": "ready_to_submit"
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "ready_to_submit",
+      "skip_reason": "14010 164 St NW"
     },
     "https://ca.linkedin.com/jobs/view/4440735686": {
       "title": "Warehouse Associate Days St Albert",
@@ -1602,9 +1603,10 @@
       "company": "Mercury",
       "url": "https://ca.linkedin.com/jobs/view/organic-search-marketer-seo-aeo-at-mercury-4437610537",
       "first_seen": "2026-07-25",
-      "fit": "medium",
+      "fit": "low",
       "status": "skipped",
-      "note": "5+ yrs SEO + 2-3 AEO; fit ~50"
+      "note": "5+ yrs SEO + 2-3 AEO; fit ~50",
+      "skip_reason": "5+ yrs SEO + AEO senior"
     },
     "https://ca.linkedin.com/jobs/view/senior-seo-strategist-at-andromeda-software-inc-4438426495": {
       "title": "Senior SEO Strategist",
@@ -3037,7 +3039,8 @@
       "first_seen": "2026-07-30",
       "fit": "low",
       "status": "skipped",
-      "tracker_status": "skipped_low_fit"
+      "tracker_status": "skipped_low_fit",
+      "skip_reason": "Gibbons 6-10 yrs leadership"
     },
     "https://ca.linkedin.com/jobs/view/4441838672": {
       "title": "Applied AI Lead - Edmonton",
@@ -6670,9 +6673,10 @@
       "company": "Princess Auto Ltd.",
       "url": "https://ca.linkedin.com/jobs/view/4451638370",
       "first_seen": "2026-08-11",
-      "fit": "medium",
+      "fit": "low",
       "status": "skipped",
-      "notes": "store unspecified"
+      "notes": "store unspecified",
+      "skip_reason": "store unspecified"
     },
     "https://ca.linkedin.com/jobs/view/4449581700": {
       "title": "Login/Shipping Clerk",
@@ -6988,6 +6992,357 @@
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
       "notes": "5+ yrs B2B SaaS; Montreal hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/4450400056": {
+      "title": "Material Handler PCP",
+      "company": "NOV",
+      "url": "https://ca.linkedin.com/jobs/view/4450400056",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4449775095": {
+      "title": "Shop Coordinator",
+      "company": "Airways Truck Rentals, Leasing, Sales",
+      "url": "https://ca.linkedin.com/jobs/view/4449775095",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4453604232": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4453604232",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4452725597": {
+      "title": "Performance Marketing Specialist (Paid Search)",
+      "company": "Odd Bunch",
+      "url": "https://ca.linkedin.com/jobs/view/4452725597",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4449212617": {
+      "title": "Account Manager",
+      "company": "DOE Media",
+      "url": "https://ca.linkedin.com/jobs/view/4449212617",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4452974225": {
+      "title": "Warehouse Associate - Nights",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4452974225",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Spruce Grove NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452982153": {
+      "title": "Warehouse Associate - Nights",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4452982153",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "St Albert NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452981185": {
+      "title": "Warehouse Associate - Days",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4452981185",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Spruce Grove NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452967257": {
+      "title": "Warehouse Associate - Days",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4452967257",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "St Albert NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4450190662": {
+      "title": "Material Handler - Shipping and Receiving (Days)",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4450190662",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Acheson west"
+    },
+    "https://ca.linkedin.com/jobs/view/4451920031": {
+      "title": "Warehouse Person - 7x7 Dayshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4451920031",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "West Edmonton NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4451900946": {
+      "title": "Warehouse Person - 7x7 Dayshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4451900946",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "West Edmonton NW alt"
+    },
+    "https://ca.linkedin.com/jobs/view/4453142950": {
+      "title": "Warehouse Technician",
+      "company": "Champion Petfoods",
+      "url": "https://ca.linkedin.com/jobs/view/4453142950",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Yellowhead NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452754368": {
+      "title": "Warehouse Technician",
+      "company": "Mars",
+      "url": "https://ca.linkedin.com/jobs/view/4452754368",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Yellowhead/Champion area"
+    },
+    "https://ca.linkedin.com/jobs/view/4452710623": {
+      "title": "Shipping & Receiving Associate",
+      "company": "WeldCor Supplies Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4452710623",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "JD says Saskatoon store"
+    },
+    "https://ca.linkedin.com/jobs/view/4452741979": {
+      "title": "General Laborer I",
+      "company": "Radius Recycling",
+      "url": "https://ca.linkedin.com/jobs/view/4452741979",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "18649 118A Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452622865": {
+      "title": "Labourer - Edmonton",
+      "company": "KBL Environmental Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4452622865",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "travel internship"
+    },
+    "https://ca.linkedin.com/jobs/view/4451584091": {
+      "title": "General Labourer - Night shift",
+      "company": "SECURE",
+      "url": "https://ca.linkedin.com/jobs/view/4451584091",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "address/industrial stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4450375530": {
+      "title": "Shop Labourer",
+      "company": "North American Construction Group",
+      "url": "https://ca.linkedin.com/jobs/view/4450375530",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Acheson west"
+    },
+    "https://ca.linkedin.com/jobs/view/4453360685": {
+      "title": "Blend Operator",
+      "company": "Baker Hughes",
+      "url": "https://ca.linkedin.com/jobs/view/4453360685",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "3+ yrs chemical blend"
+    },
+    "https://ca.linkedin.com/jobs/view/4439982041": {
+      "title": "Materials Technician - P2Z",
+      "company": "Kiewit",
+      "url": "https://ca.linkedin.com/jobs/view/4439982041",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "forklift+telehandler hard-req"
+    },
+    "https://ca.linkedin.com/jobs/view/4452308135": {
+      "title": "Aircraft Materials Coordinator - Stores - Edmonton",
+      "company": "WestJet",
+      "url": "https://ca.linkedin.com/jobs/view/4452308135",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "aviation stores 2+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4453132707": {
+      "title": "Food Prep Worker",
+      "company": "Aramark Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4453132707",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "site unspecified"
+    },
+    "https://ca.linkedin.com/jobs/view/4452740278": {
+      "title": "Branch Operations Lead",
+      "company": "Worldpac",
+      "url": "https://ca.linkedin.com/jobs/view/4452740278",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "skipped",
+      "skip_reason": "leadership track deferred; Roper Rd"
+    },
+    "https://ca.linkedin.com/jobs/view/4452919081": {
+      "title": "SEO Specialist",
+      "company": "Best Buy Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4452919081",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "5+ yrs eCommerce SEO"
+    },
+    "https://ca.linkedin.com/jobs/view/4453399499": {
+      "title": "Performance Marketing Lead",
+      "company": "Stoko",
+      "url": "https://ca.linkedin.com/jobs/view/4453399499",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "skipped",
+      "skip_reason": "Vancouver hybrid in-office"
+    },
+    "https://ca.linkedin.com/jobs/view/4454014864": {
+      "title": "Google Ads Specialist Home Service Lead Generation",
+      "company": "Valpo Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4454014864",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "home service clients + CST"
+    },
+    "https://ca.linkedin.com/jobs/view/4452734854": {
+      "title": "Manager, Marketing",
+      "company": "OEG Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4452734854",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "sports entertainment manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4453699489": {
+      "title": "Manager, Marketing",
+      "company": "Sports Careers",
+      "url": "https://ca.linkedin.com/jobs/view/4453699489",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "OEG twin manager stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4446944950": {
+      "title": "Copywriting Lead",
+      "company": "Affirm",
+      "url": "https://ca.linkedin.com/jobs/view/4446944950",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "copy leadership stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4452461950": {
+      "title": "Growth & Performance Marketing Specialist",
+      "company": "Sobeys",
+      "url": "https://ca.linkedin.com/jobs/view/4452461950",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "skipped",
+      "skip_reason": "Toronto performance/video programmatic"
+    },
+    "https://ca.linkedin.com/jobs/view/4449787309": {
+      "title": "Marketing Account Supervisor",
+      "company": "Marketbridge",
+      "url": "https://ca.linkedin.com/jobs/view/4449787309",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "skipped",
+      "skip_reason": "Waterloo prior pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4451912018": {
+      "title": "Senior Account Manager",
+      "company": "Jan Kelley",
+      "url": "https://ca.linkedin.com/jobs/view/4451912018",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "senior Burlington 4+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4451046433": {
+      "title": "Bilingual Digital Campaign & Reporting Specialist",
+      "company": "Canadian Cancer Society",
+      "url": "https://ca.linkedin.com/jobs/view/4451046433",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "bilingual French hard"
+    },
+    "https://ca.linkedin.com/jobs/view/4448052052": {
+      "title": "Senior Digital Specialist",
+      "company": "Brain Tumour Foundation of Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4448052052",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "skipped",
+      "skip_reason": "nonprofit senior stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4425660676": {
+      "title": "Digital Marketing & Analytics Specialist",
+      "company": "Kinaxis",
+      "url": "https://ca.linkedin.com/jobs/view/4425660676",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "skipped",
+      "skip_reason": "prior Eloqua/enterprise skip pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4450385715": {
+      "title": "Lifecycle Marketing Personalization and Automation Manager",
+      "company": "Vancity",
+      "url": "https://ca.linkedin.com/jobs/view/4450385715",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "manager Vancouver"
+    },
+    "https://ca.linkedin.com/jobs/view/4452686851": {
+      "title": "Account Supervisor",
+      "company": "JAM CRM",
+      "url": "https://ca.linkedin.com/jobs/view/4452686851",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4450659508": {
+      "title": "Junior Switch Person (Rail Operations)",
+      "company": "SECURE",
+      "url": "https://ca.linkedin.com/jobs/view/4450659508",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
+      "skip_reason": "rail ops not warehouse track"
     }
   }
 }

@@ -11,6 +11,31 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DN. NOV — Material Handler PCP (93 St / Strathcona Industrial) ★ NEW · SOUTH · 2026-08-13
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4450400056  
+- **Portal:** https://www.nov.com/Careers  
+- **Address (verified area):** NOV Canada PCP / Strathcona Industrial (~3550–3660 93 St NW, Edmonton, AB T6E)  
+- **Notes:** Sort/load/unload, palletize, overhead crane / skid steer / forklift assets; 2+ years similar role preferred (stretch) · safety-sensitive pre-employment testing  
+- **Why:** South Edmonton industrial · ~10–15 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Material Handler PCP role at NOV Edmonton (93 Street / Strathcona Industrial). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: loading and unloading, palletizing, put-away accuracy, paperwork checks, and keeping a clean safe shop floor. Willing to train or refresh forklift / skid steer / overhead crane as required. Reliable attendance and ready for full-time hours and site safety standards.
+
+### DO. Airways Truck Rentals — Shop Coordinator (Nisku) ★ NEW · SOUTH · 2026-08-13
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4449775095  
+- **Company:** https://www.airwaystrucks.com/Contact.aspx  
+- **Address (verified):** 1802-8 Street NW, Nisku, AB T9E 7W2  
+- **Notes:** On-site shop/yard coordination · work orders, vehicle staging, parts/inventory support · stretch on formal fleet shop-coordinator title  
+- **Why:** Nisku head office shop/yard · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Shop Coordinator role at Airways Truck Rentals in Nisku (1802-8 Street NW). I live nearby at 11110 68 Ave NW and am comfortable supporting paced shop and yard operations: organizing work orders and vehicle staging, helping with parts and supply checks, clear handoffs between shop and office, and keeping the area safe and organized. Reliable attendance, coachable on Airways systems, and ready for full-time on-site hours.
+
+### DP. Walmart — Stock Unloader Associate (5302 Discovery Way, Leduc) ★ NEW · SOUTH · 2026-08-13
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4453604232  
+- **Primary location (verified on posting):** 5302 Discovery Way, Leduc, AB T9E 8J7  
+- **Why:** South Leduc receiving / trailer unload · distinct from Overnight Associate (#CY) and OMNI CFA (#DD) at same store · ~20–25 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Stock Unloader Associate role at Walmart Leduc (5302 Discovery Way). I live nearby at 11110 68 Ave NW and am comfortable with paced receiving work: unloading trailers, moving pallets safely, helping process merchandise toward the floor, and keeping the receiving area clean and organized. Reliable attendance for the posted schedule including evenings, weekends, and holidays as required.
+
 ### DK. CGIS (CG Industrial Specialties) — Shipper/Receiver (Ellwood SW) ★ NEW · SOUTH · 2026-08-12 · EMAIL
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4451954273  
 - **Careers:** https://cgis.ca/careers/  
