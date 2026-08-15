@@ -6,7 +6,37 @@ Blurbs: APPLICATIONS_LOCAL.md
 Skip: Southgate Centre public-facing jobs
 
 ============================================================
-LOCAL THIS RUN (2026-08-13) — portal / LinkedIn
+LOCAL THIS RUN (2026-08-15) — portal / LinkedIn / in-person
+============================================================
+DQ. Pagnotta — Yard Laborer Nisku (NEW 2026-08-15)
+   JazzHR: https://pagnotta.applytojob.com/apply/hTjpIh8uMO/Yard-Laborer
+   LinkedIn: https://ca.linkedin.com/jobs/view/4454303324
+   Address: 24548 TWP RD 502, Nisku T0C 2K0 · $20–26/hr
+   Attach: cv/main_local_edmonton.pdf
+
+DR. Sherwood Steel — Shipping Assistant 84 Ave (NEW 2026-08-15)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4453702783
+   Phone: 780-449-6548 · https://www.sherwoodsteel.com/
+   Address: 3303 84 Ave NW, Edmonton T6P 1K1
+   Attach: cv/main_local_edmonton.pdf
+
+DS. Fountain Tire — Inventory Coordinator Leduc (NEW 2026-08-15)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4453793124
+   Store: https://www.fountaintire.com/stores/leduc-ab · apply online or in person
+   Address: 7126 Sparrow Drive, Leduc T9E 7L1 · $45–50k
+   Attach: cv/main_local_edmonton.pdf
+
+============================================================
+CAREER THIS RUN (2026-08-15)
+============================================================
+C60. EPCOR — Advisor, Marketing Operations (~62)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4454815342
+   Portal: https://www.epcor.com/ca/en/careers/jobs/search-jobs.html
+   Attach: cv/main_epcor.pdf + cover_letters/cover_epcor_advisor_marketing_operations.pdf
+   Notes: temp up to 11 mo · $49.44/hr start · degree honesty · no public apply email
+
+============================================================
+LOCAL PRIOR (2026-08-13) — portal / LinkedIn
 ============================================================
 DN. NOV — Material Handler PCP 93 St (NEW 2026-08-13)
    LinkedIn: https://ca.linkedin.com/jobs/view/4450400056 · https://www.nov.com/Careers

@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DQ | **Pagnotta Yard Laborer — Nisku** | **NEW 08-15** · 24548 Twp Rd 502 · $20–26/hr · JazzHR · ~15–20 min |
+| DR | **Sherwood Steel Shipping Assistant — 84 Ave** | **NEW 08-15** · 3303 84 Ave NW · BOL/carrier · ~10–15 min |
+| DS | **Fountain Tire Inventory Coordinator — Leduc** | **NEW 08-15** · 7126 Sparrow Dr · $45–50k · ~20–25 min |
 | DN | **NOV Material Handler PCP — 93 St** | **NEW 08-13** · Strathcona Industrial · load/unload · ~10–15 min |
 | DO | **Airways Shop Coordinator — Nisku** | **NEW 08-13** · 1802-8 St NW · shop/yard coord · ~15–20 min |
 | DP | **Walmart Stock Unloader — Leduc Discovery** | **NEW 08-13** · 5302 Discovery Way · unload · ≠ Overnight #CY / OMNI #DD |

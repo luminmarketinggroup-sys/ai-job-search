@@ -11,6 +11,33 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DQ. Pagnotta Inc. — Yard Laborer (Nisku) ★ NEW · SOUTH · 2026-08-15 · $20–26/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4454303324  
+- **Portal:** https://pagnotta.applytojob.com/apply/hTjpIh8uMO/Yard-Laborer  
+- **Address (verified):** 24548 TWP RD 502, Nisku, AB T0C 2K0  
+- **Notes:** Mon–Fri 6:30–15:45 · load/unload, yard inventory, cleanup, formwork assist · steel-toe required · WHMIS can be provided · aerial/bobcat assets  
+- **Why:** Nisku yard · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Yard Laborer role at Pagnotta in Nisku (24548 Twp Rd 502). I live nearby at 11110 68 Ave NW and am comfortable with paced yard work: loading and unloading materials, inventory counts, cleanup and organization, and helping get formwork ready for site. Steel-toe ready, coachable on WHMIS and site safety, and reliable for Monday–Friday early shifts plus overtime when needed.
+
+### DR. Sherwood Steel — Shipping Assistant (84 Ave SE) ★ NEW · SOUTH · 2026-08-15
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4453702783  
+- **Company:** https://www.sherwoodsteel.com/ · Edmonton 780-449-6548  
+- **Address (verified):** 3303 84 Ave NW, Edmonton, AB T6P 1K1  
+- **Notes:** Bills of lading, outbound packages, carrier coordination, order/payment support, phone coverage · 1–2 yrs preferred (stretch)  
+- **Why:** SE industrial near Roper / 84 Ave · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipping Assistant role at Sherwood Steel (3303 84 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with shipping paperwork accuracy, coordinating outbound freight, keeping packages and docs organized, and clear phone/customer handoffs under time pressure. Reliable attendance, coachable on Sherwood systems, and ready for full-time on-site hours.
+
+### DS. Fountain Tire Leduc — Inventory Coordinator ★ NEW · SOUTH · 2026-08-15 · $45–50k
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4453793124  
+- **Apply:** Online or in person at Fountain Tire Leduc · https://www.fountaintire.com/stores/leduc-ab  
+- **Address (verified):** 7126 Sparrow Drive, Leduc, AB T9E 7L1  
+- **Notes:** Receive/verify tire shipments, yard/warehouse organization, outbound staging, pull for sales/service · company-paid forklift training  
+- **Why:** Leduc Sparrow Drive corridor · ~20–25 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Inventory Coordinator role at Fountain Tire Leduc (7126 Sparrow Drive). I live nearby at 11110 68 Ave NW and am comfortable with paced receiving and yard organization: checking shipments against packing slips, staging product, pulling tires for jobs, and keeping the warehouse neat and safe. Willing to complete company-paid forklift training. Reliable attendance and ready for full-time hours.
+
 ### DN. NOV — Material Handler PCP (93 St / Strathcona Industrial) ★ NEW · SOUTH · 2026-08-13
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4450400056  
 - **Portal:** https://www.nov.com/Careers  

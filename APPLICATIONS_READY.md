@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Odd Bunch Paid Search (LinkedIn), DOE Media Account Manager (LinkedIn), Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** EPCOR Advisor Marketing Operations (EPCOR careers / LinkedIn), Odd Bunch Paid Search (LinkedIn), DOE Media Account Manager (LinkedIn), Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-15 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C60 | EPCOR | Advisor, Marketing Operations | Good (~62) | **PORTAL / LinkedIn** https://www.epcor.com/ca/en/careers/jobs/search-jobs.html · https://ca.linkedin.com/jobs/view/4454815342 | `cv/main_epcor.pdf` | `cover_letters/cover_epcor_advisor_marketing_operations.pdf` | Edmonton temp up to 11 mo; starting \$49.44/hr clears \$60k; digital + content + ops match; university degree preference + Alberta electricity/Encor retail depth still growing; SharePoint/invoice admin stretch |
+
+**Mailto (Resend unset this run):** none verified public apply email for EPCOR — use EPCOR careers portal / LinkedIn. Local: Pagnotta JazzHR; Sherwood Steel LinkedIn + 780-449-6548; Fountain Tire Leduc online or in person.
+
+**Local drafts this run:** Pagnotta Yard Laborer (Nisku), Sherwood Steel Shipping Assistant (84 Ave), Fountain Tire Inventory Coordinator (Leduc) — see `APPLICATIONS_LOCAL.md` (#DQ–#DS).
+
+Skipped this run (fit/location/pay): Cintas Loader/Unloader (17811 116 Ave NW / west plant); Finning Warehouse Person 7x7 West Edmonton; Mars/Champion Warehouse Tech Acheson; Hexion Loadout Operator (12621 156 St NW); Bird Tools Coordinator Sturgeon County; Flowserve Shipping Coordinator (degree + lead stretch); Thermon Shipping & Receiving (Roper ideal but applicant pool closed signal); Uline/Radius/WeldCor NW or wrong-city patterns; Brand Vision SEO (Toronto in-office); RE/MAX Hallmark Marketing & AI (Toronto on-site \$60k); TAC Security Digital Marketing Manager (Toronto); KAIRALI Social Media Manager (Brampton JD despite Edmonton label); Stripe Forward Deployed AI Accelerator Marketing (~50); Parallels Senior Manager SEO & GEO (6+ yrs senior); OpenText SEO Manager (5+ yrs Richmond Hill); OpenTable Technical SEO Manager (Toronto hybrid); Pilothouse Ecommerce Strategist (~52; 5+ yrs DTC agency portfolio); O2E Paid Search Analyst (Vancouver); Pacesetter AI and Digital Marketing Specialist (LinkedIn 4454328949 re-post — email already submitted 2026-07-22 to info@yourpacesetter.com; finish ADP/Career Centre if still open).
 
 ## NEW drafts this run (2026-08-13 daily scrape)
 
