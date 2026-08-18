@@ -6167,10 +6167,10 @@
       "title": "Shipper Receiver - Nisku",
       "company": "Randstad",
       "url": "https://www.randstad.ca/jobs/shipper-receiver-nisku_nisku_47261537/",
-      "first_seen": "2026-08-09",
-      "fit": "high",
-      "status": "evaluated",
-      "tracker_status": "ready_to_submit"
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Already drafted 2026-08-09 #DC"
     },
     "https://ca.linkedin.com/jobs/view/4451099868": {
       "title": "OMNI Customer Fulfillment Associate",
@@ -7503,6 +7503,195 @@
       "first_seen": "2026-08-15",
       "fit": "medium",
       "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4455342673": {
+      "title": "Warehouse Clerk",
+      "company": "Rexel Canada / Westburne",
+      "url": "https://ca.linkedin.com/jobs/view/4455342673",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Edmonton South 5735 67 St NW T6B 0B4; auto-draft local"
+    },
+    "https://www.autocan.ca/careers": {
+      "title": "Shipper/Receiver",
+      "company": "Mercedes-Benz Heritage Valley (AutoCanada)",
+      "url": "https://www.autocan.ca/careers",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "2120 103A St SW T6W 2P6; req 16986; auto-draft local"
+    },
+    "https://ca.linkedin.com/jobs/view/4455506327": {
+      "title": "Forklift Operator",
+      "company": "Labatt Breweries of Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455506327",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "drafted",
+      "notes": "10119 45 Ave NW T6E 0G8; forklift exp preferred; auto-draft local"
+    },
+    "https://ca.linkedin.com/jobs/view/4454293759": {
+      "title": "Specialist, SEM",
+      "company": "Marketbridge",
+      "url": "https://ca.linkedin.com/jobs/view/4454293759",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Remote Canada EST; CAD $60-80k; fit ~72"
+    },
+    "https://ca.linkedin.com/jobs/view/4452972217": {
+      "title": "Warehouse Associate - Days",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4452972217",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "St Albert 25 Richardson Dr T8N; NW distance skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4453906201": {
+      "title": "Warehouse Labourer/ Driver",
+      "company": "Chandos Construction",
+      "url": "https://ca.linkedin.com/jobs/view/4453906201",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Leduc but prior Chandos driver pattern / Class stretch; re-post of earlier skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4455351195": {
+      "title": "Account Strategist, SEO (Remote Canada)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4455351195",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "4-7 yrs senior PPC+SEO oversight seat; fit ~48"
+    },
+    "https://ca.linkedin.com/jobs/view/4454740674": {
+      "title": "Lead Digital Marketing Manager",
+      "company": "Trackunit",
+      "url": "https://ca.linkedin.com/jobs/view/4454740674",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "London ON lead / senior digital growth; location+seniority"
+    },
+    "https://ca.linkedin.com/jobs/view/4454424602": {
+      "title": "Regional Marketing Manager - ACX Corp Sup Remote",
+      "company": "AutoCanada",
+      "url": "https://ca.linkedin.com/jobs/view/4454424602",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Regional MM multi-market strategy stretch vs ACX Media Performance already drafted; fit ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/4455183864": {
+      "title": "Media Buyer / Creative Strategist (Remote)",
+      "company": "Sweat Pants Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4455183864",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "OTE band may start ~$48k USD under CAD $60k floor; DTC Meta scale stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4453773040": {
+      "title": "Paid Media Strategist",
+      "company": "POD Marketing Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4453773040",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Calgary listing; location vs remote-Canada priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4455335823": {
+      "title": "Account Manager",
+      "company": "Search Engine People Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4455335823",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Pickering ON / GTA agency AM"
+    },
+    "https://ca.linkedin.com/jobs/view/4455247745": {
+      "title": "Paid Media Specialist",
+      "company": "Later",
+      "url": "https://ca.linkedin.com/jobs/view/4455247745",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Vancouver influencer paid social"
+    },
+    "https://ca.linkedin.com/jobs/view/4452543597": {
+      "title": "Marketing Performance & Analytics Specialist",
+      "company": "Tech Manitoba / Payworks",
+      "url": "https://ca.linkedin.com/jobs/view/4452543597",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Winnipeg hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/4454431739": {
+      "title": "Digital Strategist | Media Buying",
+      "company": "White Bay",
+      "url": "https://ca.linkedin.com/jobs/view/4454431739",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "London ON hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/4453358710": {
+      "title": "Referral Marketing / Business Development Specialist",
+      "company": "Snore MD",
+      "url": "https://ca.linkedin.com/jobs/view/4453358710",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Healthcare referral BD not digital marketing; fit ~42"
+    },
+    "https://ca.linkedin.com/jobs/view/4454418740": {
+      "title": "Web Content Developer",
+      "company": "Robert Half",
+      "url": "https://ca.linkedin.com/jobs/view/4454418740",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Design/front-end primary; prior RH web content skip pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4454434536": {
+      "title": "Warehouse Helper/Runner",
+      "company": "Reliance Home Comfort",
+      "url": "https://ca.linkedin.com/jobs/view/4454434536",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Already drafted 2026-08-03 Coronet"
+    },
+    "https://ca.linkedin.com/jobs/view/4455377859": {
+      "title": "Warehouse Administrator",
+      "company": "Stream-Flo Industries",
+      "url": "https://ca.linkedin.com/jobs/view/4455377859",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Leadership/admin stretch; Stream-Flo warehouse already drafted"
+    },
+    "https://ca.linkedin.com/jobs/view/4455236431": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455236431",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Sherwood Park distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4455329311": {
+      "title": "OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455329311",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Fort Saskatchewan distance"
     }
   }
 }

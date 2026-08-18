@@ -6,7 +6,37 @@ Blurbs: APPLICATIONS_LOCAL.md
 Skip: Southgate Centre public-facing jobs
 
 ============================================================
-LOCAL THIS RUN (2026-08-15) — portal / LinkedIn / in-person
+LOCAL THIS RUN (2026-08-18) — portal / LinkedIn / in-person
+============================================================
+DT. Rexel / Westburne — Warehouse Clerk Edmonton South (NEW 2026-08-18)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4455342673
+   Board: https://rexel.ca/westburne-edit-jobs/ (Warehouse Clerk · Edmonton South)
+   Address: 5735 67 Street NW, Edmonton T6B 0B4
+   Attach: cv/main_local_edmonton.pdf
+
+DU. Mercedes-Benz Heritage Valley — Shipper/Receiver (NEW 2026-08-18)
+   Portal: https://www.autocan.ca/careers (Requisition ID 16986)
+   Dealership: https://www.mercedes-benz-heritagevalley.ca/careers.html
+   Address: 2120 103A Street SW, Edmonton T6W 2P6
+   Attach: cv/main_local_edmonton.pdf
+
+DV. Labatt Breweries — Forklift Operator Edmonton (NEW 2026-08-18)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4455506327
+   Careers: https://www.labatt.com/en/careers
+   Address: 10119 45 Avenue NW, Edmonton T6E 0G8 · $19.85/hr
+   Attach: cv/main_local_edmonton.pdf
+
+============================================================
+CAREER THIS RUN (2026-08-18)
+============================================================
+C61. Marketbridge — Specialist, SEM (~72)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4454293759
+   Careers: https://marketbridge.com/careers/
+   Attach: cv/main_marketbridge.pdf + cover_letters/cover_marketbridge_specialist_sem.pdf
+   Notes: remote Canada · EST hours · CAD $60–80k · Microsoft Ads honesty · no public apply email
+
+============================================================
+LOCAL PRIOR (2026-08-15) — portal / LinkedIn / in-person
 ============================================================
 DQ. Pagnotta — Yard Laborer Nisku (NEW 2026-08-15)
    JazzHR: https://pagnotta.applytojob.com/apply/hTjpIh8uMO/Yard-Laborer
@@ -27,7 +57,7 @@ DS. Fountain Tire — Inventory Coordinator Leduc (NEW 2026-08-15)
    Attach: cv/main_local_edmonton.pdf
 
 ============================================================
-CAREER THIS RUN (2026-08-15)
+CAREER PRIOR (2026-08-15)
 ============================================================
 C60. EPCOR — Advisor, Marketing Operations (~62)
    LinkedIn: https://ca.linkedin.com/jobs/view/4454815342

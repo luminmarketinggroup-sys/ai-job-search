@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DT | **Rexel/Westburne Warehouse Clerk — Edmonton South** | **NEW 08-18** · 5735 67 St NW · ~5–10 min · Fitzii board |
+| DU | **Mercedes Heritage Valley Shipper/Receiver** | **NEW 08-18** · 2120 103A St SW · AutoCanada req 16986 · ~10–15 min |
+| DV | **Labatt Forklift Operator — 45 Ave** | **NEW 08-18** · 10119 45 Ave NW · $19.85/hr · forklift stretch · ~10–15 min |
 | DQ | **Pagnotta Yard Laborer — Nisku** | **NEW 08-15** · 24548 Twp Rd 502 · $20–26/hr · JazzHR · ~15–20 min |
 | DR | **Sherwood Steel Shipping Assistant — 84 Ave** | **NEW 08-15** · 3303 84 Ave NW · BOL/carrier · ~10–15 min |
 | DS | **Fountain Tire Inventory Coordinator — Leduc** | **NEW 08-15** · 7126 Sparrow Dr · $45–50k · ~20–25 min |

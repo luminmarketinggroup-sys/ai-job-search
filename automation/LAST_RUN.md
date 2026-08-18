@@ -1,19 +1,19 @@
-# Last automation run — 2026-08-15
+# Last automation run — 2026-08-18
 
 ## Summary
-- **3 new local drafts** (Pagnotta Yard Laborer Nisku; Sherwood Steel Shipping Assistant 84 Ave; Fountain Tire Inventory Coordinator Leduc)
-- **1 new career draft** (EPCOR Advisor, Marketing Operations ~62)
+- **3 new local drafts** (Rexel/Westburne Warehouse Clerk Edmonton South; Mercedes-Benz Heritage Valley Shipper/Receiver; Labatt Forklift Operator 45 Ave)
+- **1 new career draft** (Marketbridge Specialist, SEM ~72)
 - **Resend unset** — no email claimed sent; no portal submits claimed
-- Skipped: west/NW warehouse (Cintas 116 Ave, Finning West, Mars Acheson, Hexion 156 St, Bird Sturgeon); Flowserve degree/lead; Thermon closed signal; Toronto/Vancouver career (Brand Vision, RE/MAX, TAC, O2E); Stripe/Parallels/Pilothouse stretches; Pacesetter LinkedIn re-post (already emailed 2026-07-22)
+- Skipped: Uline St Albert NW; Blacksmith SEO strategist senior; Trackunit London ON; ACX Regional MM stretch; Sweat Pants pay-floor risk; Calgary/Vancouver/Winnipeg career; Snore MD BD; duplicates (Reliance, Randstad Nisku, Stream-Flo admin)
 
 ## New drafts this run
 
 | Track | Company | Role | Link | Files |
 |-------|---------|------|------|-------|
-| Local | Pagnotta Inc. | Yard Laborer (Nisku) | https://ca.linkedin.com/jobs/view/4454303324 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DQ` |
-| Local | Sherwood Steel | Shipping Assistant (84 Ave) | https://ca.linkedin.com/jobs/view/4453702783 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DR` |
-| Local | Fountain Tire | Inventory Coordinator (Leduc) | https://ca.linkedin.com/jobs/view/4453793124 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DS` |
-| Career | EPCOR | Advisor, Marketing Operations | https://ca.linkedin.com/jobs/view/4454815342 | `cv/main_epcor.pdf` · `cover_letters/cover_epcor_advisor_marketing_operations.pdf` |
+| Local | Rexel / Westburne | Warehouse Clerk (Edmonton South) | https://ca.linkedin.com/jobs/view/4455342673 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DT` |
+| Local | Mercedes-Benz Heritage Valley | Shipper/Receiver | https://www.autocan.ca/careers | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DU` |
+| Local | Labatt Breweries | Forklift Operator | https://ca.linkedin.com/jobs/view/4455506327 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DV` |
+| Career | Marketbridge | Specialist, SEM | https://ca.linkedin.com/jobs/view/4454293759 | `cv/main_marketbridge.pdf` · `cover_letters/cover_marketbridge_specialist_sem.pdf` |
 
 ## Checklists
 - Local blurbs: `APPLICATIONS_LOCAL.md`

@@ -11,6 +11,33 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DT. Rexel Canada / Westburne — Warehouse Clerk (Edmonton South) ★ NEW · SOUTH · 2026-08-18
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4455342673  
+- **Careers board:** https://rexel.ca/westburne-edit-jobs/ (Warehouse Clerk · Edmonton South · Apply)  
+- **Address (verified):** 5735 67 Street NW, Edmonton, AB T6B 0B4  
+- **Notes:** Load/unload, stack skids, sort freight, verify receipts, BOL/shipping paperwork, AS400 inventory entry · Grade 12 · 1+ yr related preferred · lift to 50 lbs · forklift asset  
+- **Why:** Westburne Edmonton South · ~5–10 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Clerk role at Westburne / Rexel Edmonton South (5735 67 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: loading and unloading, verifying shipments, preparing shipping paperwork, keeping the dock organized, and learning AS400 inventory entry. Forklift experience is an asset I’m ready to train or refresh on. Reliable attendance and ready for full-time branch hours.
+
+### DU. Mercedes-Benz Heritage Valley (AutoCanada) — Shipper/Receiver ★ NEW · SOUTH · 2026-08-18
+- **Apply:** https://www.autocan.ca/careers (Requisition ID 16986 · Shipper/Receiver · Mercedes-Benz Heritage Valley)  
+- **Dealership careers:** https://www.mercedes-benz-heritagevalley.ca/careers.html  
+- **Address (verified):** 2120 103A Street SW, Edmonton, AB T6W 2P6  
+- **Notes:** Pick/prepare parts for ship or delivery · receive and put away · returns · perpetual counts · forklift / electric pallet stacker assets · 1–3 yrs preferred  
+- **Why:** Heritage Valley south dealership parts dock · ~10–15 min · Audi Fixed Ops background transfers · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Mercedes-Benz Heritage Valley (2120 103A Street SW). I live nearby at 11110 68 Ave NW and previously worked Fixed Ops at Audi Southgate, so I’m used to paced dealership workflows, accurate documentation, and clear handoffs under time pressure. Comfortable with parts receiving, put-away, picking for ship/delivery, returns, and keeping the warehouse organized. Willing to train or refresh forklift / pallet stacker as required. Reliable attendance and ready for full-time hours.
+
+### DV. Labatt Breweries of Canada — Forklift Operator (Edmonton Brewery) ★ NEW · SOUTH · 2026-08-18 · $19.85/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4455506327  
+- **Careers:** https://www.labatt.com/en/careers · AB InBev jobs search Edmonton  
+- **Address (verified):** 10119 45 Avenue NW, Edmonton, AB T6E 0G8  
+- **Notes:** Forklift / palletizer / stretch wrapper · BOL in SAP · receiving + outbound docs · shift work (days/afternoons/nights) · forklift operating experience preferred (stretch; willing to demonstrate/refresh) · union / collective agreement context  
+- **Why:** South Edmonton brewery · ~10–15 min via Calgary Trail corridor · not Southgate  
+- **Blurb:**
+> I’m applying for the Forklift Operator role at Labatt Edmonton (10119 45 Avenue NW). I live nearby at 11110 68 Ave NW and am comfortable with paced physical warehouse work: loading and unloading, paperwork accuracy, keeping a clean safe floor, and learning site equipment and SAP shipping steps. Willing to demonstrate or refresh forklift operation as required and work the posted shift rotation. Reliable attendance and ready for full-time hours.
+
 ### DQ. Pagnotta Inc. — Yard Laborer (Nisku) ★ NEW · SOUTH · 2026-08-15 · $20–26/hr
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4454303324  
 - **Portal:** https://pagnotta.applytojob.com/apply/hTjpIh8uMO/Yard-Laborer  

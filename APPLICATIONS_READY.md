@@ -1,9 +1,21 @@
 # Applications Ready — Dylan Michael
 
-Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** EPCOR Advisor Marketing Operations (EPCOR careers / LinkedIn), Odd Bunch Paid Search (LinkedIn), DOE Media Account Manager (LinkedIn), Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
+Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Portal-only / mailto left:** Marketbridge Specialist SEM (LinkedIn / Marketbridge careers), EPCOR Advisor Marketing Operations (EPCOR careers / LinkedIn), Odd Bunch Paid Search (LinkedIn), DOE Media Account Manager (LinkedIn), Levven Marketing Specialist (LinkedIn), Binary Stream Marketing Specialist (BambooHR / LinkedIn), Fortra Web Strategy Lead (LinkedIn), Victor Energy Marketing Coordinator (LinkedIn / Victor careers), ACX Media & Performance (LinkedIn), Laivly Digital Marketing Specialist (BambooHR), CanadaOne Digital Marketing Coordinator, Attention Paid Media (tyler@attentioncompany.ca), Roveia Performance Marketing Lead, Roveia Marketing Account Manager, Flywheel Paid Growth Lead, Acceler8 Paid Search, Ross Video Marketing Automation, Herb KAM (careers@herb.co), White Bay, Clever SEM, Ignite PPC, AMA, Keysight, Elevation, AutoCanada AM, NP Digital, Powered by Search, Odds Scanner, Brafton, CCWESTT, BIS Web Optimization, Jobgether Organic Growth / Meta PPC (+ optional form follow-ups). Local CGIS Shipper/Receiver: mailto hr@cgis.ca (Resend unset this run).
 
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
+
+## NEW drafts this run (2026-08-18 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C61 | Marketbridge | Specialist, SEM | Good (~72) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4454293759 · https://marketbridge.com/careers/ | `cv/main_marketbridge.pdf` | `cover_letters/cover_marketbridge_specialist_sem.pdf` | Remote Canada; EST hours OK from Edmonton; CAD \$60–80k; Google Ads Certified + GA4 match; Microsoft Advertising + Fortune-scale B2B SEM book still growing vs 2 SMB accounts |
+
+**Mailto (Resend unset this run):** none verified public apply email for Marketbridge SEM — use LinkedIn / Marketbridge careers. Local: Rexel/Westburne Fitzii board; Mercedes AutoCanada careers (req 16986); Labatt / AB InBev careers portal.
+
+**Local drafts this run:** Rexel/Westburne Warehouse Clerk (5735 67 St NW), Mercedes-Benz Heritage Valley Shipper/Receiver (2120 103A St SW), Labatt Forklift Operator (10119 45 Ave NW) — see `APPLICATIONS_LOCAL.md` (#DT–#DV).
+
+Skipped this run (fit/location/pay): Uline Warehouse Associate (St Albert 25 Richardson Dr NW); Chandos Warehouse Labourer/Driver (prior skip / driver stretch); Blacksmith Account Strategist SEO (4–7 yrs senior ~48); Trackunit Lead Digital Marketing Manager (London ON); AutoCanada ACX Regional Marketing Manager (~55 stretch; Media Performance already drafted); Sweat Pants Media Buyer (OTE may start under CAD \$60k + DTC Meta scale); POD Paid Media Strategist (Calgary); Search Engine People AM (Pickering); Later Paid Media (Vancouver); Payworks/Tech Manitoba analytics (Winnipeg hybrid); White Bay London ON hybrid; Snore MD referral BD (~42); Robert Half Web Content Developer (design/front-end); Reliance Helper (already drafted); Stream-Flo Warehouse Administrator (leadership; warehouse already drafted); Walmart OMNI Sherwood Park / Fort Sask; Randstad Nisku Shipper Receiver (already #DC).
 
 ## NEW drafts this run (2026-08-15 daily scrape)
 
