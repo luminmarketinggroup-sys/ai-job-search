@@ -17,6 +17,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| DW | **Echelon Warehouse Associate — Roper Rd** | **NEW 08-20** · 8440 Roper Rd NW · ~8–12 min · optional email edmontonsales@echelonsupply.com |
+| DX | **Surepoint Shipper/Receiver — Nisku** | **NEW 08-20** · 700 15 Ave Nisku · Class 5 + abstract · ~15–20 min |
+| DY | **Allegion Warehouse Worker — 75 St** | **NEW 08-20** · 5136 75 St NW · \$45–65k · ~10–15 min |
 | DT | **Rexel/Westburne Warehouse Clerk — Edmonton South** | **NEW 08-18** · 5735 67 St NW · ~5–10 min · Fitzii board |
 | DU | **Mercedes Heritage Valley Shipper/Receiver** | **NEW 08-18** · 2120 103A St SW · AutoCanada req 16986 · ~10–15 min |
 | DV | **Labatt Forklift Operator — 45 Ave** | **NEW 08-18** · 10119 45 Ave NW · $19.85/hr · forklift stretch · ~10–15 min |

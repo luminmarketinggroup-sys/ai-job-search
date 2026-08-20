@@ -6,7 +6,36 @@ Blurbs: APPLICATIONS_LOCAL.md
 Skip: Southgate Centre public-facing jobs
 
 ============================================================
-LOCAL THIS RUN (2026-08-18) — portal / LinkedIn / in-person
+LOCAL THIS RUN (2026-08-20) — portal / LinkedIn / email
+============================================================
+DW. Echelon Supply — Warehouse Associate Roper Rd (NEW 2026-08-20)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4455687594
+   Address: 8440 Roper Road NW, Edmonton T6E 6W4
+   Optional email: edmontonsales@echelonsupply.com (confirm HR)
+   Attach: cv/main_local_edmonton.pdf
+
+DX. Surepoint — Shipper/Receiver Nisku (NEW 2026-08-20)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4456350443
+   Company: https://surepoint.ca/ · 780-955-3939
+   Address: 700 15 Avenue, Nisku T9E 7S2
+   Attach: cv/main_local_edmonton.pdf
+
+DY. Allegion Canada — Warehouse Worker 75 St (NEW 2026-08-20)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4455773151
+   Address: 5136 75 Street NW, Edmonton T6E 6W2 · CAD $45–65k
+   Attach: cv/main_local_edmonton.pdf
+
+============================================================
+CAREER THIS RUN (2026-08-20)
+============================================================
+C62. Jobgether (partner) — Google Ads Manager (~74)
+   LinkedIn: https://ca.linkedin.com/jobs/view/4454245279
+   Apply: Jobgether matching flow / LinkedIn Easy Apply
+   Attach: cv/main_jobgether_google_ads.pdf + cover_letters/cover_jobgether_google_ads_manager.pdf
+   Notes: remote Canada · EST Mon–Fri · Google Ads Certified required · Display/YouTube honesty · confirm base ≥ CAD $60k
+
+============================================================
+LOCAL PRIOR (2026-08-18) — portal / LinkedIn / in-person
 ============================================================
 DT. Rexel / Westburne — Warehouse Clerk Edmonton South (NEW 2026-08-18)
    LinkedIn: https://ca.linkedin.com/jobs/view/4455342673

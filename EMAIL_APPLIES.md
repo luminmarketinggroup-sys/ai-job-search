@@ -88,6 +88,16 @@ Attach: `cv/main_herb.pdf` + `cover_letters/cover_herb_key_account_manager.pdf` 
 
 Attach: local resume for Highlander and NWT; `cv/main_bis_web_optimization.pdf` + cover for BIS.
 
+## Pending mailto (Resend unset 2026-08-20)
+
+| # | Company | To | Role | Notes |
+|---|---------|-----|------|-------|
+| P0g | Echelon Supply and Service | edmontonsales@echelonsupply.com | Warehouse Associate Edmonton | **NEW 2026-08-20** mailto ready · confirm HR inbox · subject `Warehouse Associate - Dylan Michael (Edmonton)` · attach `cv/main_local_edmonton.pdf` · LinkedIn https://ca.linkedin.com/jobs/view/4455687594 |
+
+`mailto:edmontonsales@echelonsupply.com?subject=Warehouse%20Associate%20-%20Dylan%20Michael%20(Edmonton)&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Warehouse%20Associate%20role%20at%20Echelon%20Supply%20Edmonton%20(8440%20Roper%20Road%20NW).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
+Jobgether Google Ads Manager / Surepoint / Allegion: portal or LinkedIn only (no verified resume inbox this run).
+
 ## Pending mailto (Resend unset 2026-08-12)
 
 | # | Company | To | Role | Status |

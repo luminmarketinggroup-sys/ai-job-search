@@ -11,6 +11,33 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DW. Echelon Supply and Service — Warehouse Associate (Roper Rd) ★ NEW · SOUTH · 2026-08-20
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4455687594  
+- **Company:** https://echelonsupply.com/ · Edmonton sales 780-468-1234 · edmontonsales@echelonsupply.com  
+- **Address (verified):** 8440 Roper Road NW, Edmonton, AB T6E 6W4  
+- **Notes:** Process UPS in/out · procure truck shipments · assemble hose to specs · inventory put-back · lift 50 lbs · HS diploma · prior warehouse preferred  
+- **Why:** Roper industrial · ~8–12 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at Echelon Supply Edmonton (8440 Roper Road NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: processing inbound and outbound shipments, checking orders carefully, keeping inventory organized, and lifting up to 50 lbs safely. Ready to learn hose assembly instructions and site systems quickly. Reliable attendance and ready for full-time hours.
+
+### DX. Surepoint — Shipper/Receiver (Nisku) ★ NEW · SOUTH · 2026-08-20
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456350443  
+- **Careers / contact:** https://surepoint.ca/ · Head office 700 15 Ave Nisku · 780-955-3939  
+- **Address (verified):** 700 15 Avenue, Nisku, AB T9E 7S2  
+- **Notes:** Ship/receive parts + paperwork · pick-up/delivery · forklift asset · Class 5 + clean abstract required · Mon–Fri local work · on-call after hours as required  
+- **Why:** Nisku HQ shop/warehouse · ~15–20 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Surepoint in Nisku (700 15 Avenue). I live nearby at 11110 68 Ave NW and am comfortable with paced parts shipping and receiving: accurate paperwork, keeping shelves and the shop organized, loading and unloading, and learning forklift procedures as needed. I hold a Class 5 licence and can provide a clean drivers abstract. Reliable attendance for Monday–Friday local hours plus on-call as posted.
+
+### DY. Allegion Canada — Warehouse Worker (75 St) ★ NEW · SOUTH · 2026-08-20 · $45–65k
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4455773151  
+- **Careers:** Allegion careers / LinkedIn apply  
+- **Address (verified):** 5136 75 Street NW, Edmonton, AB T6E 6W2  
+- **Notes:** Pick/pack/ship/receive distribution · safety mindset · CAD \$45–65k posted range  
+- **Why:** SE industrial near 75 St / Calgary Trail corridor · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Worker role at Allegion Edmonton (5136 75 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced distribution work: picking and packing, shipping and receiving, keeping a clean safe floor, and following SOPs under time pressure. Reliable attendance and ready for full-time warehouse hours.
+
 ### DT. Rexel Canada / Westburne — Warehouse Clerk (Edmonton South) ★ NEW · SOUTH · 2026-08-18
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4455342673  
 - **Careers board:** https://rexel.ca/westburne-edit-jobs/ (Warehouse Clerk · Edmonton South · Apply)  
