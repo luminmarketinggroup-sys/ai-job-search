@@ -1,22 +1,23 @@
-# Last automation run — 2026-08-20
+# Daily job search — LAST RUN
+
+**Date:** 2026-08-21  
+**Branch push target:** `cursor/dylan-michael-profile-setup-7ff7` (PR #1)  
+**Resend:** unset (mailto / portal only)
+
+## New local drafts (3)
+| Company | Role | Link | Files |
+|---------|------|------|-------|
+| Allredi | General Laborer (Leduc) | https://ca.linkedin.com/jobs/view/4456404154 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DZ` |
+| Go Auto / Go Kia South | Parts Advisor | https://ca.linkedin.com/jobs/view/4457048031 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EA` · mailto careers@goauto.ca |
+| Traction / UAP | Heavy Vehicle Parts Specialist | https://ca.linkedin.com/jobs/view/4456384949 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EB` |
+
+## New career drafts (2)
+| Company | Role | Fit | Link | Files |
+|---------|------|-----|------|-------|
+| BlueTuskr | Search Advertising Specialist (E-Commerce) | ~72 | https://ca.linkedin.com/jobs/view/4455285321 | `cv/main_bluetuskr.pdf` · `cover_letters/cover_bluetuskr_search_advertising_specialist.pdf` |
+| ZayZoon | GTM Automation Specialist I | ~64 | https://ca.linkedin.com/jobs/view/4456758465 | `cv/main_zayzoon.pdf` · `cover_letters/cover_zayzoon_gtm_automation_specialist.pdf` |
 
 ## Summary
-- **3 new local drafts** (Echelon Warehouse Associate Roper Rd; Surepoint Shipper/Receiver Nisku; Allegion Warehouse Worker 75 St)
-- **1 new career draft** (Jobgether partner Google Ads Manager ~74)
-- **Resend unset** — no email claimed sent; no portal submits claimed
-- Skipped: NW warehouses (Horsman, Fastener West, Wolseley, Guillevin NW, 7-Eleven 157 Ave); Walmart Tamarack/Sherwood; Resolver Toronto hybrid; Marketing Generalist / Senior DMS stretch; Jobgether Senior SEO / Meta UA; Atomic US DTC; duplicates (Walmart Leduc Unloader)
-
-## New drafts this run
-
-| Track | Company | Role | Link | Files |
-|-------|---------|------|------|-------|
-| Local | Echelon Supply | Warehouse Associate | https://ca.linkedin.com/jobs/view/4455687594 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DW` |
-| Local | Surepoint | Shipper/Receiver | https://ca.linkedin.com/jobs/view/4456350443 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DX` |
-| Local | Allegion Canada | Warehouse Worker | https://ca.linkedin.com/jobs/view/4455773151 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#DY` |
-| Career | Jobgether (partner) | Google Ads Manager | https://ca.linkedin.com/jobs/view/4454245279 | `cv/main_jobgether_google_ads.pdf` · `cover_letters/cover_jobgether_google_ads_manager.pdf` |
-
-## Checklists
-- Local blurbs: `APPLICATIONS_LOCAL.md`
-- Career packs: `APPLICATIONS_READY.md`
-- Email mailto: `EMAIL_APPLIES.md`
-- Submit order: `SUBMIT_BATCH.md` · portals: `PORTALS_TO_SUBMIT.md`
+- **3** new local drafts  
+- **2** new career drafts  
+- Checklists: `APPLICATIONS_LOCAL.md`, `APPLICATIONS_READY.md`

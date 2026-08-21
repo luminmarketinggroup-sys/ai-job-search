@@ -7944,6 +7944,746 @@
       "fit": "medium",
       "status": "skipped",
       "notes": "sales promo stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4456404154": {
+      "title": "General Laborer",
+      "company": "Allredi",
+      "url": "https://ca.linkedin.com/jobs/view/4456404154",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Leduc 6602 45 St"
+    },
+    "https://ca.linkedin.com/jobs/view/4457048031": {
+      "title": "Parts Advisor (Go Kia South)",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4457048031",
+      "first_seen": "2026-08-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "3030 Gateway Blvd"
+    },
+    "https://ca.linkedin.com/jobs/view/4456384949": {
+      "title": "Heavy Vehicle Parts Specialist",
+      "company": "Traction Heavy Duty Parts / UAP",
+      "url": "https://ca.linkedin.com/jobs/view/4456384949",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "3404 78 Ave"
+    },
+    "https://ca.linkedin.com/jobs/view/4456355189": {
+      "title": "Heavy Vehicle Parts Specialist",
+      "company": "UAP Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4456355189",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "twin of Traction 4456384949"
+    },
+    "https://ca.linkedin.com/jobs/view/4455285321": {
+      "title": "Search Advertising Specialist - E-Commerce - (Remote)",
+      "company": "BlueTuskr",
+      "url": "https://ca.linkedin.com/jobs/view/4455285321",
+      "first_seen": "2026-08-21",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit ~72"
+    },
+    "https://ca.linkedin.com/jobs/view/4456758465": {
+      "title": "Go to Market (GTM) Automation Specialist I",
+      "company": "ZayZoon",
+      "url": "https://ca.linkedin.com/jobs/view/4456758465",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit ~64; CA$94-135k"
+    },
+    "https://ca.linkedin.com/jobs/view/4453822975": {
+      "title": "Canada - Warehouse Associate",
+      "company": "Thorpe Specialty Services Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4453822975",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "16010 118 Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4457073252": {
+      "title": "Labourer (Afternoon/Evening Shifts)",
+      "company": "Perma Corp",
+      "url": "https://ca.linkedin.com/jobs/view/4457073252",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "14646 112 Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4454797080": {
+      "title": "Warehouse Representative / Driver - Edmonton",
+      "company": "TK Elevator",
+      "url": "https://ca.linkedin.com/jobs/view/4454797080",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "10230 176 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4452828513": {
+      "title": "Material Handler - Mechanical Assembly (Days)",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4452828513",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Acheson west"
+    },
+    "https://ca.linkedin.com/jobs/view/4456094063": {
+      "title": "Material Handler - Day Shift",
+      "company": "Ryder System, Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4456094063",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "FIFO Fort Hills"
+    },
+    "https://ca.linkedin.com/jobs/view/4456735830": {
+      "title": "Warehouse Person Afternoon/Night",
+      "company": "McKesson",
+      "url": "https://ca.linkedin.com/jobs/view/4456735830",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "164 St NW pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4456055480": {
+      "title": "Dispatcher",
+      "company": "Carmel Transport International Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4456055480",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "not warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/4456388993": {
+      "title": "Dispatcher",
+      "company": "Caron Transportation Systems",
+      "url": "https://ca.linkedin.com/jobs/view/4456388993",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "not warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/4455530774": {
+      "title": "Accounts Receivable Agent",
+      "company": "Air Liquide",
+      "url": "https://ca.linkedin.com/jobs/view/4455530774",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "not warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/4456026734": {
+      "title": "Back Counter Parts Advisor - Sherwood Park Hyundai",
+      "company": "AutoCanada",
+      "url": "https://ca.linkedin.com/jobs/view/4456026734",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Sherwood Park; deferred vs Gateway Kia"
+    },
+    "https://ca.linkedin.com/jobs/view/4453235016": {
+      "title": "Parts Advisor",
+      "company": "Davis Auto Group / Chinook Equipment",
+      "url": "https://ca.linkedin.com/jobs/view/4453235016",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Nisku Bobcat parts specialized"
+    },
+    "https://ca.linkedin.com/jobs/view/4446481231": {
+      "title": "Parts Technician Tool Crib",
+      "company": "NAIT",
+      "url": "https://ca.linkedin.com/jobs/view/4446481231",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "institutional specialized"
+    },
+    "https://ca.linkedin.com/jobs/view/4457025623": {
+      "title": "Website Performance Manager",
+      "company": "BIS Safety Software",
+      "url": "https://ca.linkedin.com/jobs/view/4457025623",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "5+ yrs + team lead ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/4456045841": {
+      "title": "SEO Specialist",
+      "company": "Saatchi & Saatchi Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4456045841",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_pay",
+      "notes": "$50k pay floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4457064338": {
+      "title": "SEO Strategist",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4457064338",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "senior oversee specialists"
+    },
+    "https://ca.linkedin.com/jobs/view/4424148479": {
+      "title": "Performance Marketing Manager",
+      "company": "KOHO",
+      "url": "https://ca.linkedin.com/jobs/view/4424148479",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "5+ yrs senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4454106469": {
+      "title": "Senior SEO/GEO Strategist",
+      "company": "Publicis Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4454106469",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "senior Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4414961668": {
+      "title": "SEO Strategist (Remote Canada) - Future Opening",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4414961668",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "future opening twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4454288448": {
+      "title": "Strat\u00e8ge SEO",
+      "company": "Hamak Marketing Num\u00e9rique",
+      "url": "https://ca.linkedin.com/jobs/view/4454288448",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4455644157": {
+      "title": "Digital Account Manager - AI & Performance Marketing",
+      "company": "ROC Media Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4455644157",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "GTA"
+    },
+    "https://ca.linkedin.com/jobs/view/4456037285": {
+      "title": "Account Manager \u2014 Digital Marketing Agency (META)",
+      "company": "Scale My Meal Prep",
+      "url": "https://ca.linkedin.com/jobs/view/4456037285",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Mississauga"
+    },
+    "https://ca.linkedin.com/jobs/view/4454797745": {
+      "title": "Account Manager, Digital Marketing",
+      "company": "The Influence Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4454797745",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "GTA hybrid 4+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4451680699": {
+      "title": "Account Manager (Digital Marketing Agency)",
+      "company": "TopHat HR",
+      "url": "https://ca.linkedin.com/jobs/view/4451680699",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "GTA 15-40 accounts"
+    },
+    "https://ca.linkedin.com/jobs/view/4455311220": {
+      "title": "Google & Meta Ads Expert (Bilingual FR/EN)",
+      "company": "Glowtify",
+      "url": "https://ca.linkedin.com/jobs/view/4455311220",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal hybrid 5+ yrs FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4456401093": {
+      "title": "Sp\u00e9cialiste marketing num\u00e9rique et IA",
+      "company": "SIGMA-HR",
+      "url": "https://ca.linkedin.com/jobs/view/4456401093",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4454291946": {
+      "title": "E-Commerce & Digital Marketing Specialist",
+      "company": "Opti-Tech Scientific Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4454291946",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Whitby ON"
+    },
+    "https://ca.linkedin.com/jobs/view/4451020949": {
+      "title": "Communications Specialist",
+      "company": "AMA - Alberta Motor Association",
+      "url": "https://ca.linkedin.com/jobs/view/4451020949",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "comms not digital growth"
+    },
+    "https://ca.linkedin.com/jobs/view/4455496852": {
+      "title": "Coordinator",
+      "company": "Alberta Health Services",
+      "url": "https://ca.linkedin.com/jobs/view/4455496852",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "unclear marketing"
+    },
+    "https://ca.linkedin.com/jobs/view/4451265063": {
+      "title": "Director Digital Media & Public Affairs",
+      "company": "City of Edmonton",
+      "url": "https://ca.linkedin.com/jobs/view/4451265063",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "director"
+    },
+    "https://ca.linkedin.com/jobs/view/4413621610": {
+      "title": "Director, Product Marketing",
+      "company": "Absorb Software",
+      "url": "https://ca.linkedin.com/jobs/view/4413621610",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "director"
+    },
+    "https://ca.linkedin.com/jobs/view/4414166159": {
+      "title": "Director, Generative Engine Optimization (GEO)",
+      "company": "Intact",
+      "url": "https://ca.linkedin.com/jobs/view/4414166159",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "director Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4444120736": {
+      "title": "VP of Marketing",
+      "company": "McFadyen Digital",
+      "url": "https://ca.linkedin.com/jobs/view/4444120736",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "VP"
+    },
+    "https://ca.linkedin.com/jobs/view/4455763344": {
+      "title": "Director, AI & Data Science",
+      "company": "Artefact",
+      "url": "https://ca.linkedin.com/jobs/view/4455763344",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "director"
+    },
+    "https://ca.linkedin.com/jobs/view/4405023905": {
+      "title": "Senior Product Marketing Manager, Financials & OpsAI",
+      "company": "BuildOps",
+      "url": "https://ca.linkedin.com/jobs/view/4405023905",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "senior PMM"
+    },
+    "https://ca.linkedin.com/jobs/view/4436167025": {
+      "title": "Marketing Analytics Director",
+      "company": "Grafana Labs",
+      "url": "https://ca.linkedin.com/jobs/view/4436167025",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "director"
+    },
+    "https://ca.linkedin.com/jobs/view/4428897804": {
+      "title": "Marketing Manager",
+      "company": "Claio",
+      "url": "https://ca.linkedin.com/jobs/view/4428897804",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal"
+    },
+    "https://ca.linkedin.com/jobs/view/4363891182": {
+      "title": "Go-to-Market Lead",
+      "company": "Fulltime AI",
+      "url": "https://ca.linkedin.com/jobs/view/4363891182",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4442156121": {
+      "title": "Sr. Product Marketing Manager",
+      "company": "Magnet Forensics",
+      "url": "https://ca.linkedin.com/jobs/view/4442156121",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "senior PMM"
+    },
+    "https://ca.linkedin.com/jobs/view/4453726751": {
+      "title": "Account Manager MarTech",
+      "company": "White Bay",
+      "url": "https://ca.linkedin.com/jobs/view/4453726751",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Vancouver hybrid"
+    },
+    "https://ca.linkedin.com/jobs/view/4446835703": {
+      "title": "Account Manager",
+      "company": "Bloom Digital Marketing Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4446835703",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4443896297": {
+      "title": "Account Manager, DCO",
+      "company": "Omnicom Media",
+      "url": "https://ca.linkedin.com/jobs/view/4443896297",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4453801248": {
+      "title": "Senior Account Manager",
+      "company": "GainShare Performance Marketing",
+      "url": "https://ca.linkedin.com/jobs/view/4453801248",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "senior Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4454907900": {
+      "title": "Account Manager",
+      "company": "Intercept",
+      "url": "https://ca.linkedin.com/jobs/view/4454907900",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4442780322": {
+      "title": "Senior Account Manager, Media",
+      "company": "Trader Interactive",
+      "url": "https://ca.linkedin.com/jobs/view/4442780322",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "senior Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4455491096": {
+      "title": "Channels Specialist, Digital Revenue",
+      "company": "Henry Schein",
+      "url": "https://ca.linkedin.com/jobs/view/4455491096",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Niagara"
+    },
+    "https://ca.linkedin.com/jobs/view/4455439268": {
+      "title": "Channels Specialist, Digital Revenue",
+      "company": "Henry Schein Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455439268",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Niagara twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4443253813": {
+      "title": "Account Executive, Commerce, MMS",
+      "company": "Google",
+      "url": "https://ca.linkedin.com/jobs/view/4443253813",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "AE Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4451921034": {
+      "title": "Data, Measurement and Analytics Specialist",
+      "company": "Google",
+      "url": "https://ca.linkedin.com/jobs/view/4451921034",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4454273201": {
+      "title": "Account Executive, CPG",
+      "company": "Google",
+      "url": "https://ca.linkedin.com/jobs/view/4454273201",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "AE Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4455403335": {
+      "title": "Head of Industry, Google Marketing Platform",
+      "company": "Google",
+      "url": "https://ca.linkedin.com/jobs/view/4455403335",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "head Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4455433268": {
+      "title": "Account Manager, K-12 Education",
+      "company": "Google",
+      "url": "https://ca.linkedin.com/jobs/view/4455433268",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Waterloo"
+    },
+    "https://ca.linkedin.com/jobs/view/4441359609": {
+      "title": "Senior Search Strategist",
+      "company": "Critical Mass",
+      "url": "https://ca.linkedin.com/jobs/view/4441359609",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "senior Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4443613851": {
+      "title": "Director, SEO",
+      "company": "WPP Media",
+      "url": "https://ca.linkedin.com/jobs/view/4443613851",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "director"
+    },
+    "https://ca.linkedin.com/jobs/view/4455956824": {
+      "title": "Search Engine Optimization Analyst",
+      "company": "Omnicom Media",
+      "url": "https://ca.linkedin.com/jobs/view/4455956824",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4454908508": {
+      "title": "Digital Marketing Specialist, Organic",
+      "company": "Sporting Life Group",
+      "url": "https://ca.linkedin.com/jobs/view/4454908508",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Woodbridge ON"
+    },
+    "https://ca.linkedin.com/jobs/view/4456796409": {
+      "title": "Paid Media Specialist",
+      "company": "Cosmetic Physician Partners",
+      "url": "https://ca.linkedin.com/jobs/view/4456796409",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Westmount QC"
+    },
+    "https://ca.linkedin.com/jobs/view/4456788480": {
+      "title": "Sp\u00e9cialiste en m\u00e9dias payants",
+      "company": "Cosmetic Physician Partners",
+      "url": "https://ca.linkedin.com/jobs/view/4456788480",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "FR twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4455355849": {
+      "title": "Media Analyst",
+      "company": "VaynerMedia",
+      "url": "https://ca.linkedin.com/jobs/view/4455355849",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4454093233": {
+      "title": "Director, Paid Search",
+      "company": "Monks",
+      "url": "https://ca.linkedin.com/jobs/view/4454093233",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "director Vancouver"
+    },
+    "https://ca.linkedin.com/jobs/view/4455964373": {
+      "title": "Associate Director, Search",
+      "company": "OMD Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455964373",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "AD Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4451906245": {
+      "title": "Senior Buyer, Search",
+      "company": "dentsu",
+      "url": "https://ca.linkedin.com/jobs/view/4451906245",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "senior Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4453219304": {
+      "title": "Senior Performance Marketing Manager, Paid Acquisition (iGaming)",
+      "company": "BLAZESOFT",
+      "url": "https://ca.linkedin.com/jobs/view/4453219304",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Concord ON in-office senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4407625368": {
+      "title": "Performance Marketing Manager",
+      "company": "Hiive",
+      "url": "https://ca.linkedin.com/jobs/view/4407625368",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "5+ yrs Vancouver"
+    },
+    "https://ca.linkedin.com/jobs/view/4455232840": {
+      "title": "Senior Paid Media Manager (Social)",
+      "company": "Later",
+      "url": "https://ca.linkedin.com/jobs/view/4455232840",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Vancouver senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4434677274": {
+      "title": "Performance Marketing Manager",
+      "company": "Valnet",
+      "url": "https://ca.linkedin.com/jobs/view/4434677274",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal office 4-8 yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4456340531": {
+      "title": "Senior Performance Marketing Manager",
+      "company": "Valnet",
+      "url": "https://ca.linkedin.com/jobs/view/4456340531",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Montreal senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4439271244": {
+      "title": "BMC Enablement Specialist",
+      "company": "EY",
+      "url": "https://ca.linkedin.com/jobs/view/4439271244",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "not marketing"
+    },
+    "https://ca.linkedin.com/jobs/view/stack-influence-closed": {
+      "title": "Digital Marketing Manager (Paid Media & Growth)",
+      "company": "Stack Influence",
+      "url": "https://ca.linkedin.com/jobs/view/stack-influence-closed",
+      "first_seen": "2026-08-21",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Breezy position closed"
     }
   }
 }

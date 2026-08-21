@@ -11,6 +11,33 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### DZ. Allredi Blast and Abrasives — General Laborer (Leduc) ★ NEW · SOUTH · 2026-08-21
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456404154  
+- **Company:** https://allredi.com/contact-us/branch-locations/leduc-alberta-canada  
+- **Address (verified):** 6602 45 Street, Leduc, AB T9E 7C9  
+- **Notes:** Palletization · packaging line · material handling · yard/gate coordination · lift 50 lbs · outdoor conditions · reliable transport  
+- **Why:** Leduc industrial · ~15–20 min south via Calgary Trail · not Southgate  
+- **Blurb:**
+> I’m applying for the General Laborer role at Allredi in Leduc (6602 45 Street). I live nearby at 11110 68 Ave NW and am comfortable with paced physical work: palletizing, packaging-line support, material handling, cleanup, and yard coordination. Able to lift up to 50 lbs, stand for full shifts, and work outdoors as needed. Reliable attendance and ready for full-time shop hours.
+
+### EA. Go Auto / Go Kia South — Parts Advisor ★ NEW · SOUTH · 2026-08-21
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4457048031  
+- **Careers:** https://careersen-goauto.icims.com/jobs/intro · **mailto:** careers@goauto.ca  
+- **Address (verified):** 3030 Gateway Blvd NW, Edmonton, AB T6J 6V4  
+- **Notes:** Parts counter · quote/order accuracy · inventory · dealership parts preferred · Audi Fixed Ops background transfers  
+- **Why:** Gateway / Calgary Trail corridor · ~8–12 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Parts Advisor role at Go Kia South (3030 Gateway Blvd NW). I live nearby at 11110 68 Ave NW and previously worked Fixed Ops at Audi Southgate, so I’m used to paced dealership workflows, accurate documentation, and clear customer communication under time pressure. Comfortable learning Kia parts catalogs, quoting and ordering carefully, and keeping inventory organized. Reliable attendance and ready for full-time parts department hours.
+
+### EB. Traction / UAP — Heavy Vehicle Parts Specialist (78 Ave) ★ NEW · SOUTH · 2026-08-21
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456384949 · twin https://ca.linkedin.com/jobs/view/4456355189  
+- **Company:** Traction Heavy Duty Parts / UAP · Edmonton 780-465-8010  
+- **Address (verified):** 3404 78 Avenue NW, Edmonton, AB T6B 2X9  
+- **Notes:** Heavy vehicle parts counter · inventory · customer/tech support · product knowledge stretch vs light-vehicle Fixed Ops  
+- **Why:** Weir Industrial SE · ~15–20 min east of 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Heavy Vehicle Parts Specialist role at Traction / UAP Edmonton (3404 78 Avenue NW). I live nearby at 11110 68 Ave NW and previously worked Fixed Ops at Audi Southgate, so I’m used to paced parts-related workflows, accurate documentation, and clear counter communication. Ready to learn heavy-vehicle catalogs and keep inventory organized under time pressure. Reliable attendance and ready for full-time hours.
+
 ### DW. Echelon Supply and Service — Warehouse Associate (Roper Rd) ★ NEW · SOUTH · 2026-08-20
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4455687594  
 - **Company:** https://echelonsupply.com/ · Edmonton sales 780-468-1234 · edmontonsales@echelonsupply.com  
