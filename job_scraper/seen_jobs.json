@@ -8684,6 +8684,283 @@
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
       "notes": "Breezy position closed"
+    },
+    "https://ca.linkedin.com/jobs/view/4434167225": {
+      "title": "Wholesale Parts Advisor - Capital Chrysler Dodge Jeep Ram",
+      "company": "AutoCanada",
+      "url": "https://ca.linkedin.com/jobs/view/4434167225",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4456621632": {
+      "title": "Shop Labourer (Heavy Equipment Shop)",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4456621632",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4455978945": {
+      "title": "Package Handler/Non-Driver (Warehouse like)",
+      "company": "FedEx Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455978945",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4429116239": {
+      "title": "Paid Media Manager",
+      "company": "Level Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4429116239",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit ~74 CAD 80-115k"
+    },
+    "https://ca.linkedin.com/jobs/view/4454757637": {
+      "title": "Paid Media Specialist (Meta)",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4454757637",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "fit ~70"
+    },
+    "https://ca.linkedin.com/jobs/view/4456272951": {
+      "title": "Shipper & Receiver",
+      "company": "Richards Packaging Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4456272951",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "11420 163 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4457375584": {
+      "title": "Warehouse Associate",
+      "company": "Grainger Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457375584",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "DC 167 St NW pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4455944076": {
+      "title": "Parts Specialist - External Customer Support",
+      "company": "Manulift",
+      "url": "https://ca.linkedin.com/jobs/view/4455944076",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "15730 118 Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4456296585": {
+      "title": "Warehouse Person - 7x7 Dayshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4456296585",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "West Edmonton"
+    },
+    "https://ca.linkedin.com/jobs/view/4456283629": {
+      "title": "Warehouse Person - 7x7 Nightshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4456283629",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "West Edmonton"
+    },
+    "https://ca.linkedin.com/jobs/view/4457529421": {
+      "title": "Shipper/Receiver (St. Albert Honda)",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4457529421",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "St Albert"
+    },
+    "https://ca.linkedin.com/jobs/view/4452371598": {
+      "title": "General Labourer",
+      "company": "Arrow Transportation Systems Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4452371598",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Sherwood Park reload stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4454774537": {
+      "title": "Mat Roller",
+      "company": "Alsco Uniforms",
+      "url": "https://ca.linkedin.com/jobs/view/4454774537",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "123 Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4454794376": {
+      "title": "Growth Marketing Lead",
+      "company": "SimplyPHP",
+      "url": "https://ca.linkedin.com/jobs/view/4454794376",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "6+ yrs ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4454833173": {
+      "title": "EverPro - Growth Marketing Manager (Canada, Remote)",
+      "company": "EverCommerce",
+      "url": "https://ca.linkedin.com/jobs/view/4454833173",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "~52 strategic oversight"
+    },
+    "https://ca.linkedin.com/jobs/view/4454677331": {
+      "title": "AI and Analytics Specialist - Digital Marketing",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/4454677331",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "re-post prior ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/4454693282": {
+      "title": "Data Analyst - Digital Marketing",
+      "company": "LawDepot",
+      "url": "https://ca.linkedin.com/jobs/view/4454693282",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "re-post of drafted C21"
+    },
+    "https://ca.linkedin.com/jobs/view/4451905435": {
+      "title": "Marketing Coordinator",
+      "company": "BSI",
+      "url": "https://ca.linkedin.com/jobs/view/4451905435",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "bilingual FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4455474609": {
+      "title": "Marketing Coordinator",
+      "company": "Crimson Education",
+      "url": "https://ca.linkedin.com/jobs/view/4455474609",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "coord stretch pay unclear ~58"
+    },
+    "https://ca.linkedin.com/jobs/view/4456218983": {
+      "title": "SEM Manager",
+      "company": "Klick",
+      "url": "https://ca.linkedin.com/jobs/view/4456218983",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4453952361": {
+      "title": "SEO Manager",
+      "company": "Saatchi & Saatchi Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4453952361",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto $70-80k"
+    },
+    "https://ca.linkedin.com/jobs/view/4454942486": {
+      "title": "Senior Marketing Automation Strategist",
+      "company": "POD Marketing Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4454942486",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Calgary"
+    },
+    "https://ca.linkedin.com/jobs/view/4457368822": {
+      "title": "(CAN) Stockperson/Cartpusher",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457368822",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "5004 98 Ave Capilano"
+    },
+    "https://ca.linkedin.com/jobs/view/4457077547": {
+      "title": "(CAN) Stockperson/Cartpusher",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457077547",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "Currents cartpusher vs warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4456461445": {
+      "title": "(CAN) OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4456461445",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Kingsway Mall"
+    },
+    "https://ca.linkedin.com/jobs/view/4456279232": {
+      "title": "Trucking Shop Labourer",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4456279232",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "washbay twin; drafted shop labourer"
+    },
+    "https://ca.linkedin.com/jobs/view/4457573676": {
+      "title": "Order Management Coordinator",
+      "company": "Thermon",
+      "url": "https://ca.linkedin.com/jobs/view/4457573676",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "ERP order admin stretch vs warehouse"
+    },
+    "https://ca.linkedin.com/jobs/view/4454489062": {
+      "title": "Senior Demand Generation Manager",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4454489062",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "senior multi-six-figure Google ~48"
     }
   }
 }

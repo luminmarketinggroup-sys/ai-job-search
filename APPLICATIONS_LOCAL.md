@@ -11,6 +11,33 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### EC. AutoCanada / Capital Chrysler Dodge Jeep Ram — Wholesale Parts Advisor ★ NEW · SOUTH · 2026-08-22
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4434167225  
+- **Apply:** https://www.autocan.ca/careers (Capital Chrysler · Wholesale Parts Advisor)  
+- **Address (verified):** 1311 101 Street SW, Edmonton, AB T6X 1A1  
+- **Notes:** Wholesale parts counter · independent shops / dealers / body shops · CDK asset · dealership parts experience preferred · Audi Fixed Ops background transfers  
+- **Why:** Ellwood / south Calgary Trail corridor · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Wholesale Parts Advisor role at Capital Chrysler Dodge Jeep Ram (1311 101 Street SW). I live nearby at 11110 68 Ave NW and previously worked Fixed Ops at Audi Southgate, so I’m used to paced dealership workflows, accurate parts documentation, and clear communication with shops and customers under time pressure. Ready to learn Stellantis catalogs and CDK, grow wholesale relationships carefully, and keep quotes and orders accurate. Reliable attendance and ready for full-time parts hours.
+
+### ED. Sureway Construction Group — Shop Labourer (Heavy Equipment Shop) ★ NEW · SOUTH · 2026-08-22
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456621632  
+- **Careers:** https://sureway.ca/contact-us/ · apply via LinkedIn / Sureway careers  
+- **Address (verified HQ / shop area):** 9175 14 Street NW, Edmonton, AB T6P 0C9  
+- **Notes:** Shop cleanup · inventory assist · load/unload · steel-toe 6" · reliable vehicle · drug/alcohol + fitness assessments · long days / weekends as required  
+- **Why:** SE industrial Maple Ridge / 14 St · ~15–20 min east of 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Shop Labourer (Heavy Equipment Shop) role at Sureway Construction (9175 14 Street NW area). I live nearby at 11110 68 Ave NW and am comfortable with paced physical shop work: cleanup, material handling, load and unload support, inventory assist, and keeping a safe organized floor. I have reliable transport and steel-toe boots ready. Willing to complete pre-employment testing and orientation. Reliable attendance for the posted shop schedule including overtime as required.
+
+### EE. FedEx Canada — Package Handler / Non-Driver (PT) ★ NEW · SOUTH · 2026-08-22 · $21/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4455978945  
+- **Careers:** https://careers.fedex.com (Package Handler Edmonton · 6364 50th St NW)  
+- **Address (verified):** 6364 50 Street NW, Edmonton, AB T6B 2N7  
+- **Notes:** Load/unload · scan · sort · lift 70 lbs / maneuver to 150 lbs with equipment · Mon–Sat early AM (~05:00–11:00) · part-time · Grade 79  
+- **Why:** SE industrial near 50 St / Roper corridor · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Package Handler (Non-Driver) role at FedEx Edmonton (6364 50 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: loading and unloading, scanning and sorting freight, keeping a clean safe floor, and lifting as posted with proper equipment. Available for the early-morning part-time shift and reliable attendance Monday–Saturday as scheduled.
+
 ### DZ. Allredi Blast and Abrasives — General Laborer (Leduc) ★ NEW · SOUTH · 2026-08-21
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4456404154  
 - **Company:** https://allredi.com/contact-us/branch-locations/leduc-alberta-canada  
