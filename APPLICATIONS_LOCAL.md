@@ -11,11 +11,11 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
-### EF. Hercules Crane & Lifting Supplies — Shipper/Receiver ★ NEW · SOUTH · 2026-08-23 · $19–21/hr
+### EF. Hercules Crane & Lifting Supplies — Shipper/Receiver ★ NEW LINK · SOUTH · 2026-08-23 · $19–21/hr · EMAIL ALREADY SENT (see #AJ)
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4442172759  
 - **Also:** https://hirenata.com/jobs/546e2496-28e9-4e6c-9298-e6ab678b08ad (Continental Chain & Rigging / Hercules Edmonton)  
 - **Address (verified):** 5303 75 Street NW, Edmonton, AB T6E 5S5  
-- **Notes:** Full-time shipper/receiver · warehouse coordination · inventory · pick/pack · Mon–Fri 8–5 · $19–21/hr · RRSP after 1 yr · health/dental  
+- **Notes:** Full-time shipper/receiver · warehouse coordination · inventory · pick/pack · Mon–Fri 8–5 · $19–21/hr · **Do not re-email** unless follow-up needed (`info@herculesslr.com` already used on prior AJ submit). Prefer LinkedIn/HireNata status check.  
 - **Why:** SE industrial near 75 St / Calgary Trail corridor · ~10–15 min from 11110 68 Ave NW · not Southgate  
 - **Blurb:**
 > I’m applying for the Shipper/Receiver role at Hercules / Continental Chain & Rigging Edmonton (5303 75 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: picking and packing orders, shipping and receiving, inventory checks, and keeping a clean organized floor. Available Monday–Friday 8–5 with reliable attendance. Steel-toe ready and willing to learn site systems quickly.
