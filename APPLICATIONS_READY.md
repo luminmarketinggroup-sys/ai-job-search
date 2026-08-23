@@ -5,6 +5,19 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-08-23 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C67 | Propellic | Paid Media Manager | Good (~72) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4455480764 · https://www.propellic.com/careers | `cv/main_propellic.pdf` | `cover_letters/cover_propellic_paid_media_manager.pdf` | Remote US/CA; Google+Meta + AI tooling match; travel vertical + CTV/programmatic still growing vs 2 SMB accounts; confirm base ≥ CAD \$60k |
+| C68 | Jobgether (partner) | SEO Strategist | Good (~61) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4456255158 | `cv/main_jobgether_seo_strategist.pdf` | `cover_letters/cover_jobgether_seo_strategist.pdf` | Remote Canada; client-facing SEO + GA4/GSC match; B2B SaaS 3–5 client book still growing vs 2 SMB; confirm base ≥ CAD \$60k |
+
+**Mailto (Resend unset this run):** none verified public apply email for Propellic or Jobgether SEO Strategist — use LinkedIn / careers portals. Local: Hercules LinkedIn / HireNata; Home Depot careers.homedepot.ca/store/7065; Auto Parts Authority phone 780-462-2626; RONA Leduc careers/portal.
+
+**Local drafts this run:** Hercules Shipper/Receiver (5303 75 St NW), Home Depot Order Picker + Overnight Freight (South Common #7065), Auto Parts Authority Counter Sales (3643 99 St NW), RONA Yard Associate (Leduc Discovery Way) — see `APPLICATIONS_LOCAL.md` (#EF–#EJ).
+
+Skipped this run (fit/location/pay): Finning Warehouse 7x7 twin (West Edmonton); ChamClad/Wausau Packaging (184 St / 170 St NW); McKesson Warehouse Person (10931 177 St NW); Walmart Stock Unloader 16940 127 St NW; Walmart Stock Unloader Tamarack T6T; Fort Garry Inside Sales HD Parts (118 Ave NW); Roofmart Acheson; Powell Material Handler Acheson; CNRL Warehouse Technician Nisku (3+ yrs warehouse + forklift hard); Powered by Search SEO Strategist re-post 4450813989 (already drafted PBS pack); Odds Scanner Senior SEO Content 4442732856 (already drafted); SurveyMonkey SEO Manager (6+ yrs + people mgmt); Directive Senior Paid Media Strategist / Meta Strategist (B2B multi-account / LinkedIn Ads stretch ~55); Optro / Jobgether Marketing Ops Manager (Marketo-heavy ~48); Jobgether GTM Automation twin of ZayZoon C64; Aylo Sr SEO (adult vertical + 5+ yrs); Affirm Brand Marketing Manager (8–10 yrs); Taurify Media Buyer (home-services \$1M+/\$500k Meta bar + pay unclear); Marketbridge Manager Paid Social Toronto.
+
 ## NEW drafts this run (2026-08-22 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

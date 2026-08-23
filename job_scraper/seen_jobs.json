@@ -5292,13 +5292,12 @@
       "notes": "10715 182 St NW T5S \u2014 NW distance"
     },
     "https://ca.linkedin.com/jobs/view/4405394535": {
-      "title": "Warehouse Technician - Nisku",
-      "company": "Canadian Natural Resources Limited (CNRL)",
+      "title": "Warehouse Technician - Nisku, AB",
+      "company": "CNRL",
       "url": "https://ca.linkedin.com/jobs/view/4405394535",
-      "first_seen": "2026-08-06",
+      "first_seen": "2026-08-23",
       "fit": "low",
-      "status": "skipped",
-      "notes": "3+ yrs forklift hard-req"
+      "status": "skipped"
     },
     "https://ca.linkedin.com/jobs/view/4447479719": {
       "title": "Production Team Member - Edmonton",
@@ -7775,13 +7774,12 @@
       "notes": "14434 157 Ave NW"
     },
     "https://ca.linkedin.com/jobs/view/4456352605": {
-      "title": "Stock Unloader Associate",
+      "title": "(CAN) Stock Unloader Associate",
       "company": "Walmart Canada",
       "url": "https://ca.linkedin.com/jobs/view/4456352605",
-      "first_seen": "2026-08-20",
+      "first_seen": "2026-08-23",
       "fit": "medium",
-      "status": "skipped",
-      "notes": "775 Tamarack Way"
+      "status": "skipped"
     },
     "https://ca.linkedin.com/jobs/view/4455339168": {
       "title": "Stock Unloader Associate PT",
@@ -8039,11 +8037,9 @@
       "title": "Material Handler - Mechanical Assembly (Days)",
       "company": "Powell",
       "url": "https://ca.linkedin.com/jobs/view/4452828513",
-      "first_seen": "2026-08-21",
-      "fit": "low",
-      "status": "skipped",
-      "tracker_status": "skipped_distance",
-      "notes": "Acheson west"
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
     },
     "https://ca.linkedin.com/jobs/view/4456094063": {
       "title": "Material Handler - Day Shift",
@@ -8059,11 +8055,9 @@
       "title": "Warehouse Person Afternoon/Night",
       "company": "McKesson",
       "url": "https://ca.linkedin.com/jobs/view/4456735830",
-      "first_seen": "2026-08-21",
+      "first_seen": "2026-08-23",
       "fit": "medium",
-      "status": "skipped",
-      "tracker_status": "skipped_distance",
-      "notes": "164 St NW pattern"
+      "status": "skipped"
     },
     "https://ca.linkedin.com/jobs/view/4456055480": {
       "title": "Dispatcher",
@@ -8961,6 +8955,198 @@
       "status": "skipped",
       "tracker_status": "skipped_low_fit",
       "notes": "senior multi-six-figure Google ~48"
+    },
+    "https://ca.linkedin.com/jobs/view/4442172759": {
+      "title": "Shipper/Receiver",
+      "company": "Hercules Crane & Lifting Supplies",
+      "url": "https://ca.linkedin.com/jobs/view/4442172759",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4456800500": {
+      "title": "Order Picker Full Time - 7065 South Common",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4456800500",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4456683545": {
+      "title": "Overnight Freight Associate Full Time - 7065 South Common",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4456683545",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4453254507": {
+      "title": "Auto Parts Counter Sales",
+      "company": "Auto Parts Authority",
+      "url": "https://ca.linkedin.com/jobs/view/4453254507",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4457863307": {
+      "title": "Yard Associate",
+      "company": "RONA",
+      "url": "https://ca.linkedin.com/jobs/view/4457863307",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4455480764": {
+      "title": "Paid Media Manager",
+      "company": "Propellic",
+      "url": "https://ca.linkedin.com/jobs/view/4455480764",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4456255158": {
+      "title": "SEO Strategist",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4456255158",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "evaluated"
+    },
+    "https://ca.linkedin.com/jobs/view/4456287668": {
+      "title": "Warehouse Person - 7x7 Dayshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4456287668",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4446534018": {
+      "title": "Packaging Staff-2nd Shift-ChamClad",
+      "company": "Wausau Supply Company",
+      "url": "https://ca.linkedin.com/jobs/view/4446534018",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4457854557": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457854557",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4451452656": {
+      "title": "Inside Sales - Heavy Duty Parts",
+      "company": "Fort Garry Industries",
+      "url": "https://ca.linkedin.com/jobs/view/4451452656",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4424801619": {
+      "title": "Rooftop Loader/Shipper and Receiver",
+      "company": "Roofmart",
+      "url": "https://ca.linkedin.com/jobs/view/4424801619",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4445751248": {
+      "title": "Search Engine Optimization Manager",
+      "company": "SurveyMonkey",
+      "url": "https://ca.linkedin.com/jobs/view/4445751248",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4404514740": {
+      "title": "Senior Paid Media Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4404514740",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4410085603": {
+      "title": "Meta Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4410085603",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4455339063": {
+      "title": "Marketing Operations Manager",
+      "company": "Optro",
+      "url": "https://ca.linkedin.com/jobs/view/4455339063",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4455587077": {
+      "title": "Marketing Operations Manager",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4455587077",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4456076473": {
+      "title": "Go to Market (GTM) Automation Specialist I",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4456076473",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4450813989": {
+      "title": "SEO Strategist (Remote - Worldwide)",
+      "company": "Powered by Search",
+      "url": "https://ca.linkedin.com/jobs/view/4450813989",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4441239339": {
+      "title": "Sr. SEO Specialist",
+      "company": "Aylo",
+      "url": "https://ca.linkedin.com/jobs/view/4441239339",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4455605701": {
+      "title": "Brand Marketing Manager",
+      "company": "Affirm",
+      "url": "https://ca.linkedin.com/jobs/view/4455605701",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4456035596": {
+      "title": "Media Buyer",
+      "company": "Taurify",
+      "url": "https://ca.linkedin.com/jobs/view/4456035596",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4456266394": {
+      "title": "Manager, Paid Social (B2B)",
+      "company": "Marketbridge",
+      "url": "https://ca.linkedin.com/jobs/view/4456266394",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "skipped"
+    },
+    "https://ca.linkedin.com/jobs/view/4442732856": {
+      "title": "Senior SEO Content Specialist - English",
+      "company": "Odds Scanner Group",
+      "url": "https://ca.linkedin.com/jobs/view/4442732856",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "skipped"
     }
   }
 }

@@ -11,6 +11,51 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### EF. Hercules Crane & Lifting Supplies — Shipper/Receiver ★ NEW · SOUTH · 2026-08-23 · $19–21/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4442172759  
+- **Also:** https://hirenata.com/jobs/546e2496-28e9-4e6c-9298-e6ab678b08ad (Continental Chain & Rigging / Hercules Edmonton)  
+- **Address (verified):** 5303 75 Street NW, Edmonton, AB T6E 5S5  
+- **Notes:** Full-time shipper/receiver · warehouse coordination · inventory · pick/pack · Mon–Fri 8–5 · $19–21/hr · RRSP after 1 yr · health/dental  
+- **Why:** SE industrial near 75 St / Calgary Trail corridor · ~10–15 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Hercules / Continental Chain & Rigging Edmonton (5303 75 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: picking and packing orders, shipping and receiving, inventory checks, and keeping a clean organized floor. Available Monday–Friday 8–5 with reliable attendance. Steel-toe ready and willing to learn site systems quickly.
+
+### EG. The Home Depot Canada — Order Picker Full Time (7065 South Common) ★ NEW · SOUTH · 2026-08-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456800500  
+- **Careers:** https://careers.homedepot.ca/store/7065  
+- **Address (verified):** 2020 101 Street NW / SW, Edmonton, AB T6N 1J2 (South Edmonton Common #7065)  
+- **Notes:** Pick lists · gather/pack/label orders · staging for outbound · Service Desk adjacency · physical paced work  
+- **Why:** South Common / Calgary Trail corridor · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Order Picker Full Time role at Home Depot South Common (#7065, 2020 101 Street). I live nearby at 11110 68 Ave NW and am comfortable with paced picking and packing: accurate lists, careful packing and labelling, staging orders, and staying useful when the floor is busy. Reliable attendance and ready for full-time hours.
+
+### EH. The Home Depot Canada — Overnight Freight Associate Full Time (7065 South Common) ★ NEW · SOUTH · 2026-08-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456683545  
+- **Careers:** https://careers.homedepot.ca/store/7065  
+- **Address (verified):** 2020 101 Street NW / SW, Edmonton, AB T6N 1J2 (South Edmonton Common #7065)  
+- **Notes:** Overnight freight · stock · organize floor · forklift/reach/order picker machines as assigned · pack pick orders when assigned  
+- **Why:** Same South Common corridor · ~10–15 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Overnight Freight Associate Full Time role at Home Depot South Common (#7065, 2020 101 Street). I live nearby at 11110 68 Ave NW and am comfortable with paced overnight freight work: unloading and stocking, keeping aisles organized and safe, and learning powered equipment as assigned. Reliable attendance for overnight full-time hours.
+
+### EI. Auto Parts Authority — Auto Parts Counter Sales ★ NEW · SOUTH · 2026-08-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4453254507  
+- **Address (verified):** 3643 99 Street NW, Edmonton, AB T6E 6K5 (Strathcona Industrial Park)  
+- **Phone (public listing):** 780-462-2626  
+- **Notes:** Auto parts counter sales · inventory / counter accuracy · Audi Fixed Ops background transfers  
+- **Why:** 99 St / Calgary Trail south industrial · ~8–12 min · not Southgate  
+- **Blurb:**
+> I’m applying for the Auto Parts Counter Sales role at Auto Parts Authority (3643 99 Street NW). I live nearby at 11110 68 Ave NW and previously worked Fixed Ops at Audi Southgate, so I’m used to paced parts-related workflows, accurate documentation, and clear counter communication under time pressure. Ready to learn catalogs quickly and keep quotes and orders accurate. Reliable attendance and ready for full-time counter hours.
+
+### EJ. RONA — Yard Associate (Leduc) ★ NEW · SOUTH · 2026-08-23
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4457863307  
+- **Store:** https://www.rona.ca/en/store/alberta/leduc/rona-leduc-66470  
+- **Address (verified):** 5202 Discovery Way, Leduc, AB T9E 0B2  
+- **Notes:** Yard associate · open availability · learn/operate equipment · lumber yard / material handling  
+- **Why:** Leduc Discovery Way · ~15–20 min south via Calgary Trail · not Southgate  
+- **Blurb:**
+> I’m applying for the Yard Associate role at RONA Leduc (5202 Discovery Way). I live nearby at 11110 68 Ave NW and am comfortable with paced outdoor yard work: moving materials, keeping the yard organized and safe, and learning equipment as trained. Open availability and reliable attendance.
+
 ### EC. AutoCanada / Capital Chrysler Dodge Jeep Ram — Wholesale Parts Advisor ★ NEW · SOUTH · 2026-08-22
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4434167225  
 - **Apply:** https://www.autocan.ca/careers (Capital Chrysler · Wholesale Parts Advisor)  
