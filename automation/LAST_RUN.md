@@ -7,7 +7,7 @@
 ## New local drafts (5)
 | Company | Role | Link | Files |
 |---------|------|------|-------|
-| Hercules Crane & Lifting | Shipper/Receiver | https://ca.linkedin.com/jobs/view/4442172759 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EF` |
+| Hercules Crane & Lifting | Shipper/Receiver | https://ca.linkedin.com/jobs/view/4442172759 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EF` (prior email #AJ — do not re-send) |
 | Home Depot South Common | Order Picker FT | https://ca.linkedin.com/jobs/view/4456800500 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EG` |
 | Home Depot South Common | Overnight Freight FT | https://ca.linkedin.com/jobs/view/4456683545 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EH` |
 | Auto Parts Authority | Auto Parts Counter Sales | https://ca.linkedin.com/jobs/view/4453254507 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EI` |
