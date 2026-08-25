@@ -11,6 +11,42 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### EK. Steele's Transportation Group — Dock Coordinator / Forklift Operator ★ NEW · SOUTH · 2026-08-25
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4458278863  
+- **Careers / site:** https://www.steelesgroup.com/contact/  
+- **Address (verified):** 5805 98 Street NW, Edmonton, AB T6E 3L4 (Edmonton Terminal / cross dock)  
+- **Notes:** Full-time afternoon shift Mon–Fri 12 PM–8 PM · load/unload trailers · forklift / material handling · freight inspection & labelling · family-led LTL under FMi Logistics  
+- **Why:** Strathcona Industrial / 98 St near Calgary Trail · ~8–12 min from 11110 68 Ave NW · not Southgate  
+- **Mailto (Resend unset):** `mailto:info@steelesgroup.com?subject=Dock%20Coordinator%20Forklift%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Dock%20Coordinator%20%2F%20Forklift%20Operator%20role%20at%20the%20Edmonton%20terminal%20(5805%2098%20Street%20NW).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca` · also `admin@steelesgroup.com` · attach `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Dock Coordinator / Forklift Operator role at Steele’s Transportation Group (5805 98 Street NW, afternoon Mon–Fri 12–8). I live nearby at 11110 68 Ave NW and am comfortable with paced dock work: loading and unloading freight, careful labelling and damage checks, keeping the floor organized and safe, and learning powered equipment as trained. Reliable attendance for the posted afternoon shift.
+
+### EL. The Home Depot Canada — Overnight Receiving Supervisor Full-Time (7117 Strathcona) ★ NEW · SOUTH · 2026-08-25
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456657526  
+- **Careers:** https://careers.homedepot.ca/ (store 7117 Strathcona)  
+- **Address (verified):** 6725 104 Street NW, Edmonton, AB T6H 2L3 (Edmonton Strathcona #7117)  
+- **Notes:** Overnight receiving supervisor · coach/train associates · inbound shipment planning · paperwork / system entry · safety & asset protection · 10% overnight premium for FT  
+- **Why:** 104 St / 67 Ave · Empire Park / Lendrum / Southgate-adjacent corridor · ~5–8 min from 11110 68 Ave NW · not mall public-facing  
+- **Blurb:**
+> I’m applying for the Overnight Receiving Supervisor Full-Time role at Home Depot Strathcona (#7117, 6725 104 Street NW). I live nearby at 11110 68 Ave NW and previously supervised paced service floors at Audi Southgate and Phantom Avenue, so I’m used to coaching people, keeping documentation accurate, and staying calm when volume spikes. Comfortable with overnight receiving work: planning inbound freight, checking paperwork, and keeping a safe organized floor. Reliable attendance for overnight full-time hours.
+
+### EM. Amrize Canada — Labourer (Edmonton plant) ★ NEW · SOUTH · 2026-08-25
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4443203061  
+- **Address (verified plant pattern):** 4425 92 Avenue NW, Edmonton, AB T6B 2J4  
+- **Notes:** Plant labourer · forms / materials / housekeeping · powered equipment under supervision · safety-first · concrete / precast style plant work  
+- **Why:** SE industrial 92 Ave corridor · ~12–18 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Labourer role at Amrize Edmonton (4425 92 Avenue NW area). I live nearby at 11110 68 Ave NW and am comfortable with paced physical plant work: moving materials, helping set forms under supervision, housekeeping, and following safety rules every task. Steel-toe ready and willing to learn site equipment as trained. Reliable attendance for full-time plant hours.
+
+### EN. Fountain Tire Leduc — Service Advisor ★ NEW · SOUTH · 2026-08-25 · $50–65k + bonuses
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4453905062  
+- **Store:** Fountain Tire Leduc (confirm apply via LinkedIn / store)  
+- **Address (verified area):** Leduc, AB (Fountain Tire Leduc; Discovery Way / south Calgary Trail corridor)  
+- **Notes:** Service advisor · work orders · quotes · customer authorization · technician handoffs · posted \$50–65k + bonuses/STI · Audi Fixed Ops background transfers  
+- **Why:** Leduc via Calgary Trail · ~15–20 min south of 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Service Advisor role at Fountain Tire Leduc. I live nearby at 11110 68 Ave NW and previously worked Fixed Ops as Service Manager at Audi Southgate, so I’m used to paced service-drive workflows: clear customer communication, accurate work orders and quotes, technician handoffs, and follow-up under time pressure. Ready to learn Fountain Tire systems quickly and keep the drive moving safely. Reliable attendance for regular day shifts.
+
 ### EF. Hercules Crane & Lifting Supplies — Shipper/Receiver ★ NEW LINK · SOUTH · 2026-08-23 · $19–21/hr · EMAIL ALREADY SENT (see #AJ)
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4442172759  
 - **Also:** https://hirenata.com/jobs/546e2496-28e9-4e6c-9298-e6ab678b08ad (Continental Chain & Rigging / Hercules Edmonton)  
