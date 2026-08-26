@@ -54,6 +54,17 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
+## Pending mailto (Resend unset 2026-08-26)
+
+| # | Company | To | Role | Status |
+|---|---------|-----|------|--------|
+| P0m | Microserve | info@microserve.ca | Warehouse Associate Edmonton | **NEW 2026-08-26** mailto ready · attach `cv/main_local_edmonton.pdf` · LinkedIn https://ca.linkedin.com/jobs/view/4456982327 |
+| P0n | Super Slings Inc. | info@superslings.ca | Shipper-Receiver Nisku | **NEW 2026-08-26** mailto ready · attach `cv/main_local_edmonton.pdf` · ALIS https://alis.alberta.ca/occinfo/alberta-job-postings/shipper-receiver/50071530/ |
+
+**Mailto (copy/paste):**  
+`mailto:info@microserve.ca?subject=Warehouse%20Associate%20Edmonton%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Warehouse%20Associate%20role%20at%20Microserve%20Edmonton%20(5607%2067%20Ave%20NW).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`  
+`mailto:info@superslings.ca?subject=Shipper-Receiver%20Nisku%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Shipper-Receiver%20role%20at%20Super%20Slings%20(505%2011%20Avenue%2C%20Nisku).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
 ## Pending mailto (Resend unset 2026-08-07)
 
 | # | Company | Role | Mailto |

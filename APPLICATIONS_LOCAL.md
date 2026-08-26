@@ -11,6 +11,44 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### EO. Microserve — Warehouse Associate ★ NEW · SOUTH · 2026-08-26
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456982327  
+- **Careers:** https://microserve.ca/careers/  
+- **Address (verified):** 5607 67 Ave NW, Edmonton, AB T6B 2R8  
+- **Notes:** Full-time Mon–Fri day shift · pick/process orders · ConnectWise tickets · receive/offload · skids · IT warehouse (training provided) · benefits/vacation  
+- **Why:** On 67 Ave industrial · ~3–6 min from 11110 68 Ave NW · not Southgate  
+- **Mailto (Resend unset):** `mailto:info@microserve.ca?subject=Warehouse%20Associate%20Edmonton%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Warehouse%20Associate%20role%20at%20Microserve%20Edmonton%20(5607%2067%20Ave%20NW).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca` · attach `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at Microserve Edmonton (5607 67 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: accurate picking and packing, receiving and offloading, keeping the floor organized and safe, and learning systems like ConnectWise quickly. Reliable attendance for Monday–Friday day shifts.
+
+### EP. Walmart Canada — OMNI Customer Fulfillment Associate (3931 Calgary Trail) ★ NEW · SOUTH · 2026-08-26
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4447772151  
+- **Careers:** https://careers.walmart.ca/  
+- **Address (verified on posting):** 3931 Calgary Trail NW, Edmonton, AB T6J 5M8  
+- **Notes:** Pick/pack/dispense online orders · accuracy & food hygiene · paced fulfillment (not mall Southgate public-facing)  
+- **Why:** Calgary Trail corridor · ~5–8 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the OMNI Customer Fulfillment Associate role at Walmart Calgary Trail (3931 Calgary Trail NW). I live nearby at 11110 68 Ave NW and am comfortable with paced pick-and-pack work: accurate lists, careful packing and labelling, keeping product quality high, and staying useful when volume spikes. Reliable attendance for the posted shifts.
+
+### EQ. HelloFresh — Warehouse Associate (Nisku) ★ NEW · SOUTH · 2026-08-26
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4459071568  
+- **Careers:** https://careers.hellofresh.com/  
+- **Address (verified on posting):** 920 36 Avenue, Unit 100, Nisku, AB T9E 1C6  
+- **Notes:** Wed–Sun 7:00 AM–3:30 PM (may vary) · receive/unload · pick/sort/count · FIFO/FEFO · food safety · WMS inventory  
+- **Why:** Nisku / Calgary Trail south corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at HelloFresh Nisku (920 36 Avenue, Unit 100). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: receiving and unloading, careful counting and labelling, FIFO-style organization, and following food-safety and PPE rules. Available for the posted Wednesday–Sunday day shift with reliable attendance.
+
+### ER. Super Slings Inc. — Shipper-Receiver (Nisku) ★ NEW · SOUTH · 2026-08-26 · $20–32/hr
+- **ALIS:** https://alis.alberta.ca/occinfo/alberta-job-postings/shipper-receiver/50071530/  
+- **Company:** https://superslings.ca/ · **Contact:** info@superslings.ca · 780-955-7111  
+- **Address (verified):** 505 11 Avenue, Nisku, AB T9E 7N5  
+- **Notes:** Permanent FT · closing Aug 27, 2026 · shipping docs · pack/unpack · load/unload · up to 50 lbs · morning · benefits + RRSP · driver’s licence check  
+- **Why:** Nisku industrial · ~15–20 min south via Calgary Trail · not Southgate  
+- **Mailto (Resend unset):** `mailto:info@superslings.ca?subject=Shipper-Receiver%20Nisku%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Shipper-Receiver%20role%20at%20Super%20Slings%20(505%2011%20Avenue%2C%20Nisku).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca` · attach `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Shipper-Receiver role at Super Slings Inc. (505 11 Avenue, Nisku). I live nearby at 11110 68 Ave NW and am comfortable with paced shipping and receiving: checking incoming goods, packing outgoing orders, accurate paperwork, and keeping the floor organized and safe. Steel-toe ready and available for full-time morning hours with reliable attendance.
+
 ### EK. Steele's Transportation Group — Dock Coordinator / Forklift Operator ★ NEW · SOUTH · 2026-08-25
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4458278863  
 - **Careers / site:** https://www.steelesgroup.com/contact/  
