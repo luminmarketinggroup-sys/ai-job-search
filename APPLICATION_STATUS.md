@@ -57,6 +57,7 @@ Use `cv/main_local_edmonton.pdf` + blurb in `APPLICATIONS_LOCAL.md`. Portal subm
 ### Priority A — closest / best pay
 | # | Company | Role | Notes | Link |
 |---|---------|------|-------|------|
+| L140 | **Applied Industrial Nisku** | Warehouse Representative | **NEW 08-27** · Applied DC T9E 7W1 · receive/pick/ship | https://ca.linkedin.com/jobs/view/4459655889 |
 | L119 | **NOV 93 St** | Material Handler PCP | **NEW 08-13** · Strathcona Industrial · load/unload | https://ca.linkedin.com/jobs/view/4450400056 |
 | L120 | **Airways Nisku** | Shop Coordinator | **NEW 08-13** · 1802-8 St NW · shop/yard | https://ca.linkedin.com/jobs/view/4449775095 |
 | L121 | **Walmart Leduc** | Stock Unloader Associate | **NEW 08-13** · 5302 Discovery Way · ≠ Overnight/OMNI | https://ca.linkedin.com/jobs/view/4453604232 |
@@ -189,6 +190,8 @@ Tailored PDFs where listed in `APPLICATIONS_READY.md`. Portal submit needed unle
 ### Already drafted — submit these portals
 | # | Company | Role | Materials | Link |
 |---|---------|------|-----------|------|
+| C72 | Yellowstone to Yukon (Y2Y) | Digital Marketing Specialist | `main_y2y` + cover · Fit ~74 · Edmonton · CAD \$63–84k · **mailto** careers@ | https://y2y.bamboohr.com/careers/40 |
+| C73 | Origin | Demand Generation Lead | `main_origin` + cover · Fit ~64 · remote US/CA · Ashby | https://jobs.ashbyhq.com/originhq/ecb5a3af-47bd-48cc-bbc8-730680fd2814 |
 | C58 | Odd Bunch | Performance Marketing Specialist (Paid Search) | `main_odd_bunch` + cover · Fit ~70 · remote Canada | https://ca.linkedin.com/jobs/view/4452725597 |
 | C59 | DOE Media | Account Manager | `main_doe_media` + cover · Fit ~64 · remote CT hours | https://ca.linkedin.com/jobs/view/4449212617 |
 | C53 | AutoCanada / ACX | Media & Performance Marketing Specialist | `main_acx` + cover · Fit ~72 · remote/Edmonton · $70–85k | https://ca.linkedin.com/jobs/view/4437350083 |

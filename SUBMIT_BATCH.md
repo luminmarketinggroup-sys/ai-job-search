@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| ES | **Applied Warehouse Representative — Nisku** | **NEW 08-27** · Applied DC T9E 7W1 · ~15–20 min · LinkedIn / jobs.applied.com |
+| DB | **Apex Warehouse Associate — Nisku** | **mailto refresh 08-27** · 1080 34 Ave · \$22/hr · **EMAIL** HR@apexdistribution.com |
 | DW | **Echelon Warehouse Associate — Roper Rd** | **NEW 08-20** · 8440 Roper Rd NW · ~8–12 min · optional email edmontonsales@echelonsupply.com |
 | DX | **Surepoint Shipper/Receiver — Nisku** | **NEW 08-20** · 700 15 Ave Nisku · Class 5 + abstract · ~15–20 min |
 | DY | **Allegion Warehouse Worker — 75 St** | **NEW 08-20** · 5136 75 St NW · \$45–65k · ~10–15 min |

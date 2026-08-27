@@ -1,23 +1,19 @@
-# Daily job search — LAST RUN
-
-**Date:** 2026-08-26  
-**Branch push target:** `cursor/dylan-michael-profile-setup-7ff7` (PR #1)  
-**Resend:** unset (mailto / portal only)
-
-## New local drafts (4)
-| Company | Role | Link | Files |
-|---------|------|------|-------|
-| Microserve | Warehouse Associate | https://ca.linkedin.com/jobs/view/4456982327 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EO` · mailto info@microserve.ca |
-| Walmart Canada | OMNI Customer Fulfillment Associate (3931 Calgary Trail) | https://ca.linkedin.com/jobs/view/4447772151 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EP` |
-| HelloFresh | Warehouse Associate (Nisku) | https://ca.linkedin.com/jobs/view/4459071568 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EQ` |
-| Super Slings Inc. | Shipper-Receiver (Nisku) | https://alis.alberta.ca/occinfo/alberta-job-postings/shipper-receiver/50071530/ | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#ER` · mailto info@superslings.ca |
-
-## New career drafts (1)
-| Company | Role | Fit | Link | Files |
-|---------|------|-----|------|-------|
-| Audi RED (BIMM / Audi) | Dealer Performance Specialist (Western Canada) | ~68 | https://audired.applytojob.com/apply/7jLAgSzWIi/Dealer-Performance-Specialist-2-Openings | `cv/main_audi_red.pdf` · `cover_letters/cover_audi_red_dealer_performance_specialist.pdf` |
+# Last automation run — 2026-08-27
 
 ## Summary
-- **4** new local drafts  
-- **1** new career draft  
-- Checklists: `APPLICATIONS_LOCAL.md`, `APPLICATIONS_READY.md`
+- **Local drafts:** 1 (Applied Industrial Technologies Warehouse Representative Nisku)
+- **Career drafts:** 2 (Y2Y Digital Marketing Specialist ~74; Origin Demand Generation Lead ~64)
+- **Also:** Apex Nisku Warehouse Associate re-surfaced as twin of #DB (mailto HR@ refreshed; not counted as new)
+- **Resend:** unset — mailto lines for Apex `HR@apexdistribution.com` and Y2Y `careers@y2y.net`
+- **Branch:** `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
+
+## New drafts table
+
+| Company | Role | Link | Files |
+|---------|------|------|-------|
+| Applied Industrial Technologies | Warehouse Representative (Nisku) | https://ca.linkedin.com/jobs/view/4459655889 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#ES` |
+| Yellowstone to Yukon (Y2Y) | Digital Marketing Specialist | https://y2y.bamboohr.com/careers/40 · https://ca.linkedin.com/jobs/view/4456271879 | `cv/main_y2y.pdf` · `cover_letters/cover_y2y_digital_marketing_specialist.pdf` |
+| Origin | Demand Generation Lead | https://jobs.ashbyhq.com/originhq/ecb5a3af-47bd-48cc-bbc8-730680fd2814 · https://ca.linkedin.com/jobs/view/4459110044 | `cv/main_origin.pdf` · `cover_letters/cover_origin_demand_generation_lead.pdf` |
+
+## Skipped (sample)
+Apex #DB twin; Celanese 101 Ave east; Walmart west/north OMNI/unloader; SEPHORA Southgate PF; Wolseley Inventory address unclear; Stream-Flo ALIS twin; Jobgether Google Ads Media Buyer ~55; Sandborn coordinator; Warrior Ontario; Blacksmith senior; PBS Senior SEO; EY Specialist ~48; Calgary/Toronto-only.

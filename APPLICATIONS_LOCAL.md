@@ -11,6 +11,15 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### ES. Applied Industrial Technologies — Warehouse Representative (Nisku) ★ NEW · SOUTH · 2026-08-27
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4459655889  
+- **Careers:** https://jobs.applied.com/ca/en/ (search Warehouse Representative · Nisku / Applied DC)  
+- **Address (verified):** 606 19 Avenue / Applied DC Nisku, AB T9E 7W1  
+- **Notes:** Full-time · receive/ship · sort/stock/pick · package/label · bin locations · industrial distribution · lift 50 lbs · forklift experience preferred · benefits/RRSP  
+- **Why:** Nisku / Calgary Trail south corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Warehouse Representative role at Applied Industrial Technologies in Nisku (Applied DC, T9E 7W1). I live nearby at 11110 68 Ave NW and am comfortable with paced shipping and receiving: accurate picking and packing, receiving and stocking, labelling, and keeping bin locations organized. Steel-toe ready, willing to train or refresh forklift, and reliable for full-time hours.
+
 ### EO. Microserve — Warehouse Associate ★ NEW · SOUTH · 2026-08-26
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4456982327  
 - **Careers:** https://microserve.ca/careers/  
@@ -392,11 +401,13 @@
 - **Blurb:**
 > I’m applying for the Warehouse & Logistics Specialist role with Randstad in Nisku ($23–$25/hr, Mon–Fri 8:00–4:30). I live nearby at 11110 68 Ave NW, have a reliable vehicle, and am comfortable with paced shipping/receiving work: checking inbound against POs, packing and labeling outbound orders, cycle counts, and keeping a clean safe warehouse. Willing to train or refresh forklift as required. Available for an immediate start and ready for site safety/PPE requirements.
 
-### DB. Apex Distribution — Warehouse Associate (Nisku) ★ NEW · SOUTH · 2026-08-08 · INDEED
+### DB. Apex Distribution — Warehouse Associate (Nisku) ★ NEW · SOUTH · 2026-08-08 · INDEED · mailto refreshed 2026-08-27
 - **Indeed:** https://ca.indeed.com/q-nisku-warehouse-l-alberta-jobs.html (search Apex Distribution · Warehouse Associate)  
+- **Careers / email:** https://www.russelmetals.com/en/company/apex-distribution/tools/careers/ · **HR@apexdistribution.com**  
 - **Address (verified):** 1080 34 Ave, Nisku, AB T9E 1K7  
 - **Pay:** $22/hr · full-time · forklift certified an asset (willing to train) · pre-employment drug/alcohol test  
 - **Why:** Nisku oilfield supply warehouse ship/receive · unload/reload crates · ~15–20 min · not Southgate  
+- **Mailto (Resend unset):** `mailto:HR@apexdistribution.com?subject=Warehouse%20Associate%20Nisku%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Warehouse%20Associate%20role%20at%20Apex%20Distribution%20Nisku%20(1080%2034%20Avenue).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca` · attach `cv/main_local_edmonton.pdf`  
 - **Blurb:**
 > I’m applying for the Warehouse Associate role at Apex Distribution in Nisku (1080 34 Ave). I live nearby at 11110 68 Ave NW and am comfortable with physical shipping/receiving work: preparing outbound shipments, wrapping product, loading/unloading, and keeping paperwork and the work area accurate and organized. Forklift certification is an asset — willing to train. Reliable attendance and ready for full-time hours and pre-employment screening as posted.
 

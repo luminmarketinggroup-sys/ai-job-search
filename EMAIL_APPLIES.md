@@ -54,6 +54,17 @@ From: `dylan@luminmarketinggroup.com` · Reply-To/Bcc: `dylanschule@live.ca`
 
 **Still portal-only (cloud cannot complete CAPTCHA):** AMA Member Rewards (`careers.ama.ab.ca`), Keysight, Elevation Capital (Rippling), AutoCanada careers, NP Digital Jobvite, plus optional Greenhouse/Teamtailor/ADP/Jotform/CREATIVE form follow-ups if email is not enough. Warehouse Priority A needs Desktop browser (Roofmart Workday, U-Haul, NAPA, Go Auto, Gentek, Intelcom, Touchette, Uline, Federal Signal, Wajax, Powell, Trail Appliances, etc.).
 
+## Pending mailto (Resend unset 2026-08-27)
+
+| # | Company | To | Role | Status |
+|---|---------|-----|------|--------|
+| P0o | Apex Distribution | HR@apexdistribution.com | Warehouse Associate Nisku (#DB refresh) | **NEW 2026-08-27** mailto ready · attach `cv/main_local_edmonton.pdf` |
+| P0p | Yellowstone to Yukon (Y2Y) | careers@y2y.net | Digital Marketing Specialist | **NEW 2026-08-27** mailto ready · attach `cv/main_y2y.pdf` + cover · also BambooHR https://y2y.bamboohr.com/careers/40 |
+
+**Mailto (copy/paste):**  
+`mailto:HR@apexdistribution.com?subject=Warehouse%20Associate%20Nisku%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20for%20the%20Warehouse%20Associate%20role%20at%20Apex%20Distribution%20Nisku%20(1080%2034%20Avenue).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`  
+`mailto:careers@y2y.net?subject=Digital%20Marketing%20Specialist%20-%20Dylan%20Michael&body=Hi%2C%0A%0APlease%20find%20attached%20my%20resume%20and%20cover%20letter%20for%20the%20Digital%20Marketing%20Specialist%20role%20(Edmonton).%0A%0AThanks%2C%0ADylan%20Michael%0A825-967-9337%0Adylanschule%40live.ca`
+
 ## Pending mailto (Resend unset 2026-08-26)
 
 | # | Company | To | Role | Status |

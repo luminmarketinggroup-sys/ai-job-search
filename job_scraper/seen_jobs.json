@@ -9262,11 +9262,10 @@
       "title": "Shipper-Receiver",
       "company": "Stream-Flo Industries Ltd.",
       "url": "https://alis.alberta.ca/occinfo/alberta-job-postings/shipper-receiver/50096015/",
-      "first_seen": "2026-08-25",
+      "first_seen": "2026-08-27",
       "fit": "medium",
       "status": "skipped",
-      "tracker_status": "skipped_duplicate",
-      "notes": "ALIS twin of #CP; 2 yrs exp; 4505 74 Ave"
+      "notes": "ALIS twin of drafted #CP"
     },
     "https://ca.linkedin.com/jobs/view/4452979232": {
       "title": "Warehouse Associate - Nights",
@@ -9760,6 +9759,249 @@
       "fit": "low",
       "status": "skipped",
       "notes": "Woodbridge"
+    },
+    "https://ca.linkedin.com/jobs/view/4459655889": {
+      "title": "Warehouse Representative",
+      "company": "Applied Industrial Technologies - Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4459655889",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Nisku T9E 7W1 Applied DC; auto-draft local #ES"
+    },
+    "https://ca.indeed.com/q-apex-distribution-warehouse-l-nisku,-ab-jobs.html": {
+      "title": "Warehouse Associate",
+      "company": "Apex Distribution",
+      "url": "https://ca.indeed.com/q-apex-distribution-warehouse-l-nisku,-ab-jobs.html",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "skipped",
+      "notes": "Re-post of drafted #DB; mailto refreshed on #DB 2026-08-27"
+    },
+    "https://ca.linkedin.com/jobs/view/4456271879": {
+      "title": "Digital Marketing Specialist",
+      "company": "Yellowstone to Yukon (Y2Y) Conservation Initiative",
+      "url": "https://ca.linkedin.com/jobs/view/4456271879",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Edmonton OK; CAD $63-84k; fit ~74; BambooHR / careers@y2y.net C72"
+    },
+    "https://ca.linkedin.com/jobs/view/4459110044": {
+      "title": "Demand Generation Lead",
+      "company": "Origin",
+      "url": "https://ca.linkedin.com/jobs/view/4459110044",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "drafted",
+      "notes": "Remote US/CA; $115-170k; fit ~64; Ashby C73"
+    },
+    "https://ca.linkedin.com/jobs/view/4459608984": {
+      "title": "Rail Worker, Shipping/Receiving",
+      "company": "Celanese",
+      "url": "https://ca.linkedin.com/jobs/view/4459608984",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4405 101 Ave NW east distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4449917886": {
+      "title": "(CAN) OMNI Customer Fulfillment Associated",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4449917886",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "156 87 Ave NW west distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4459637947": {
+      "title": "(CAN) OMNI Customer Fulfillment Associate 4AM Availability",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4459637947",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Kingsway Mall north"
+    },
+    "https://ca.linkedin.com/jobs/view/4457537141": {
+      "title": "Stock Unloader Associate (PT)",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457537141",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "18521 Stony Plain Rd NW west"
+    },
+    "https://ca.linkedin.com/jobs/view/4454368300": {
+      "title": "Operations Consultant - Flex",
+      "company": "SEPHORA",
+      "url": "https://ca.linkedin.com/jobs/view/4454368300",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Southgate Centre public-facing hard skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4457868034": {
+      "title": "Operations Consultant - Flex",
+      "company": "SEPHORA",
+      "url": "https://ca.linkedin.com/jobs/view/4457868034",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Emerald Hills Sherwood Park mall stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4459046078": {
+      "title": "Inventory Control Representative",
+      "company": "Wolseley Canada Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4459046078",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "branch/DC address unverified; Waterworks NW pattern risk"
+    },
+    "https://ca.linkedin.com/jobs/view/4458604893": {
+      "title": "Warehouse Associate - Nights",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4458604893",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "St Albert twin prior skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4458604462": {
+      "title": "Warehouse Associate - Days",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4458604462",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "St Albert twin prior skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4459106803": {
+      "title": "Heavy Vehicle Parts Specialist",
+      "company": "Traction",
+      "url": "https://ca.linkedin.com/jobs/view/4459106803",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "re-post of drafted #EB"
+    },
+    "https://ca.linkedin.com/jobs/view/4456607713": {
+      "title": "Parts Technician- Journey Person",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4456607713",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "journey person ticket hard-req"
+    },
+    "https://ca.linkedin.com/jobs/view/4456674425": {
+      "title": "Associ\u00e9, Manutention",
+      "company": "The Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4456674425",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "French twin / store unspecified floor public"
+    },
+    "https://ca.linkedin.com/jobs/view/4458395652": {
+      "title": "Google Ads Media Buyer",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4458395652",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4+ yrs Demand Gen/ecom DR stretch ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/4457980886": {
+      "title": "Social Media & Marketing Coordinator",
+      "company": "Sandborn Roofs & Seals Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4457980886",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "coord + pay floor unclear ~52"
+    },
+    "https://ca.linkedin.com/jobs/view/4455871615": {
+      "title": "Digital Marketing Manager - Paid Media",
+      "company": "Warrior Digital",
+      "url": "https://ca.linkedin.com/jobs/view/4455871615",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Ontario-based hard requirement"
+    },
+    "https://ca.linkedin.com/jobs/view/4459338366": {
+      "title": "Content Marketing Manager (Remote, Edmonton)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4459338366",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4-7 yrs oversee specialists ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4458256373": {
+      "title": "Search Engine Marketing Manager (Remote, Toronto)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4458256373",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4-7 yrs oversee specialists ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4455856740": {
+      "title": "Senior SEO Strategist",
+      "company": "Powered by Search",
+      "url": "https://ca.linkedin.com/jobs/view/4455856740",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "senior SaaS book stretch; prior PBS pack"
+    },
+    "https://ca.linkedin.com/jobs/view/4457975541": {
+      "title": "Brand and Marketing - Specialist, Service Lines",
+      "company": "EY",
+      "url": "https://ca.linkedin.com/jobs/view/4457975541",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5+ yrs events + degree ~48"
+    },
+    "https://ca.linkedin.com/jobs/view/4453469790": {
+      "title": "Email Marketing and Growth Manager",
+      "company": "SMART Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/4453469790",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Calgary location"
+    },
+    "https://ca.linkedin.com/jobs/view/4457445680": {
+      "title": "Performance Marketing Strategist",
+      "company": "EIZIE",
+      "url": "https://ca.linkedin.com/jobs/view/4457445680",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "spam locations pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4457391982": {
+      "title": "Founding Demand Generation Lead",
+      "company": "Alloy River",
+      "url": "https://ca.linkedin.com/jobs/view/4457391982",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4456286632": {
+      "title": "AI Native Engineer, Growth Marketing",
+      "company": "CookUnity",
+      "url": "https://ca.linkedin.com/jobs/view/4456286632",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "engineering-heavy / Ottawa"
     }
   }
 }
