@@ -11,6 +11,35 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### ET. Fountain Tire — Labourer (Edmonton Roper Road) ★ NEW · SOUTH · 2026-08-28 · $20–22/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4458902986  
+- **Store / apply:** https://www.fountaintire.com/stores/edmonton-roper-road-ab · https://www.fountaintire.com/careers  
+- **Address (verified):** 5810 50 Street NW, Edmonton, AB T6B 3C4 (Fountain Tire Edmonton Roper Road / F044)  
+- **Notes:** General labourer · shop support · parts delivery / vehicle pick-ups · customer greeting · lift ~50 kg · Class 5 + abstract · day shifts + OT · benefits + RSP match  
+- **Why:** Roper / 50 St industrial · ~12–18 min from 11110 68 Ave NW via Whitemud · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Labourer role at Fountain Tire Edmonton Roper Road (5810 50 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced physical shop work: lifting and moving tires/parts, keeping the floor organized and safe, helping with parts runs and vehicle pick-ups, and staying useful when the bay is busy. Class 5 ready, steel-toe ready, and reliable for regular day shifts.
+
+### EU. Argus — General Labour (Nisku) ★ NEW · SOUTH · 2026-08-28
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4454444073  
+- **Careers / contact:** https://argusinnovates.com/careers/ · info@argusinnovates.com · 780-434-9451  
+- **Address (verified):** 2327 5 Street, Nisku, AB T9E 8H7  
+- **Notes:** Plant general labour · OCTG prep/threading support · saws/forklift/cranes as trained · WHMIS chemicals · measure to tolerance · documentation · employee-owned  
+- **Why:** Nisku / Calgary Trail south corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Email sent (Resend 2026-08-28):** id `38dd3bf3-a257-47a3-9460-81094a0449d0` → info@argusinnovates.com (combined with #EV; From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca) · attached `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the General Labour role at Argus in Nisku (2327 5 Street). I live nearby at 11110 68 Ave NW and am comfortable with paced plant and yard work: following SOPs, careful measuring and documentation, keeping the floor clean and safe, and learning equipment as trained. Steel-toe / PPE ready and reliable for full-time plant hours.
+
+### EV. Argus — General Labour / Saw Operator (Edmonton) ★ NEW · SOUTH · 2026-08-28
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4458304572  
+- **Careers / contact:** https://argusinnovates.com/careers/ · info@argusinnovates.com · 780-434-9451  
+- **Address (verified):** 5820 97 Street NW, Edmonton, AB T6E 3J1 (corporate / manufacturing)  
+- **Notes:** Shop/yard labour · material handling · inventory bins · overhead crane/forklift as trained · Blue Terminal scans · lift to 50 lbs · PPE 100%  
+- **Why:** Coronet Industrial / 97 St near Calgary Trail · ~8–12 min from 11110 68 Ave NW · not Southgate  
+- **Email sent:** covered in combined Resend to info@argusinnovates.com (id `38dd3bf3-a257-47a3-9460-81094a0449d0`) with #EU  
+- **Blurb:**
+> I’m applying for the General Labour / Saw Operator role at Argus Edmonton (5820 97 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced shop and yard work: moving materials carefully, keeping inventory organized, accurate documentation, and learning crane/forklift procedures as trained. Steel-toe / PPE ready and reliable for full-time shop hours.
+
 ### ES. Applied Industrial Technologies — Warehouse Representative (Nisku) ★ NEW · SOUTH · 2026-08-27
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4459655889  
 - **Careers:** https://jobs.applied.com/ca/en/ (search Warehouse Representative · Nisku / Applied DC)  

@@ -1,19 +1,20 @@
-# Last automation run — 2026-08-27
+# Last automation run — 2026-08-28
 
 ## Summary
-- **Local drafts:** 1 (Applied Industrial Technologies Warehouse Representative Nisku)
-- **Career drafts:** 2 (Y2Y Digital Marketing Specialist ~74; Origin Demand Generation Lead ~64)
-- **Also:** Apex Nisku Warehouse Associate re-surfaced as twin of #DB (mailto HR@ refreshed; not counted as new)
-- **Resend:** unset — mailto lines for Apex `HR@apexdistribution.com` and Y2Y `careers@y2y.net`
+- **Local drafts:** 3 (Fountain Tire Labourer Roper; Argus General Labour Nisku; Argus Saw Operator Edmonton)
+- **Career drafts:** 2 (Power Digital Paid Advertising Specialist Ecommerce ~72; Marble Marketing Strategist ~66)
+- **Resend:** key present as `Resend` secret — map to `RESEND_API_KEY` for Argus mailto sends
 - **Branch:** `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
 
 ## New drafts table
 
 | Company | Role | Link | Files |
 |---------|------|------|-------|
-| Applied Industrial Technologies | Warehouse Representative (Nisku) | https://ca.linkedin.com/jobs/view/4459655889 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#ES` |
-| Yellowstone to Yukon (Y2Y) | Digital Marketing Specialist | https://y2y.bamboohr.com/careers/40 · https://ca.linkedin.com/jobs/view/4456271879 | `cv/main_y2y.pdf` · `cover_letters/cover_y2y_digital_marketing_specialist.pdf` |
-| Origin | Demand Generation Lead | https://jobs.ashbyhq.com/originhq/ecb5a3af-47bd-48cc-bbc8-730680fd2814 · https://ca.linkedin.com/jobs/view/4459110044 | `cv/main_origin.pdf` · `cover_letters/cover_origin_demand_generation_lead.pdf` |
+| Fountain Tire | Labourer (Roper Road) | https://ca.linkedin.com/jobs/view/4458902986 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#ET` |
+| Argus | General Labour (Nisku) | https://ca.linkedin.com/jobs/view/4454444073 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EU` |
+| Argus | General Labour / Saw Operator (Edmonton) | https://ca.linkedin.com/jobs/view/4458304572 | `cv/main_local_edmonton.pdf` · `APPLICATIONS_LOCAL.md#EV` |
+| Power Digital | Paid Advertising Specialist (Ecommerce) | https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5221806007 | `cv/main_power_digital.pdf` · `cover_letters/cover_power_digital_paid_advertising_specialist.pdf` |
+| Marble | Marketing Strategist | https://jobs.lever.co/Medchart/5f6e5779-2064-4fb0-8b30-a5d4aa42985c | `cv/main_marble.pdf` · `cover_letters/cover_marble_marketing_strategist.pdf` |
 
 ## Skipped (sample)
-Apex #DB twin; Celanese 101 Ave east; Walmart west/north OMNI/unloader; SEPHORA Southgate PF; Wolseley Inventory address unclear; Stream-Flo ALIS twin; Jobgether Google Ads Media Buyer ~55; Sandborn coordinator; Warrior Ontario; Blacksmith senior; PBS Senior SEO; EY Specialist ~48; Calgary/Toronto-only.
+Wajax #AV twin; Grainger 167 St NW; Optima expired; Bass Pro north; Ryder FIFO; Blacksmith/SimplyPHP/Jobgether senior; Fresh Focus Calgary on-site; Skunkworks pay floor; Uline Spruce Grove.
