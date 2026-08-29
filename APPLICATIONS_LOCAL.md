@@ -11,6 +11,42 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### EW. Walmart Canada — Overnight Associate (3931 Calgary Trail) ★ NEW · SOUTH · 2026-08-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4458540085  
+- **Careers:** https://careers.walmart.ca/  
+- **Address (verified on posting):** 3931 Calgary Trail NW, Edmonton, AB T6J 5M8  
+- **Notes:** Overnight receiving / freight flow · unload trailers · pull pallets · process merchandise · distinct from OMNI CFA (#EP) and Stock Unloader (#BB) at same store  
+- **Why:** Calgary Trail corridor · ~5–8 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Overnight Associate role at Walmart Calgary Trail (3931 Calgary Trail NW). I live nearby at 11110 68 Ave NW and am comfortable with paced overnight receiving work: unloading trailers, moving freight safely, helping process merchandise to the floor, and keeping the work area clean and organized. Reliable attendance for overnight shifts including weekends and holidays as posted.
+
+### EX. Walmart Canada — Stock Unloader Associate (1203 Parsons Rd) ★ NEW · SOUTH · 2026-08-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4459047955  
+- **Careers:** https://careers.walmart.ca/  
+- **Address (verified on posting):** 1203 Parsons Rd NW, Edmonton, AB T6N 0A9  
+- **Notes:** Unload trailers · process merchandise · move pallets · BOH stock flow · distinct from Overnight (#DJ), OMNI (#CJ), Claims (#BR), Produce (#CC) at same store  
+- **Why:** South Parsons / South Common corridor · ~10–15 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Stock Unloader Associate role at Walmart Parsons (1203 Parsons Rd NW). I live nearby at 11110 68 Ave NW and am comfortable with physical, paced unload work: trailers, pallets, accurate handling, and keeping receiving areas organized and safe. Reliable for the posted shifts including early or overnight unload as required.
+
+### EY. Purolator — Sorter AM 493 (Edmonton South) ★ NEW · SOUTH · 2026-08-29 · $23.40/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4459439954  
+- **Careers:** https://careers.purolator.com/ (search Sorter AM 493 / Edmonton South)  
+- **Address (verified on posting):** Edmonton South Depot — 3104 97 Street NW, Edmonton, AB T6N 1K3  
+- **Notes:** Full-time overnight AM · 00:30–07:30 Mon–Fri · 35 hrs/week · sort/unload/load · scan · lift to ~70 lbs · CSA footwear · distinct from Sorter AM 378 Freight (#CS)  
+- **Why:** Parsons Industrial / 97 St south · ~10–15 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the AM Sorter role at Purolator Edmonton South (3104 97 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: unloading, sorting, scanning, and loading packages up to the posted limits. Reliable attendance for the posted overnight AM schedule (00:30–07:30) and coachable on Purolator safety and sort methods.
+
+### EZ. Sureway Construction Group — JR Inventory Technician (Heavy Equipment) ★ NEW · SOUTH · 2026-08-29
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4459472143  
+- **Careers / contact:** https://sureway.ca/contact-us/ · apply via LinkedIn / Sureway careers  
+- **Address (verified on posting):** 9175 14 Street NW, Edmonton, AB T6P 0C9  
+- **Notes:** Entry-level heavy equipment inventory · parts/warehouse support · shop schedule with OT · personal reliable vehicle · CSA steel-toe · distinct from Shop Labourer (#ED)  
+- **Why:** SE industrial / Whitemud corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the JR Inventory Technician (Heavy Equipment) role at Sureway Construction (9175 14 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced shop and inventory work: careful counting and documentation, keeping parts organized, supporting shipping/receiving, and staying useful on a busy floor. I have reliable transport and steel-toe boots ready. Willing to complete pre-employment testing and orientation. Reliable attendance for the posted shop schedule including overtime as required.
+
 ### ET. Fountain Tire — Labourer (Edmonton Roper Road) ★ NEW · SOUTH · 2026-08-28 · $20–22/hr
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4458902986  
 - **Store / apply:** https://www.fountaintire.com/stores/edmonton-roper-road-ab · https://www.fountaintire.com/careers  

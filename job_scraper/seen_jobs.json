@@ -10212,6 +10212,339 @@
       "status": "skipped",
       "tracker_status": "skipped_distance",
       "notes": "Edmonton address unverified / prior Federal Signal pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4458540085": {
+      "title": "(CAN) Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4458540085",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "3931 Calgary Trail NW overnight"
+    },
+    "https://ca.linkedin.com/jobs/view/4458540086": {
+      "title": "(CAN) Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4458540086",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "skipped",
+      "notes": "duplicate of 4458540085 Calgary Trail overnight"
+    },
+    "https://ca.linkedin.com/jobs/view/4459047955": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4459047955",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "1203 Parsons Rd NW T6N"
+    },
+    "https://ca.linkedin.com/jobs/view/4459439954": {
+      "title": "Sorter AM 493",
+      "company": "Purolator Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4459439954",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Edmonton South 3104 97 St T6N 1K3"
+    },
+    "https://ca.linkedin.com/jobs/view/4459472143": {
+      "title": "JR Inventory Technician (Heavy Equipment)",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4459472143",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "9175 14 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4460569956": {
+      "title": "Marketing Associate",
+      "company": "Edmonton Community Foundation",
+      "url": "https://ca.linkedin.com/jobs/view/4460569956",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "CAD 64867-76313 hybrid Edmonton"
+    },
+    "https://ecf.ca/career/marketing-associate/": {
+      "title": "Marketing Associate",
+      "company": "Edmonton Community Foundation",
+      "url": "https://ecf.ca/career/marketing-associate/",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "canonical careers page"
+    },
+    "https://ca.linkedin.com/jobs/view/4459408695": {
+      "title": "Marketing Automation Delivery Specialist",
+      "company": "Conversion Digital",
+      "url": "https://ca.linkedin.com/jobs/view/4459408695",
+      "first_seen": "2026-08-29",
+      "fit": "good",
+      "status": "drafted",
+      "notes": "CAD 65-75k flexible Canada"
+    },
+    "https://ca.linkedin.com/jobs/view/4460137149": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4460137149",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "skipped",
+      "notes": "duplicate Calgary Trail already #BB"
+    },
+    "https://ca.linkedin.com/jobs/view/4460533632": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4460533632",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "18521 Stony Plain Rd NW west"
+    },
+    "https://ca.linkedin.com/jobs/view/4457852194": {
+      "title": "Overnight Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457852194",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "156 87 Ave NW west"
+    },
+    "https://ca.linkedin.com/jobs/view/4460389235": {
+      "title": "Transfer Station Labourer",
+      "company": "SECURE",
+      "url": "https://ca.linkedin.com/jobs/view/4460389235",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "12311 17 St NE distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4458540205": {
+      "title": "construction labourer",
+      "company": "Walser Contracting Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4458540205",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Stony Plain distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4459479074": {
+      "title": "Shop Labourer (Heavy Equipment Shop)",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4459479074",
+      "first_seen": "2026-08-29",
+      "fit": "high",
+      "status": "skipped",
+      "notes": "duplicate already #ED"
+    },
+    "https://ca.linkedin.com/jobs/view/4459470433": {
+      "title": "Plant Helper",
+      "company": "Heidelberg Materials North America",
+      "url": "https://ca.linkedin.com/jobs/view/4459470433",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Villeneuve NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4456962330": {
+      "title": "Cell Lead- Receiving",
+      "company": "Durabuilt Windows & Doors",
+      "url": "https://ca.linkedin.com/jobs/view/4456962330",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "18103 111 Ave NW Wilson Industrial"
+    },
+    "https://ca.linkedin.com/jobs/view/4460388405": {
+      "title": "Lifecycle Marketing Manager",
+      "company": "BIS Safety Software",
+      "url": "https://ca.linkedin.com/jobs/view/4460388405",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "HubSpot lifecycle data build stretch ~52"
+    },
+    "https://ca.linkedin.com/jobs/view/4460521067": {
+      "title": "Marketing Coordinator, Member Rewards (14 Month)",
+      "company": "AMA",
+      "url": "https://ca.linkedin.com/jobs/view/4460521067",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "coord temp maternity coverage ~52"
+    },
+    "https://ca.linkedin.com/jobs/view/4458693246": {
+      "title": "Web Content Developer",
+      "company": "Robert Half",
+      "url": "https://ca.linkedin.com/jobs/view/4458693246",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "visual/front-end design heavy"
+    },
+    "https://ca.linkedin.com/jobs/view/4458639402": {
+      "title": "Performance Marketing Manager",
+      "company": "Dash Social",
+      "url": "https://ca.linkedin.com/jobs/view/4458639402",
+      "first_seen": "2026-08-29",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "CareerBeacon provinces exclude Alberta"
+    },
+    "https://jobs.careerbeacon.com/details/performance-marketing-manager/2238364": {
+      "title": "Performance Marketing Manager",
+      "company": "Dash Social",
+      "url": "https://jobs.careerbeacon.com/details/performance-marketing-manager/2238364",
+      "first_seen": "2026-08-29",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "AB not listed"
+    },
+    "https://ca.linkedin.com/jobs/view/4458254751": {
+      "title": "Google Ads Specialist (Remote, Vancouver)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4458254751",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4-7 yrs oversee specialists ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4457718064": {
+      "title": "Content & Digital Marketing Specialist",
+      "company": "ARAG Legal Solutions",
+      "url": "https://ca.linkedin.com/jobs/view/4457718064",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4455151969": {
+      "title": "Marketing Specialist",
+      "company": "Master Power",
+      "url": "https://ca.linkedin.com/jobs/view/4455151969",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Richmond Hill onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4459332041": {
+      "title": "Senior Digital Marketing Specialist",
+      "company": "BDO Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4459332041",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4460358904": {
+      "title": "Digital Marketing Specialist",
+      "company": "Scotlynn",
+      "url": "https://ca.linkedin.com/jobs/view/4460358904",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Brant ON onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4458648019": {
+      "title": "SEM Specialist",
+      "company": "Saatchi & Saatchi Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4458648019",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4458682438": {
+      "title": "Digital Specialist",
+      "company": "The Aber Group",
+      "url": "https://ca.linkedin.com/jobs/view/4458682438",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4458416703": {
+      "title": "Digital Media Analyst",
+      "company": "Air Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4458416703",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4458064571": {
+      "title": "Head of SEO & AEO",
+      "company": "Asana",
+      "url": "https://ca.linkedin.com/jobs/view/4458064571",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Head/senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4457650581": {
+      "title": "Senior Manager, Organic Search (SEO & AEO)",
+      "company": "KITS.COM",
+      "url": "https://ca.linkedin.com/jobs/view/4457650581",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Senior manager"
+    },
+    "https://ca.linkedin.com/jobs/view/4448829684": {
+      "title": "Channel Marketing Specialist, Canada",
+      "company": "Sandisk",
+      "url": "https://ca.linkedin.com/jobs/view/4448829684",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "6-8 yrs + FR + degree"
+    },
+    "https://ca.linkedin.com/jobs/view/4426640551": {
+      "title": "Senior Performance Marketing Specialist",
+      "company": "Clever Digital Marketing",
+      "url": "https://ca.linkedin.com/jobs/view/4426640551",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4456817936": {
+      "title": "Web & Digital Marketing Strategist",
+      "company": "CCGoodwin Consulting",
+      "url": "https://ca.linkedin.com/jobs/view/4456817936",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "7+ yrs stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4455948406": {
+      "title": "Campaign Manager, Performance",
+      "company": "Media Experts",
+      "url": "https://ca.linkedin.com/jobs/view/4455948406",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto pay 45-55k"
+    },
+    "https://ca.linkedin.com/jobs/view/4449017338": {
+      "title": "Demand Gen Marketer",
+      "company": "Feathery",
+      "url": "https://ca.linkedin.com/jobs/view/4449017338",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "GTA"
+    },
+    "https://ca.linkedin.com/jobs/view/4460521936": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4460521936",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Wetaskiwin distance"
     }
   }
 }

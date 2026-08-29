@@ -9,6 +9,15 @@
 
 ---
 
+## Sent (2026-08-29)
+
+| # | Company | To | Resend id | Status |
+|---|---------|-----|-----------|--------|
+| — | Edmonton Community Foundation | jobs@ecf.ca | `a61ddc46-c5d8-4da5-9fc2-b987bba0ab55` | **submitted** (Marketing Associate; CV+cover) |
+| — | Conversion Digital | hello@conversiondigital.ca | `5afb37be-1a60-4e12-8a41-3c2885ab9bfb` | **submitted** (Marketing Automation Delivery Specialist; CV+cover; also LinkedIn) |
+
+---
+
 ## Sent (2026-07-22)
 
 | # | Company | To | Resend id | Status |
