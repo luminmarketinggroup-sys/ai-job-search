@@ -11,6 +11,16 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FA. Bevo Farms Ltd — General Labourer (Edmonton greenhouse / Bevo Sky) ★ NEW · SOUTH · 2026-08-30
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4458053455  
+- **Careers / email:** https://bevofarms.com/careers · mailto:recruiting@bevofarms.com  
+- **Address (verified):** Edmonton International Airport / Leduc County — former Aurora Sky greenhouse now operated by Bevo (Bevo Sky); apply via LinkedIn or email resume to recruiting@bevofarms.com  
+- **Notes:** Greenhouse general labour · potting line · trays · loading carts · stand long shifts · physical paced plant care · no formal education required  
+- **Why:** South corridor via Calgary Trail toward EIA · ~20–25 min from 11110 68 Ave NW · not Southgate Centre  
+- **Email sent (Resend 2026-08-30):** id `2e2021a0-4706-4409-adcd-6be5688a6448` → recruiting@bevofarms.com · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca)  
+- **Blurb:**
+> I’m applying for the General Labourer / greenhouse worker role at Bevo Farms in Edmonton (Bevo Sky at the EIA / Leduc County site). I live nearby at 11110 68 Ave NW and am comfortable with paced physical work: standing long shifts, careful handling of product, loading trays and carts, keeping bays clean and organized, and following hygiene and safety rules. Reliable attendance and coachable on greenhouse methods.
+
 ### EW. Walmart Canada — Overnight Associate (3931 Calgary Trail) ★ NEW · SOUTH · 2026-08-29
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4458540085  
 - **Careers:** https://careers.walmart.ca/  

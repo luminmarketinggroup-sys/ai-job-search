@@ -17,6 +17,7 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FA | **Bevo Farms General Labourer — EIA / Bevo Sky** | **NEW 08-30** · greenhouse labour · ~20–25 min Calgary Trail · **EMAIL** recruiting@bevofarms.com |
 | ES | **Applied Warehouse Representative — Nisku** | **NEW 08-27** · Applied DC T9E 7W1 · ~15–20 min · LinkedIn / jobs.applied.com |
 | DB | **Apex Warehouse Associate — Nisku** | **mailto refresh 08-27** · 1080 34 Ave · \$22/hr · **EMAIL** HR@apexdistribution.com |
 | DW | **Echelon Warehouse Associate — Roper Rd** | **NEW 08-20** · 8440 Roper Rd NW · ~8–12 min · optional email edmontonsales@echelonsupply.com |
