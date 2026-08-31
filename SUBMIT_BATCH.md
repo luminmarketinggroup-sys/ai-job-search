@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FB | **Western Truck Body Material Handler — 30 St** | **NEW 08-31** · Break & Shear · 6115 30 St NW · ~12–18 min · **EMAIL** wtbhr@westerntruckbody.com |
+| FC | **JC Silent-Aire Assembler Panels — Nisku** | **NEW 08-31** · nightshift Mon–Thu · ~15–20 min · LinkedIn / JC careers |
 | FA | **Bevo Farms General Labourer — EIA / Bevo Sky** | **NEW 08-30** · greenhouse labour · ~20–25 min Calgary Trail · **EMAIL** recruiting@bevofarms.com |
 | ES | **Applied Warehouse Representative — Nisku** | **NEW 08-27** · Applied DC T9E 7W1 · ~15–20 min · LinkedIn / jobs.applied.com |
 | DB | **Apex Warehouse Associate — Nisku** | **mailto refresh 08-27** · 1080 34 Ave · \$22/hr · **EMAIL** HR@apexdistribution.com |

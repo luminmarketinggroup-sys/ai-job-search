@@ -11,6 +11,25 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FB. Western Truck Body Mfg. (Federal Signal) — Material Handler (Break & Shear) ★ NEW · SOUTH · 2026-08-31
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4459085343  
+- **Careers / email:** mailto:wtbhr@westerntruckbody.com · https://westerntruckbody.com/  
+- **Address (verified):** 6115 30 Street NW, Edmonton, AB T6P 1J8  
+- **Notes:** Days 7:00–15:30 · stage/prep materials for Break & Shear · load/unload laser tables · measure/pre-cut · deburr/grind · work orders & cut lists · distinct from Warehouse Shipper/Receiver (#CU) and JJE Yard Coordinator (#DM)  
+- **Why:** SE industrial / Whitemud corridor · ~12–18 min from 11110 68 Ave NW · not Southgate Centre  
+- **Email sent (Resend 2026-08-31):** id `eed206e0-0aa4-4adc-a611-b917ac2b4cea` → wtbhr@westerntruckbody.com · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca)  
+- **Blurb:**
+> I’m applying for the Material Handler (Break & Shear) role at Western Truck Body (6115 30 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced plant and material work: staging parts, careful measuring, loading/unloading materials, keeping bays organized and safe, and following production documentation. Steel-toe ready and reliable for the posted day shift (7:00–15:30).
+
+### FC. Johnson Controls / Silent-Aire — Assembler - Panels (Nisku) ★ NEW · SOUTH · 2026-08-31
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4428513463  
+- **Careers:** https://www.johnsoncontrols.com/careers (search Silent-Aire / Assembler Panels Nisku)  
+- **Address (verified):** Silent-Aire Nisku manufacturing facility (Nisku, AB; reliable transport required)  
+- **Notes:** Nightshift Mon–Thu 6:15 PM–5:45 AM · panel fabrication/assembly · hand/power tools · unload inbound / load finished · lift 40+ lbs · tape measure · forklift/crane only if trained  
+- **Why:** Nisku / Calgary Trail south corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Assembler - Panels nightshift role at Silent-Aire / Johnson Controls in Nisku. I live nearby at 11110 68 Ave NW and am comfortable with paced physical plant work: standing long shifts, careful assembly with hand tools, unloading and staging materials, keeping the area clean and safe, and following instructions under a night schedule. Reliable attendance for Monday–Thursday nights and coachable on Silent-Aire methods.
+
 ### FA. Bevo Farms Ltd — General Labourer (Edmonton greenhouse / Bevo Sky) ★ NEW · SOUTH · 2026-08-30
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4458053455  
 - **Careers / email:** https://bevofarms.com/careers · mailto:recruiting@bevofarms.com  

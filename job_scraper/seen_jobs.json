@@ -11155,6 +11155,189 @@
       "status": "skipped",
       "notes": "career; email/social specialist pay/fit unclear",
       "track": "career"
+    },
+    "https://ca.linkedin.com/jobs/view/4459085343": {
+      "title": "Material Handler (Break & Shear)",
+      "company": "Western Truck Body Mfg. / Federal Signal",
+      "url": "https://ca.linkedin.com/jobs/view/4459085343",
+      "first_seen": "2026-08-31",
+      "fit": "high",
+      "status": "drafted",
+      "track": "local",
+      "address": "6115 30 St NW T6P 1J8"
+    },
+    "https://ca.linkedin.com/jobs/view/4428513463": {
+      "title": "Assembler - Panels",
+      "company": "Johnson Controls / Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/4428513463",
+      "first_seen": "2026-08-31",
+      "fit": "high",
+      "status": "drafted",
+      "track": "local",
+      "location": "Nisku"
+    },
+    "https://ca.linkedin.com/jobs/view/4461203061": {
+      "title": "SEO Account Manager",
+      "company": "VixelStudio",
+      "url": "https://ca.linkedin.com/jobs/view/4461203061",
+      "first_seen": "2026-08-31",
+      "fit": "high",
+      "status": "drafted",
+      "track": "career",
+      "fit_score": 78
+    },
+    "https://ca.linkedin.com/jobs/view/4458292214": {
+      "title": "Production Associate Garment Folder",
+      "company": "Cintas Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4458292214",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "distance NW 116 Ave"
+    },
+    "https://ca.linkedin.com/jobs/view/4451312143": {
+      "title": "Claims",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451312143",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "Kingsway Mall distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4457751727": {
+      "title": "Material Coordinator",
+      "company": "Johnson Controls",
+      "url": "https://ca.linkedin.com/jobs/view/4457751727",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "SAP/BOM SME"
+    },
+    "https://ca.linkedin.com/jobs/view/4457364418": {
+      "title": "Distribution Center Manager",
+      "company": "Rexel Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457364418",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "manager"
+    },
+    "https://ca.linkedin.com/jobs/view/4459860826": {
+      "title": "Lifecycle Marketing Lead",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4459860826",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "6+ yrs $130-160k"
+    },
+    "https://ca.linkedin.com/jobs/view/4459876681": {
+      "title": "Lifecycle Marketing Lead",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4459876681",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "twin of 4459860826"
+    },
+    "https://ca.linkedin.com/jobs/view/4445497108": {
+      "title": "Performance Marketing Strategist",
+      "company": "Remotivate / Dominant Digital",
+      "url": "https://ca.linkedin.com/jobs/view/4445497108",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "US remote only"
+    },
+    "https://ca.linkedin.com/jobs/view/4458891840": {
+      "title": "Google Ads Media Buyer / Growth Strategist",
+      "company": "AtomCareer",
+      "url": "https://ca.linkedin.com/jobs/view/4458891840",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "high-spend twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4459774620": {
+      "title": "Google Ads Media Buyer / Growth Strategist",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4459774620",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "high-spend twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4458260249": {
+      "title": "Content Marketing Manager",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4458260249",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "4-7 yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4459408309": {
+      "title": "Marketing Demand Generation & Growth Associate",
+      "company": "Off2Class",
+      "url": "https://ca.linkedin.com/jobs/view/4459408309",
+      "first_seen": "2026-08-31",
+      "fit": "medium",
+      "status": "skipped",
+      "reason": "GTA primarily"
+    },
+    "https://ca.linkedin.com/jobs/view/4457968451": {
+      "title": "Account Manager Digital Marketing Agency",
+      "company": "TopHat HR",
+      "url": "https://ca.linkedin.com/jobs/view/4457968451",
+      "first_seen": "2026-08-31",
+      "fit": "medium",
+      "status": "skipped",
+      "reason": "GTA"
+    },
+    "https://ca.linkedin.com/jobs/view/4457232949": {
+      "title": "SEO+ Marketing Strategist",
+      "company": "Tru",
+      "url": "https://ca.linkedin.com/jobs/view/4457232949",
+      "first_seen": "2026-08-31",
+      "fit": "medium",
+      "status": "skipped",
+      "reason": "Hybrid Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4459889397": {
+      "title": "Route Trainee",
+      "company": "UniFirst",
+      "url": "https://ca.linkedin.com/jobs/view/4459889397",
+      "first_seen": "2026-08-31",
+      "fit": "medium",
+      "status": "skipped",
+      "reason": "route delivery vs warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4458682361": {
+      "title": "Wholesale Parts Advisor",
+      "company": "Capital Chrysler / AutoCanada",
+      "url": "https://ca.linkedin.com/jobs/view/4458682361",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "parts sales CDK"
+    },
+    "https://ca.linkedin.com/jobs/view/4447721149": {
+      "title": "Production Lead",
+      "company": "HelloFresh",
+      "url": "https://ca.linkedin.com/jobs/view/4447721149",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "supervise 30+"
+    },
+    "https://ca.linkedin.com/jobs/view/4458291223": {
+      "title": "Jack and Slide Rigger/Laborer",
+      "company": "Mammoet",
+      "url": "https://ca.linkedin.com/jobs/view/4458291223",
+      "first_seen": "2026-08-31",
+      "fit": "low",
+      "status": "skipped",
+      "reason": "travel intensive"
     }
   }
 }

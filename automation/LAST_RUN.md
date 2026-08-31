@@ -1,29 +1,28 @@
-# LAST_RUN — 2026-08-30 daily job search
+# LAST_RUN — 2026-08-31 daily job search
 
 ## Summary
-- **1 new local draft:** Bevo Farms General Labourer (Edmonton greenhouse / Bevo Sky at EIA)
-- **1 new career draft:** Practice Better Lifecycle Marketing Specialist (~61)
+- **2 new local drafts:** Western Truck Body Material Handler (Break & Shear); JC Silent-Aire Assembler Panels Nisku
+- **1 new career draft:** VixelStudio SEO Account Manager (~78)
 - Branch: `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
 
 ## Drafted
 | Track | Company | Role | Files | Apply |
 |-------|---------|------|-------|-------|
-| Local | Bevo Farms Ltd | General Labourer | `cv/main_local_edmonton.pdf` | mailto:recruiting@bevofarms.com · https://ca.linkedin.com/jobs/view/4458053455 |
-| Career | Practice Better | Lifecycle Marketing Specialist | `cv/main_practice_better.pdf` · `cover_letters/cover_practice_better_lifecycle_marketing.pdf` | Greenhouse https://job-boards.greenhouse.io/practicebetter/jobs/5351299008 · mailto:careers@practicebetter.io · https://ca.linkedin.com/jobs/view/4455424948 |
+| Local | Western Truck Body Mfg. (Federal Signal) | Material Handler (Break & Shear) | `cv/main_local_edmonton.pdf` | mailto:wtbhr@westerntruckbody.com · https://ca.linkedin.com/jobs/view/4459085343 |
+| Local | Johnson Controls / Silent-Aire | Assembler - Panels (Nisku) | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4428513463 |
+| Career | VixelStudio | SEO Account Manager | `cv/main_vixelstudio.pdf` · `cover_letters/cover_vixelstudio_seo_account_manager.pdf` | Google Form https://forms.gle/tT1yQzgZbY9pmvVZ9 · mailto:contact@vixelstudio.com · https://ca.linkedin.com/jobs/view/4461203061 |
 
 ## Emails
-- Bevo → recruiting@bevofarms.com Resend id `2e2021a0-4706-4409-adcd-6be5688a6448` (local CV)
-- Practice Better → careers@practicebetter.io Resend id `75a678f6-1e32-4cea-87a8-05d1ee5d75e1` (CV+cover); also complete Greenhouse form manually
+- WTB → wtbhr@westerntruckbody.com Resend id `eed206e0-0aa4-4adc-a611-b917ac2b4cea` (local CV)
+- VixelStudio → contact@vixelstudio.com Resend id `c042f907-e7da-4f4f-a402-f834438dc925` (CV+cover); still complete Google Form
 - No LinkedIn/Indeed portal submit claimed
 
 ## Skipped (selected)
-- Walmart Calgary Trail OMNI/Overnight twins (#EP/#EW)
-- Walmart Northgate / 87 Ave / Fort Sask / 127 St distance
-- Veolia Aurum NE; Purolator PM 514 NW; Federal Signal 5yr forklift; Uline St Albert
-- Sweat Pants high-spend DTC; Hire Feed aggregator; Clever Meta scale; Blacksmith; Directive Paid Strategist; Jobgether 5+ yrs; senior Toronto MarTech
+- Cintas Folder NW; Walmart Claims Kingsway; JC Material Coordinator; Rexel DC Manager
+- Sweat Pants / AtomCareer Google Ads twins; Directive Lifecycle Lead; Remotivate US-only; Blacksmith; senior Toronto/Montreal/FR
 
 ## Checklists
-- `APPLICATIONS_LOCAL.md` (#FA)
-- `APPLICATIONS_READY.md` (C78)
+- `APPLICATIONS_LOCAL.md` (#FB–#FC)
+- `APPLICATIONS_READY.md` (C79)
 - `SUBMIT_BATCH.md`
-- `job_search_tracker.csv` status `ready_to_submit`
+- `job_search_tracker.csv` status `ready_to_submit` / emailed
