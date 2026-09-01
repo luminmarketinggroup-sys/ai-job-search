@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FD | **Fastener Group Warehouse Associate — Edmonton South** | **NEW 09-01** · 9619 42 Ave NW · ~10–15 min · LinkedIn |
+| FE | **JC Silent-Aire Assembler Weekend Night** | **NEW 09-01** · Fri–Sun nights · Nisku/Sherwood Park · \$20/hr · LinkedIn |
 | FB | **Western Truck Body Material Handler — 30 St** | **NEW 08-31** · Break & Shear · 6115 30 St NW · ~12–18 min · **EMAIL** wtbhr@westerntruckbody.com |
 | FC | **JC Silent-Aire Assembler Panels — Nisku** | **NEW 08-31** · nightshift Mon–Thu · ~15–20 min · LinkedIn / JC careers |
 | FA | **Bevo Farms General Labourer — EIA / Bevo Sky** | **NEW 08-30** · greenhouse labour · ~20–25 min Calgary Trail · **EMAIL** recruiting@bevofarms.com |

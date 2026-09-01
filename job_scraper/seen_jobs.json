@@ -11338,6 +11338,270 @@
       "fit": "low",
       "status": "skipped",
       "reason": "travel intensive"
+    },
+    "https://ca.linkedin.com/jobs/view/4460070052": {
+      "title": "Warehouse Associate 1",
+      "company": "The Fastener Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4460070052",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Edmonton South 9619 42 Ave NW T6E 5R2; auto-draft local #FD"
+    },
+    "https://ca.linkedin.com/jobs/view/4448409120": {
+      "title": "Assembler (Weekend Night Shift)",
+      "company": "Johnson Controls / Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/4448409120",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Nisku or Sherwood Park weekend nights $20/hr; auto-draft local #FE"
+    },
+    "https://jobs.ashbyhq.com/directive/6c171165-a1a6-4851-b0d9-a7f0b822c424": {
+      "title": "Digital Marketing Strategist - Startups/SMB",
+      "company": "Directive",
+      "url": "https://jobs.ashbyhq.com/directive/6c171165-a1a6-4851-b0d9-a7f0b822c424",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit",
+      "notes": "Remote Canada; fit ~74; auto-draft career C80"
+    },
+    "https://ca.linkedin.com/jobs/view/4461520433": {
+      "title": "Warehouse Clerk",
+      "company": "Rexel Canada / Westburne",
+      "url": "https://ca.linkedin.com/jobs/view/4461520433",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin of #DT Edmonton South"
+    },
+    "https://ca.linkedin.com/jobs/view/4461565269": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461565269",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "156 87 Ave NW west/distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4451473676": {
+      "title": "OVERNIGHT ASSOCIATE",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4451473676",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Northgate 9499 137 Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4461295953": {
+      "title": "(CAN) Produce Stocker",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461295953",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Tamarack 13703 40 St NW north"
+    },
+    "https://ca.linkedin.com/jobs/view/4461271406": {
+      "title": "Production Associate - Garment Folder",
+      "company": "Cintas Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461271406",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "NW 116 Ave pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4456953030": {
+      "title": "Production Worker - Steel Fab (Days)",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4456953030",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Acheson distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4456945110": {
+      "title": "Production Worker - Steel Fab (Nights)",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4456945110",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Acheson distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4457627451": {
+      "title": "Materials Technician (Receiving)",
+      "company": "Sky Eye Measurement Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4457627451",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Acheson + inventory systems"
+    },
+    "https://ca.linkedin.com/jobs/view/4458673605": {
+      "title": "Material Supply (Temporary)",
+      "company": "ATCO",
+      "url": "https://ca.linkedin.com/jobs/view/4458673605",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "address unverified"
+    },
+    "https://ca.linkedin.com/jobs/view/4459202827": {
+      "title": "Material Handler/ Back-Up Delivery Driver",
+      "company": "Emco Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4459202827",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "multi-branch address unverified"
+    },
+    "https://ca.linkedin.com/jobs/view/4461241832": {
+      "title": "Switcher",
+      "company": "FedEx Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461241832",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "yard switcher CDL-preferred"
+    },
+    "https://ca.linkedin.com/jobs/view/4457713525": {
+      "title": "LGS ASSEMBLER- Greenbuilt",
+      "company": "Durabuilt Windows & Doors",
+      "url": "https://ca.linkedin.com/jobs/view/4457713525",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "likely NW / assembly stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4461256267": {
+      "title": "SEO Specialist (Remote, Calgary)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4461256267",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4-7 yrs oversee specialists ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4461244363": {
+      "title": "SEO Specialist (Remote, Ottawa)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4461244363",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "4-7 yrs twin ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4460085130": {
+      "title": "Search Marketing Manager",
+      "company": "DOE Media",
+      "url": "https://ca.linkedin.com/jobs/view/4460085130",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "ecom Shopping high-spend stretch ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/4460208941": {
+      "title": "Search Engine Optimization Specialist",
+      "company": "CHIROK",
+      "url": "https://ca.linkedin.com/jobs/view/4460208941",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "LinkedIn Part-time"
+    },
+    "https://ca.linkedin.com/jobs/view/4442253813": {
+      "title": "Customer Marketing Manager, Growth",
+      "company": "Clio",
+      "url": "https://ca.linkedin.com/jobs/view/4442253813",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Burnaby/Calgary/Toronto offices"
+    },
+    "https://ca.linkedin.com/jobs/view/4442262233": {
+      "title": "Customer Marketing Manager, Growth",
+      "company": "Clio",
+      "url": "https://ca.linkedin.com/jobs/view/4442262233",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Vancouver twin office"
+    },
+    "https://ca.linkedin.com/jobs/view/4461248023": {
+      "title": "Marketing Manager, SEO & Digital Experience",
+      "company": "Corus Orthodontists",
+      "url": "https://ca.linkedin.com/jobs/view/4461248023",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Calgary 5-8 yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4458427987": {
+      "title": "Marketing Automation Manager",
+      "company": "Seequent",
+      "url": "https://ca.linkedin.com/jobs/view/4458427987",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Vancouver hybrid 5 yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4441253513": {
+      "title": "Demand Generation Program Manager",
+      "company": "Grafana Labs",
+      "url": "https://ca.linkedin.com/jobs/view/4441253513",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "5+ yrs demand gen"
+    },
+    "https://ca.linkedin.com/jobs/view/4458332716": {
+      "title": "Marketing Strategy & Planning Manager",
+      "company": "Ashby",
+      "url": "https://ca.linkedin.com/jobs/view/4458332716",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "7+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4435172965": {
+      "title": "Growth Marketing Manager",
+      "company": "Hypertec Group",
+      "url": "https://ca.linkedin.com/jobs/view/4435172965",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Montreal 5+ yrs"
+    },
+    "https://ca.linkedin.com/jobs/view/4410788200": {
+      "title": "Senior Manager, Campaign Design, Execution and AI Enablement",
+      "company": "BMO",
+      "url": "https://ca.linkedin.com/jobs/view/4410788200",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto senior"
+    },
+    "https://ca.linkedin.com/jobs/view/4420726457": {
+      "title": "Senior Specialist, Digital Performance Marketing",
+      "company": "goeasy Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4420726457",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Mississauga"
+    },
+    "https://ca.linkedin.com/jobs/view/4461099942": {
+      "title": "Digital Marketing & Brand Specialist",
+      "company": "Fuze HR Solutions",
+      "url": "https://ca.linkedin.com/jobs/view/4461099942",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Montreal onsite"
     }
   }
 }

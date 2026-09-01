@@ -11,6 +11,24 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FD. The Fastener Group Ltd. — Warehouse Associate 1 (Edmonton South) ★ NEW · SOUTH · 2026-09-01
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4460070052  
+- **Careers:** https://thefastenergroup.com/branches/ · https://edmfast.com/  
+- **Address (verified):** Edmonton Fasteners & Tools South — 9619 42 Ave NW, Edmonton, AB T6E 5R2  
+- **Notes:** Pick/pack orders · unload inbound · receiving put-away · shelf organization · Edmonton South branch (distinct from prior West 111 Ave skip)  
+- **Why:** South Edmonton / 42 Ave near Calgary Trail corridor · ~10–15 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Warehouse Associate 1 role at The Fastener Group Edmonton South (9619 42 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: picking and double-checking orders, unloading inbound freight, careful receiving counts, put-away, and keeping shelves organized and safe. Steel-toe ready and reliable for full-time branch hours.
+
+### FE. Johnson Controls / Silent-Aire — Assembler (Weekend Night Shift) ★ NEW · SOUTH · 2026-09-01 · $20/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4448409120  
+- **Careers:** https://www.johnsoncontrols.com/careers (search Silent-Aire / Assembler Weekend Night)  
+- **Address (verified on posting):** Silent-Aire facility in Nisku or Sherwood Park (reliable transport required)  
+- **Notes:** Fri–Sun nights · Nisku 6:15 PM–5:45 AM or Sherwood Park 6:00 PM–5:30 AM · hand/power tools · unload inbound / load finished · \$20/hr · distinct from Assembler Panels Mon–Thu nightshift (#FC)  
+- **Why:** Nisku / south corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Assembler (Weekend Night Shift) role at Silent-Aire / Johnson Controls (Nisku or Sherwood Park). I live nearby at 11110 68 Ave NW and am comfortable with paced physical plant work: careful assembly with hand tools, unloading and staging materials, keeping the area clean and safe, and following instructions on a Friday–Sunday night schedule. Reliable attendance and coachable on Silent-Aire methods.
+
 ### FB. Western Truck Body Mfg. (Federal Signal) — Material Handler (Break & Shear) ★ NEW · SOUTH · 2026-08-31
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4459085343  
 - **Careers / email:** mailto:wtbhr@westerntruckbody.com · https://westerntruckbody.com/  
