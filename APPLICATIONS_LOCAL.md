@@ -11,6 +11,53 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FF. Steelhaus Tryton Canada — Shop Hand (Edmonton / Roper) ★ NEW · SOUTH · 2026-09-02
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4455469088  
+- **Careers:** https://www.steelhaus.com/tryton  
+- **Address (verified):** Inventory warehouse — 6404 Roper Road, Edmonton, AB T6B 3P9  
+- **Notes:** Mon–Fri 8am–5pm · assemble/disassemble BHA · shop housekeeping · pick/sort inventory · ship/receive · load trailers · forklift/manual lift · hot-shot trips with company vehicle · downhole tool experience an asset (not required)  
+- **Why:** Roper Industrial · ~8–12 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Shop Hand role at Steelhaus Tryton (6404 Roper Road). I live nearby at 11110 68 Ave NW and am comfortable with paced shop and warehouse work: careful handling of parts, picking and inventory checks, loading and unloading, keeping bays clean and safe, and following documented procedures. Steel-toe ready and reliable for Monday–Friday day shifts; coachable on BHA and site methods.
+
+### FG. Ryder System — Material Handler (Receiving) ★ NEW · SOUTH · 2026-09-02 · $23.66/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4460929048  
+- **Careers / email:** mailto:careers@ryder.com · https://www.ryder.com/careers  
+- **Address (verified pattern):** Edmonton AB Roper Rd warehouse corridor (Ryder Supply Chain Solutions Roper Industrial / McIntyre; confirm site on apply) — 6468 / 8468 Roper Road NW area  
+- **Notes:** Full-time · \$23.66/hr + \$1 shift premium · 7:30am–7:30pm rotating 5-on/5-off and 4-on/4-off · WMS pick/stage · load/unload · powered industrial equipment · distinct from Shipper (#FH) and Large Forklift (#skipped)  
+- **Why:** Roper / south industrial · ~8–12 min from 11110 68 Ave NW · not Southgate  
+- **Email sent (Resend 2026-09-02):** id `01699422-abff-4cd7-9d90-f56f0a8a5371` → careers@ryder.com · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca)  
+- **Blurb:**
+> I’m applying for the Material Handler (Receiving) role at Ryder in Edmonton (Roper Road corridor). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse receiving: unloading trailers, accurate counts, staging product, documentation, and keeping docks organized and safe. Reliable for the posted rotating day shifts; steel-toe ready and coachable on Ryder WMS and equipment rules.
+
+### FH. Ryder System — Material Handler (Shipper) ★ NEW · SOUTH · 2026-09-02 · $23.66/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4460923054  
+- **Careers / email:** mailto:careers@ryder.com · https://www.ryder.com/careers  
+- **Address (verified pattern):** Same Edmonton Roper Rd warehouse corridor as Receiving (#FG); confirm site on apply  
+- **Notes:** Full-time · \$23.66/hr + \$1 shift premium · same rotating shift pattern · pull/stage orders · carrier verification · load trailers · distinct from Receiving (#FG)  
+- **Why:** Roper / south industrial · ~8–12 min from home · not Southgate  
+- **Email sent (Resend 2026-09-02):** id `3ab4440d-0495-4039-aec6-8f21b32d54cf` → careers@ryder.com · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca)  
+- **Blurb:**
+> I’m applying for the Material Handler (Shipper) role at Ryder in Edmonton (Roper Road corridor). I live nearby at 11110 68 Ave NW and am comfortable with paced outbound warehouse work: accurate picks, staging for carriers, loading trailers, documentation, and keeping shipping areas clean and safe. Reliable for the posted rotating day shifts; steel-toe ready and coachable on Ryder methods.
+
+### FI. ROBINSON (B.A. Robinson) — Shipper/Receiver (Edmonton plumbing) ★ NEW · SOUTH · 2026-09-02
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4460646658  
+- **Careers:** https://www.barobinson.com/careers  
+- **Address (verified plumbing/warehouse site):** 6735 75 Street NW, Edmonton, AB T6E 1T6 (Davies Industrial East; confirm branch on apply — company also has NW showroom at 18511 104 Ave)  
+- **Notes:** Fill orders · shipping docs · load/unload · receive into inventory · damage/freight claims · returns · inventory counts · customer assist as needed  
+- **Why:** 75 St / Whitemud south-east industrial · ~12–18 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at ROBINSON’s Edmonton plumbing location. I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse shipping and receiving: accurate order fills, careful receiving counts, loading and unloading, tidy docks, and clear documentation. Steel-toe ready and reliable for full-time branch hours.
+
+### FJ. Walmart Canada — Stock Unloader Associate PT (Sherwood Park) ★ NEW · SOUTH-EAST · 2026-09-02 · $16.15/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4461235271  
+- **Careers:** https://careers.walmart.ca/  
+- **Address (verified on posting):** 239 Wye Rd, Sherwood Park, AB  
+- **Notes:** PT stock unloader · unload trailers · process merchandise · move pallets · \$16.15/hr  
+- **Why:** Sherwood Park south-east corridor · ~15–20 min from 11110 68 Ave NW · not Southgate  
+- **Blurb:**
+> I’m applying for the Stock Unloader Associate PT role at Walmart Sherwood Park (239 Wye Rd). I live nearby at 11110 68 Ave NW and am comfortable with physical, paced unload work: trailers, pallets, accurate handling, and keeping receiving areas organized and safe. Reliable for the posted part-time shifts.
+
 ### FD. The Fastener Group Ltd. — Warehouse Associate 1 (Edmonton South) ★ NEW · SOUTH · 2026-09-01
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4460070052  
 - **Careers:** https://thefastenergroup.com/branches/ · https://edmfast.com/  

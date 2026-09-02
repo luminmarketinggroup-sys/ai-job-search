@@ -17,6 +17,11 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FF | **Steelhaus Tryton Shop Hand — Roper** | **NEW 09-02** · 6404 Roper Rd · ~8–12 min · LinkedIn |
+| FG | **Ryder Material Handler Receiving — Roper** | **NEW 09-02** · \$23.66/hr · **EMAIL** careers@ryder.com |
+| FH | **Ryder Material Handler Shipper — Roper** | **NEW 09-02** · \$23.66/hr · **EMAIL** careers@ryder.com |
+| FI | **ROBINSON Shipper/Receiver — 75 St plumbing** | **NEW 09-02** · 6735 75 St NW · ~12–18 min · barobinson.com/careers |
+| FJ | **Walmart Stock Unloader PT — Sherwood Park** | **NEW 09-02** · 239 Wye Rd · \$16.15/hr · careers.walmart.ca |
 | FD | **Fastener Group Warehouse Associate — Edmonton South** | **NEW 09-01** · 9619 42 Ave NW · ~10–15 min · LinkedIn |
 | FE | **JC Silent-Aire Assembler Weekend Night** | **NEW 09-01** · Fri–Sun nights · Nisku/Sherwood Park · \$20/hr · LinkedIn |
 | FB | **Western Truck Body Material Handler — 30 St** | **NEW 08-31** · Break & Shear · 6115 30 St NW · ~12–18 min · **EMAIL** wtbhr@westerntruckbody.com |

@@ -11602,6 +11602,267 @@
       "fit": "medium",
       "status": "skipped",
       "notes": "Montreal onsite"
+    },
+    "https://ca.linkedin.com/jobs/view/4455469088": {
+      "title": "Shop Hand",
+      "company": "Steelhaus Tryton Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4455469088",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4460929048": {
+      "title": "Material Handler (Receiving)",
+      "company": "Ryder System",
+      "url": "https://ca.linkedin.com/jobs/view/4460929048",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4460923054": {
+      "title": "Material Handler (Shipper)",
+      "company": "Ryder System",
+      "url": "https://ca.linkedin.com/jobs/view/4460923054",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4460646658": {
+      "title": "Shipper/Receiver",
+      "company": "ROBINSON",
+      "url": "https://ca.linkedin.com/jobs/view/4460646658",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461235271": {
+      "title": "Stock Unloader Associate PT",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461235271",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4457961198": {
+      "title": "Marketing Manager \u2014 Growth, Lifecycle & Retargeting",
+      "company": "JRS College",
+      "url": "https://ca.linkedin.com/jobs/view/4457961198",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4462059613": {
+      "title": "Shop Labourer",
+      "company": "Boundary Equipment",
+      "url": "https://ca.linkedin.com/jobs/view/4462059613",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4438003443": {
+      "title": "Production Worker Copper Dip",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4438003443",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4440175343": {
+      "title": "Production Worker PCR Base",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4440175343",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4453467545": {
+      "title": "Revenue Marketing Operations Specialist",
+      "company": "Levitate",
+      "url": "https://ca.linkedin.com/jobs/view/4453467545",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461293865": {
+      "title": "Senior Advisor Acquisition Marketing",
+      "company": "EPCOR",
+      "url": "https://ca.linkedin.com/jobs/view/4461293865",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461770630": {
+      "title": "Yard Associate Permanent",
+      "company": "Wolseley Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461770630",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4460661312": {
+      "title": "Advanced Warehouse Operator",
+      "company": "Cummins",
+      "url": "https://ca.linkedin.com/jobs/view/4460661312",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4460916970": {
+      "title": "Material Handler Large Forklift",
+      "company": "Ryder System",
+      "url": "https://ca.linkedin.com/jobs/view/4460916970",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4457359836": {
+      "title": "Overnight Associate Spruce Grove",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4457359836",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4450739317": {
+      "title": "Overnight Associate Spruce Grove",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4450739317",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461075499": {
+      "title": "Creator & Influencer Specialist",
+      "company": "Petra Brands",
+      "url": "https://ca.linkedin.com/jobs/view/4461075499",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4453472464": {
+      "title": "Flex Production Labourer",
+      "company": "Cargill",
+      "url": "https://ca.linkedin.com/jobs/view/4453472464",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4458437075": {
+      "title": "Digital Marketing Specialist Email",
+      "company": "Seequent",
+      "url": "https://ca.linkedin.com/jobs/view/4458437075",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4460624903": {
+      "title": "Marketing Cloud Specialist Askuity",
+      "company": "Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4460624903",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4448476014": {
+      "title": "Demand Generation Marketing Manager",
+      "company": "Miovision",
+      "url": "https://ca.linkedin.com/jobs/view/4448476014",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4456370954": {
+      "title": "Marketing Manager Growth Content",
+      "company": "Propulso",
+      "url": "https://ca.linkedin.com/jobs/view/4456370954",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4389934022": {
+      "title": "Senior Demand Generation Manager",
+      "company": "Grafana Labs",
+      "url": "https://ca.linkedin.com/jobs/view/4389934022",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4454671725": {
+      "title": "Assistant Director Digital Marketing",
+      "company": "EY",
+      "url": "https://ca.linkedin.com/jobs/view/4454671725",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4459571068": {
+      "title": "Marketing Manager",
+      "company": "Nuvollo",
+      "url": "https://ca.linkedin.com/jobs/view/4459571068",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4455690596": {
+      "title": "Head of Marketing",
+      "company": "The Leadership Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4455690596",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4457972795": {
+      "title": "Sp\u00e9cialiste marketing num\u00e9rique",
+      "company": "Soci\u00e9t\u00e9 Angus",
+      "url": "https://ca.linkedin.com/jobs/view/4457972795",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4459698948": {
+      "title": "Bilingual Senior CSM",
+      "company": "Hootsuite",
+      "url": "https://ca.linkedin.com/jobs/view/4459698948",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4450744813": {
+      "title": "Sp\u00e9cialiste Personnalisation",
+      "company": "Home Depot Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4450744813",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
     }
   }
 }

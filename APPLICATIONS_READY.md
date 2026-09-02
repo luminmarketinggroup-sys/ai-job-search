@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-02 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C81 | JRS College of Business and Healthcare | Marketing Manager — Growth, Lifecycle & Retargeting | Good (~70) | **EMAIL** mailto:director@jrscollege.ca · cc support@jrscollege.ca · LinkedIn https://ca.linkedin.com/jobs/view/4457961198 | `cv/main_jrs_college.pdf` | `cover_letters/cover_jrs_college_marketing_manager.pdf` | Remote Canada welcome; pay not posted (confirm ≥ CAD \$60k); Meta/Google + CRM lifecycle match; HubSpot (preferred) + education admissions + WhatsApp API still growing vs GHL / 2 SMB |
+
+**Email sent this run (Resend):** JRS College → director@jrscollege.ca id `27b79fa7-ad9e-406c-9ef5-2e212ae6390c` (+ CC support@jrscollege.ca id `ab95467a-cc5f-4b26-bb6b-dca78cc6f2ac`). Ryder Material Handler Receiving → careers@ryder.com id `01699422-abff-4cd7-9d90-f56f0a8a5371`. Ryder Material Handler Shipper → careers@ryder.com id `3ab4440d-0495-4039-aec6-8f21b32d54cf`. Still complete Steelhaus / ROBINSON / Walmart portals. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Steelhaus Tryton Shop Hand (6404 Roper Rd), Ryder Material Handler Receiving, Ryder Material Handler Shipper, ROBINSON Shipper/Receiver (Edmonton plumbing / 75 St), Walmart Stock Unloader PT Sherwood Park (239 Wye Rd) — see `APPLICATIONS_LOCAL.md` (#FF–#FJ).
+
+Skipped this run (fit/location/pay): Boundary Equipment Shop Labourer (10740 181 St NW); Powell Copper Dip / PCR Base Acheson; Cargill Flex Labourer Spruce Grove; Walmart Overnight Spruce Grove twins; Ryder Material Handler Large Forklift (hard forklift req); Wolseley Yard Associate (Waterworks NW pattern / address ambiguous); Cummins Advanced Warehouse Operator (181 St NW + large forklift); Levitate Revenue Marketing Ops (Toronto onsite); EPCOR Senior Advisor Acquisition Marketing (senior stretch); Seequent Email Vancouver; Home Depot Askuity Marketing Cloud Toronto; Petra Brands Creator (US remote pattern); Miovision Demand Gen Kitchener; Grafana Senior Demand Gen; Propulso Magog FR; EY Assistant Director Ottawa; Nuvollo/Leadership Agency Toronto Head roles.
+
 ## NEW drafts this run (2026-09-01 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
