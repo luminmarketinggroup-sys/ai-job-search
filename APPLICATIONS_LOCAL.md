@@ -11,6 +11,24 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FK. Thermon — Warehouse Worker (Packaging) ★ NEW · SOUTH · 2026-09-04
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4462760551  
+- **Careers:** https://thermon.com/careers/  
+- **Address (verified):** 5918 Roper Road NW, Edmonton, AB T6B 3E1  
+- **Notes:** Packaging / FIFO / material move from Cata-Dyne testing · housekeeping · lift to 50 lbs · posting asks 2+ yrs warehouse/manufacturing + forklift/order picker (honesty stretch; coachable) · distinct from prior Shipping & Receiving Clerk (#CQ)  
+- **Why:** Roper Industrial · ~8–12 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Warehouse Worker (Packaging) role at Thermon (5918 Roper Road). I live nearby at 11110 68 Ave NW and am comfortable with paced packaging and warehouse work: careful product checks, accurate packing, keeping materials organized, moving product safely, and following documented procedures. Steel-toe ready and reliable for full-time shifts; honest that deep forklift hours are still growing and I am coachable on Thermon packaging and safety methods.
+
+### FL. Winters Instruments — Warehouse Associate / Warehouse Worker ★ NEW · SOUTH · 2026-09-04 · $18.50–$20/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4461150998  
+- **Careers:** https://winters.com/about/winters-careers  
+- **Address (verified on posting):** 7503 Girard Road, Edmonton, AB (warehouse in person)  
+- **Notes:** Mon–Fri 8:00am–4:30pm · receive inbound · QA checks · pick/prep orders · inventory/cycle counts · lift 40–60 lbs · health/dental eligible  
+- **Why:** Girard Rd / south-east industrial near Roper corridor · ~10–15 min from 11110 68 Ave NW · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Warehouse Worker role at Winters Instruments (7503 Girard Road). I live nearby at 11110 68 Ave NW and am comfortable with paced shipping and receiving work: careful inbound checks, accurate picks, inventory counts, tidy shelves, and keeping the warehouse organized and safe. Reliable for Monday–Friday day shifts; steel-toe ready and coachable on Winters methods and equipment rules.
+
 ### FF. Steelhaus Tryton Canada — Shop Hand (Edmonton / Roper) ★ NEW · SOUTH · 2026-09-02
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4455469088  
 - **Careers:** https://www.steelhaus.com/tryton  

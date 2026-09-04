@@ -11863,6 +11863,447 @@
       "fit": "low",
       "status": "skipped",
       "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462760551": {
+      "title": "Warehouse Worker (Packaging)",
+      "company": "Thermon",
+      "url": "https://ca.linkedin.com/jobs/view/4462760551",
+      "first_seen": "2026-09-04",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461150998": {
+      "title": "Warehouse Associate",
+      "company": "Winters Instruments",
+      "url": "https://ca.linkedin.com/jobs/view/4461150998",
+      "first_seen": "2026-09-04",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461937056": {
+      "title": "Social Media & Communications Coordinator",
+      "company": "YMCA of Northern Alberta",
+      "url": "https://ca.linkedin.com/jobs/view/4461937056",
+      "first_seen": "2026-09-04",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4462020812": {
+      "title": "Warehouse Associate",
+      "company": "Victaulic",
+      "url": "https://ca.linkedin.com/jobs/view/4462020812",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463198269": {
+      "title": "Warehouse Person - 7x7 Dayshift",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4463198269",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463149528": {
+      "title": "Shipper/Receiver (Norden Volkswagen)",
+      "company": "Go Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4463149528",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462073643": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4462073643",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462703251": {
+      "title": "(CAN) Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4462703251",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463197461": {
+      "title": "(CAN) OMNI Customer Fulfillment Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4463197461",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461113309": {
+      "title": "Logistics Coordinator",
+      "company": "Thermon",
+      "url": "https://ca.linkedin.com/jobs/view/4461113309",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461120395": {
+      "title": "Material Handler",
+      "company": "T Wright Corp",
+      "url": "https://ca.linkedin.com/jobs/view/4461120395",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461912392": {
+      "title": "Warehouse Associate",
+      "company": "Echelon Supply and Service",
+      "url": "https://ca.linkedin.com/jobs/view/4461912392",
+      "first_seen": "2026-09-04",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4462759062": {
+      "title": "Shipper and Receiver",
+      "company": "Roofmart",
+      "url": "https://ca.linkedin.com/jobs/view/4462759062",
+      "first_seen": "2026-09-04",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4462839695": {
+      "title": "Brand Manager",
+      "company": "CosmoProf Beauty",
+      "url": "https://ca.linkedin.com/jobs/view/4462839695",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4460537347": {
+      "title": "Field Marketing Manager-Acheson, AB",
+      "company": "CRH Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4460537347",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461797203": {
+      "title": "Knowledge Translation Specialist",
+      "company": "University of Alberta",
+      "url": "https://ca.linkedin.com/jobs/view/4461797203",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4463118744": {
+      "title": "Marketing Specialist / Coordinator",
+      "company": "TalentSphere Staffing Solutions",
+      "url": "https://ca.linkedin.com/jobs/view/4463118744",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4404509831": {
+      "title": "Senior Paid Media Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4404509831",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4440590698": {
+      "title": "SEO Strategist (Remote Canada) - Future Opening",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4440590698",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4414958739": {
+      "title": "SEO Strategist (Remote Canada) - Future Opening",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4414958739",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461266540": {
+      "title": "Senior Partner Marketing Manager, AI & ISV Ecosystem",
+      "company": "Dropbox",
+      "url": "https://ca.linkedin.com/jobs/view/4461266540",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4412048052": {
+      "title": "Product Marketing Director, Asana Service Management",
+      "company": "Asana",
+      "url": "https://ca.linkedin.com/jobs/view/4412048052",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4405398222": {
+      "title": "Content & Product Marketing Lead",
+      "company": "EviSmart\u2122",
+      "url": "https://ca.linkedin.com/jobs/view/4405398222",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461914914": {
+      "title": "Agentic Marketing Architect",
+      "company": "TS Imagine",
+      "url": "https://ca.linkedin.com/jobs/view/4461914914",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461925108": {
+      "title": "Architecte marketing agentique",
+      "company": "TS Imagine",
+      "url": "https://ca.linkedin.com/jobs/view/4461925108",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463131237": {
+      "title": "Marketing Automation Consultant",
+      "company": "Co-operators",
+      "url": "https://ca.linkedin.com/jobs/view/4463131237",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463125719": {
+      "title": "Marketing Automation Consultant",
+      "company": "Co-operators",
+      "url": "https://ca.linkedin.com/jobs/view/4463125719",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4460645899": {
+      "title": "Marketing Automation Specialist",
+      "company": "Educators Financial Group",
+      "url": "https://ca.linkedin.com/jobs/view/4460645899",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4459571776": {
+      "title": "Lifecycle & Marketing Automation Specialist",
+      "company": "Stingray",
+      "url": "https://ca.linkedin.com/jobs/view/4459571776",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461062753": {
+      "title": "Assistant Manager, Marketing Automation",
+      "company": "International Air Transport Association (IATA)",
+      "url": "https://ca.linkedin.com/jobs/view/4461062753",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462027848": {
+      "title": "Marketing Automation Specialist",
+      "company": "Canadian Institute for Health Information (CIHI)",
+      "url": "https://ca.linkedin.com/jobs/view/4462027848",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462760452": {
+      "title": "Digital Marketing Specialist",
+      "company": "OssKin",
+      "url": "https://ca.linkedin.com/jobs/view/4462760452",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461909626": {
+      "title": "Growth Marketing Specialist",
+      "company": "Casper Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4461909626",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461500486": {
+      "title": "Growth Marketer \ud83c\udde8\ud83c\udde6",
+      "company": "Alan",
+      "url": "https://ca.linkedin.com/jobs/view/4461500486",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4460660470": {
+      "title": "Digital Marketing Lead",
+      "company": "Mine & Yours",
+      "url": "https://ca.linkedin.com/jobs/view/4460660470",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4459260978": {
+      "title": "Specialist, Digital Marketing",
+      "company": "Oatey Company",
+      "url": "https://ca.linkedin.com/jobs/view/4459260978",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4461916721": {
+      "title": "Paid Ads Specialist",
+      "company": "Konstruct Digital",
+      "url": "https://ca.linkedin.com/jobs/view/4461916721",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4442911394": {
+      "title": "Search Strategist",
+      "company": "Critical Mass",
+      "url": "https://ca.linkedin.com/jobs/view/4442911394",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4412058678": {
+      "title": "Search Specialist",
+      "company": "CAA Club Group",
+      "url": "https://ca.linkedin.com/jobs/view/4412058678",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4457337759": {
+      "title": "Campaign Manager, Performance",
+      "company": "Havas Media Network",
+      "url": "https://ca.linkedin.com/jobs/view/4457337759",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4459454051": {
+      "title": "Director Performance",
+      "company": "dentsu",
+      "url": "https://ca.linkedin.com/jobs/view/4459454051",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4458682820": {
+      "title": "Performance Associate Director",
+      "company": "PHD",
+      "url": "https://ca.linkedin.com/jobs/view/4458682820",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4460646342": {
+      "title": "Performance Marketing Manager",
+      "company": "CSC Generation",
+      "url": "https://ca.linkedin.com/jobs/view/4460646342",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462060056": {
+      "title": "Senior Performance Marketing Manager",
+      "company": "Valnet",
+      "url": "https://ca.linkedin.com/jobs/view/4462060056",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4457954402": {
+      "title": "Senior Media Buyer (iGaming)",
+      "company": "BLAZESOFT",
+      "url": "https://ca.linkedin.com/jobs/view/4457954402",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4457962419": {
+      "title": "Senior Performance Marketing Manager, Paid Acquisition (iGaming)",
+      "company": "BLAZESOFT",
+      "url": "https://ca.linkedin.com/jobs/view/4457962419",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4459405888": {
+      "title": "Coordonnateur ou coordonnatrice, Technologies \u00e9v\u00e9nementielles et inscription",
+      "company": "Deloitte",
+      "url": "https://ca.linkedin.com/jobs/view/4459405888",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4458312020": {
+      "title": "Proposal Coordinator",
+      "company": "WSP in Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4458312020",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4461533426": {
+      "title": "Pursuit Specialist",
+      "company": "Stantec",
+      "url": "https://ca.linkedin.com/jobs/view/4461533426",
+      "first_seen": "2026-09-04",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
     }
   }
 }

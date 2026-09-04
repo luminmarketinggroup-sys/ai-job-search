@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-04 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C82 | YMCA of Northern Alberta | Social Media & Communications Coordinator | Good (~66) | **PORTAL / UKG** https://recruiting.ultipro.ca/YMC5100YMNA/JobBoard/446552ad-adae-4d69-8bdb-1ac16ee99443/?q=&o=postedDateDesc · LinkedIn https://ca.linkedin.com/jobs/view/4461937056 · https://ymcanab.ca/join-our-team | `cv/main_ymca_nab.pdf` | `cover_letters/cover_ymca_nab_social_media_communications.pdf` | Edmonton hybrid; CAD \$60k posted; social + photo/video + Meta cert match; deep Adobe Creative Cloud (InDesign/Illustrator/Premiere) still growing vs practical shipping path |
+
+**Email sent this run (Resend):** none with a verified public apply inbox (YMCA = UKG UltiPro portal; Thermon Packaging / Winters = LinkedIn/careers portals). No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Thermon Warehouse Worker Packaging (5918 Roper Rd), Winters Instruments Warehouse Worker (7503 Girard Rd) — see `APPLICATIONS_LOCAL.md` (#FK–#FL).
+
+Skipped this run (fit/location/pay): Victaulic Warehouse Associate (17329 111 Ave NW); Finning Warehouse Person 7x7 (West Edmonton); Go Auto Shipper/Receiver Norden VW (14703 137 Ave NW); Walmart Stock Unloader Fort Saskatchewan / Spruce Grove; Walmart OMNI St Albert; Thermon Logistics Coordinator (2yr logistics/order-processing stretch vs packaging BOH); T Wright / Curtiss-Wright Material Handler (address ambiguous / east stretch); DoorDash DashMart (Queen Mary Park prior skip pattern); Echelon Warehouse Associate LinkedIn twin of #DW (8440 Roper); Roofmart Shipper/Receiver LinkedIn twin of #AI (62 Ave); CosmoProf Brand Manager (beauty retail); CRH Field Marketing Manager Acheson (degree + field stretch); UAlberta Knowledge Translation; TalentSphere Marketing Specialist Proposals (architecture proposals ~48 / pay band may dip under \$60k); Directive Senior Paid Media Strategist Remote (~55 senior multi-account B2B stretch); Directive SEO Strategist Future Opening; Dropbox Senior Partner Marketing AI; Asana Product Marketing Director; Hire With Near SEO (LATAM→US client pattern); Konstruct Paid Ads Calgary hybrid; Critical Mass Search Strategist Calgary office; Tru SEO+ Toronto hybrid; Toronto/Montreal/Mississauga marketing automation and growth roles (Co-operators, Educators Financial, CIHI, Stingray, IATA, Casper, Alan, Mine & Yours, OssKin, Oatey, TS Imagine).
+
 ## NEW drafts this run (2026-09-02 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
