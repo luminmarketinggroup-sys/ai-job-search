@@ -1,31 +1,26 @@
-# LAST_RUN — 2026-09-02 daily job search
+# LAST_RUN — 2026-09-04 daily job search
 
 ## Summary
-- **5 new local drafts:** Steelhaus Tryton Shop Hand; Ryder Material Handler Receiving; Ryder Material Handler Shipper; ROBINSON Shipper/Receiver; Walmart Stock Unloader PT Sherwood Park
-- **1 new career draft:** JRS College Marketing Manager Growth/Lifecycle/Retargeting (~70)
+- **2 new local drafts:** Thermon Warehouse Worker Packaging (Roper); Winters Instruments Warehouse Worker (Girard Rd)
+- **1 new career draft:** YMCA of Northern Alberta Social Media & Communications Coordinator (~66)
 - Branch: `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
 
 ## Drafted
 | Track | Company | Role | Files | Apply |
 |-------|---------|------|-------|-------|
-| Local | Steelhaus Tryton Canada | Shop Hand | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4455469088 |
-| Local | Ryder System | Material Handler (Receiving) | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4460929048 |
-| Local | Ryder System | Material Handler (Shipper) | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4460923054 |
-| Local | ROBINSON | Shipper/Receiver Edmonton plumbing | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4460646658 |
-| Local | Walmart Canada | Stock Unloader Associate PT Sherwood Park | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4461235271 |
-| Career | JRS College | Marketing Manager — Growth, Lifecycle & Retargeting | `cv/main_jrs_college.pdf` · `cover_letters/cover_jrs_college_marketing_manager.pdf` | mailto:director@jrscollege.ca |
+| Local | Thermon | Warehouse Worker (Packaging) | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4462760551 |
+| Local | Winters Instruments | Warehouse Associate / Worker | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4461150998 |
+| Career | YMCA of Northern Alberta | Social Media & Communications Coordinator | `cv/main_ymca_nab.pdf` · `cover_letters/cover_ymca_nab_social_media_communications.pdf` | UKG https://recruiting.ultipro.ca/YMC5100YMNA/JobBoard/446552ad-adae-4d69-8bdb-1ac16ee99443/?q=&o=postedDateDesc |
 
 ## Emails
-- JRS → director@jrscollege.ca Resend `27b79fa7-ad9e-406c-9ef5-2e212ae6390c` (+ support@ `ab95467a-cc5f-4b26-bb6b-dca78cc6f2ac`)
-- Ryder Receiving → careers@ryder.com Resend `01699422-abff-4cd7-9d90-f56f0a8a5371`
-- Ryder Shipper → careers@ryder.com Resend `3ab4440d-0495-4039-aec6-8f21b32d54cf`
+- None (no verified public apply inbox for Thermon Packaging / Winters / YMCA)
 - No LinkedIn/Indeed portal submit claimed
 
 ## Skipped (selected)
-- Boundary 181 St NW; Powell Acheson; Cargill/Walmart Spruce Grove; Ryder Large Forklift; Wolseley Yard NW pattern; Cummins 181 St; Levitate Toronto onsite; EPCOR Senior Advisor; Seequent Vancouver; Petra US; Home Depot Askuity Toronto
+- Victaulic 111 Ave NW; Finning West Edmonton 7x7; Norden VW 137 Ave; Walmart Fort Sask / Spruce Grove / St Albert OMNI; Thermon Logistics Coordinator stretch; T Wright address ambiguous; DashMart Queen Mary Park; Echelon / Roofmart LinkedIn twins; CosmoProf Brand; CRH Field Marketing Acheson; TalentSphere proposals; Directive Senior Paid Media / SEO Future; Dropbox/Asana senior; Calgary/Toronto/Montreal remote-labelled onsite roles
 
 ## Checklists
-- `APPLICATIONS_LOCAL.md` (#FF–#FJ)
-- `APPLICATIONS_READY.md` (C81)
+- `APPLICATIONS_LOCAL.md` (#FK–#FL)
+- `APPLICATIONS_READY.md` (C82)
 - `SUBMIT_BATCH.md`
 - `job_search_tracker.csv` status `ready_to_submit`

@@ -17,6 +17,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FK | **Thermon Warehouse Worker Packaging — Roper** | **NEW 09-04** · 5918 Roper Rd · ~8–12 min · LinkedIn / thermon.com/careers |
+| FL | **Winters Instruments Warehouse Worker — Girard** | **NEW 09-04** · 7503 Girard Rd · \$18.50–20/hr · Mon–Fri 8–4:30 · LinkedIn |
 | FF | **Steelhaus Tryton Shop Hand — Roper** | **NEW 09-02** · 6404 Roper Rd · ~8–12 min · LinkedIn |
 | FG | **Ryder Material Handler Receiving — Roper** | **NEW 09-02** · \$23.66/hr · **EMAIL** careers@ryder.com |
 | FH | **Ryder Material Handler Shipper — Roper** | **NEW 09-02** · \$23.66/hr · **EMAIL** careers@ryder.com |
