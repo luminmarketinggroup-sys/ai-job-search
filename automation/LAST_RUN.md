@@ -1,26 +1,27 @@
-# LAST_RUN — 2026-09-04 daily job search
+# LAST_RUN — 2026-09-05 daily job search
 
 ## Summary
-- **2 new local drafts:** Thermon Warehouse Worker Packaging (Roper); Winters Instruments Warehouse Worker (Girard Rd)
-- **1 new career draft:** YMCA of Northern Alberta Social Media & Communications Coordinator (~66)
+- **2 new local drafts:** Hercules Crane Shipper/Receiver (75 St); Curtiss-Wright / Dyna-Flo Material Handler (92 Ave Eastgate)
+- **1 new career draft:** Global Traffic Group Marketing Specialist (~76; BambooHR; CAD $70–80k)
 - Branch: `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
 
 ## Drafted
 | Track | Company | Role | Files | Apply |
 |-------|---------|------|-------|-------|
-| Local | Thermon | Warehouse Worker (Packaging) | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4462760551 |
-| Local | Winters Instruments | Warehouse Associate / Worker | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4461150998 |
-| Career | YMCA of Northern Alberta | Social Media & Communications Coordinator | `cv/main_ymca_nab.pdf` · `cover_letters/cover_ymca_nab_social_media_communications.pdf` | UKG https://recruiting.ultipro.ca/YMC5100YMNA/JobBoard/446552ad-adae-4d69-8bdb-1ac16ee99443/?q=&o=postedDateDesc |
+| Local | Hercules Crane & Lifting Supplies | Shipper/Receiver | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4442172759 |
+| Local | Curtiss-Wright / Dyna-Flo | Warehouse Material Handler | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4460788043 |
+| Career | Global Traffic Group | Marketing Specialist | `cv/main_global_traffic.pdf` · `cover_letters/cover_global_traffic_marketing_specialist.pdf` | https://globaltrafficgroup.bamboohr.com/careers/189 |
 
 ## Emails
-- None (no verified public apply inbox for Thermon Packaging / Winters / YMCA)
+- Hercules → info@herculesslr.com id `2635e205-f2fe-425e-acec-f6a0563d60a0` (local CV)
+- No public apply inbox for Curtiss-Wright / Global Traffic BambooHR
 - No LinkedIn/Indeed portal submit claimed
 
 ## Skipped (selected)
-- Victaulic 111 Ave NW; Finning West Edmonton 7x7; Norden VW 137 Ave; Walmart Fort Sask / Spruce Grove / St Albert OMNI; Thermon Logistics Coordinator stretch; T Wright address ambiguous; DashMart Queen Mary Park; Echelon / Roofmart LinkedIn twins; CosmoProf Brand; CRH Field Marketing Acheson; TalentSphere proposals; Directive Senior Paid Media / SEO Future; Dropbox/Asana senior; Calgary/Toronto/Montreal remote-labelled onsite roles
+- ChamClad 170 St NW; Fort Garry Aurum NE; Custom Truck Acheson; Cam Tran Spruce Grove; Wolseley Rough Terrain NW; Lifting Solutions twin of #CV; Directive SEO Future Opening twins; Stripe AI Accelerator senior; Definity SFMC Toronto; sales Account Manager noise
 
 ## Checklists
-- `APPLICATIONS_LOCAL.md` (#FK–#FL)
-- `APPLICATIONS_READY.md` (C82)
+- `APPLICATIONS_LOCAL.md` (#FM–#FN)
+- `APPLICATIONS_READY.md` (C83)
 - `SUBMIT_BATCH.md`
 - `job_search_tracker.csv` status `ready_to_submit`

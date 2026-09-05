@@ -1,3 +1,12 @@
+# Apply local jobs — active batch (no Southgate public-facing)
+
+## NEW this run (2026-09-05)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FM | Hercules Crane | Shipper/Receiver | LinkedIn https://ca.linkedin.com/jobs/view/4442172759 · branch 5303 75 St NW | `cv/main_local_edmonton.pdf` · blurb in APPLICATIONS_LOCAL |
+| FN | Curtiss-Wright / Dyna-Flo | Material Handler | LinkedIn https://ca.linkedin.com/jobs/view/4460788043 · 4810 92 Ave NW | `cv/main_local_edmonton.pdf` · honesty: 2+ yrs stretch |
+| C83 | Global Traffic Group | Marketing Specialist | BambooHR https://globaltrafficgroup.bamboohr.com/careers/189 | `cv/main_global_traffic.pdf` + cover · St. Albert · $70–80k |
+
 **Evening email batch submitted:** Webhorse · Headhunters · RP DMM · ATRIUM · MG Precast · SEP (HR@sep.ca)
 
 **Afternoon email batch submitted:** Executrade · Ayr x3 · Searchlight · Dentist Finder · Home Painters · BIS · RP · StackAdapt Growth
@@ -17,6 +26,8 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FM | **Hercules Shipper/Receiver — 75 St** | **NEW 09-05** · 5303 75 St NW · \$19–21/hr · LinkedIn (prior email to info@herculesslr.com exists) |
+| FN | **Curtiss-Wright / Dyna-Flo Material Handler — 92 Ave** | **NEW 09-05** · 4810 92 Ave NW · \$20–25/hr · LinkedIn · 2yr stretch honesty |
 | FK | **Thermon Warehouse Worker Packaging — Roper** | **NEW 09-04** · 5918 Roper Rd · ~8–12 min · LinkedIn / thermon.com/careers |
 | FL | **Winters Instruments Warehouse Worker — Girard** | **NEW 09-04** · 7503 Girard Rd · \$18.50–20/hr · Mon–Fri 8–4:30 · LinkedIn |
 | FF | **Steelhaus Tryton Shop Hand — Roper** | **NEW 09-02** · 6404 Roper Rd · ~8–12 min · LinkedIn |

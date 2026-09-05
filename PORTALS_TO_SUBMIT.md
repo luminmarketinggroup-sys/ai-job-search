@@ -1,3 +1,8 @@
+
+## 2026-09-05 portals
+- Global Traffic Group Marketing Specialist — BambooHR https://globaltrafficgroup.bamboohr.com/careers/189 (CV+cover ready)
+- Hercules Shipper/Receiver — LinkedIn Easy Apply / careers https://ca.linkedin.com/jobs/view/4442172759
+- Curtiss-Wright Material Handler — LinkedIn https://ca.linkedin.com/jobs/view/4460788043
 Dylan — portal checklist (still need you / Desktop browser)
 
 Resume local: cv/main_local_edmonton.pdf

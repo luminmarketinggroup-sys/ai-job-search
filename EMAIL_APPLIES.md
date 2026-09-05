@@ -1,3 +1,7 @@
+
+## 2026-09-05
+- Hercules Shipper/Receiver → info@herculesslr.com · Resend `2635e205-f2fe-425e-acec-f6a0563d60a0` · `cv/main_local_edmonton.pdf`
+- Global Traffic / Curtiss-Wright: portal only (no verified public apply inbox this run)
 # Email applies — Resend
 
 **Identity**

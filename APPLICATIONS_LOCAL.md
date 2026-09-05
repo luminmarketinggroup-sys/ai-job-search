@@ -11,6 +11,26 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FM. Hercules Crane & Lifting Supplies — Shipper/Receiver ★ NEW · SOUTH · 2026-09-05 · $19–$21/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4442172759  
+- **Careers / branch:** https://www.herculeslifting.com/pages/contact  
+- **Address (verified):** 5303 75 Street NW, Edmonton, AB T6E 5S5 (Continental Chain and Rigging / Hercules Edmonton)  
+- **Notes:** Mon–Fri 8–5 · ship/receive · pack/schedule carriers · cycle counts · QA on outbound · occasional front-counter support · forklift asset · background/driver abstract as condition of employment  
+- **Why:** 75 St / Davies Industrial East · ~12–18 min from 11110 68 Ave NW · same corridor as ROBINSON (#FI) · not Southgate Centre  
+- **Email sent (Resend 2026-09-05):** id `2635e205-f2fe-425e-acec-f6a0563d60a0` → info@herculesslr.com · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca)  
+- **Blurb:**
+> I’m applying for the Shipper/Receiver role at Hercules Crane & Lifting Supplies (5303 75 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced shipping and receiving: checking inbound, packing and labeling outbound, cycle counts, keeping the warehouse organized and safe, and accurate paperwork. Steel-toe ready and reliable for Monday–Friday day shifts; coachable on Hercules methods and forklift refresh if needed.
+
+### FN. Curtiss-Wright / Dyna-Flo — Warehouse Material Handler ★ NEW · SOUTH-EAST · 2026-09-05 · $20–$25/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4460788043  
+- **Company:** https://www.cw-dynaflo.com  
+- **Address (verified):** 4810 92 Avenue NW, Edmonton, AB T6B 2X4 (Dyna-Flo / Curtiss-Wright Eastgate)  
+- **Notes:** Receive/verify counts · pull/assemble kits · pack/load · transaction docs · lift 50+ lbs · posting asks 2+ yrs similar role (honesty stretch; coachable) · RRSP match / benefits posted  
+- **Why:** Eastgate Business Park · ~15–20 min from 11110 68 Ave NW via Whitemud · not Southgate Centre  
+- **Blurb:**
+> I’m applying for the Warehouse Material Handler role at Curtiss-Wright / Dyna-Flo (4810 92 Avenue NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: careful inbound checks, accurate picks and packing, loading support, documentation, and keeping the floor organized and safe. Steel-toe ready and reliable for full-time shifts; honest that deep 2+ year warehouse tenure is still growing and I am coachable on Dyna-Flo methods.
+
+
 ### FK. Thermon — Warehouse Worker (Packaging) ★ NEW · SOUTH · 2026-09-04
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4462760551  
 - **Careers:** https://thermon.com/careers/  

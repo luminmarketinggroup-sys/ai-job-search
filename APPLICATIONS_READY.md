@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-05 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C83 | Global Traffic Group | Marketing Specialist | High (~76) | **PORTAL / BambooHR** https://globaltrafficgroup.bamboohr.com/careers/189 · LinkedIn https://ca.linkedin.com/jobs/view/4461979718 · https://www.globaltrafficgroup.com | `cv/main_global_traffic.pdf` | `cover_letters/cover_global_traffic_marketing_specialist.pdf` | St. Albert on-site; CAD $70–80k posted; writing + WordPress + GA4 + Claude preferred match; Pipedrive / Elementor / municipal RFP volume still growing vs GHL / 2 SMB |
+
+**Email sent this run (Resend):** Hercules Shipper/Receiver → info@herculesslr.com id `2635e205-f2fe-425e-acec-f6a0563d60a0` (local CV; From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca). Still complete Hercules LinkedIn apply if Easy Apply remains. Global Traffic = BambooHR portal; Curtiss-Wright = LinkedIn/careers. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Hercules Crane Shipper/Receiver (5303 75 St NW), Curtiss-Wright / Dyna-Flo Material Handler (4810 92 Ave NW) — see `APPLICATIONS_LOCAL.md` (#FM–#FN).
+
+Skipped this run (fit/location/pay): ChamClad General Laborer (12810 170 St NW); Fort Garry Shipper/Receiver Edmonton East (13075 25 St NE Aurum); Custom Truck One Source Shipping & Receiving (Acheson); Cam Tran Shipper/Receiver (Spruce Grove); Wolseley Yard Associate Rough Terrain (Waterworks NW pattern); Lifting Solutions Shipper/Receiver LinkedIn twin of #CV (4461999937); Directive SEO Strategist Remote Canada LinkedIn twins of Future Opening pattern (4463658679 / 4463653835); Stripe Forward Deployed AI Accelerator (senior \$132–198k stretch); Definity Salesforce Marketing Cloud (Toronto); Tenaquip SEO Coordinator (Senneville QC); Marks Creative Technologist AI (GTA); sales Account Manager noise (MNP/Jobber/Keyloop/Quadra/Postmedia); Sweat Pants / Hire Feed twins already skipped.
+
 ## NEW drafts this run (2026-09-04 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
@@ -45,7 +57,7 @@ Skipped this run (fit/location/pay): Rexel/Westburne Warehouse Clerk twin (alrea
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
 |---|---------|------|-----|-------|----|-------|---------------|
-| C79 | VixelStudio | SEO Account Manager | High (~78) | **PORTAL / Google Form** https://forms.gle/tT1yQzgZbY9pmvVZ9 · mailto contact@vixelstudio.com · LinkedIn https://ca.linkedin.com/jobs/view/4461203061 | `cv/main_vixelstudio.pdf` | `cover_letters/cover_vixelstudio_seo_account_manager.pdf` | Remote Canada; CAD \$70–80k posted; local SEO + WordPress + GBP + client calls match; Ahrefs/Elementor/Local Dominator + 20–28 account book still growing vs 2 SMB |
+| C79 | VixelStudio | SEO Account Manager | High (~78) | **PORTAL / Google Form** https://forms.gle/tT1yQzgZbY9pmvVZ9 · mailto contact@vixelstudio.com · LinkedIn https://ca.linkedin.com/jobs/view/4461203061 | `cv/main_vixelstudio.pdf` | `cover_letters/cover_vixelstudio_seo_account_manager.pdf` | Remote Canada; CAD $70–80k posted; local SEO + WordPress + GBP + client calls match; Ahrefs/Elementor/Local Dominator + 20–28 account book still growing vs 2 SMB |
 
 **Email sent this run (Resend):** Western Truck Body Material Handler → wtbhr@westerntruckbody.com id `eed206e0-0aa4-4adc-a611-b917ac2b4cea` (local CV; From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca). VixelStudio → contact@vixelstudio.com id `c042f907-e7da-4f4f-a402-f834438dc925` (CV+cover). Still complete VixelStudio Google Form https://forms.gle/tT1yQzgZbY9pmvVZ9 and JC Silent-Aire LinkedIn/careers apply. No LinkedIn/Indeed portal submit claimed.
 

@@ -8962,7 +8962,9 @@
       "url": "https://ca.linkedin.com/jobs/view/4442172759",
       "first_seen": "2026-08-23",
       "fit": "high",
-      "status": "evaluated"
+      "status": "drafted",
+      "tracker_status": "ready_to_submit",
+      "notes": "drafted 2026-09-05 #FM; 5303 75 St"
     },
     "https://ca.linkedin.com/jobs/view/4456800500": {
       "title": "Order Picker Full Time - 7065 South Common",
@@ -12304,6 +12306,176 @@
       "fit": "low",
       "status": "skipped",
       "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4460788043": {
+      "title": "Material Handler",
+      "company": "Curtiss-Wright Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4460788043",
+      "first_seen": "2026-09-05",
+      "fit": "high",
+      "status": "drafted",
+      "tracker_status": "ready_to_submit",
+      "notes": "4810 92 Ave NW Eastgate #FN"
+    },
+    "https://ca.linkedin.com/jobs/view/4461979718": {
+      "title": "Marketing Specialist",
+      "company": "Global Traffic Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4461979718",
+      "first_seen": "2026-09-05",
+      "fit": "high",
+      "status": "drafted",
+      "tracker_status": "ready_to_submit",
+      "notes": "BambooHR 189; $70-80k #C83"
+    },
+    "https://globaltrafficgroup.bamboohr.com/careers/189": {
+      "title": "Marketing Specialist",
+      "company": "Global Traffic Group",
+      "url": "https://globaltrafficgroup.bamboohr.com/careers/189",
+      "first_seen": "2026-09-05",
+      "fit": "high",
+      "status": "drafted",
+      "tracker_status": "ready_to_submit",
+      "notes": "canonical BambooHR apply"
+    },
+    "https://ca.linkedin.com/jobs/view/4463679505": {
+      "title": "General Laborer-ChamClad",
+      "company": "Wausau Supply Company",
+      "url": "https://ca.linkedin.com/jobs/view/4463679505",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "12810 170 St NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4461404902": {
+      "title": "Shipper Receiver",
+      "company": "Fort Garry Industries",
+      "url": "https://ca.linkedin.com/jobs/view/4461404902",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Aurum NE"
+    },
+    "https://ca.linkedin.com/jobs/view/4463639985": {
+      "title": "Shipping & Receiving Warehouse Associate",
+      "company": "Custom Truck One Source",
+      "url": "https://ca.linkedin.com/jobs/view/4463639985",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Acheson"
+    },
+    "https://ca.linkedin.com/jobs/view/4463396047": {
+      "title": "Shipper/Receiver",
+      "company": "Cam Tran",
+      "url": "https://ca.linkedin.com/jobs/view/4463396047",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_distance",
+      "notes": "Spruce Grove"
+    },
+    "https://ca.linkedin.com/jobs/view/4461770627": {
+      "title": "Yard Associate Rough Terrain forklift",
+      "company": "Wolseley Canada Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4461770627",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "NW Waterworks pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4461999937": {
+      "title": "Shipper & Receiver",
+      "company": "Lifting Solutions",
+      "url": "https://ca.linkedin.com/jobs/view/4461999937",
+      "first_seen": "2026-09-05",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "twin of #CV"
+    },
+    "https://ca.linkedin.com/jobs/view/4463658679": {
+      "title": "SEO Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4463658679",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "Future Opening twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4463653835": {
+      "title": "SEO Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4463653835",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate",
+      "notes": "Toronto listing twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4454553322": {
+      "title": "Forward Deployed AI Accelerator Marketing",
+      "company": "Stripe",
+      "url": "https://ca.linkedin.com/jobs/view/4454553322",
+      "first_seen": "2026-09-05",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "senior stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4463685289": {
+      "title": "Specialist Salesforce Marketing Cloud",
+      "company": "Definity",
+      "url": "https://ca.linkedin.com/jobs/view/4463685289",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Toronto"
+    },
+    "https://ca.linkedin.com/jobs/view/4453234162": {
+      "title": "Search Engine Optimization Coordinator",
+      "company": "Tenaquip",
+      "url": "https://ca.linkedin.com/jobs/view/4453234162",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "Senneville QC"
+    },
+    "https://ca.linkedin.com/jobs/view/4455930101": {
+      "title": "Creative Technologist AI",
+      "company": "Marks",
+      "url": "https://ca.linkedin.com/jobs/view/4455930101",
+      "first_seen": "2026-09-05",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location",
+      "notes": "GTA"
+    },
+    "https://ca.linkedin.com/jobs/view/4461325548": {
+      "title": "Client Account Manager",
+      "company": "MNP",
+      "url": "https://ca.linkedin.com/jobs/view/4461325548",
+      "first_seen": "2026-09-05",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "sales not marketing"
+    },
+    "https://ca.linkedin.com/jobs/view/4461402647": {
+      "title": "Account Manager",
+      "company": "Jobber",
+      "url": "https://ca.linkedin.com/jobs/view/4461402647",
+      "first_seen": "2026-09-05",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit",
+      "notes": "sales"
     }
   }
 }
