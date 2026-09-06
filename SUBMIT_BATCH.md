@@ -1,5 +1,12 @@
 # Apply local jobs — active batch (no Southgate public-facing)
 
+## NEW this run (2026-09-06)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FO | Sherwin-Williams | Store Associate | Careers https://careers.sherwin-williams.com/ · LinkedIn https://ca.linkedin.com/jobs/view/4445250531 · 3460 99 St | `cv/main_local_edmonton.pdf` · portal only |
+| FP | Alberta Pipe Fittings | Yard Laborer Nisku | **EMAIL SENT** info@ / sales@ / albertapfltd@ · LinkedIn https://ca.linkedin.com/jobs/view/4462317236 | `cv/main_local_edmonton.pdf` · 1004 14 Ave Nisku |
+| C84 | Organic Checkout | Content Editor & Specialist | **EMAIL SENT** hello@organiccheckout.com · LinkedIn https://ca.linkedin.com/jobs/view/4460681485 | `cv/main_organic_checkout.pdf` + cover · remote CAD \$60k |
+
 ## NEW this run (2026-09-05)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|
@@ -26,6 +33,9 @@
 ## Priority 1 — apply first (closest / best pay)
 | # | Role | Why |
 |---|------|-----|
+| FO | **Sherwin-Williams Store Associate — 99 St** | **NEW 09-06** · 3460 99 St · ~5–10 min · careers portal |
+| FP | **Alberta Pipe Fittings Yard Laborer — Nisku** | **NEW 09-06** · 1004 14 Ave · emailed info@/sales@/gmail |
+| C84 | **Organic Checkout Content Editor** | **NEW 09-06** · remote CAD \$60k · emailed hello@ |
 | FM | **Hercules Shipper/Receiver — 75 St** | **NEW 09-05** · 5303 75 St NW · \$19–21/hr · LinkedIn (prior email to info@herculesslr.com exists) |
 | FN | **Curtiss-Wright / Dyna-Flo Material Handler — 92 Ave** | **NEW 09-05** · 4810 92 Ave NW · \$20–25/hr · LinkedIn · 2yr stretch honesty |
 | FK | **Thermon Warehouse Worker Packaging — Roper** | **NEW 09-04** · 5918 Roper Rd · ~8–12 min · LinkedIn / thermon.com/careers |

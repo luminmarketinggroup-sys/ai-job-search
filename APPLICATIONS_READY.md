@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-06 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C84 | Organic Checkout | Content Editor & Specialist | High (~72) | **EMAIL** mailto:hello@organiccheckout.com · LinkedIn https://ca.linkedin.com/jobs/view/4460681485 · https://www.organiccheckout.com | `cv/main_organic_checkout.pdf` | `cover_letters/cover_organic_checkout_content_editor.pdf` | Remote Canada; CAD \$60k posted; SEO writing + local pages + Claude edit match; Surfer/NeuronWriter + reputation/parasite SEO volume still growing vs SEMrush / 2 SMB |
+
+**Email sent this run (Resend):** Organic Checkout → hello@organiccheckout.com id `3914cef5-8f6d-41f6-90c9-f3ed42eb812e` (CV+cover). Alberta Pipe Fittings → info@apfittings.com id `c988b02e…` · sales@apfgroup.ca id `6718460b…` · albertapfltd@gmail.com id `8a4b9014…` (local CV). Sherwin-Williams = careers portal only. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Sherwin-Williams Store Associate (3460 99 St), Alberta Pipe Fittings Yard Laborer (1004 14 Ave Nisku) — see `APPLICATIONS_LOCAL.md` (#FO–#FP).
+
+Skipped this run (fit/location/pay): Walmart OMNI Kingsway Mall (north); JC Silent-Aire Kitter Weekday Nights twin of #BG; Bevo Greenhouse Worker twin of #FA; Heidelberg Terminal Attendant (address/rail stretch); Thermo King 118 Ave NW; Grainger 167 St NW; Alberta Pipe / Nisku distance stretch roles beyond APF; Compass Tim Hortons hospital barista (not corridor priority); Blacksmith Digital Strategist / Marketing Manager / SEO Manager twins (4–7 yrs oversee specialists ~50); Directive SEO Strategist FO twin; Powered by Search Senior SEO re-post; EPCOR Manager Marketing & Brand (people-lead stretch); ProFound/Sirius Marketing Manager (~55 prior); TalentSphere proposals (~48); InsureBC / Rocky Mountaineer Vancouver; Magical Demand Gen Toronto; sales Account Manager noise.
+
 ## NEW drafts this run (2026-09-05 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

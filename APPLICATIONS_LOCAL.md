@@ -11,6 +11,26 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FO. Sherwin-Williams — Store Associate (3460 99 St) ★ NEW · SOUTH · 2026-09-06
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4445250531  
+- **Careers:** https://careers.sherwin-williams.com/  
+- **Address (verified on posting):** Store #8753 — 3460 99 Street, Edmonton, AB T6E 5X5  
+- **Notes:** Part-time retail / wholesale counter · tint/mix · stock · load/unload · sales goals · not Southgate Centre  
+- **Why:** 99 St / Calgary Trail corridor · ~5–10 min from 11110 68 Ave NW · Empire Park / Lendrum side  
+- **Blurb:**
+> I’m applying for the Store Associate role at Sherwin-Williams (3460 99 Street, store #8753). I live nearby at 11110 68 Ave NW and am comfortable with paced customer service and back-of-house support: helping customers find the right products, accurate transactions, stocking and organizing, loading and unloading, and keeping the floor clean and safe. Reliable for the posted part-time shifts; coachable on tinting, formulas, and Sherwin-Williams methods.
+
+### FP. Alberta Pipe Fittings Ltd. — Yard / Warehouse Laborer (Nisku) ★ NEW · SOUTH · 2026-09-06
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4462317236  
+- **Company:** https://apfittings.com/  
+- **Address (verified):** Warehouse and Pipe Yard-2 — 1004 14 Avenue, Nisku, AB T9E 8L6  
+- **Notes:** Mon–Fri 8:30–5 · pick/load customer orders · unload trucks · inventory counts · outdoor yard · lift to 50 lbs · shipping/receiving experience preferred  
+- **Why:** Nisku industrial · ~20–25 min from 11110 68 Ave NW via Calgary Trail / QEII · not Southgate Centre  
+- **Email sent (Resend 2026-09-06):** id `c988b02e-c45e-475e-9ea9-0757e38c72fd` → info@apfittings.com · id `6718460b-7f3e-42ef-b8a7-d6ede21a3b79` → sales@apfgroup.ca · id `8a4b9014-5f87-4c32-9dc8-73a811371f43` → albertapfltd@gmail.com · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca)  
+- **Blurb:**
+> I’m applying for the yard / warehouse Laborer role at Alberta Pipe Fittings (1004 14 Avenue, Nisku). I live nearby at 11110 68 Ave NW and am comfortable with paced yard and warehouse work: picking and loading orders, unloading trucks, inventory counts, keeping the yard organized and safe, and lifting up to 50 lbs repeatedly. Steel-toe ready and reliable for Monday–Friday day shifts; coachable on APF methods and equipment rules.
+
+
 ### FM. Hercules Crane & Lifting Supplies — Shipper/Receiver ★ NEW · SOUTH · 2026-09-05 · $19–$21/hr
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4442172759  
 - **Careers / branch:** https://www.herculeslifting.com/pages/contact  
