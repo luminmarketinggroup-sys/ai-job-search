@@ -1,5 +1,12 @@
 # Apply local jobs — active batch (no Southgate public-facing)
 
+## NEW this run (2026-09-07)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FQ | Culligan / Water Treatment | Bottling Plant Operator | **EMAIL SENT** info@culliganwater.ca · CareerPlug https://culligan-careers.careerplug.com/jobs/3417709/apps/new · LinkedIn https://ca.linkedin.com/jobs/view/4462706190 · 6304 50 St NW | `cv/main_local_edmonton.pdf` · \$23/hr Roper · ~8–12 min |
+| C85 | Digital 6ix | SEO & GEO Specialist | **EMAIL SENT** sayhello@digital6ix.ca · https://www.digital6ix.ca/careers/seo-geo-specialist | `cv/main_digital_6ix.pdf` + cover · remote contract \$35–50/hr |
+| C86 | Jobgether (partner) | Content Marketing Specialist | LinkedIn/Jobgether https://ca.linkedin.com/jobs/view/4462923306 | `cv/main_jobgether_content.pdf` + cover · remote Canada · confirm ≥ \$60k |
+
 ## NEW this run (2026-09-06)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|
@@ -36,6 +43,9 @@
 | FO | **Sherwin-Williams Store Associate — 99 St** | **NEW 09-06** · 3460 99 St · ~5–10 min · careers portal |
 | FP | **Alberta Pipe Fittings Yard Laborer — Nisku** | **NEW 09-06** · 1004 14 Ave · emailed info@/sales@/gmail |
 | C84 | **Organic Checkout Content Editor** | **NEW 09-06** · remote CAD \$60k · emailed hello@ |
+| FQ | **Culligan Bottling Plant Operator — 50 St / Roper** | **NEW 09-07** · 6304 50 St NW · \$23/hr · emailed info@culliganwater.ca · CareerPlug still |
+| C85 | **Digital 6ix SEO & GEO Specialist** | **NEW 09-07** · remote contract · emailed sayhello@ |
+| C86 | **Jobgether Content Marketing Specialist** | **NEW 09-07** · remote Canada · LinkedIn/Jobgether portal |
 | FM | **Hercules Shipper/Receiver — 75 St** | **NEW 09-05** · 5303 75 St NW · \$19–21/hr · LinkedIn (prior email to info@herculesslr.com exists) |
 | FN | **Curtiss-Wright / Dyna-Flo Material Handler — 92 Ave** | **NEW 09-05** · 4810 92 Ave NW · \$20–25/hr · LinkedIn · 2yr stretch honesty |
 | FK | **Thermon Warehouse Worker Packaging — Roper** | **NEW 09-04** · 5918 Roper Rd · ~8–12 min · LinkedIn / thermon.com/careers |

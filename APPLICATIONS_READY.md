@@ -5,6 +5,19 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-07 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C85 | Digital 6ix | SEO & GEO Specialist | High (~76) | **EMAIL** mailto:sayhello@digital6ix.ca · https://www.digital6ix.ca/careers/seo-geo-specialist · portfolio-first (one page win + what you would change) | `cv/main_digital_6ix.pdf` | `cover_letters/cover_digital_6ix_seo_geo.pdf` | Remote contract; CAD \$35–50/hr · 20–30 hrs/wk (confirm band clears ≥ CAD \$60k annualized); SEO audit + local/SMB + Claude match; deep JSON-LD / Semrush AI-visibility tracker day-to-day still growing vs SEMrush / GSC / 2 SMB |
+| C86 | Jobgether (partner) | Content Marketing Specialist | Good (~70) | **PORTAL / LinkedIn** https://ca.linkedin.com/jobs/view/4462923306 · Jobgether apply | `cv/main_jobgether_content.pdf` | `cover_letters/cover_jobgether_content_marketing.pdf` | Remote Canada; pay not posted (confirm ≥ CAD \$60k); SEO content + landing pages + Claude edit match; generative imagery/video volume + healthcare clinical compliance still growing vs photography/video-for-social / 2 SMB |
+
+**Email sent this run (Resend):** Digital 6ix → sayhello@digital6ix.ca id `405dde59-50dd-48d0-939f-5380250b2c73` (CV+portfolio note). Culligan → info@culliganwater.ca id `861c3e73-b45c-4c83-9066-5e154c9a3e0b` (local CV). Jobgether = LinkedIn/Jobgether portal. Still complete Culligan CareerPlug https://culligan-careers.careerplug.com/jobs/3417709/apps/new. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Culligan Bottling Plant Operator (6304 50 St NW / Roper) — see `APPLICATIONS_LOCAL.md` (#FQ).
+
+Skipped this run (fit/location/pay): Western Dispatch Warehouse Systems Coordinator (16630 114 Ave NW + hard WMS must); All Weather Production Worker II (18550 118A Ave NW); Bass Pro Receiving (Edmonton North / Windermere + PAL); Walmart OMNI 156 87 Ave NW (west twin of prior skip); No Frills Receiver (address unverified); Baker Hughes Blend Operator Leduc twin; 7-Eleven Store Crew (no address); Tim Hortons / cashier retail noise; Blacksmith Digital Marketing Strategist oversee-specialists twin (~50); Van Kaizen Sr SEO / Hale Assoc Director SEO (senior); Phoenix Organic Growth Toronto; CPA Communications Officer (comms stretch); Digital 6ix FT SEO Hybrid Toronto listing (prefer clear 100% remote contract seat); sales Account Manager noise.
+
 ## NEW drafts this run (2026-09-06 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

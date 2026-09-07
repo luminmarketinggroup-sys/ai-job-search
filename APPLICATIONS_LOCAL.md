@@ -11,6 +11,18 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FQ. Culligan / Water Treatment Equipment Co — Bottling Plant Operator ★ NEW · SOUTH · 2026-09-07 · $23/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4462706190  
+- **Careers:** https://culligan-careers.careerplug.com/jobs/3417709/apps/new  
+- **Company:** https://www.culligan.com/locations/ab/edmonton  
+- **Address (verified):** 6304 50 Street NW, Edmonton, AB T6B 2N7 (Roper Industrial / Culligan of Edmonton)  
+- **Notes:** Mon–Fri days · inspect bottles · operate bottling line · sanitize · SQF food handling · lift 50 lbs · no weekends/late nights · dental/health/RRSP match after 3 months · CareerPlug portal  
+- **Why:** Roper Industrial · ~8–12 min from 11110 68 Ave NW · same corridor as Thermon / Echelon · not Southgate Centre  
+- **Apply:** CareerPlug portal · mailto:info@culliganwater.ca  
+- **Email sent (Resend 2026-09-07):** id `861c3e73-b45c-4c83-9066-5e154c9a3e0b` → info@culliganwater.ca · attached `cv/main_local_edmonton.pdf` (From dylan@luminmarketinggroup.com; Reply-To dylanschule@live.ca) · still complete CareerPlug if open  
+- **Blurb:**
+> I’m applying for the Bottling Plant Operator role at Culligan / Water Treatment Equipment Co (6304 50 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced plant and warehouse-style work: careful product checks, following documented procedures, keeping the floor clean and sanitized, lifting up to 50 lbs, and reliable Monday–Friday day shifts. Steel-toe ready and coachable on Culligan bottling equipment, SQF, and safety methods.
+
 ### FO. Sherwin-Williams — Store Associate (3460 99 St) ★ NEW · SOUTH · 2026-09-06
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4445250531  
 - **Careers:** https://careers.sherwin-williams.com/  
