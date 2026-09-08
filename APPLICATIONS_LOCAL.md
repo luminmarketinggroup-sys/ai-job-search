@@ -11,6 +11,17 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FR. ChampionX / Alberta Oil Tool — Injection Molding Operator ★ NEW · SOUTH · 2026-09-08
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4450499841  
+- **Careers:** https://careers.slb.com/ (search Injection Molding Operator · Edmonton / Alberta Oil Tool)  
+- **Company:** https://www.championx.com/our-brands/alberta-oil-tool  
+- **Address (verified):** 6939 68 Avenue NW, Edmonton, AB T6B 3E3 (Alberta Oil Tool / ChampionX Artificial Lift manufacturing)  
+- **Notes:** Full-time · rotating day/afternoon (night possible) · operate injection molding / mixing · inspect / trim · paperwork · assist packing / shipping · steel rods / plastic molds · drug/alcohol + fitness-to-work + background checks · benefits / RRSP match posted  
+- **Why:** On 68 Ave NW · ~5–10 min from 11110 68 Ave NW · same corridor priority · manufacturing BOH, not Southgate Centre public-facing  
+- **Apply:** LinkedIn / SLB careers portal (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Injection Molding Operator role at ChampionX / Alberta Oil Tool (6939 68 Avenue NW). I live nearby at 11110 68 Ave NW and am comfortable with paced plant and warehouse-style work: careful product checks, following documented procedures, keeping the floor clean and organized, assisting with packing and shipping, and reliable rotating shifts. Steel-toe ready and coachable on ChampionX molding equipment, quality checks, and safety methods.
+
 ### FQ. Culligan / Water Treatment Equipment Co — Bottling Plant Operator ★ NEW · SOUTH · 2026-09-07 · $23/hr
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4462706190  
 - **Careers:** https://culligan-careers.careerplug.com/jobs/3417709/apps/new  

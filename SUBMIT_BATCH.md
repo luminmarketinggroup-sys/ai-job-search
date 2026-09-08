@@ -1,18 +1,24 @@
+## NEW this run (2026-09-08)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FR | ChampionX / Alberta Oil Tool | Injection Molding Operator | LinkedIn https://ca.linkedin.com/jobs/view/4450499841 · SLB careers · 6939 68 Ave NW | `cv/main_local_edmonton.pdf` · ~5–10 min on 68 Ave |
+| C87 | Digital Shift® | Digital Marketing Account Manager | **EMAIL SENT** contact@digitalshiftmedia.com · Portal https://join.digitalshiftmedia.com/account-management/ · LinkedIn https://ca.linkedin.com/jobs/view/4461837526 | `cv/main_digital_shift.pdf` + cover · remote CAD $60–85k |
+
 # Apply local jobs — active batch (no Southgate public-facing)
 
 ## NEW this run (2026-09-07)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|
-| FQ | Culligan / Water Treatment | Bottling Plant Operator | **EMAIL SENT** info@culliganwater.ca · CareerPlug https://culligan-careers.careerplug.com/jobs/3417709/apps/new · LinkedIn https://ca.linkedin.com/jobs/view/4462706190 · 6304 50 St NW | `cv/main_local_edmonton.pdf` · \$23/hr Roper · ~8–12 min |
-| C85 | Digital 6ix | SEO & GEO Specialist | **EMAIL SENT** sayhello@digital6ix.ca · https://www.digital6ix.ca/careers/seo-geo-specialist | `cv/main_digital_6ix.pdf` + cover · remote contract \$35–50/hr |
-| C86 | Jobgether (partner) | Content Marketing Specialist | LinkedIn/Jobgether https://ca.linkedin.com/jobs/view/4462923306 | `cv/main_jobgether_content.pdf` + cover · remote Canada · confirm ≥ \$60k |
+| FQ | Culligan / Water Treatment | Bottling Plant Operator | **EMAIL SENT** info@culliganwater.ca · CareerPlug https://culligan-careers.careerplug.com/jobs/3417709/apps/new · LinkedIn https://ca.linkedin.com/jobs/view/4462706190 · 6304 50 St NW | `cv/main_local_edmonton.pdf` · $23/hr Roper · ~8–12 min |
+| C85 | Digital 6ix | SEO & GEO Specialist | **EMAIL SENT** sayhello@digital6ix.ca · https://www.digital6ix.ca/careers/seo-geo-specialist | `cv/main_digital_6ix.pdf` + cover · remote contract $35–50/hr |
+| C86 | Jobgether (partner) | Content Marketing Specialist | LinkedIn/Jobgether https://ca.linkedin.com/jobs/view/4462923306 | `cv/main_jobgether_content.pdf` + cover · remote Canada · confirm ≥ $60k |
 
 ## NEW this run (2026-09-06)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|
 | FO | Sherwin-Williams | Store Associate | Careers https://careers.sherwin-williams.com/ · LinkedIn https://ca.linkedin.com/jobs/view/4445250531 · 3460 99 St | `cv/main_local_edmonton.pdf` · portal only |
 | FP | Alberta Pipe Fittings | Yard Laborer Nisku | **EMAIL SENT** info@ / sales@ / albertapfltd@ · LinkedIn https://ca.linkedin.com/jobs/view/4462317236 | `cv/main_local_edmonton.pdf` · 1004 14 Ave Nisku |
-| C84 | Organic Checkout | Content Editor & Specialist | **EMAIL SENT** hello@organiccheckout.com · LinkedIn https://ca.linkedin.com/jobs/view/4460681485 | `cv/main_organic_checkout.pdf` + cover · remote CAD \$60k |
+| C84 | Organic Checkout | Content Editor & Specialist | **EMAIL SENT** hello@organiccheckout.com · LinkedIn https://ca.linkedin.com/jobs/view/4460681485 | `cv/main_organic_checkout.pdf` + cover · remote CAD $60k |
 
 ## NEW this run (2026-09-05)
 | # | Company | Role | Apply | Resume / notes |
@@ -42,29 +48,29 @@
 |---|------|-----|
 | FO | **Sherwin-Williams Store Associate — 99 St** | **NEW 09-06** · 3460 99 St · ~5–10 min · careers portal |
 | FP | **Alberta Pipe Fittings Yard Laborer — Nisku** | **NEW 09-06** · 1004 14 Ave · emailed info@/sales@/gmail |
-| C84 | **Organic Checkout Content Editor** | **NEW 09-06** · remote CAD \$60k · emailed hello@ |
-| FQ | **Culligan Bottling Plant Operator — 50 St / Roper** | **NEW 09-07** · 6304 50 St NW · \$23/hr · emailed info@culliganwater.ca · CareerPlug still |
+| C84 | **Organic Checkout Content Editor** | **NEW 09-06** · remote CAD $60k · emailed hello@ |
+| FQ | **Culligan Bottling Plant Operator — 50 St / Roper** | **NEW 09-07** · 6304 50 St NW · $23/hr · emailed info@culliganwater.ca · CareerPlug still |
 | C85 | **Digital 6ix SEO & GEO Specialist** | **NEW 09-07** · remote contract · emailed sayhello@ |
 | C86 | **Jobgether Content Marketing Specialist** | **NEW 09-07** · remote Canada · LinkedIn/Jobgether portal |
-| FM | **Hercules Shipper/Receiver — 75 St** | **NEW 09-05** · 5303 75 St NW · \$19–21/hr · LinkedIn (prior email to info@herculesslr.com exists) |
-| FN | **Curtiss-Wright / Dyna-Flo Material Handler — 92 Ave** | **NEW 09-05** · 4810 92 Ave NW · \$20–25/hr · LinkedIn · 2yr stretch honesty |
+| FM | **Hercules Shipper/Receiver — 75 St** | **NEW 09-05** · 5303 75 St NW · $19–21/hr · LinkedIn (prior email to info@herculesslr.com exists) |
+| FN | **Curtiss-Wright / Dyna-Flo Material Handler — 92 Ave** | **NEW 09-05** · 4810 92 Ave NW · $20–25/hr · LinkedIn · 2yr stretch honesty |
 | FK | **Thermon Warehouse Worker Packaging — Roper** | **NEW 09-04** · 5918 Roper Rd · ~8–12 min · LinkedIn / thermon.com/careers |
-| FL | **Winters Instruments Warehouse Worker — Girard** | **NEW 09-04** · 7503 Girard Rd · \$18.50–20/hr · Mon–Fri 8–4:30 · LinkedIn |
+| FL | **Winters Instruments Warehouse Worker — Girard** | **NEW 09-04** · 7503 Girard Rd · $18.50–20/hr · Mon–Fri 8–4:30 · LinkedIn |
 | FF | **Steelhaus Tryton Shop Hand — Roper** | **NEW 09-02** · 6404 Roper Rd · ~8–12 min · LinkedIn |
-| FG | **Ryder Material Handler Receiving — Roper** | **NEW 09-02** · \$23.66/hr · **EMAIL** careers@ryder.com |
-| FH | **Ryder Material Handler Shipper — Roper** | **NEW 09-02** · \$23.66/hr · **EMAIL** careers@ryder.com |
+| FG | **Ryder Material Handler Receiving — Roper** | **NEW 09-02** · $23.66/hr · **EMAIL** careers@ryder.com |
+| FH | **Ryder Material Handler Shipper — Roper** | **NEW 09-02** · $23.66/hr · **EMAIL** careers@ryder.com |
 | FI | **ROBINSON Shipper/Receiver — 75 St plumbing** | **NEW 09-02** · 6735 75 St NW · ~12–18 min · barobinson.com/careers |
-| FJ | **Walmart Stock Unloader PT — Sherwood Park** | **NEW 09-02** · 239 Wye Rd · \$16.15/hr · careers.walmart.ca |
+| FJ | **Walmart Stock Unloader PT — Sherwood Park** | **NEW 09-02** · 239 Wye Rd · $16.15/hr · careers.walmart.ca |
 | FD | **Fastener Group Warehouse Associate — Edmonton South** | **NEW 09-01** · 9619 42 Ave NW · ~10–15 min · LinkedIn |
-| FE | **JC Silent-Aire Assembler Weekend Night** | **NEW 09-01** · Fri–Sun nights · Nisku/Sherwood Park · \$20/hr · LinkedIn |
+| FE | **JC Silent-Aire Assembler Weekend Night** | **NEW 09-01** · Fri–Sun nights · Nisku/Sherwood Park · $20/hr · LinkedIn |
 | FB | **Western Truck Body Material Handler — 30 St** | **NEW 08-31** · Break & Shear · 6115 30 St NW · ~12–18 min · **EMAIL** wtbhr@westerntruckbody.com |
 | FC | **JC Silent-Aire Assembler Panels — Nisku** | **NEW 08-31** · nightshift Mon–Thu · ~15–20 min · LinkedIn / JC careers |
 | FA | **Bevo Farms General Labourer — EIA / Bevo Sky** | **NEW 08-30** · greenhouse labour · ~20–25 min Calgary Trail · **EMAIL** recruiting@bevofarms.com |
 | ES | **Applied Warehouse Representative — Nisku** | **NEW 08-27** · Applied DC T9E 7W1 · ~15–20 min · LinkedIn / jobs.applied.com |
-| DB | **Apex Warehouse Associate — Nisku** | **mailto refresh 08-27** · 1080 34 Ave · \$22/hr · **EMAIL** HR@apexdistribution.com |
+| DB | **Apex Warehouse Associate — Nisku** | **mailto refresh 08-27** · 1080 34 Ave · $22/hr · **EMAIL** HR@apexdistribution.com |
 | DW | **Echelon Warehouse Associate — Roper Rd** | **NEW 08-20** · 8440 Roper Rd NW · ~8–12 min · optional email edmontonsales@echelonsupply.com |
 | DX | **Surepoint Shipper/Receiver — Nisku** | **NEW 08-20** · 700 15 Ave Nisku · Class 5 + abstract · ~15–20 min |
-| DY | **Allegion Warehouse Worker — 75 St** | **NEW 08-20** · 5136 75 St NW · \$45–65k · ~10–15 min |
+| DY | **Allegion Warehouse Worker — 75 St** | **NEW 08-20** · 5136 75 St NW · $45–65k · ~10–15 min |
 | DT | **Rexel/Westburne Warehouse Clerk — Edmonton South** | **NEW 08-18** · 5735 67 St NW · ~5–10 min · Fitzii board |
 | DU | **Mercedes Heritage Valley Shipper/Receiver** | **NEW 08-18** · 2120 103A St SW · AutoCanada req 16986 · ~10–15 min |
 | DV | **Labatt Forklift Operator — 45 Ave** | **NEW 08-18** · 10119 45 Ave NW · $19.85/hr · forklift stretch · ~10–15 min |

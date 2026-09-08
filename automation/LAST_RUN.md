@@ -1,30 +1,26 @@
-# LAST_RUN — 2026-09-06 daily job search
+# LAST_RUN — 2026-09-08 daily job search
 
 ## Summary
-- **2 new local drafts:** Sherwin-Williams Store Associate (3460 99 St); Alberta Pipe Fittings Yard Laborer (1004 14 Ave Nisku)
-- **1 new career draft:** Organic Checkout Content Editor & Specialist (~72; remote Canada; CAD $60k)
+- **1 new local draft:** ChampionX / Alberta Oil Tool Injection Molding Operator (6939 68 Ave NW)
+- **1 new career draft:** Digital Shift Digital Marketing Account Manager (~78; remote Canada; CAD $60–85k)
 - Branch: `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
 
 ## Drafted
 | Track | Company | Role | Files | Apply |
 |-------|---------|------|-------|-------|
-| Local | Sherwin-Williams | Store Associate | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4445250531 |
-| Local | Alberta Pipe Fittings Ltd. | Yard / Warehouse Laborer | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4462317236 |
-| Career | Organic Checkout | Content Editor & Specialist | `cv/main_organic_checkout.pdf` · `cover_letters/cover_organic_checkout_content_editor.pdf` | https://ca.linkedin.com/jobs/view/4460681485 |
+| Local | ChampionX / Alberta Oil Tool | Injection Molding Operator | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4450499841 |
+| Career | Digital Shift® | Digital Marketing Account Manager | `cv/main_digital_shift.pdf` · `cover_letters/cover_digital_shift_account_manager.pdf` | https://join.digitalshiftmedia.com/account-management/ · https://ca.linkedin.com/jobs/view/4461837526 |
 
 ## Emails
-- Organic Checkout → hello@organiccheckout.com id `3914cef5-8f6d-41f6-90c9-f3ed42eb812e` (CV+cover)
-- APF → info@apfittings.com id `c988b02e-c45e-475e-9ea9-0757e38c72fd`
-- APF → sales@apfgroup.ca id `6718460b-7f3e-42ef-b8a7-d6ede21a3b79`
-- APF → albertapfltd@gmail.com id `8a4b9014-5f87-4c32-9dc8-73a811371f43`
-- Sherwin-Williams = careers portal only
+- Digital Shift → contact@digitalshiftmedia.com id `89958b89-9769-4431-98d9-b2855d93e59d` (CV+cover)
+- ChampionX = LinkedIn / SLB careers portal only
 - No LinkedIn/Indeed portal submit claimed
 
 ## Skipped (selected)
-- Walmart OMNI Kingsway; JC Kitter twin #BG; Bevo Greenhouse twin #FA; Heidelberg Terminal; Blacksmith Digital Strategist / MM / SEO Manager twins; Directive SEO FO twin; PBS Senior SEO re-post; EPCOR Manager Brand; Rocky Mountaineer / InsureBC Vancouver; Magical Toronto
+- Safeway SW Southgate PF; Walmart OMNI Stony Plain; Rexel twin; Saputo 116 Ave NW; Loblaw Receiver unverified; Maple Leaf Team Leader; Clean Harbors Hydro Vac; Tier 1 Clicks Google-only ~55; Blacksmith Ads twin; Foundation GEO Strategist 5+ yrs; Jobgether SEO twin; Directive SEO FO; PBS Senior; EY/Willowglen senior
 
 ## Checklists
-- `APPLICATIONS_LOCAL.md` (#FO–#FP)
-- `APPLICATIONS_READY.md` (C84)
+- `APPLICATIONS_LOCAL.md` (#FR)
+- `APPLICATIONS_READY.md` (C87)
 - `SUBMIT_BATCH.md`
 - `job_search_tracker.csv` status `ready_to_submit` / emailed `submitted`
