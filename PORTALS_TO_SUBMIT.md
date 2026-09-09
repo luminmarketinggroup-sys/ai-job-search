@@ -1,4 +1,8 @@
 
+## 2026-09-09 portals
+- Fastenal Warehouse Associate PT — https://jobs.fastenal.com/details/635190 (3813 98 St NW · apply by 2026-09-10)
+- Nabors Warehouseperson I — LinkedIn https://ca.linkedin.com/jobs/view/4462536419 · https://jobs.nabors.com (Nisku)
+
 ## 2026-09-05 portals
 - Global Traffic Group Marketing Specialist — BambooHR https://globaltrafficgroup.bamboohr.com/careers/189 (CV+cover ready)
 - Hercules Shipper/Receiver — LinkedIn Easy Apply / careers https://ca.linkedin.com/jobs/view/4442172759

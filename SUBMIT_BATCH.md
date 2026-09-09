@@ -1,3 +1,10 @@
+## NEW this run (2026-09-09)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FS | Fastenal | Warehouse Associate (PT) | https://jobs.fastenal.com/details/635190 · 3813 98 St NW · apply by 2026-09-10 | `cv/main_local_edmonton.pdf` · ~5–10 min Calgary Trail · driver's license |
+| FT | Nabors Industries | Warehouseperson I | LinkedIn https://ca.linkedin.com/jobs/view/4462536419 · https://jobs.nabors.com · Nisku 902 20 Ave | `cv/main_local_edmonton.pdf` · ~20–25 min |
+| — | *(career)* | — | No new career draft this run | — |
+
 ## NEW this run (2026-09-08)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|

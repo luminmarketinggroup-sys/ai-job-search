@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-09 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| — | *(none)* | — | — | No new career draft cleared fit ≥60 + pay floor this run | — | — | See skips below |
+
+**Email sent this run (Resend):** none (local drafts are portal-only; no new career email apply). No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Fastenal Warehouse Associate (3813 98 St NW) · Nabors Warehouseperson I (Nisku) — see `APPLICATIONS_LOCAL.md` (#FS–#FT).
+
+Skipped this run (fit/location/pay): Finning Warehouse Person Temporary (West Edmonton); TK Elevator Warehouse/Driver (176 St NW); Culligan LinkedIn twin of #FQ; Aladdin Donair 127 Ave; ChamClad Machine Operator / Palleting NW; NOV Nisku elastomer injection stretch; Komatsu Shop Labourer (west T5M); Boardwalk Construction Labourer (site unverified); RONA CSA (address unverified); Walmart/Save-On St Albert; Sobeys Sherwood Park; 7-Eleven Fort Sask; Agropur Yellowhead/151 St; Amii Librarian; Marketbridge Marketing Account Supervisor (~55 / 5+ yrs B2B AM stretch); Falcon Electric Demand Gen (~48); Digital Shift SEO Content Writer (pay band risk under $60k); Latium Marketing Coordinator (~52 design portfolio); Everbrave Calgary hybrid; VERB Halifax/Calgary; Show and Tell Winnipeg; Scale My Meal Prep Mississauga; Ethereal Vancouver; Cella Marketing Automation Toronto; Directive Content Strategist / SEO Strategist twins; Blacksmith Account Strategist SEO twin; Jobgether SEO pooling; Jobber Customer Analytics; City of Edmonton Communications; Toys4Two Marketing Intern.
+
 ## NEW drafts this run (2026-09-08 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

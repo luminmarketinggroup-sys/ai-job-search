@@ -11,6 +11,26 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FS. Fastenal — Warehouse Associate (3813 98 St) ★ NEW · SOUTH · 2026-09-09 · PT
+- **Careers:** https://jobs.fastenal.com/details/635190  
+- **JobTarget mirror:** https://www.jobtarget.com/jobs/jt-0fcnb8uoga/warehouse-associate-edmonton-alberta  
+- **Address (verified on posting):** 3813 98 Street NW, Edmonton, AB T6E 5V4 (ABEDM Public Store)  
+- **Notes:** Part-time · Mon–Fri 7:00am–2:00pm · up to 28 hrs/week · receive / pick / pack / ship / cycle count · local deliveries with company vehicle · valid full driver’s license required · lift typically 25–50 lbs (up to 75) · apply by 2026-09-10  
+- **Why:** 98 St / Calgary Trail corridor · ~5–10 min from 11110 68 Ave NW · Empire Park / Lendrum side · branch warehouse BOH, not Southgate Centre public-facing  
+- **Apply:** Fastenal careers portal (Job ID 635190) · no verified public apply inbox this run  
+- **Blurb:**
+> I’m applying for the part-time Warehouse Associate role at Fastenal (3813 98 Street NW, Job ID 635190). I live nearby at 11110 68 Ave NW and am comfortable with paced branch warehouse work: receiving, picking, packing, shipping, cycle counts, keeping the floor clean and organized, and local deliveries once trained. I have a valid driver’s license and am reliable for the posted Monday–Friday daytime shifts.
+
+### FT. Nabors Industries — Warehouseperson I (Edmonton/Leduc · Nisku) ★ NEW · SOUTH · 2026-09-09
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4462536419  
+- **Careers:** https://jobs.nabors.com (search Warehouseperson · Edmonton / Leduc / Nisku)  
+- **Address (verified):** Nabors Canada / Nabors Drilling operations — 902 20 Avenue, Nisku, AB T9E 8A8 (posting lists Edmonton/Leduc)  
+- **Notes:** Full-time · consumables inventory · shipping/receiving · inventory counts · organize/label · MIN/MAX replenishment planning · field customer communication  
+- **Why:** Nisku industrial · ~20–25 min from 11110 68 Ave NW via Calgary Trail / QEII · same corridor stretch as Alberta Pipe Fittings · not Southgate Centre  
+- **Apply:** LinkedIn / Nabors careers portal (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Warehouseperson I role at Nabors (Edmonton/Leduc · Nisku). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: shipping and receiving, inventory counts, organizing and labeling stock, keeping accurate records, and communicating clearly with the team. Steel-toe ready and coachable on Nabors inventory systems and safety methods.
+
 ### FR. ChampionX / Alberta Oil Tool — Injection Molding Operator ★ NEW · SOUTH · 2026-09-08
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4450499841  
 - **Careers:** https://careers.slb.com/ (search Injection Molding Operator · Edmonton / Alberta Oil Tool)  

@@ -13331,6 +13331,330 @@
       "fit": "low",
       "status": "skipped",
       "notes": "PH outsourcing pattern"
+    },
+    "https://jobs.fastenal.com/details/635190": {
+      "title": "Warehouse Associate",
+      "company": "Fastenal",
+      "url": "https://jobs.fastenal.com/details/635190",
+      "first_seen": "2026-09-09",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "3813 98 St NW T6E 5V4; PT warehouse; Calgary Trail corridor"
+    },
+    "https://ca.linkedin.com/jobs/view/4462536419": {
+      "title": "Warehouseperson I - Edmonton/Leduc",
+      "company": "Nabors Industries",
+      "url": "https://ca.linkedin.com/jobs/view/4462536419",
+      "first_seen": "2026-09-09",
+      "fit": "high",
+      "status": "drafted",
+      "notes": "Nisku 902 20 Ave; shipping/receiving/inventory; ~20-25 min"
+    },
+    "https://ca.linkedin.com/jobs/view/4461390875": {
+      "title": "Warehouse Person - Dayshift - Temporary",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4461390875",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "West Edmonton warehouse; west skip pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4461364276": {
+      "title": "Warehouse Representative / Driver - Edmonton",
+      "company": "TK Elevator",
+      "url": "https://ca.linkedin.com/jobs/view/4461364276",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "10230 176 St NW west/NW skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4460712439": {
+      "title": "Bottling Plant Operator",
+      "company": "Culligan of Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4460712439",
+      "first_seen": "2026-09-09",
+      "fit": "high",
+      "status": "skipped",
+      "notes": "twin of drafted Culligan/WTEC #FQ"
+    },
+    "https://ca.linkedin.com/jobs/view/4463545180": {
+      "title": "Food Production Worker",
+      "company": "Aladdin Donair Wholesale",
+      "url": "https://ca.linkedin.com/jobs/view/4463545180",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "127 Ave north skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4463687383": {
+      "title": "Machine Operator-ChamClad",
+      "company": "Wausau Supply Company",
+      "url": "https://ca.linkedin.com/jobs/view/4463687383",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "ChamClad NW skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4464919825": {
+      "title": "Palleting Staff-ChamClad",
+      "company": "Wausau Supply Company",
+      "url": "https://ca.linkedin.com/jobs/view/4464919825",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "ChamClad NW skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4461180798": {
+      "title": "Production Operator - Nightshift - Downhole Manufacturing",
+      "company": "NOV",
+      "url": "https://ca.linkedin.com/jobs/view/4461180798",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Nisku elastomer injection preferred stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4464973202": {
+      "title": "Labourer, Shop",
+      "company": "Komatsu",
+      "url": "https://ca.linkedin.com/jobs/view/4464973202",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "T5M 3S5 west skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4463545514": {
+      "title": "Construction General Labourer",
+      "company": "Boardwalk",
+      "url": "https://ca.linkedin.com/jobs/view/4463545514",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "multi-site construction labour; address/site unverified"
+    },
+    "https://ca.linkedin.com/jobs/view/4464685208": {
+      "title": "customer service associate",
+      "company": "RONA",
+      "url": "https://ca.linkedin.com/jobs/view/4464685208",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "public-facing CSA; store address unverified"
+    },
+    "https://ca.linkedin.com/jobs/view/4464914146": {
+      "title": "(CAN) Cashier",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4464914146",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "St Albert distance + retail"
+    },
+    "https://ca.linkedin.com/jobs/view/4464694042": {
+      "title": "Full-Time Bakery Clerk",
+      "company": "Save-On-Foods",
+      "url": "https://ca.linkedin.com/jobs/view/4464694042",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "St Albert distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4460782932": {
+      "title": "Deli - Clerk Deli",
+      "company": "Sobeys",
+      "url": "https://ca.linkedin.com/jobs/view/4460782932",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Sherwood Park distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4463140962": {
+      "title": "Store Crew",
+      "company": "7-Eleven",
+      "url": "https://ca.linkedin.com/jobs/view/4463140962",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Fort Saskatchewan distance"
+    },
+    "https://agropur.wd3.myworkdayjobs.com/en-US/Agropur_Careers/job/CAN-Alberta-Edmonton/General-Warehouse-Worker_JR34058": {
+      "title": "General Warehouse Worker",
+      "company": "Agropur",
+      "url": "https://agropur.wd3.myworkdayjobs.com/en-US/Agropur_Careers/job/CAN-Alberta-Edmonton/General-Warehouse-Worker_JR34058",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Yellowhead / 151 St NW west-north skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4460552903": {
+      "title": "Librarian",
+      "company": "Amii",
+      "url": "https://ca.linkedin.com/jobs/view/4460552903",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "not marketing track"
+    },
+    "https://ca.linkedin.com/jobs/view/4458654002": {
+      "title": "Marketing Account Supervisor",
+      "company": "Marketbridge",
+      "url": "https://ca.linkedin.com/jobs/view/4458654002",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "~55; 5+ yrs progressive B2B agency AM / ABM stretch; twin of prior AM Supervisor skip"
+    },
+    "https://ca.linkedin.com/jobs/view/4460620654": {
+      "title": "Demand Generation Manager",
+      "company": "Falcon Electric / Avnan",
+      "url": "https://ca.linkedin.com/jobs/view/4460620654",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "~48; 5+ yrs B2B industrial demand gen / ABM pipeline"
+    },
+    "https://ca.linkedin.com/jobs/view/4462258672": {
+      "title": "SEO Content Writer / Proofreader",
+      "company": "Digital Shift",
+      "url": "https://ca.linkedin.com/jobs/view/4462258672",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "skills match but historical DS content writer bands often CAD $45-55k under career floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4463542172": {
+      "title": "Marketing Coordinator",
+      "company": "Latium Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/4463542172",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "~52; design portfolio / Canva-Adobe primary; pay unposted; coordinator step-down"
+    },
+    "https://ca.linkedin.com/jobs/view/4460294516": {
+      "title": "Growth Manager",
+      "company": "Everbrave",
+      "url": "https://ca.linkedin.com/jobs/view/4460294516",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Calgary hybrid 3 days/wk relocation fail"
+    },
+    "https://ca.linkedin.com/jobs/view/4461280314": {
+      "title": "Account Manager",
+      "company": "VERB Interactive",
+      "url": "https://ca.linkedin.com/jobs/view/4461280314",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Halifax onsite relocation fail"
+    },
+    "https://ca.linkedin.com/jobs/view/4461264522": {
+      "title": "Account Manager",
+      "company": "VERB Interactive",
+      "url": "https://ca.linkedin.com/jobs/view/4461264522",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Calgary listing; Halifax HQ agency relocation"
+    },
+    "https://ca.linkedin.com/jobs/view/4461765385": {
+      "title": "Account Manager",
+      "company": "The Show and Tell Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4461765385",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Winnipeg relocation"
+    },
+    "https://ca.linkedin.com/jobs/view/4462355205": {
+      "title": "Account Manager \u2014 Digital Marketing Agency (META)",
+      "company": "Scale My Meal Prep",
+      "url": "https://ca.linkedin.com/jobs/view/4462355205",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Mississauga onsite; pay band may start under $60k"
+    },
+    "https://ca.linkedin.com/jobs/view/4463634294": {
+      "title": "Account Manager",
+      "company": "Ethereal Music Group",
+      "url": "https://ca.linkedin.com/jobs/view/4463634294",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Vancouver music marketing niche / relocation"
+    },
+    "https://ca.linkedin.com/jobs/view/4463566293": {
+      "title": "Marketing Automation Manager",
+      "company": "Cella",
+      "url": "https://ca.linkedin.com/jobs/view/4463566293",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto/Mississauga onsite people-lead"
+    },
+    "https://ca.linkedin.com/jobs/view/4463658678": {
+      "title": "Content Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4463658678",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Enterprise Account Strategist Content & SEO stretch / Directive twin pattern"
+    },
+    "https://ca.linkedin.com/jobs/view/4463654820": {
+      "title": "SEO Strategist (Remote Canada)",
+      "company": "Directive",
+      "url": "https://ca.linkedin.com/jobs/view/4463654820",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Directive SEO Strategist twin pattern (no FO in title)"
+    },
+    "https://ca.linkedin.com/jobs/view/4462886142": {
+      "title": "Account Strategist, SEO (Remote, Toronto)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4462886142",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "oversee-specialists twin ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4461108792": {
+      "title": "IT Regular (SEO) - For Pooling Purposes",
+      "company": "Jobgether",
+      "url": "https://ca.linkedin.com/jobs/view/4461108792",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "pooling / unclear SEO role"
+    },
+    "https://ca.linkedin.com/jobs/view/4461218464": {
+      "title": "Manager, Customer Analytics (Sales & Marketing)",
+      "company": "Jobber",
+      "url": "https://ca.linkedin.com/jobs/view/4461218464",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "analytics people-lead stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4461178666": {
+      "title": "Communications Advisor",
+      "company": "City of Edmonton",
+      "url": "https://ca.linkedin.com/jobs/view/4461178666",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "comms vs SEO/DM"
+    },
+    "https://ca.linkedin.com/jobs/view/4461918827": {
+      "title": "Marketing Intern",
+      "company": "Toys4Two",
+      "url": "https://ca.linkedin.com/jobs/view/4461918827",
+      "first_seen": "2026-09-09",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "intern pay floor"
     }
   }
 }
