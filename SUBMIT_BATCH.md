@@ -1,3 +1,12 @@
+## NEW this run (2026-09-10)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FU | NCS / Noramco | Warehouse Associate | **EMAIL SENT** noredm@noramco.ca · LinkedIn https://ca.linkedin.com/jobs/view/4465310149 · 4328 55 Ave NW | `cv/main_local_edmonton.pdf` · ~10–15 min Pylypow |
+| FV | ChampionX / Alberta Oil Tool | Forge Machine Operator | LinkedIn https://ca.linkedin.com/jobs/view/4453474229 · SLB careers · 6939 68 Ave NW | `cv/main_local_edmonton.pdf` · ~5–10 min · distinct from #FR |
+| FW | Hercules | Production Technician | **EMAIL SENT** info@herculesslr.com · LinkedIn https://ca.linkedin.com/jobs/view/4441221066 · 5303 75 St | `cv/main_local_edmonton.pdf` · $20–22/hr · sewing training |
+| FX | Xerxes / Mattr | Molder Trainee | LinkedIn https://ca.linkedin.com/jobs/view/4462496168 · 6907 36 St NW | `cv/main_local_edmonton.pdf` · $26.28/hr second shift |
+| C88 | Studiothink | Website Strategist | **EMAIL SENT** careers@studiothink.com · LinkedIn https://ca.linkedin.com/jobs/view/4458934704 | `cv/main_studiothink.pdf` + cover · remote CAD $65–80k |
+
 ## NEW this run (2026-09-09)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|

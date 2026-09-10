@@ -13655,6 +13655,276 @@
       "fit": "low",
       "status": "skipped",
       "notes": "intern pay floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4465310149": {
+      "title": "Warehouse Associate",
+      "company": "NCS International / Noramco",
+      "url": "https://ca.linkedin.com/jobs/view/4465310149",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4465306344": {
+      "title": "Warehouse Associate Edmonton-FR",
+      "company": "NCS International Co.",
+      "url": "https://ca.linkedin.com/jobs/view/4465306344",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4453474229": {
+      "title": "Forge Machine Operator",
+      "company": "ChampionX",
+      "url": "https://ca.linkedin.com/jobs/view/4453474229",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4441221066": {
+      "title": "Production Technician",
+      "company": "Hercules Crane & Lifting Supplies",
+      "url": "https://ca.linkedin.com/jobs/view/4441221066",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4462496168": {
+      "title": "Molder Trainee",
+      "company": "Xerxes / Mattr",
+      "url": "https://ca.linkedin.com/jobs/view/4462496168",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4458934704": {
+      "title": "Website Strategist",
+      "company": "Studiothink",
+      "url": "https://ca.linkedin.com/jobs/view/4458934704",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "submitted"
+    },
+    "https://ca.linkedin.com/jobs/view/4465610335": {
+      "title": "Union Warehouse Associate afternoon",
+      "company": "Wesco",
+      "url": "https://ca.linkedin.com/jobs/view/4465610335",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463416969": {
+      "title": "Warehouse Worker II",
+      "company": "Thermo Fisher Scientific",
+      "url": "https://ca.linkedin.com/jobs/view/4463416969",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463063451": {
+      "title": "Shipping and Receiving",
+      "company": "TECO-Westinghouse",
+      "url": "https://ca.linkedin.com/jobs/view/4463063451",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4464111380": {
+      "title": "Load Builder",
+      "company": "Alsco Uniforms",
+      "url": "https://ca.linkedin.com/jobs/view/4464111380",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463585170": {
+      "title": "Machine Operator Fabricator",
+      "company": "Crossroads C&I",
+      "url": "https://ca.linkedin.com/jobs/view/4463585170",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4465339182": {
+      "title": "Organic Growth Manager",
+      "company": "Snaplii",
+      "url": "https://ca.linkedin.com/jobs/view/4465339182",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4463113471": {
+      "title": "Digital Marketing & Ecommerce Specialist",
+      "company": "Tin Shack Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4463113471",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4464117334": {
+      "title": "Marketing Operations Specialist",
+      "company": "Humankind Global Recruitment",
+      "url": "https://ca.linkedin.com/jobs/view/4464117334",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4465668325": {
+      "title": "Web Marketing Specialist",
+      "company": "Magnus",
+      "url": "https://ca.linkedin.com/jobs/view/4465668325",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463897378": {
+      "title": "Marketing Coordinator",
+      "company": "WD Co-Auto",
+      "url": "https://ca.linkedin.com/jobs/view/4463897378",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4465311034": {
+      "title": "Marketing Associate",
+      "company": "Edmonton Community Foundation",
+      "url": "https://ca.linkedin.com/jobs/view/4465311034",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4463091229": {
+      "title": "Dealer Performance Specialist Western Canada",
+      "company": "Audi RED",
+      "url": "https://ca.linkedin.com/jobs/view/4463091229",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4464509484": {
+      "title": "Warehouse Associate Days Spruce Grove",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4464509484",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4464511420": {
+      "title": "Warehouse Associate Days St Albert",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4464511420",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4465332104": {
+      "title": "Warehouse Worker",
+      "company": "UAP Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4465332104",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4453877554": {
+      "title": "Marketing Manager Mainstream Growth NA",
+      "company": "Lovehoney Group",
+      "url": "https://ca.linkedin.com/jobs/view/4453877554",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463045513": {
+      "title": "Mechanical Assembler Night Shift",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4463045513",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4464175166": {
+      "title": "Mechanical Assembler",
+      "company": "Manufacturing Job Site / Powell Acheson",
+      "url": "https://ca.linkedin.com/jobs/view/4464175166",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4464163637": {
+      "title": "General Labour",
+      "company": "Heidelberg Materials North America",
+      "url": "https://ca.linkedin.com/jobs/view/4464163637",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4462356195": {
+      "title": "JR Inventory Technician Heavy Equipment",
+      "company": "Sureway Construction Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4462356195",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4465085393": {
+      "title": "Operations Coordinator",
+      "company": "Intelcom Dragonfly",
+      "url": "https://ca.linkedin.com/jobs/view/4465085393",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4464152070": {
+      "title": "Digital Strategist",
+      "company": "McCANN Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4464152070",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4452996555": {
+      "title": "Digital Marketing Manager",
+      "company": "CPA Ontario",
+      "url": "https://ca.linkedin.com/jobs/view/4452996555",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4446821202": {
+      "title": "Performance Marketing Manager",
+      "company": "Lorex Technology",
+      "url": "https://ca.linkedin.com/jobs/view/4446821202",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
     }
   }
 }

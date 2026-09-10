@@ -11,6 +11,47 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FU. NCS International / Noramco — Warehouse Associate (4328 55 Ave) ★ NEW · SOUTH · 2026-09-10
+- **LinkedIn (EN):** https://ca.linkedin.com/jobs/view/4465310149  
+- **LinkedIn (FR twin — do not double-apply):** https://ca.linkedin.com/jobs/view/4465306344  
+- **Branch:** https://noramco.ca/branch-locations/edmonton/  
+- **Address (verified):** 4328 55 Ave NW, Edmonton, AB T6B 3S2 (Pylypow Industrial / NCS · Noramco wire & cable)  
+- **Notes:** Full-time · receive / verify / stock · prepare / pack / ship · move reels · wrap skids · load carriers · keep aisles clean · lift under 50 lbs · forklift ticket asset (training provided) · profit-sharing + benefits posted  
+- **Why:** 55 Ave / 50 St southeast industrial · ~10–15 min from 11110 68 Ave NW · not Southgate Centre  
+- **Apply:** mailto:noredm@noramco.ca · LinkedIn Easy Apply if shown  
+- **Email sent (Resend 2026-09-10):** id `4dc07c6b-89d0-45fb-b9e5-2483eed719d6` → noredm@noramco.ca · attached `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Warehouse Associate role at NCS International / Noramco (4328 55 Ave NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: receiving and verifying stock, preparing and packing orders, moving product safely, keeping aisles organized, and accurate paperwork. Steel-toe ready and coachable on Noramco methods and forklift training if needed.
+
+### FV. ChampionX / Alberta Oil Tool — Forge Machine Operator ★ NEW · SOUTH · 2026-09-10
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4453474229  
+- **Careers:** https://careers.slb.com/ (search Forge Machine Operator · Edmonton / ChampionX)  
+- **Address (verified pattern):** 6939 68 Avenue NW, Edmonton, AB T6B 3E3 (Alberta Oil Tool / ChampionX Edmonton manufacturing — same plant corridor as Injection Molding #FR)  
+- **Notes:** Full-time permanent · rotating day/afternoon/night · operate forge machine · quality inspections · grind rods · paperwork · daily maintenance · Lean · drug/alcohol + fitness-to-work + background checks · benefits / RRSP match posted · distinct role from Injection Molding (#FR)  
+- **Why:** On 68 Ave NW · ~5–10 min from 11110 68 Ave NW · manufacturing BOH, not Southgate Centre  
+- **Apply:** LinkedIn / SLB careers portal (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Forge Machine Operator role at ChampionX / Alberta Oil Tool (6939 68 Avenue NW). I live nearby at 11110 68 Ave NW and am comfortable with paced plant work: careful product checks, following documented procedures, standing full shifts, lifting up to 50 lbs, keeping the floor organized, and reliable rotating shifts. Steel-toe ready and coachable on ChampionX forge equipment, quality checks, and safety methods.
+
+### FW. Hercules Crane & Lifting Supplies — Production Technician (Continental Chain & Rigging) ★ NEW · SOUTH · 2026-09-10 · $20–$22/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4441221066  
+- **Address (verified):** 5303 75 Street NW, Edmonton, AB (Hercules Group / Continental Chain & Rigging production)  
+- **Notes:** Full-time · Mon–Fri 8am–5pm · manufacture / inspect polyester & high-performance round slings · cut / sew / assemble · quality checks · industrial sewing training provided · sewing experience preferred but not required · background check · no PR sponsorship  
+- **Why:** 75 St / Roper corridor · ~8–12 min from 11110 68 Ave NW · production BOH, not Southgate Centre · distinct from Shipper/Receiver (#FM)  
+- **Apply:** mailto:info@herculesslr.com · LinkedIn  
+- **Email sent (Resend 2026-09-10):** id `9f067531-751e-49fa-a9d3-35580b964c17` → info@herculesslr.com · attached `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Production Technician role at Hercules / Continental Chain & Rigging (5303 75 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced hands-on production work: following measurements and specs carefully, quality checks before product leaves the floor, keeping the work area organized and safe, and reliable Monday–Friday day shifts. Honest that industrial sewing hours are still growing; ready for your internal training and coachable on Hercules methods.
+
+### FX. Xerxes / Mattr — Molder Trainee ★ NEW · SOUTH · 2026-09-10 · $26.28/hr
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4462496168  
+- **Address (verified):** 6907 36 Street NW, Edmonton, AB T6B 2Z6 (Xerxes / Mattr fiberglass tank manufacturing)  
+- **Notes:** Second shift Mon–Thu 4:30pm–3am · hand/machine molding · trim / inspect laminate · PPE / boot allowance · permanent year-round · fiberglass manufacturing experience preferred  
+- **Why:** 36 St / southeast industrial · ~10–15 min from 11110 68 Ave NW · plant BOH, not Southgate Centre  
+- **Apply:** Mattr / Xerxes applicant tracking system via LinkedIn (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Molder Trainee role at Xerxes / Mattr (6907 36 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced plant work: following procedures carefully, inspecting for defects, standing long shifts, and keeping a clean, safe work area. Honest that fiberglass molding tenure is still growing; steel-toe ready and coachable on Xerxes methods for the posted second shift.
+
 ### FS. Fastenal — Warehouse Associate (3813 98 St) ★ NEW · SOUTH · 2026-09-09 · PT
 - **Careers:** https://jobs.fastenal.com/details/635190  
 - **JobTarget mirror:** https://www.jobtarget.com/jobs/jt-0fcnb8uoga/warehouse-associate-edmonton-alberta  

@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-10 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C88 | Studiothink | Website Strategist | Good (~66) | **EMAIL** mailto:careers@studiothink.com (PDF resume + custom cover required; LinkedIn resumes not accepted) · LinkedIn https://ca.linkedin.com/jobs/view/4458934704 | `cv/main_studiothink.pdf` | `cover_letters/cover_studiothink_website_strategist.pdf` | Remote; CAD $65–80k posted; SEO/GEO/AEO + GA4 + CMS + Claude match; Figma wireframes / heavy schema markup still growing vs 2 SMB |
+
+**Email sent this run (Resend):** Studiothink → careers@studiothink.com id `f74aea93-2562-477a-9889-1902f3369c4e` (CV+cover); NCS/Noramco → noredm@noramco.ca id `4dc07c6b-89d0-45fb-b9e5-2483eed719d6` (local CV); Hercules Production Tech → info@herculesslr.com id `9f067531-751e-49fa-a9d3-35580b964c17` (local CV). ChampionX Forge + Xerxes = portal-only. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** NCS/Noramco Warehouse Associate (4328 55 Ave) · ChampionX Forge Machine Operator (6939 68 Ave) · Hercules Production Technician · Xerxes Molder Trainee (36 St) — see `APPLICATIONS_LOCAL.md` (#FU–#FX).
+
+Skipped this run (fit/location/pay): Wesco Warehouse Associate (18207 111 Ave NW west); Thermo Fisher Warehouse Worker II (10720 178 St NW west); TECO-Westinghouse Shipping/Receiving (18060 109 Ave NW west twin); Alsco Load Builder (123 Ave NW); E.B. Horsman Material Handler (186 St NW); Crossroads C&I Fabricator (180 St NW); Uline Spruce Grove / St Albert; Powell / Acheson assembler twin; Reliance / Guillevin / UniFirst already-seen; Heidelberg General Labour twin pattern; Snaplii Organic Growth Manager (native Mandarin must ~40); Tin Shack Digital Marketing (Collingwood hybrid); Humankind Marketing Ops (Halifax HTML/CSS/JS); Magnus Web Marketing (Calgary + bilingual FR); Lovehoney / CPA Ontario / Lorex / McCANN relocation; WD Co-Auto Marketing Coordinator (~58 degree + HubSpot stretch); ECF Marketing Associate LinkedIn twin of C76; Audi RED Dealer Performance LinkedIn twin of C71; Digital Shift AM already submitted; Directive SEO FO twins; Marketbridge / Latium prior skips.
+
 ## NEW drafts this run (2026-09-09 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
