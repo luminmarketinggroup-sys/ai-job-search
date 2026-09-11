@@ -13925,6 +13925,321 @@
       "fit": "medium",
       "status": "skipped",
       "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4462485773": {
+      "title": "Grinder",
+      "company": "Xerxes / Mattr",
+      "url": "https://ca.linkedin.com/jobs/view/4462485773",
+      "first_seen": "2026-09-11",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "6907 36 St NW T6B 2Z6 ~10-15 min; distinct from Molder Trainee #FX; drafted #FY"
+    },
+    "https://ca.linkedin.com/jobs/view/4456771923": {
+      "title": "Press Operator",
+      "company": "Freudenberg Flow Technologies",
+      "url": "https://ca.linkedin.com/jobs/view/4456771923",
+      "first_seen": "2026-09-11",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "100 1075 36 Ave Nisku ~20-25 min; Workday R_00105618; mailto info@ffltech.com; drafted #FZ"
+    },
+    "https://ca.linkedin.com/jobs/view/4444797315": {
+      "title": "Machine Operator I",
+      "company": "Johnson Controls / Silent-Aire",
+      "url": "https://ca.linkedin.com/jobs/view/4444797315",
+      "first_seen": "2026-09-11",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "Nisku Silent-Aire metal working; distinct from Assembler drafts; drafted #GA"
+    },
+    "https://ca.linkedin.com/jobs/view/4461687436": {
+      "title": "Digital Marketing Manager",
+      "company": "Alair Homes",
+      "url": "https://ca.linkedin.com/jobs/view/4461687436",
+      "first_seen": "2026-09-11",
+      "fit": "high",
+      "status": "evaluated",
+      "notes": "Remote CAD $80-100k; local SEO+WordPress+AI; LinkedIn/Indeed apply; drafted C89"
+    },
+    "https://ca.linkedin.com/jobs/view/4465876464": {
+      "title": "Distribution Center Associate II",
+      "company": "White Cap Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4465876464",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "west 21359 115 Ave / 184 St"
+    },
+    "https://ca.linkedin.com/jobs/view/4465875471": {
+      "title": "Warehouse Associate I",
+      "company": "White Cap Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4465875471",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "west Edmonton White Cap"
+    },
+    "https://ca.linkedin.com/jobs/view/4464816628": {
+      "title": "Sorter AM 514",
+      "company": "Purolator Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4464816628",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Edmonton North 17718 114 Ave NW"
+    },
+    "https://ca.linkedin.com/jobs/view/4463903669": {
+      "title": "Warehouse Material Handler",
+      "company": "Curtiss-Wright Corporation",
+      "url": "https://ca.linkedin.com/jobs/view/4463903669",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin of #FN Dyna-Flo Eastgate"
+    },
+    "https://ca.linkedin.com/jobs/view/4463056340": {
+      "title": "Fab Machine Operator - Day Shift",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4463056340",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Acheson distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4463056342": {
+      "title": "Material Handler - Mechanical Assembly (Days)",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4463056342",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Acheson distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4463914924": {
+      "title": "Production Worker - Copper Dip (Days)",
+      "company": "Powell",
+      "url": "https://ca.linkedin.com/jobs/view/4463914924",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Acheson distance"
+    },
+    "https://ca.linkedin.com/jobs/view/4464513410": {
+      "title": "Warehouse Associate - Nights",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4464513410",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "St Albert 25 Richardson twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4464528047": {
+      "title": "Warehouse Associate - Nights",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4464528047",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Spruce Grove twin"
+    },
+    "https://ca.linkedin.com/jobs/view/4464528048": {
+      "title": "Warehouse Associate - Nights",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4464528048",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Edmonton label = St Albert branch"
+    },
+    "https://ca.linkedin.com/jobs/view/4464513413": {
+      "title": "Warehouse Associate - Days",
+      "company": "Uline",
+      "url": "https://ca.linkedin.com/jobs/view/4464513413",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Edmonton label = St Albert branch"
+    },
+    "https://ca.linkedin.com/jobs/view/4463398978": {
+      "title": "Package Handler/Non-Driver",
+      "company": "FedEx Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4463398978",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "twin pattern 6364 50 St already drafted #EE/#L"
+    },
+    "https://ca.linkedin.com/jobs/view/4464551050": {
+      "title": "Marketing Specialist",
+      "company": "Global Traffic Group Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4464551050",
+      "first_seen": "2026-09-11",
+      "fit": "high",
+      "status": "skipped",
+      "notes": "twin of C83 BambooHR"
+    },
+    "https://ca.linkedin.com/jobs/view/4461237581": {
+      "title": "Technical SEO Specialist (Remote, Vancouver)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4461237581",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "oversee-specialists twin ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4461252323": {
+      "title": "SEO Manager (Remote, Ottawa)",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4461252323",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Blacksmith twin ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4461261566": {
+      "title": "Account Manager",
+      "company": "VERB Interactive",
+      "url": "https://ca.linkedin.com/jobs/view/4461261566",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Halifax hybrid relocation"
+    },
+    "https://ca.linkedin.com/jobs/view/4461277279": {
+      "title": "Account Manager",
+      "company": "VERB Interactive",
+      "url": "https://ca.linkedin.com/jobs/view/4461277279",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Vancouver/Halifax hybrid relocation"
+    },
+    "https://ca.linkedin.com/jobs/view/4464824090": {
+      "title": "Account Manager",
+      "company": "Critical Mass",
+      "url": "https://ca.linkedin.com/jobs/view/4464824090",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Calgary 3-day office Omnicom"
+    },
+    "https://ca.linkedin.com/jobs/view/4462309747": {
+      "title": "Senior Account Manager (Creator Marketing)",
+      "company": "Trevant",
+      "url": "https://ca.linkedin.com/jobs/view/4462309747",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "influencer stretch Toronto ~48"
+    },
+    "https://ca.linkedin.com/jobs/view/4465834550": {
+      "title": "SEO Content Marketer \u2014 Fintech / Insurtech",
+      "company": "Feathery",
+      "url": "https://ca.linkedin.com/jobs/view/4465834550",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Toronto office 5+ yrs fintech"
+    },
+    "https://ca.linkedin.com/jobs/view/4465857409": {
+      "title": "Product Marketing Specialist",
+      "company": "GovAI",
+      "url": "https://ca.linkedin.com/jobs/view/4465857409",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Waterloo onsite unclear remote ~55"
+    },
+    "https://ca.linkedin.com/jobs/view/4460737427": {
+      "title": "Technical SEO Team Lead",
+      "company": "Search Atlas",
+      "url": "https://ca.linkedin.com/jobs/view/4460737427",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "people-lead 6 implementers $25-30 USD/hr ~52"
+    },
+    "https://ca.linkedin.com/jobs/view/4466309436": {
+      "title": "Growth Marketing Coordinator",
+      "company": "DCM",
+      "url": "https://ca.linkedin.com/jobs/view/4466309436",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto hybrid pay $48-60k under floor"
+    },
+    "https://ca.linkedin.com/jobs/view/4462046906": {
+      "title": "Digital Marketing Specialist",
+      "company": "Hagen Group",
+      "url": "https://ca.linkedin.com/jobs/view/4462046906",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Montreal hybrid Fluval"
+    },
+    "https://ca.linkedin.com/jobs/view/4460992206": {
+      "title": "Digital Marketing Specialist",
+      "company": "Men\u0113 Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4460992206",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "remote but degree preferred + pay unknown ~58; LinkedIn only"
+    },
+    "https://ca.linkedin.com/jobs/view/4454911114": {
+      "title": "Paid Social Manager",
+      "company": "Klick",
+      "url": "https://ca.linkedin.com/jobs/view/4454911114",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "skipped",
+      "notes": "Toronto 5+ yrs paid social ~50"
+    },
+    "https://ca.linkedin.com/jobs/view/4461375602": {
+      "title": "Senior Account Manager",
+      "company": "DAC",
+      "url": "https://ca.linkedin.com/jobs/view/4461375602",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Toronto AM stretch"
+    },
+    "https://ca.linkedin.com/jobs/view/4461309836": {
+      "title": "Sp\u00e9cialiste - Optimisation commerce \u00e9lectronique",
+      "company": "RICARDO Media Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4461309836",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "Quebec FR"
+    },
+    "https://ca.linkedin.com/jobs/view/4466025320": {
+      "title": "Digital Marketing Specialist",
+      "company": "Bourgault Industries Ltd.",
+      "url": "https://ca.linkedin.com/jobs/view/4466025320",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "St Brieux SK relocation"
+    },
+    "https://ca.linkedin.com/jobs/view/4464479174": {
+      "title": "Dishwasher",
+      "company": "Aramark Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4464479174",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "address unverified / not warehouse priority"
+    },
+    "https://ca.linkedin.com/jobs/view/4465097454": {
+      "title": "(CAN) Dairy Frozen Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4465097454",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "notes": "store address unverified"
     }
   }
 }

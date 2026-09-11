@@ -5,6 +5,18 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-11 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C89 | Alair Homes | Digital Marketing Manager (Digital Experience Manager) | High (~76) | **PORTAL** LinkedIn https://ca.linkedin.com/jobs/view/4461687436 · Indeed / alairhomes.com/alair-careers (apply via LinkedIn or Indeed) | `cv/main_alair.pdf` | `cover_letters/cover_alair_digital_marketing_manager.pdf` | Remote; CAD $80–100k posted; local SEO + GBP + WordPress + Claude match; 100+ location franchise CMS / HubSpot / deep schema still growing vs 2 SMB |
+
+**Email sent this run (Resend):** Freudenberg Press Operator → info@ffltech.com id `a79996d0-867d-4bf2-b374-b29c61e484e3` (local CV). Still complete Freudenberg Workday if open. Alair = LinkedIn/Indeed portal only (no verified head-office apply inbox). Xerxes Grinder + JC Machine Operator = portal-only. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Xerxes / Mattr Grinder (6907 36 St) · Freudenberg Flow Technologies Press Operator (Nisku) · Johnson Controls / Silent-Aire Machine Operator I (Nisku) — see `APPLICATIONS_LOCAL.md` (#FY–#GA).
+
+Skipped this run (fit/location/pay): White Cap west (115 Ave / 184 St); Purolator Sorter AM 514 Edmonton North; Curtiss-Wright Material Handler twin of #FN; Powell Acheson fab/handler/copper dip; Uline St Albert / Spruce Grove / Edmonton-label branch; FedEx Package Handler twin of #EE; Global Traffic Marketing Specialist twin of C83; Blacksmith Technical SEO / SEO Manager twins; VERB Halifax hybrid AM; Critical Mass Calgary 3-day office; Trevant Creator SAM Toronto; Feathery Toronto fintech SEO; GovAI Waterloo; Search Atlas Technical SEO Team Lead people-lead; DCM Growth Coordinator Toronto pay under floor; Hagen Montreal hybrid; Menē remote ~58 degree+pay unknown; Klick Paid Social Toronto; Bourgault SK; RICARDO FR; Aramark dishwasher address unverified; Walmart Dairy Frozen address unverified.
+
 ## NEW drafts this run (2026-09-10 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |

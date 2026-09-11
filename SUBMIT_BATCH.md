@@ -1,3 +1,11 @@
+## NEW this run (2026-09-11)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| FY | Xerxes / Mattr | Grinder | LinkedIn https://ca.linkedin.com/jobs/view/4462485773 · 6907 36 St NW | `cv/main_local_edmonton.pdf` · ~10–15 min · distinct from #FX |
+| FZ | Freudenberg Flow Technologies | Press Operator | **EMAIL SENT** info@ffltech.com · Workday https://freudenberg.wd3.myworkdayjobs.com/en-US/freudenberg-group/job/Nisku-AB/Press-Operator_R_00105618 · 1075 36 Ave Nisku | `cv/main_local_edmonton.pdf` · ~20–25 min |
+| GA | Johnson Controls / Silent-Aire | Machine Operator I | LinkedIn https://ca.linkedin.com/jobs/view/4444797315 · Nisku | `cv/main_local_edmonton.pdf` · metal working · own vehicle |
+| C89 | Alair Homes | Digital Marketing Manager | LinkedIn https://ca.linkedin.com/jobs/view/4461687436 · Indeed / alair-careers | `cv/main_alair.pdf` + cover · remote CAD $80–100k |
+
 ## NEW this run (2026-09-10)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|

@@ -11,6 +11,35 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### FY. Xerxes / Mattr — Grinder ★ NEW · SOUTH · 2026-09-11
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4462485773  
+- **Address (verified pattern):** 6907 36 Street NW, Edmonton, AB T6B 2Z6 (Xerxes / Mattr fiberglass tank manufacturing — same plant corridor as Molder Trainee #FX)  
+- **Notes:** Full-time · cut / shape / grind FRP parts · blueprints / drawings · power tools · quality and safety standards · minimize waste · assist other assembly areas · distinct role from Molder Trainee (#FX)  
+- **Why:** 36 St / southeast industrial · ~10–15 min from 11110 68 Ave NW · plant BOH, not Southgate Centre  
+- **Apply:** Mattr / Xerxes applicant tracking system via LinkedIn (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Grinder role at Xerxes / Mattr (6907 36 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced plant work: following drawings and procedures carefully, inspecting for quality, standing long shifts, and keeping a clean, safe work area. Honest that fiberglass grind tenure is still growing; steel-toe ready and coachable on Xerxes methods.
+
+### FZ. Freudenberg Flow Technologies — Press Operator (Nisku) ★ NEW · SOUTH · 2026-09-11
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4456771923  
+- **Workday:** https://freudenberg.wd3.myworkdayjobs.com/en-US/freudenberg-group/job/Nisku-AB/Press-Operator_R_00105618  
+- **Address (verified):** 100, 1075 36 Avenue, Nisku, AB T9E 1C6 (Freudenberg Flow Technologies / Petroleum Elastomers)  
+- **Notes:** On-site Nisku · operate press / manufacturing equipment · quality checks · production orders on time · read moderate drawings · continuous improvement · may assist basic CNC  
+- **Why:** Nisku industrial · ~20–25 min from 11110 68 Ave NW via Calgary Trail / QEII · same corridor stretch as APF / Nabors · not Southgate Centre  
+- **Apply:** Workday portal · mailto:info@ffltech.com  
+- **Email sent (Resend 2026-09-11):** id `a79996d0-867d-4bf2-b374-b29c61e484e3` → info@ffltech.com · attached `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Press Operator role at Freudenberg Flow Technologies (100, 1075 36 Avenue, Nisku). I live nearby at 11110 68 Ave NW and am comfortable with paced plant work: following documented procedures, careful quality checks, standing full shifts, keeping the floor organized, and reliable attendance. Steel-toe ready and coachable on Freudenberg press equipment, drawings, and safety methods.
+
+### GA. Johnson Controls / Silent-Aire — Machine Operator I (Nisku) ★ NEW · SOUTH · 2026-09-11
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4444797315  
+- **Facilities:** Silent-Aire Nisku plants (e.g. 1026 / 1040 30 Avenue Nisku)  
+- **Notes:** Metal working machine operator · brake / shear / sheet metal fabrication · rotating day (continental 6am–6pm Mon–Thu) or night (6pm–5:30am) · own vehicle required · distinct from Assembler / Shipper / Kitter drafts  
+- **Why:** Nisku manufacturing · ~20–25 min from 11110 68 Ave NW · production BOH, not Southgate Centre  
+- **Apply:** LinkedIn / Johnson Controls careers (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Machine Operator I role at Johnson Controls / Silent-Aire (Nisku). I live nearby at 11110 68 Ave NW and am comfortable with paced plant work: following procedures carefully, quality checks, standing long shifts, and keeping a clean, safe work area. I have reliable transportation for the posted rotating day or night shifts. Steel-toe ready and coachable on Silent-Aire metal-working equipment and safety methods.
+
 ### FU. NCS International / Noramco — Warehouse Associate (4328 55 Ave) ★ NEW · SOUTH · 2026-09-10
 - **LinkedIn (EN):** https://ca.linkedin.com/jobs/view/4465310149  
 - **LinkedIn (FR twin — do not double-apply):** https://ca.linkedin.com/jobs/view/4465306344  
