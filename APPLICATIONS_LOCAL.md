@@ -11,6 +11,25 @@
 
 ## ACTIVE — apply these (warehouse / BOH)
 
+### GB. Motion — Material Handler I (5736 59 St) ★ NEW · SOUTH · 2026-09-12
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4466416109  
+- **Address (verified):** 5736 59 Street NW, Edmonton, AB T6B 3C3 (Motion Industries Edmonton)  
+- **Notes:** Full-time · shipping / receiving / order fulfillment / returns / storage · WMS documentation · forklift · lift to ~100 lb with assistance · after-hours as needed · distinct fresh posting from Jul #AA  
+- **Why:** Eastgate / 59 St industrial · ~10–15 min from 11110 68 Ave NW · warehouse BOH, not Southgate Centre  
+- **Apply:** LinkedIn / Motion (Genuine Parts) careers · https://jobs.genpt.com (no verified public apply inbox this run)  
+- **Blurb:**
+> I’m applying for the Material Handler I role at Motion (5736 59 Street NW). I live nearby at 11110 68 Ave NW and am comfortable with paced warehouse work: load/unload, order accuracy, packing slips and shipping docs, keeping the dock organized, and learning forklift / WMS methods as trained. Steel-toe ready and reliable for full-time and after-hours as needed.
+
+### GC. Forum Energy / Variperm — Yard laborer/Swamper (Leduc) ★ NEW · SOUTH · 2026-09-12
+- **LinkedIn:** https://ca.linkedin.com/jobs/view/4463494137  
+- **Address (verified pattern):** 3911 77 Avenue, Leduc, AB T9E 0B7 (Variperm Sand Control / FET Leduc yard corridor; also 6908 42 St flow-control site nearby)  
+- **Notes:** Full-time · load/unload trucks · yard upkeep · tubular / casing inventory · may operate loader / overhead crane / forklift · HSE participation  
+- **Why:** Leduc industrial · ~20–25 min from 11110 68 Ave NW via Calgary Trail / QEII · same corridor stretch as APF / Nabors · not Southgate Centre  
+- **Apply:** LinkedIn / FET careers · mailto:Variperm@f-e-t.com  
+- **Email sent (Resend 2026-09-12):** id `98797b3e-6430-4d21-b9ec-37eeb6f1c292` → Variperm@f-e-t.com · attached `cv/main_local_edmonton.pdf`  
+- **Blurb:**
+> I’m applying for the Yard laborer/Swamper role at Forum Energy Technologies / Variperm in Leduc. I live nearby at 11110 68 Ave NW and am comfortable with paced yard and shipping/receiving work: loading and unloading, keeping the yard organized, careful inventory counts, and learning loader/crane/forklift procedures as trained. Steel-toe / PPE ready and reliable for full-time plant hours.
+
 ### FY. Xerxes / Mattr — Grinder ★ NEW · SOUTH · 2026-09-11
 - **LinkedIn:** https://ca.linkedin.com/jobs/view/4462485773  
 - **Address (verified pattern):** 6907 36 Street NW, Edmonton, AB T6B 2Z6 (Xerxes / Mattr fiberglass tank manufacturing — same plant corridor as Molder Trainee #FX)  

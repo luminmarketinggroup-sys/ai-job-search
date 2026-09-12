@@ -1,28 +1,30 @@
-# LAST_RUN — 2026-09-11 daily job search
+# LAST_RUN — 2026-09-12 daily job search
 
 ## Summary
-- **3 new local drafts:** Xerxes/Mattr Grinder (6907 36 St); Freudenberg Press Operator (Nisku); Johnson Controls/Silent-Aire Machine Operator I (Nisku)
-- **1 new career draft:** Alair Homes Digital Marketing Manager (~76; remote CAD $80–100k)
+- **2 new local drafts:** Motion Material Handler I (5736 59 St); Forum Energy / Variperm Yard laborer/Swamper (Leduc)
+- **2 new career drafts:** MediaNV Digital Marketing Account Manager (~73); Small World Marketing SEO Strategist (~82)
 - Branch: `cursor/dylan-michael-profile-setup-7ff7` (PR #1)
 
 ## Drafted
 | Track | Company | Role | Files | Apply |
 |-------|---------|------|-------|-------|
-| Local | Xerxes / Mattr | Grinder | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4462485773 |
-| Local | Freudenberg Flow Technologies | Press Operator | `cv/main_local_edmonton.pdf` | Workday R_00105618 · mailto:info@ffltech.com |
-| Local | Johnson Controls / Silent-Aire | Machine Operator I | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4444797315 |
-| Career | Alair Homes | Digital Marketing Manager | `cv/main_alair.pdf` + cover | https://ca.linkedin.com/jobs/view/4461687436 |
+| Local | Motion | Material Handler I | `cv/main_local_edmonton.pdf` | https://ca.linkedin.com/jobs/view/4466416109 |
+| Local | Forum Energy / Variperm | Yard laborer/Swamper | `cv/main_local_edmonton.pdf` | mailto:Variperm@f-e-t.com · LinkedIn 4463494137 |
+| Career | MediaNV | Digital Marketing Account Manager | `cv/main_medianv.pdf` + cover | mailto:hr@medianv.com |
+| Career | Small World Marketing | SEO Strategist | `cv/main_small_world.pdf` + cover | mailto:info@smallworld.ca |
 
 ## Emails
-- Freudenberg → info@ffltech.com id `a79996d0-867d-4bf2-b374-b29c61e484e3` (local CV)
-- Alair / Xerxes / JC = portal-only (no verified public apply inbox for Alair head office)
+- Small World → info@smallworld.ca id `b90f0bd8-cd02-4be6-aa70-32a9d42c2590` (CV+cover; banana reading check)
+- MediaNV → hr@medianv.com id `7a3294f6-9368-4ffa-b5b4-43babe343480` (CV+cover)
+- Forum/Variperm → Variperm@f-e-t.com id `98797b3e-6430-4d21-b9ec-37eeb6f1c292` (local CV)
+- Motion = portal-only
 - No LinkedIn/Indeed portal submit claimed
 
 ## Skipped (selected)
-- White Cap west; Purolator 514 North; Curtiss-Wright twin; Powell Acheson; Uline St Albert branch; FedEx twin; Global Traffic twin; Blacksmith twins; VERB/Critical Mass/Trevant/Feathery relocation; Search Atlas people-lead; DCM pay floor; Menē ~58
+- Crossroads / Finning TCRS / Manulift west; Argus / Pagnotta / Sureway / Walmart Calgary Trail twins; ATRIUM people-lead ~58; VixelStudio / Blacksmith / Stripe / Monks / Thrive skips
 
 ## Checklists
-- `APPLICATIONS_LOCAL.md` (#FY–#GA)
-- `APPLICATIONS_READY.md` (C89)
+- `APPLICATIONS_LOCAL.md` (#GB–#GC)
+- `APPLICATIONS_READY.md` (C90–C91)
 - `SUBMIT_BATCH.md`
 - `job_search_tracker.csv`

@@ -1,3 +1,11 @@
+## NEW this run (2026-09-12)
+| # | Company | Role | Apply | Resume / notes |
+|---|---------|------|-------|----------------|
+| GB | Motion | Material Handler I | LinkedIn https://ca.linkedin.com/jobs/view/4466416109 · https://jobs.genpt.com · 5736 59 St NW | `cv/main_local_edmonton.pdf` · ~10–15 min Eastgate |
+| GC | Forum Energy / Variperm | Yard laborer/Swamper | **EMAIL SENT** Variperm@f-e-t.com · LinkedIn https://ca.linkedin.com/jobs/view/4463494137 · Leduc 3911 77 Ave | `cv/main_local_edmonton.pdf` · ~20–25 min |
+| C90 | MediaNV | Digital Marketing Account Manager | **EMAIL SENT** hr@medianv.com · https://www.medianv.com/careers/ · LinkedIn https://ca.linkedin.com/jobs/view/4464858733 | `cv/main_medianv.pdf` + cover · remote CAD $80–90k |
+| C91 | Small World Marketing | SEO Strategist | **EMAIL SENT** info@smallworld.ca (banana reading check) · https://www.smallworld.ca/careers/seo-manager/ · LinkedIn https://ca.linkedin.com/jobs/view/4464229157 | `cv/main_small_world.pdf` + cover · remote CAD $78k |
+
 ## NEW this run (2026-09-11)
 | # | Company | Role | Apply | Resume / notes |
 |---|---------|------|-------|----------------|

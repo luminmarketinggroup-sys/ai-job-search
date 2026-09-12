@@ -14240,6 +14240,204 @@
       "fit": "low",
       "status": "skipped",
       "notes": "store address unverified"
+    },
+    "https://ca.linkedin.com/jobs/view/4466416109": {
+      "title": "Material Handler I",
+      "company": "Motion",
+      "url": "https://ca.linkedin.com/jobs/view/4466416109",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4463494137": {
+      "title": "Yard laborer/Swamper",
+      "company": "Forum Energy Technologies / Variperm",
+      "url": "https://ca.linkedin.com/jobs/view/4463494137",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4464858733": {
+      "title": "Digital Marketing Account Manager",
+      "company": "MediaNV",
+      "url": "https://ca.linkedin.com/jobs/view/4464858733",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4464229157": {
+      "title": "SEO Strategist",
+      "company": "Small World Marketing",
+      "url": "https://ca.linkedin.com/jobs/view/4464229157",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "evaluated",
+      "tracker_status": "ready_to_submit"
+    },
+    "https://ca.linkedin.com/jobs/view/4465184294": {
+      "title": "Machine Operator",
+      "company": "Crossroads C&I",
+      "url": "https://ca.linkedin.com/jobs/view/4465184294",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4465151547": {
+      "title": "General Labour",
+      "company": "Argus",
+      "url": "https://ca.linkedin.com/jobs/view/4465151547",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4464810130": {
+      "title": "Shipper / Receiver - TCRS",
+      "company": "Finning",
+      "url": "https://ca.linkedin.com/jobs/view/4464810130",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4466469434": {
+      "title": "Yard & Shipping/Receiving Technician",
+      "company": "Manulift",
+      "url": "https://ca.linkedin.com/jobs/view/4466469434",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4466376195": {
+      "title": "Yard Laborer",
+      "company": "Pagnotta Inc.",
+      "url": "https://ca.linkedin.com/jobs/view/4466376195",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4465173824": {
+      "title": "Shop Labourer",
+      "company": "Sureway Construction Group",
+      "url": "https://ca.linkedin.com/jobs/view/4465173824",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4466413028": {
+      "title": "Stock Unloader Associate",
+      "company": "Walmart Canada",
+      "url": "https://ca.linkedin.com/jobs/view/4466413028",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4456033831": {
+      "title": "Yard Operator",
+      "company": "PERMA-PIPE",
+      "url": "https://ca.linkedin.com/jobs/view/4456033831",
+      "first_seen": "2026-09-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4464897188": {
+      "title": "Associate Content Department Lead",
+      "company": "ATRIUM",
+      "url": "https://ca.linkedin.com/jobs/view/4464897188",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4465122563": {
+      "title": "SEO Account Manager",
+      "company": "VixelStudio",
+      "url": "https://ca.linkedin.com/jobs/view/4465122563",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "skipped",
+      "tracker_status": "skipped_duplicate"
+    },
+    "https://ca.linkedin.com/jobs/view/4463609191": {
+      "title": "Account Strategist SEO",
+      "company": "Blacksmith Agency",
+      "url": "https://ca.linkedin.com/jobs/view/4463609191",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4454544386": {
+      "title": "Head of AEO & SEO",
+      "company": "Stripe",
+      "url": "https://ca.linkedin.com/jobs/view/4454544386",
+      "first_seen": "2026-09-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4465847330": {
+      "title": "Senior Account Manager SEM",
+      "company": "Monks",
+      "url": "https://ca.linkedin.com/jobs/view/4465847330",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4466417767": {
+      "title": "MI Cable Fabrication & Splicing Technician",
+      "company": "MSCP",
+      "url": "https://ca.linkedin.com/jobs/view/4466417767",
+      "first_seen": "2026-09-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
+    },
+    "https://ca.linkedin.com/jobs/view/4466369249": {
+      "title": "Content Strategist",
+      "company": "Ratehub.ca",
+      "url": "https://ca.linkedin.com/jobs/view/4466369249",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4465800942": {
+      "title": "Paid Media & SEO-GEO Specialist",
+      "company": "Toromont Cat",
+      "url": "https://ca.linkedin.com/jobs/view/4465800942",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4465822042": {
+      "title": "Sp\u00e9cialiste Achat m\u00e9dia et SEO-GEO",
+      "company": "Toromont Cat",
+      "url": "https://ca.linkedin.com/jobs/view/4465822042",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "skipped",
+      "tracker_status": "skipped_location"
+    },
+    "https://ca.linkedin.com/jobs/view/4463557599": {
+      "title": "Operator CNC ULTCAD",
+      "company": "Ulterra",
+      "url": "https://ca.linkedin.com/jobs/view/4463557599",
+      "first_seen": "2026-09-12",
+      "fit": "low",
+      "status": "skipped",
+      "tracker_status": "skipped_low_fit"
     }
   }
 }

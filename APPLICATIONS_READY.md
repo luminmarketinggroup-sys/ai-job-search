@@ -5,6 +5,19 @@ Drafted CV + cover letter PDFs. Most career emails submitted via Resend. **Porta
 Career LinkedIn: https://www.linkedin.com/in/dylan-michael-993a78392  
 **Master status board:** `APPLICATION_STATUS.md`
 
+## NEW drafts this run (2026-09-12 daily scrape)
+
+| # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
+|---|---------|------|-----|-------|----|-------|---------------|
+| C90 | MediaNV | Digital Marketing Account Manager | Good (~73) | **EMAIL** mailto:hr@medianv.com · https://www.medianv.com/careers/ · LinkedIn https://ca.linkedin.com/jobs/view/4464858733 | `cv/main_medianv.pdf` | `cover_letters/cover_medianv_digital_marketing_account_manager.pdf` | Remote Canada; CAD $80–90k base + bonus posted; SEO/Google/Meta/AEO + client ownership match; dental/medspa book + full 5+ yrs agency AM still growing vs 2 SMB |
+| C91 | Small World Marketing | SEO Strategist | High (~82) | **EMAIL** mailto:info@smallworld.ca (subject “SEO Strategist”; first line after hello must include “banana”) · https://www.smallworld.ca/careers/seo-manager/ · LinkedIn https://ca.linkedin.com/jobs/view/4464229157 | `cv/main_small_world.pdf` | `cover_letters/cover_small_world_seo_strategist.pdf` | Remote Canada; CAD $78k posted; local SEO/GBP + AI shipping match; polished before/after ranking case PDFs + larger concurrent book still growing vs 2 SMB |
+
+**Email sent this run (Resend):** Small World → info@smallworld.ca id `b90f0bd8-cd02-4be6-aa70-32a9d42c2590` (CV+cover; banana reading check); MediaNV → hr@medianv.com id `7a3294f6-9368-4ffa-b5b4-43babe343480` (CV+cover); Forum/Variperm → Variperm@f-e-t.com id `98797b3e-6430-4d21-b9ec-37eeb6f1c292` (local CV). Motion = LinkedIn/genpt portal. No LinkedIn/Indeed portal submit claimed.
+
+**Local drafts this run:** Motion Material Handler I (5736 59 St) · Forum Energy / Variperm Yard laborer/Swamper (Leduc) — see `APPLICATIONS_LOCAL.md` (#GB–#GC).
+
+Skipped this run (fit/location/pay): Crossroads Machine Operator (11104 180 St west); Finning TCRS Shipper/Receiver (109 Ave / 170 St west); Manulift Yard & Shipping/Receiving (15730 118 Ave NW west); Argus General Labour LinkedIn twin of #EU; Pagnotta Yard Laborer twin of #DQ; Sureway Shop Labourer twin of #ED; Walmart Stock Unloader Calgary Trail twin pattern of #BB; PERMA-PIPE Camrose; Uline St Albert / Spruce Grove patterns; ATRIUM Associate Content Department Lead (~58 people-lead 50/50); VixelStudio SEO AM LinkedIn twin of prior draft; Blacksmith Account Strategist SEO oversee-specialists twin; Stripe Head of AEO & SEO executive; Monks Sr AM SEM Toronto; Thrive Performance Strategist $200k+/mo spend stretch; Ratehub / Toromont relocation; Directive FO / Adster already-seen.
+
 ## NEW drafts this run (2026-09-11 daily scrape)
 
 | # | Company | Role | Fit | Apply | CV | Cover | Honesty notes |
