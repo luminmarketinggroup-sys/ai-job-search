@@ -1,0 +1,75 @@
+# Daily job-search cloud agent trigger (Cloud Agents API).
+# This is the in-repo automation path when Cursor Automations UI is not available.
+#
+# One-time setup:
+# 1. Cursor Dashboard → API Keys → create key
+# 2. GitHub repo → Settings → Secrets → Actions → add CURSOR_API_KEY
+# 3. Ensure Actions are enabled for this repo
+#
+# Schedule: 14:00 UTC ≈ 08:00 America/Edmonton (MST) / 07:00 MDT — adjust seasonally if needed.
+# Also runnable via Actions → Daily job search → Run workflow
+
+name: Daily job search
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+jobs:
+  launch-cloud-agent:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout prompt
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            automation/daily-job-search-prompt.md
+          sparse-checkout-cone-mode: false
+
+      - name: Require CURSOR_API_KEY
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: |
+          if [ -z "$CURSOR_API_KEY" ]; then
+            echo "::error::Missing secret CURSOR_API_KEY. Add it under Repo Settings → Secrets → Actions."
+            echo "Create a key at https://cursor.com/dashboard?tab=integrations (API Keys)."
+            exit 1
+          fi
+
+      - name: Launch Cursor Cloud Agent
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: |
+          set -euo pipefail
+          PROMPT="$(cat automation/daily-job-search-prompt.md)"
+          PAYLOAD="$(jq -n \
+            --arg text "$PROMPT" \
+            --arg url "https://github.com/luminmarketinggroup-sys/ai-job-search" \
+            --arg ref "cursor/dylan-michael-profile-setup-7ff7" \
+            --arg name "Daily job search — Dylan Michael" \
+            '{
+              name: $name,
+              prompt: { text: $text },
+              repos: [{ url: $url, startingRef: $ref }],
+              workOnCurrentBranch: true,
+              autoCreatePR: false
+            }')"
+
+          RESP="$(curl -sS -w "\n%{http_code}" \
+            --request POST \
+            --url "https://api.cursor.com/v1/agents" \
+            -u "${CURSOR_API_KEY}:" \
+            --header "Content-Type: application/json" \
+            --data "$PAYLOAD")"
+
+          BODY="$(echo "$RESP" | sed '$d')"
+          CODE="$(echo "$RESP" | tail -n 1)"
+          echo "$BODY" | jq . || echo "$BODY"
+          if [ "$CODE" -lt 200 ] || [ "$CODE" -ge 300 ]; then
+            echo "::error::Cloud Agents API returned HTTP $CODE"
+            exit 1
+          fi
+          echo "Launched: $(echo "$BODY" | jq -r '.agent.url // .url // "see response above"')"

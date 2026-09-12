@@ -106,11 +106,14 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Digital Marketing / SEO / Growth roles:**
+> Digital marketing and SEO specialist with 3+ years driving organic growth, local search visibility, and paid campaigns for Edmonton businesses. Combines SEMrush/Search Atlas SEO, Google and Meta Ads, and conversion-focused websites (WordPress, Wix, Shopify) with hands-on agency leadership. Proven traffic lift (30% organic growth at Phantom Avenue) and multi-account SEO delivery at Lumin Marketing Group.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For AI Marketing / AI Automation / Marketing Ops roles:**
+> Marketing director and AI automation practitioner who wires Claude (Anthropic) into real marketing and ops workflows — content, CRM/Go High Level automation, reporting, and team enablement. Combines agency SEO and paid-media ownership with practical AI integration for SMBs. Claude Certified; uses Claude Code for agentic tooling. Focused on removing grunt work so teams can sell and serve.
+
+**For Marketing Manager / Agency leadership roles:**
+> Co-founder and Marketing Director at Lumin Marketing Group with end-to-end ownership of SEO, paid media, websites, CRM automation, and client delivery. Background spanning agency leadership, in-house brand marketing (Phantom Avenue), and high-volume customer operations (Audi). Thrives in fast-paced environments with clear ownership and measurable growth outcomes.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

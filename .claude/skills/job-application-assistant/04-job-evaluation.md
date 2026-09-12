@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** SEO, local SEO, digital marketing strategy, Google Ads / Meta Ads / PPC, WordPress/Wix/Shopify, GA4/GSC, Go High Level / CRM marketing automation, social media content, practical Claude / AI marketing automation, SMB/agency client delivery
+**Moderate match areas:** Marketing operations, growth marketing, brand/content strategy, AI enablement / training for business teams, LinkedIn content systems
+**Weak match areas:** Formal degree requirements (BA/BSc+), software engineering, ML model training / data science research, enterprise marketing ops at Fortune-scale without agency translation, pure product management
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Agency marketing director / SEO lead; digital marketing specialist; local SMB marketing; paid + organic growth; marketing AI automation using Claude
+**Moderate:** In-house marketing manager; marketing operations; growth/performance marketing; AI specialist roles focused on business workflows (not ML research)
+**Entry-level:** Pure software engineering, data science, or roles that strictly require a bachelor's degree with no experience waiver
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -47,9 +47,12 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+- Edmonton on-site or hybrid: PASS
+- Remote (Canada or compatible remote): PASS
+- Alberta nearby (St. Albert, Sherwood Park, Leduc, Spruce Grove, etc.): PASS
+- Requires relocation outside Edmonton region without remote option: FAIL (deal-breaker unless user overrides)
+- Compensation under CAD $60,000 base: FAIL for **career track**; PASS for **survival/local basic** roles near 11110 68 Ave NW when user is in dual-track mode (see CLAUDE.md)
+- Public-facing job at Southgate Centre (mall retail, cafe/barista inside Southgate, food counter at Southgate, store educator/team leader at Southgate): SKIP / do not draft (user rule 2026-07-22)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
@@ -63,19 +66,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Grow into AI + marketing hybrid roles (AI automation specialist, AI marketing, marketing ops with Claude)
+- Continue high-impact SEO / digital marketing ownership (agency or in-house)
+- Stay open to strong opportunistic fits that pay CAD $60k+ in Edmonton or remote
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: SEO/growth wins, building Claude workflows, client delivery, fast shipping, multi-channel campaigns
+- Tasks that drain: Slow bureaucracy, research-only work with no shipping, roles that ignore marketing craft for pure theory
+- Non-task factors: ownership, pace, autonomy, ability to use AI tools in real workflows
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Minimum CAD $60,000 base compensation
+- **Flexibility**: Open to Edmonton hybrid/on-site and remote; open to a wide range of role types
+- **Professional development**: Deepen AI automation + marketing leadership; portfolio and certifications over formal academia
 
 ### 6. Salary Benchmark (Optional)
 
